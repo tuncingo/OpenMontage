@@ -1,0 +1,258 @@
+{
+  "history": [
+    {
+      "round": 1,
+      "avg": 6.33,
+      "min": 6.0,
+      "critical": 0,
+      "decision": "revise",
+      "reviews": [
+        {
+          "role": "dogrulayici",
+          "name": "Doğrulayıcı",
+          "score": 7.0,
+          "verdict": "revise",
+          "summary": "Senaryodaki sayılar ve görev detayları araştırma notlarıyla büyük ölçüde uyumlu, kritik bir yanlış yok. Ancak doğrulanmamış bir ifade giriş ve kapanışta olgu gibi sunuluyor, bazı atıflar yanlış ve bazı iddialar kaynaksız.",
+          "claims": {
+            "verified": 31,
+            "disputed": 1,
+            "unsupported": 5
+          },
+          "issues": [
+            {
+              "severity": "major",
+              "quote": "So why has nobody landed a single piece of it yet? [S1]",
+              "problem": "Notlarda 'hiçbir Moon Base iniş aracı inmedi' bilgisi doğrulanmamış (not confirmed either way). Giriş ve kapanış bunu kesin olgu gibi kuruyor, ortadaki hedge ile çelişiyor.",
+              "fix": "Reword hook and closing to 'why has so little been built yet?' or 'as far as I can find, nothing has landed yet', or verify with a NASA Moon Base page check and state it plainly."
+            },
+            {
+              "severity": "major",
+              "quote": "And why did the agency throw away its space station around the Moon to chase it? [S5]",
+              "problem": "'Throw away' ifadesi, senaryonun sonradan vurguladığı 'paused, not cancelled' ile çelişiyor ve S5 bunu desteklemiyor.",
+              "fix": "Use 'put on hold its space station around the Moon'."
+            },
+            {
+              "severity": "major",
+              "quote": "the partners who were building pieces of Gateway are still waiting to learn what happens to them. [S5]",
+              "problem": "Ortakların beklemede olduğu iddiası S5'te (Register 24 Mart) yok; notlarda yalnızca 'açık soru' olarak geçiyor ve kaynağı 25 Mart Register yorum yazısı. Olgu gibi sunulmuş.",
+              "fix": "Cite the Register 25 March opinion piece, or soften to 'the fate of Gateway partners such as ESA, Japan and Canada is an open question'."
+            },
+            {
+              "severity": "major",
+              "quote": "Because the best sunlit spots and the best ice are few. Whoever works there first learns the most.",
+              "problem": "'En iyi güneşli noktalar ve buz azdır' ve 'aynı birkaç kilometrekare' ifadeleri notlarda ve S1/S4'te desteklenmiyor.",
+              "fix": "Remove the 'few square kilometers' claim or replace with a sourced statement; label it as the narrator's opinion."
+            },
+            {
+              "severity": "minor",
+              "quote": "Surviving that night is the real engineering problem. [S2]",
+              "problem": "S2 bunu söylemiyor; yorum bir kaynak iddiası gibi atıflanmış.",
+              "fix": "Drop the [S2] tag on this sentence or reword as the narrator's view."
+            },
+            {
+              "severity": "minor",
+              "quote": "The popular idea of a sunless pole is wrong. Some ridges there get near continuous sunlight, while the shadowed craters sit nearby. [S4]",
+              "problem": "Notlarda bu iddia için belirli bir kaynak gösterilmiyor; S4'ün bunu içerdiği doğrulanmamış.",
+              "fix": "Verify in the Planetary Society guide or cite the Wikipedia lunar south pole page (S8)."
+            },
+            {
+              "severity": "minor",
+              "quote": "The first Blue Moon and Nova-C launches then moved from fall 2026 to the first part of 2027.",
+              "problem": "Kaynak yalnızca arama özeti; hedge var ama 'Nova-C launch' New Glenn ile ilişkili okunabilir (Nova-C farklı roketle uçar). Ayrıca kapanıştaki 'first landers reach the surface in 2027' izleme maddesi bu zayıf kaynağa dayanıyor.",
+              "fix": "Say 'the first Blue Moon landing and Nova-C mission slipped', and keep the 'treat with care' caveat in the closing watch item."
+            },
+            {
+              "severity": "minor",
+              "quote": "Money is moving too. In late May, NASA announced Lunar Terrain Vehicle awards. And Blue Origin was given one hundred eighty eight million dollars",
+              "problem": "LTV ödüllerinin tutarları (Astrolab 219M, Lunar Outpost 220M) burada verilmiyor, daha önce ve 'each about 220M' diye yuvarlanıyor; Blue Origin teslimat sözleşmesi bağlamı belirsiz. Ayrıca bu cümle Kasım duyurularından sonra 'late May' diye geriye dönüyor.",
+              "fix": "Say 'Blue Origin won $188 million to deliver the rovers, with a $280.4 million option' and note it was announced on May 26; use 'about $220 million' for both awards consistently."
+            },
+            {
+              "severity": "minor",
+              "quote": "Reports say a New Glenn rocket exploded on its pad in May 2026.",
+              "problem": "Doğrulanmamış tek kaynaklı iddia; hedge var ama S11 sayfası açılamadı.",
+              "fix": "Try a second source before publishing, or keep the hedge exactly as written."
+            }
+          ]
+        },
+        {
+          "role": "supheci",
+          "name": "Şüpheci Hakem",
+          "score": 6.0,
+          "verdict": "revise",
+          "summary": "Metin genel olarak dürüst ve belirsizlikleri çoğu yerde işaretliyor; ancak açılış kancası metnin kendi düzeltmeleriyle çelişiyor, buz kanıtı seçici biçimde zayıf gösteriliyor ve kutup gece/gündüz döngüsü yanıltıcı anlatılıyor.",
+          "issues": [
+            {
+              "severity": "major",
+              "quote": "And why did the agency throw away its space station around the Moon to chase it?",
+              "problem": "Kanca, metnin birkaç satır sonra düzelttiği yanlışı ('iptal değil, askıya alındı') kendisi yapıyor. Tam da eleştirdiği manşet dilini kullanıyor; izleyici ilk izlenimi aklında tutar.",
+              "fix": "Rephrase as: \"And why did the agency put its planned space station around the Moon on hold to chase it?\""
+            },
+            {
+              "severity": "major",
+              "quote": "So why has nobody landed a single piece of it yet?",
+              "problem": "Araştırma notları hiçbir Moon Base iniş aracının inmediğinin doğrulanmadığını söylüyor, ama kanca bunu kesin olgu gibi sunuyor ve [S1]'e dayandırıyor. 71. satırdaki çekince ve 129. satırdaki tekrar ('Why has nothing landed yet?') ile tutarsız.",
+              "fix": "Verify the landing status as of 2026-11-21 before recording. If it is still unconfirmed, change the hook to \"So why is no piece of it on the Moon yet, as far as the record shows?\" and soften line 129 the same way. Do not cite S1 for a claim S1 does not make."
+            },
+            {
+              "severity": "major",
+              "quote": "The best direct evidence is from 2009. NASA's LCROSS probe hit a crater and detected about one hundred fifty five kilograms of water. A few bathtubs worth, from one impact.",
+              "problem": "Seçici kanıt sunumu. LCROSS'un 155 kg'ı yalnızca küçük bir çarpma bulutunda ölçülen miktar; toplam rezervi temsil etmiyor (Cabeus'ta yaklaşık %5,6 kütlece su anlamına geliyordu). 'Birkaç küvet' benzetmesi miktarın küçük olduğunu ima ediyor. Ayrıca Chandrayaan-1 M3 yüzey buzu tespiti (2018), LRO LAMP/LEND ve Mini-RF gibi bağımsız kanıt hatları hiç anılmıyor. 'En iyi doğrudan kanıt' iddiası tartışmalı.",
+              "fix": "Say LCROSS measured roughly 155 kg in a small ejecta plume, which suggested a few percent water by mass in that crater soil. Drop or reframe the bathtub comparison so it does not read as a total. Add one line saying several independent instruments (Chandrayaan-1 M3, LRO) also point to polar ice. Change 'best direct evidence' to 'the first direct sample'."
+            },
+            {
+              "severity": "major",
+              "quote": "So the promise of water is real, but the proof is thin.",
+              "problem": "Kutuplarda buz bulunduğu konusunda birden fazla bağımsız kanıt ve geniş bir uzlaşı var. Asıl belirsiz olan miktar, dağılım, biçim ve çıkarılabilirlik. 'Kanıt zayıf' demek şüpheciliği abartıyor ve uzlaşıyı yanlış temsil ediyor.",
+              "fix": "Replace with: \"The evidence that ice exists is solid. What is thin is how much there is, how it is mixed into the soil, and whether it can actually be mined.\""
+            },
+            {
+              "severity": "major",
+              "quote": "One radar based estimate puts it at more than six hundred billion kilograms.",
+              "problem": "Bu tahmin büyük olasılıkla Chandrayaan-1 Mini-SAR'ın kuzey kutbu kraterleri için yaptığı ölçümden geliyor. Güney kutbu bağlamında anlatılınca izleyici bunun üs bölgesindeki buz olduğunu sanabilir. Hangi kutba ait olduğu belirtilmemiş.",
+              "fix": "Verify the origin of the 600 billion kg figure in S4. If it is the Mini-SAR north-polar estimate, say so explicitly (\"one radar estimate for craters near the north pole alone\"), or present it as a polar-wide figure and do not imply it is south-pole ice."
+            },
+            {
+              "severity": "major",
+              "quote": "One lunar day is about fourteen days of sunlight, then fourteen of night. Surviving that night is the real engineering problem.",
+              "problem": "14/14 döngüsü genel Ay döngüsü. Metin daha önce kutup sırtlarının neredeyse sürekli güneş aldığını ve kutbu bu yüzden seçtiklerini söylüyor. Burada kutupta bile iki haftalık kesintisiz gece varmış gibi bir izlenim oluşuyor ve iç tutarlılık bozuluyor.",
+              "fix": "Clarify: \"On most of the Moon, a day is about fourteen Earth days of light and fourteen of dark. Even the best polar ridges get eclipsed for days at a time, and the crater floors never see light, so power through darkness is still the hard problem.\""
+            },
+            {
+              "severity": "major",
+              "quote": "Because a station in orbit cannot drill into ice. A surface base might.",
+              "problem": "Çarpıtılmış karşılaştırma (strawman). Gateway hiçbir zaman sondaj için tasarlanmadı; bir aktarma ve iletişim istasyonuydu. Gerekçe, bütçe ve öncelik tercihi olarak değil, mantıksal bir zorunluluk gibi sunuluyor. Gateway'i savunanların görüşü de verilmiyor.",
+              "fix": "Reframe: \"Gateway was a staging point, not a mine. NASA decided the money does more on the surface, where the ice is. Critics argue an orbital hub still has value. That is the bet, and it is still a bet.\""
+            },
+            {
+              "severity": "minor",
+              "quote": "NASA is aiming for a fission reactor of about one hundred kilowatts on the surface by around 2030.",
+              "problem": "Bu iddia yalnızca ikincil bir arama özetine (S6, AOL) dayanıyor. NASA'nın resmi Fission Surface Power hedefi birincil kaynakla doğrulanmamış.",
+              "fix": "Cite a primary NASA Fission Surface Power source, or attribute it: \"according to reports, NASA is aiming...\"."
+            },
+            {
+              "severity": "minor",
+              "quote": "Experts quoted in coverage question the 2027 and 2028 landing dates. The Artemis crewed lander still needs development.",
+              "problem": "Mürettebatlı iniş takvimi belirsiz bırakılmış. Araştırmada Artemis III'ün inişsiz bir prova görevine dönüştüğü ve ilk inişin Artemis IV'e (2028) kaydığı yönünde çelişkili raporlar var. 2028'deki 'mürettebat taşıyabilen gezginler' bilgisiyle birlikte düşünüldüğünde izleyici astronotların ne zaman ineceğini bilmiyor.",
+              "fix": "Add one hedged sentence: \"Reports say the first crewed landing may now be Artemis IV, tentatively 2028, but sources conflict.\" Also note that the crew rovers depend on that landing date."
+            },
+            {
+              "severity": "minor",
+              "quote": "Whoever works there first learns the most. That is a reason for speed, and a reason for caution.",
+              "problem": "Spekülatif bir genelleme kaynaksız sunuluyor. 'Aynı birkaç kilometrekare' ifadesi de abartılı olabilir; Chang'e-7 ile Moon Base I'in hedef alanlarının ne kadar örtüştüğü belgelenmemiş.",
+              "fix": "Soften: \"Both programs are eyeing the Shackleton area, where good sunlit sites are limited.\" Drop 'same few square kilometers' unless a source supports it."
+            },
+            {
+              "severity": "minor",
+              "quote": "the partners who were building pieces of Gateway are still waiting to learn what happens to them.",
+              "problem": "Ortakların durumu (ESA, JAXA, CSA) yalnızca bir arama özetindeki görüş yazısına dayanıyor ve [S5]'e atfedilmiş; araştırmada bunun kaynağı S7 opinion yazısı.",
+              "fix": "Name the partners (ESA, Japan, Canada), cite the correct source, and mark it as reported: \"According to reports, partners... have not yet been told...\"."
+            },
+            {
+              "severity": "minor",
+              "quote": "Either way, the south pole is where the next chapter of the Moon will be written.",
+              "problem": "Kapanış cümlesi, metnin geri kalanındaki dikkatli belirsizlik diline göre gereğinden fazla kesin ve abartılı.",
+              "fix": "Use: \"Either way, the south pole is where both NASA and China are placing their bets.\""
+            }
+          ]
+        },
+        {
+          "role": "hikaye",
+          "name": "Hikâye Editörü",
+          "score": 6.0,
+          "verdict": "revise",
+          "summary": "Kanca iyi sorular soruyor ve bölüm sonunda bunlara dönüyor, ama ilk 30 saniye düz bir duyuru cümlesiyle açılıyor. Orta bölüm sözleşme tutarları, görev adları ve tarihlerle doluyor, tekrarlar var ve süre (~13 dk) 10 dakikalık hedefi aşıyor.",
+          "issues": [
+            {
+              "severity": "major",
+              "quote": "NASA now calls it a Moon Base. Not a landing. Not a flag and footprints mission. A base.",
+              "problem": "Açılış bir basın bülteni gibi; ilk 15 saniyede gerçek bir gerilim, görüntü ya da şaşırtıcı bir çelişki yok. Asıl gerilim (bir parçası bile inmedi, istasyon feda edildi) üçüncü cümleye kadar gecikiyor.",
+              "fix": "Open with the tension itself: 'NASA says it is building a base on the Moon. Right now, not one piece of it has landed. And to chase it, the agency just shelved its own space station.' Then state the promise to separate real from drawing."
+            },
+            {
+              "severity": "major",
+              "quote": "So why has nobody landed a single piece of it yet? [S1]",
+              "problem": "Kanca bunun kesin olduğunu varsayıyor, ama senaryonun ortasında 'I could not confirm that either way, so check the latest news' deniyor. Kanca ile gövde birbiriyle çelişiyor ve ilk iddia doğrulanamamış.",
+              "fix": "Rephrase the hook to what the sources support, e.g. 'So why is the first piece of it still on the ground?' or 'As of today, no Moon Base lander has been confirmed on the surface', and keep the hedge short and consistent in both places."
+            },
+            {
+              "severity": "major",
+              "quote": "On November seventh, NASA announced awards at the MAX POWER expo at Kennedy Space Center. Blue Origin received a ninety four million dollar base contract, plus a one hundred forty million dollar option, to deliver PROMISE. The target is late 2028.",
+              "problem": "İzleyicinin en çok terk edeceği yer burası: peş peşe fuar adı, firma adı, iki para tutarı ve tarih. Uzman olmayan biri için hiçbir şey akılda kalmıyor. Hemen sonra gelen LTV (220 milyon x2) ve 188/280 milyon dolarlık ödüller aynı sayı yığınını sürdürüyor.",
+              "fix": "Cut the expo name and the option amounts. Keep one number only: 'Blue Origin won a ninety four million dollar contract to deliver it.' Merge the later money lines into one sentence or drop them."
+            },
+            {
+              "severity": "major",
+              "quote": "Money is moving too. In late May, NASA announced Lunar Terrain Vehicle awards. And Blue Origin was given one hundred eighty eight million dollars to deliver the rovers, with a two hundred eighty million dollar option.",
+              "problem": "Önceki paragrafta rover sözleşmelerini Astrolab ve Lunar Outpost kazanmıştı, burada ise 'Blue Origin rover teslim etmek için para aldı' deniyor. Kafa karıştırıcı, çelişkili görünüyor; üstelik anlatıyı da yavaşlatıyor.",
+              "fix": "Clarify that Blue Origin's award is for delivering rovers to the Moon (landers), not building them, or delete the paragraph since it adds no new idea."
+            },
+            {
+              "severity": "major",
+              "quote": "Moon Base One is Blue Origin's Blue Moon Mark One lander, named Endurance, aimed at the Shackleton Connecting Ridge.",
+              "problem": "Üç lander için art arda gelen özel isimler (Endurance, Griffin, FLIP, Trinity, Lunar Vertex) TTS ile dinlenince bulanıklaşıyor; izleyici ismi tutamaz. Bölüm 'kim gidiyor' kısmında bilgi yüklenmesi yaşıyor.",
+              "fix": "Name only the three companies and one memorable payload each, or compress to: 'Three commercial landers, from Blue Origin, Astrobotic and Intuitive Machines. NASA is buying rides.' Drop Endurance, Trinity, Lunar Vertex and FLIP."
+            },
+            {
+              "severity": "major",
+              "quote": "Then there is MoonFall. Four hopping drones from JPL, planned for 2028, meant to map landing sites.",
+              "problem": "Rover/dron bölümü (PROMISE, MoonFall, VIPER, iki mürettebatlı rover, basınçlı rover) tek bir liste halinde ve ritim monoton. Hiç merak boşluğu yok; en ilginç öğe (hopping drones) tek cümlede geçilip harcanıyor.",
+              "fix": "Cut VIPER and the crewed unpressurized rover lines, and give the hopping drones and the nuclear rover two vivid sentences each. Add one curiosity beat such as 'Why would you send drones that hop?'"
+            },
+            {
+              "severity": "minor",
+              "quote": "One lunar day is about fourteen days of sunlight, then fourteen of night.",
+              "problem": "Aynı bilgi (14 gün) MoonFall cümlesinde zaten verilmişti; tekrar. Ayrıca 'gece hayatta kalmak asıl mühendislik problemi' vaadi açılıp ele alınmıyor, sadece reaktöre geçiliyor.",
+              "fix": "State the lunar day once, in the power section, and link it: 'Fourteen nights of darkness. That is why NASA wants a reactor.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "Add dust and extreme cold, and even a perfect landing is hard to turn into mining.",
+              "problem": "Paragraf uzun, tek solukta okunacak şekilde dört bilgiyi yığıyor; TTS için nefes yeri yok. 'Experts quoted in coverage' ifadesi tekrar tekrar kullanılıyor ve ağırlığı düşürüyor.",
+              "fix": "Split into three short sentences: 'The Artemis crewed lander still needs development. The pole has steep slopes and deep craters. Even a perfect landing is not yet mining.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "Here is another thing to question. Where did it come from? Comets, asteroids, the solar wind, even Earth. Scientists have not settled that.",
+              "problem": "Açılan merak döngüsü cevapsız kalıyor ve bölüm sonunda tekrar hatırlanmıyor; 'Next time' vaadi de yalnızca genel bir reklam. Döngüyü kapatma fırsatı kaçıyor.",
+              "fix": "Either tie it into the closing watch-list (origin of the ice as the open mystery) or make it the explicit teaser: 'Where that ice came from is next episode's question.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "On the same November seventh, it announced a one million dollar Moon Base Challenge for students. Registration closes January twenty fifth, 2027.",
+              "problem": "Bu bölüm anlatının doruğundan hemen önce (Çin yarışı, uzman şüphesi) gerilimi kesiyor ve kayıt tarihiyle ders tonuna kayıyor. Ayrıca '7 Kasım' ifadesi ikinci kez tekrarlanıyor.",
+              "fix": "Shorten to two sentences ('NASA is even inviting students into it, with a one million dollar challenge') and move it to just before the ending so it feeds the reflective close, or cut the registration date."
+            },
+            {
+              "severity": "major",
+              "quote": "Because a station in orbit cannot drill into ice. A surface base might. That is the bet. It is still a bet.",
+              "problem": "Hook'taki ikinci büyük soru (Gateway neden feda edildi) için cevap bir cümleyle ve kaynaklar gerçek gerekçeyi vermeden basitleştirilmiş şekilde veriliyor. Gateway'in askıya alınmasına dair gerçek nedenler (bütçe, öncelik) bölüm içinde hiç açılmadı; ödeme zayıf.",
+              "fix": "Plant the reason earlier in the Gateway segment (priorities, cost, surface-first strategy per S5) and in the close restate it in two beats: why a surface base, and what Gateway could not do."
+            },
+            {
+              "severity": "minor",
+              "quote": "Either way, the south pole is where the next chapter of the Moon will be written. And we will keep tracking it, one piece of evidence at a time.",
+              "problem": "Kapanış güçlü bir izle bitmiyor: 'next chapter will be written' klişe, ve hemen ardından iki ayrı kapanış cümlesi (takip edeceğiz + abone ol + gelecek bölüm) geliyor. Yansıtıcı his zayıf.",
+              "fix": "End on a concrete image or the rebel question, e.g. 'The base is still a drawing. The next two years decide if it becomes hardware.' Then one CTA line plus one teaser line."
+            },
+            {
+              "severity": "minor",
+              "quote": "Reports say a New Glenn rocket exploded on its pad in May 2026. The first Blue Moon and Nova-C launches then moved from fall 2026 to the first part of 2027. That detail comes from a summary of a trade report, so treat it with care.",
+              "problem": "Kaynak uyarısı dürüst ama anlatıyı yavaşlatıyor; üç ayrı yerde ('treat it with care', 'could not confirm', 'experts quoted') belirsizlik vurgusu tekrarlanınca izleyici güvenilirliğe değil kararsızlığa odaklanıyor.",
+              "fix": "Say it once and briefly: 'One trade report says a New Glenn rocket exploded on its pad in May, pushing the first landers to early 2027. I could not confirm that independently.' Merge the no-landing hedge into the same beat."
+            },
+            {
+              "severity": "minor",
+              "quote": "Start with the pivot. In March 2026, NASA Administrator Jared Isaacman paused the Gateway station, a planned outpost in lunar orbit.",
+              "problem": "Toplam uzunluk yaklaşık 1900 kelime, yani ~13.5 dakika; 10 dakikalık varsayılana göre fazla. Orta kısım (rover/ödül listeleri) izleyici kaybı için en riskli bölge.",
+              "fix": "Trim roughly 350 to 400 words from the rover and contract sections and the repeated hedges to land near 1400 words (10 minutes)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "round": 1,
+  "decision": "revise",
+  "avg": 6.33
+}
