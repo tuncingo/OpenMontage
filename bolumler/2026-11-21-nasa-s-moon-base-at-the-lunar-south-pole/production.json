@@ -1,0 +1,1582 @@
+{
+  "slug": "2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole",
+  "total_duration_s": 484.0,
+  "music": {
+    "mood": "curious, atmospheric, slow pulsing synth with subtle tension",
+    "changes": [
+      {
+        "at_scene": 6,
+        "mood": "investigative, steady rhythm"
+      },
+      {
+        "at_scene": 16,
+        "mood": "wonder, cold shimmering pads"
+      },
+      {
+        "at_scene": 28,
+        "mood": "driving, confident pulse"
+      },
+      {
+        "at_scene": 45,
+        "mood": "tense, rising strings"
+      },
+      {
+        "at_scene": 51,
+        "mood": "questioning, sparse piano"
+      },
+      {
+        "at_scene": 59,
+        "mood": "reflective, warm and expansive"
+      },
+      {
+        "at_scene": 68,
+        "mood": "hopeful, gentle fade-out"
+      }
+    ]
+  },
+  "director_notes": "Bolumun gorsel fikri: 'kagit uzerindeki ay ussu'. Acilista bos, kraterli Ay yuzeyi ve duraklatilan Gateway ile gerilim kuruyoruz; asil konu (ay yuzeyi, LCROSS, iniscilar, PROMISE, MoonFall, reaktor) NASA arsiv goruntuleri ve gercek gorev gorselleriyle anlatiliyor, genel cümleler ise renkli, surekli hareket eden kozmik aralara (nebulalar, galaksiler, Saturn, Jupiter, Gunes) baglaniyor; boylece sahnelerin yaklasik uctebiri kozmik cutaway. Her sahnede yavas itme, geri cekilme, pan veya paralaks var; art arda iki sahne ayni gorsel stilde olmuyor (arsiv fotografi, termal harita, makro toz, nebula, render, stilize poster dönüşümlü). Kanıt sahneleri (EVIDENCE) kanit sayacini tetikler. Palet: lacivert, mor, kehribar, buz beyazi. Kapanista Gateway sorusuna donup 'kraterlerin icine' merak dongusuyle bitiyoruz.",
+  "thumbnail": {
+    "headline": "GATEWAY PAUSED. WHY?",
+    "layout": "Tek odak: Ay'in guney kutbunda golgede kalmis krater kenari; ustte yari silik, mor cizgili hayalet istasyon silueti ve yaninda kucuk bir duraklat simgesi. Sol yarida gercek foto dokusu, sag yarida blueprint cizgisi ('kagit uzerinde' mesaji). Basliklar sol ustte, Montserrat ExtraBold, buz beyazi, iki satir (GATEWAY PAUSED. / WHY?); 'PAUSED' kelimesi amber. Arka plan derin uzay lacivert, ufukta amber gunes isigi. Metin guvenli kenar bosluklarinin icinde, telefonda okunur.",
+    "image_prompt": "Cinematic 16:9 view of the lunar south pole at a shadowed crater rim with long dramatic shadows, photorealistic grey regolith on the left fading into a faint blueprint wireframe on the right, an empty flat landing site in the foreground, a translucent ghostly space station silhouette in lunar orbit high in the sky with a small glowing pause symbol beside it, amber sun glow on the horizon, deep navy space sky with violet nebula glow, single strong focal point, high contrast, empty space in upper left for a headline, no text, no letters",
+    "text_color": "#F2F5FF",
+    "accent_color": "#FFB020"
+  },
+  "design_notes": "Toplam 24 overlay: hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold (en az 64 px), %10 guvenli kenarlarin icinde ve gerektiginde yumusak koyu scrim ile. Overlay'ler sadece anahtar sayilari (20B dolar, -250 C, 155 kg, 100 kW), tarihleri ve cerceve sorularini vurguluyor; kozmik cutaway sahnelerinin cogunda metin yok. Kanit sayaci yalnizca evidence_update true olan 13 sahnede (6, 10, 12, 17, 19, 28, 31, 35, 38, 45, 48, 52, 57) goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Sayac ust kosede, overlay'ler alt/orta/lower-third konumunda oldugu icin cakisma yok. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY?",
+  "style_guide": "# Rebel Minds: Cosmos — Style Guide\n\n## Voice\nCurious, slightly rebellious, evidence-driven. We question the consensus but never overclaim. We make the viewer feel smart, not lectured. No hype words (\"scientists are shocked\", \"this changes everything\", \"proves\").\n\n## Script\n- Language: English. Pace: ~140 words per minute. Default length: 10 minutes.\n- First 15 seconds: a hook built on genuine tension or a question — no false promises.\n- Short-to-medium sentences written for text-to-speech; no parentheses; numbers written the way they should be spoken.\n- Cite every factual sentence with [S1], [S2]… mapped to a `## Sources` list.\n- Put `[EVIDENCE: short label]` on its own line right before a NEW piece of evidence is introduced (drives the evidence tracker).\n- Open curiosity loops and pay them off. Reflective close, one natural call to action.\n\n## Visuals\n- Colourful, constantly moving cosmic imagery. Even general statements get cosmic cutaways (star clusters, planets, discs, nebulae) — never a static or empty frame.\n- Never the same visual style twice in a row; never the same image twice in an episode.\n- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument.\n- Every scene has motion: slow push-in, pull-out, pan, parallax, rotation.\n\n## On-screen text (must be legible on a phone)\n- Max 6 words per overlay, large bold sans-serif (min 64 px height on a 1080p frame), inside 10% safe margins, high contrast (soft dark scrim when needed).\n- Few overlays rather than many — only where they help understanding or land a key number.\n\n## Evidence tracker\nA recurring graphic that appears ONLY when a new piece of evidence is introduced (count + short label), then disappears. Never permanent clutter.\n\n## Palette & type\n- Deep space navy `#0B1026`, cosmic violet `#6C3BFF`, solar amber `#FFB020`, ice white `#F2F5FF`\n- Montserrat ExtraBold (headings/overlays), Inter (small labels)\n\n## Thumbnail\nMax 4 words, one focal subject, readable at phone size, palette colours.\n",
+  "scenes": [
+    {
+      "id": 1,
+      "start_s": 0.0,
+      "duration_s": 8.0,
+      "narration": "NASA says it is building a base on the Moon. None of the Moon Base missions has landed yet.",
+      "purpose": "hook",
+      "motion": "slow push-in with slight parallax on the horizon",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 wide shot of the Moon rising over a dark horizon, empty cratered surface, amber sunrise rim light, violet shadows, volumetric dust, no text",
+      "overlays": [
+        {
+          "scene_id": 1,
+          "text": "NO BASE YET",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 3.5,
+          "out_s": 7.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 2,
+      "start_s": 8.0,
+      "duration_s": 9.0,
+      "narration": "The first three have slipped to 2027. And to chase this base, the agency put its own planned space station around the Moon on hold.",
+      "purpose": "hook",
+      "motion": "slow pull-out with gentle rotation of the station",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 render of a small modular space station in orbit around the Moon, Earth in the distance, lights dimming, cool navy and amber palette, no text",
+      "overlays": [
+        {
+          "scene_id": 2,
+          "text": "SLIPPED TO 2027",
+          "position": "bottom",
+          "style": "number",
+          "in_s": 1.0,
+          "out_s": 5.0
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 3,
+      "start_s": 17.0,
+      "duration_s": 7.0,
+      "narration": "So why did NASA pause Gateway? And what is real here, and what is still on paper?",
+      "purpose": "cutaway",
+      "motion": "slow parallax drift through the gas layers",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_003.jpg",
+        "source": "nasa",
+        "nasa_id": "carina_nebula",
+        "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+        "credit": "NASA/STScI (Webb) — carina_nebula",
+        "fit_score": 9,
+        "reason": "Webb'in Carina Nebulasi 'Cosmic Cliffs' goruntusu renkli ve gizemli nebula sutunlariyla brief'e tam uyuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 4,
+      "start_s": 24.0,
+      "duration_s": 7.0,
+      "narration": "In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpost in lunar orbit.",
+      "purpose": "explain",
+      "motion": "slow lateral pan along the modules",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_004.jpg",
+        "source": "nasa",
+        "nasa_id": "jsc2024e025315",
+        "title": "jsc2024e025315",
+        "credit": "NASA/JSC — jsc2024e025315",
+        "fit_score": 6,
+        "reason": "HALO modulunun insan olmadan cekilmis metalik kapak yakin plani, Gateway donanimini gosteriyor; orbit kavramini dogrudan vermiyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 4,
+          "text": "MARCH 2026",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 4.0
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 5,
+      "start_s": 31.0,
+      "duration_s": 7.0,
+      "narration": "The pause is indefinite. The stated goal was to focus on a base on the surface.",
+      "purpose": "cutaway",
+      "motion": "pull-down descent with slow zoom",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_005.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA00001",
+        "title": "South Pole Region of the Moon as Seen by Clementine",
+        "credit": "NASA/JPL — PIA00001",
+        "fit_score": 8,
+        "reason": "Clementine'in Ay guney kutbu mozaigi, yorungeden guney kutup bolgesine inis brief'iyle dogrudan uyumlu."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 6,
+      "start_s": 38.0,
+      "duration_s": 7.0,
+      "narration": "Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed.",
+      "purpose": "evidence",
+      "motion": "slow dolly across the hardware",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_006.jpg",
+        "source": "nasa",
+        "nasa_id": "jsc2026e005282",
+        "title": "Thruster Gimbal Range of Motion Testing for Gateway’s Power and Propulsion Element jsc2026e005282",
+        "credit": "NASA/JSC — jsc2026e005282",
+        "fit_score": 4,
+        "reason": "PPE itme sistemi gimbal testi, PPE donanimiyla ilgili; ancak temiz oda hissi ve hazir ama kullanilmamis donanim gorunumu tam olarak yok."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 6,
+          "text": "PAUSED, NOT CANCELLED",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 1.5,
+          "out_s": 6.0
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 6,
+        "count": 1,
+        "label": "Paused, not cancelled"
+      }
+    },
+    {
+      "id": 7,
+      "start_s": 45.0,
+      "duration_s": 6.0,
+      "narration": "But much of that hardware was already built, and it is not easy to reuse.",
+      "purpose": "explain",
+      "motion": "slow push-in toward the module",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_007.jpg",
+        "source": "nasa",
+        "nasa_id": "jsc2025e036496",
+        "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036496)",
+        "credit": "NASA/JSC — jsc2025e036496",
+        "fit_score": 7,
+        "reason": "HALO modulunun uretim hallerinde tasinmasi ve dolly uzerindeki gorunumu, fabrika ortaminda insa edilmis modul brief'ine uygun."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 8,
+      "start_s": 51.0,
+      "duration_s": 6.0,
+      "narration": "The effort moves from orbit down to the ground, near the polar ice.",
+      "purpose": "cutaway",
+      "motion": "slow zoom-in with rotation",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_008.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA09072",
+        "title": "Seeing Stars in Serpens",
+        "credit": "NASA/JPL — PIA09072",
+        "fit_score": 7,
+        "reason": "Spitzer'in Serpens bolgesi goruntusu kirmizi-pembe parlayan yildiz olusum bulutlariyla brief'teki renkli nebula hissine yakin."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 9,
+      "start_s": 57.0,
+      "duration_s": 5.0,
+      "narration": "The fate of partners like Europe, Japan and Canada is still unresolved.",
+      "purpose": "explain",
+      "motion": "slow rotation of the module",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_009.jpg",
+        "source": "nasa",
+        "nasa_id": "Gateway Summer Req Images Rev2_15",
+        "title": "Gateway Close-up - ESPRIT Refueling Module",
+        "credit": "NASA/JSC — Gateway Summer Req Images Rev2_15",
+        "fit_score": 7,
+        "reason": "ESA'nin ESPRIT yakit ikmal modulu, Avrupa katkisi donanimi brief'iyle uyumlu ve sinematik bir yakin plan sunuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 10,
+      "start_s": 62.0,
+      "duration_s": 10.0,
+      "narration": "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases.",
+      "purpose": "evidence",
+      "motion": "tilt up following the rocket",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_010.jpg",
+        "source": "nasa",
+        "nasa_id": "KSC-01172026-Artemis II_Rollout-5",
+        "title": "NASA's Artemis II SLS Rocket and Orion Spacecraft Rollout to Launch Pad 39B",
+        "credit": "NASA/MSFC — KSC-01172026-Artemis II_Rollout-5",
+        "fit_score": 6,
+        "reason": "Artemis II SLS roketinin alcak aci ile rampaya cikisi, mavi gokyuzu ve yol perspektifiyle olcek ve gucu verebiliyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 10,
+          "text": "$20B / 7 YEARS",
+          "position": "center",
+          "style": "number",
+          "in_s": 2.0,
+          "out_s": 6.0
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 10,
+        "count": 2,
+        "label": "Cost estimate"
+      }
+    },
+    {
+      "id": 11,
+      "start_s": 72.0,
+      "duration_s": 8.0,
+      "narration": "Now, the word base. Picture a city under a dome. That is not what NASA describes, at least not yet.",
+      "purpose": "cutaway",
+      "motion": "slow pull-out, dome fades to empty ground",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_011.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA26161",
+        "title": "CADRE Rover on the Moon (Artist's Concept)",
+        "credit": "NASA/JPL — PIA26161",
+        "fit_score": 5,
+        "reason": "CADRE rover'in Ay yuzeyinde cekilmis konsepti, cıplak regolit uzerinde kalmak icin uygun; kubbeli sehir yok."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 11,
+          "text": "A CITY? NOT YET",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 3.5,
+          "out_s": 7.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 12,
+      "start_s": 80.0,
+      "duration_s": 7.0,
+      "narration": "There are three phases. Phase One, now to 2029, is robots, tech demos and scouting.",
+      "purpose": "evidence",
+      "motion": "slow pan left to right",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_012.jpg",
+        "source": "nasa",
+        "nasa_id": "1100020",
+        "title": "1100020",
+        "credit": "NASA/MSFC — 1100020",
+        "fit_score": 4,
+        "reason": "Hot Fire robotik inis aracinin test fotografi robotik iniş aracini gosteriyor ancak Ay ovasi yerine kapali bir hangar ortaminda."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 12,
+          "text": "PHASE ONE: 2029",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 1.5,
+          "out_s": 6.0
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 12,
+        "count": 3,
+        "label": "Three-phase plan"
+      }
+    },
+    {
+      "id": 13,
+      "start_s": 87.0,
+      "duration_s": 5.0,
+      "narration": "Phase Two, 2029 to 2032, adds early power, cargo and communications.",
+      "purpose": "explain",
+      "motion": "tracking shot alongside the rover",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_013.jpg",
+        "source": "nasa",
+        "nasa_id": "jsc2024e069530",
+        "title": "Lunar Terrain Vehicle Testing",
+        "credit": "NASA/JSC — jsc2024e069530",
+        "fit_score": 7,
+        "reason": "Lunar Outpost Eagle arazi aracının kargo tepsisi ve güneş paneli açık, sahne anlatımıyla uyumlu bir test görüntüsü."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 13,
+          "text": "PHASE TWO: 2032",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 4.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 14,
+      "start_s": 92.0,
+      "duration_s": 5.0,
+      "narration": "Only Phase Three, from 2032, is the permanent outpost with habitats.",
+      "purpose": "explain",
+      "motion": "slow crane up",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 inflatable habitat on the Moon with two astronauts walking, warm lights in windows, starry black sky, no text",
+      "overlays": [
+        {
+          "scene_id": 14,
+          "text": "PHASE THREE",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 4.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 15,
+      "start_s": 97.0,
+      "duration_s": 6.0,
+      "narration": "So today, the Moon Base is a schedule of robotic missions. Not a building.",
+      "purpose": "cutaway",
+      "motion": "slow rotation with push-in",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_015.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA01322",
+        "title": "Chaos at the Heart of Orion",
+        "credit": "NASA/JPL — PIA01322",
+        "fit_score": 9,
+        "reason": "Spitzer ve Hubble birleşimi Orion bulutsusu canlı renkleri ve yıldız oluşum bölgesiyle sahnenin görsel ihtiyacını birebir karşılıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 16,
+      "start_s": 103.0,
+      "duration_s": 7.0,
+      "narration": "But why the south pole? Of all the places on the Moon? The first reason is water.",
+      "purpose": "transition",
+      "motion": "slow push-in toward the crater floor",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 aerial view of a deep lunar polar crater, rim lit in gold, interior pitch black, subtle blue ice glints, no text",
+      "overlays": [
+        {
+          "scene_id": 16,
+          "text": "WHY THE SOUTH POLE?",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 0.5,
+          "out_s": 4.0
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 17,
+      "start_s": 110.0,
+      "duration_s": 8.0,
+      "narration": "Parts of the polar craters never see sunlight. They can reach about minus two hundred fifty degrees Celsius.",
+      "purpose": "evidence",
+      "motion": "slow pan across the map with parallax",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Scientific false-colour thermal map of lunar south pole craters, deep blue and violet cold pockets, glowing edges, 16:9, no text",
+      "overlays": [
+        {
+          "scene_id": 17,
+          "text": "MINUS 250 C",
+          "position": "center",
+          "style": "number",
+          "in_s": 2.5,
+          "out_s": 7.0
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 17,
+        "count": 4,
+        "label": "Permanent shadow cold"
+      }
+    },
+    {
+      "id": 18,
+      "start_s": 118.0,
+      "duration_s": 8.0,
+      "narration": "That is colder than the surface of Pluto. In that cold, water ice can survive for a very long time.",
+      "purpose": "cutaway",
+      "motion": "slow pull-out revealing the whole globe",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_018.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA20201",
+        "title": "New Horizons Very Best View of Pluto Mosiac",
+        "credit": "NASA/JPL — PIA20201",
+        "fit_score": 5,
+        "reason": "Pluto'nun buzlu yüzeyini gösteren tek gerçek yüzey mozaiği, ancak gri tonlu ve sahnenin kremi-mavi renk paleti yok."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 18,
+          "text": "COLDER THAN PLUTO",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 0.5,
+          "out_s": 4.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 19,
+      "start_s": 126.0,
+      "duration_s": 8.0,
+      "narration": "In 2009, NASA's LCROSS slammed into Cabeus crater, near the south pole, and the plume confirmed water ice.",
+      "purpose": "evidence",
+      "motion": "fast push-in then freeze-slow on the plume",
+      "transition": "whip",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 spent rocket stage striking a dark lunar crater, plume of dust and ice rising into sunlight, no text",
+      "overlays": [
+        {
+          "scene_id": 19,
+          "text": "LCROSS, 2009",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 4.5
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 19,
+        "count": 5,
+        "label": "LCROSS water ice"
+      }
+    },
+    {
+      "id": 20,
+      "start_s": 134.0,
+      "duration_s": 9.0,
+      "narration": "It held about one hundred fifty five kilograms of water. That is only what the plume let us see. It is not a total.",
+      "purpose": "explain",
+      "motion": "slow tilt up following the plume",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 translucent plume of ice crystals glittering above a lunar crater rim, sun-lit against black sky, no text",
+      "overlays": [
+        {
+          "scene_id": 20,
+          "text": "155 KG, NOT A TOTAL",
+          "position": "bottom",
+          "style": "number",
+          "in_s": 2.0,
+          "out_s": 8.0
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 21,
+      "start_s": 143.0,
+      "duration_s": 9.0,
+      "narration": "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice. So the evidence that ice exists is solid.",
+      "purpose": "evidence",
+      "motion": "slow orbiting move around the lander",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 small lander with rover ramp on grey lunar ground at dawn, thermal probe detail, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 22,
+      "start_s": 152.0,
+      "duration_s": 8.0,
+      "narration": "What is thin is how much there is, what form it takes, and whether anyone can mine it.",
+      "purpose": "cutaway",
+      "motion": "scanning pan with slow zoom",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Abstract radar scan visualisation of lunar craters, glowing cyan lines on navy, 16:9, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 23,
+      "start_s": 160.0,
+      "duration_s": 9.0,
+      "narration": "And this is ice mixed into soil, not lakes. And here is the loop I cannot close. Where did it come from?",
+      "purpose": "cutaway",
+      "motion": "slow zoom-in into the nebula centre",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_023.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA09962",
+        "title": "Spitzer Celebrates Fourth Anniversary with Celestial Fireworks",
+        "credit": "NASA/JPL — PIA09962",
+        "fit_score": 8,
+        "reason": "Helix bulutsusunun Spitzer kızılötesi görüntüsü, toz ve gaz katmanlarını canlı renklerle gösterip sahnenin gizemli havasına uyuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 23,
+          "text": "WHERE DID IT COME FROM?",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 4.5,
+          "out_s": 8.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 24,
+      "start_s": 169.0,
+      "duration_s": 7.0,
+      "narration": "Comets, asteroids, the solar wind, even Earth. Scientists have not settled that. Hold on to that question.",
+      "purpose": "cutaway",
+      "motion": "slow drifting rotation around the comet",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_024.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA21068",
+        "title": "Farewell Rosetta: ESA Mission to End on Comet Surface",
+        "credit": "NASA/JPL — PIA21068",
+        "fit_score": 7,
+        "reason": "67P kuyruklu yıldız çekirdeğinin Rosetta görüntüsü, sahnenin kuyruklu yıldız temasına uygun ve yüksek çözünürlüklü."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 25,
+      "start_s": 176.0,
+      "duration_s": 7.0,
+      "narration": "There is a second reason for the pole. Light. The idea of a sunless pole is wrong.",
+      "purpose": "cutaway",
+      "motion": "slow pan toward the sun",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 lunar polar ridge bathed in golden sunlight, sun low on horizon with lens flare, deep shadows, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 26,
+      "start_s": 183.0,
+      "duration_s": 5.0,
+      "narration": "Some ridges there get near continuous sunlight, while the shadowed craters sit nearby.",
+      "purpose": "cutaway",
+      "motion": "slow rotation and push-in",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_026.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA26681",
+        "title": " Image of Sun From NASA's Solar Dynamics Observatory",
+        "credit": "NASA/JPL — PIA26681",
+        "fit_score": 8,
+        "reason": "SDO AIA 171 görüntüsü, amber renkli Güneş yüzeyi ve kenardaki parlak protüberansları sahnenin istediği görsel dille örtüşüyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 27,
+      "start_s": 188.0,
+      "duration_s": 9.0,
+      "narration": "Sunlight for power, ice in the dark. Close together. That is the pitch. Now, who is actually going? NASA numbers the missions.",
+      "purpose": "transition",
+      "motion": "slow pull-out with parallax",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_027.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA13449",
+        "title": "An Explosion of Infrared Color",
+        "credit": "NASA/JPL — PIA13449",
+        "fit_score": 7,
+        "reason": "IC 443 süpernova kalıntısı, sahnenin patlama renkleri ihtiyacını canlı kırmızı-yeşil-mavi tonlarıyla karşılıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 28,
+      "start_s": 197.0,
+      "duration_s": 6.0,
+      "narration": "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge.",
+      "purpose": "evidence",
+      "motion": "slow push-in with low angle",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_028.jpg",
+        "source": "nasa",
+        "nasa_id": "MK2_EOR_ArtemisIII_Dock",
+        "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
+        "credit": "NASA/MSFC — MK2_EOR_ArtemisIII_Dock",
+        "fit_score": 6,
+        "reason": "Blue Origin Blue Moon Mk2 lander görseli konuyla doğrudan ilgili ve koyu uzay ortamında renkli, sinematik bir kompozisyon sunuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 28,
+          "text": "MOON BASE I: BLUE ORIGIN",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 5.5
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 28,
+        "count": 6,
+        "label": "Moon Base One"
+      }
+    },
+    {
+      "id": 29,
+      "start_s": 203.0,
+      "duration_s": 6.0,
+      "narration": "Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander.",
+      "purpose": "explain",
+      "motion": "slow pan across lander legs",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 four-legged lander descending with rover on top, dust cloud, golden light, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 30,
+      "start_s": 209.0,
+      "duration_s": 5.0,
+      "narration": "NASA is buying rides, not building every machine itself.",
+      "purpose": "explain",
+      "motion": "slow zoom-out",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_030.jpg",
+        "source": "nasa",
+        "nasa_id": "IM_00309",
+        "title": "Intuitive Machines’ Nova-C lunar lander",
+        "credit": "NASA/MSFC — IM_00309",
+        "fit_score": 6,
+        "reason": "Intuitive Machines Nova-C iniş aracının net görüntüsü, karanlık sahnede ve ABD bayrağı önünde sinematik bir sunum sağlıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 31,
+      "start_s": 214.0,
+      "duration_s": 9.0,
+      "narration": "Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch.",
+      "purpose": "evidence",
+      "motion": "handheld-style shake with slow push-in",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_031.jpg",
+        "source": "nasa",
+        "nasa_id": "KSC-20251113-PH-BLU01_0001",
+        "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+        "credit": "NASA/KSC — KSC-20251113-PH-BLU01_0001",
+        "fit_score": 4,
+        "reason": "New Glenn motorlarının ateşlendiği yakın plan, dramatik ve renkli bir kadraj sunuyor ancak patlamayı göstermiyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 31,
+          "text": "MAY 28, 2026",
+          "position": "lower-third",
+          "style": "number",
+          "in_s": 3.0,
+          "out_s": 8.0
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 31,
+        "count": 7,
+        "label": "New Glenn explosion"
+      }
+    },
+    {
+      "id": 32,
+      "start_s": 223.0,
+      "duration_s": 6.0,
+      "narration": "That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027.",
+      "purpose": "explain",
+      "motion": "slow tracking shot",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_032.jpg",
+        "source": "nasa",
+        "nasa_id": "KSC-20251113-PH-BLU01_0008",
+        "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+        "credit": "NASA/KSC — KSC-20251113-PH-BLU01_0008",
+        "fit_score": 3,
+        "reason": "New Glenn roketinin kalkış görüntüsü Blue Origin'i temsil ediyor ancak 'bekleyen donanım' anlatımına uymuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 33,
+      "start_s": 229.0,
+      "duration_s": 6.0,
+      "narration": "Moon Base III also slipped, to the first quarter of 2027, according to its maker.",
+      "purpose": "explain",
+      "motion": "slow top-down drift",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 lander seen from above on a cratered plain, long shadow, small Earth in black sky, no text",
+      "overlays": [
+        {
+          "scene_id": 33,
+          "text": "MOON BASE III: Q1 2027",
+          "position": "lower-third",
+          "style": "label",
+          "in_s": 0.5,
+          "out_s": 5.0
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 34,
+      "start_s": 235.0,
+      "duration_s": 5.0,
+      "narration": "What comes after the landers? Two strange machines.",
+      "purpose": "cutaway",
+      "motion": "slow push-in with slight rotation",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_034.jpg",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e000273",
+        "title": "NASA's Hubble Captures the Beating Heart of the Crab Nebula",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e000273",
+        "fit_score": 8,
+        "reason": "Yengeç Bulutsusu'nun Hubble'dan çekilmiş yakın plan görüntüsü, nabız gibi atan merkez ve renkli filamentlerle brief'in 'pulsing filaments' ifadesine çok iyi uyuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 35,
+      "start_s": 240.0,
+      "duration_s": 5.0,
+      "narration": "First, PROMISE. A six wheeled rover powered by a nuclear source.",
+      "purpose": "evidence",
+      "motion": "low-angle tracking shot",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 rugged six-wheeled rover on lunar terrain, faint warm glow from nuclear power unit at the rear, no text",
+      "overlays": [],
+      "evidence_tracker": {
+        "scene_id": 35,
+        "count": 8,
+        "label": "PROMISE nuclear rover"
+      }
+    },
+    {
+      "id": 36,
+      "start_s": 245.0,
+      "duration_s": 8.0,
+      "narration": "It carries a drill that reaches about one meter down, and it is designed for an eighteen month mission.",
+      "purpose": "explain",
+      "motion": "slow push-in on the drill head",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_036.jpg",
+        "source": "nasa",
+        "nasa_id": "ACD20-0047",
+        "title": "VIPER Drill",
+        "credit": "NASA/ARC — ACD20-0047",
+        "fit_score": 8,
+        "reason": "VIPER rover konsept render'ı, Ay yüzeyinde matkap mekanizmasıyla sinematik ve bilimsel olarak uygun bir kadraj sunuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 37,
+      "start_s": 253.0,
+      "duration_s": 10.0,
+      "narration": "Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028.",
+      "purpose": "explain",
+      "motion": "slow orbit around the unit",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 glowing red-hot radioisotope power unit close-up with heat shimmer, dark background, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 38,
+      "start_s": 263.0,
+      "duration_s": 5.0,
+      "narration": "Second, MoonFall. Four hopping drones from JPL, planned for 2028.",
+      "purpose": "evidence",
+      "motion": "follow the hop with a rising camera",
+      "transition": "whip",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 small spherical hopping drone mid-leap above a lunar crater, thruster puff, Earthrise behind, no text",
+      "overlays": [],
+      "evidence_tracker": {
+        "scene_id": 38,
+        "count": 9,
+        "label": "MoonFall hoppers"
+      }
+    },
+    {
+      "id": 39,
+      "start_s": 268.0,
+      "duration_s": 8.0,
+      "narration": "Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days.",
+      "purpose": "explain",
+      "motion": "slow macro slide with shallow depth of field",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Macro cinematic 16:9 fine grey lunar dust with a crisp boot-print, low raking sunlight, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 40,
+      "start_s": 276.0,
+      "duration_s": 7.0,
+      "narration": "Later comes the part that feels like a base. A pressurized rover from Japan's space agency.",
+      "purpose": "explain",
+      "motion": "slow dolly beside the rover",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_040.jpg",
+        "source": "nasa",
+        "nasa_id": "20250331-02",
+        "title": "Concept image of a Pressurized Rover",
+        "credit": "NASA/JSC — 20250331-02",
+        "fit_score": 8,
+        "reason": "JAXA basınçlı gezici konsept görüntüsü, geniş açıdan Dünya ve Ay yüzeyiyle birlikte aracın büyüklüğünü ve bağlamını sinematik biçimde gösteriyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 41,
+      "start_s": 283.0,
+      "duration_s": 9.0,
+      "narration": "A mobile lab where crews work without spacesuits, on missions of up to twenty eight days. Which brings us to power.",
+      "purpose": "explain",
+      "motion": "slow push-in through the cabin window",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_041.jpg",
+        "source": "nasa",
+        "nasa_id": "jsc2026e001909",
+        "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
+        "credit": "NASA/JSC — jsc2026e001909",
+        "fit_score": 6,
+        "reason": "Tam giyimli astronot görseli sahnenin 'astronot kıyafeti' kısmıyla uyumlu, ancak laboratuvar iç mekanı gösterilmiyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 42,
+      "start_s": 292.0,
+      "duration_s": 6.0,
+      "narration": "A lunar day is about fourteen Earth days of sunlight, then fourteen of night.",
+      "purpose": "cutaway",
+      "motion": "timelapse-style rotation of the terminator",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_042.png",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e000496",
+        "title": "NASA Releases New High-Resolution Earthrise Image",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e000496",
+        "fit_score": 9,
+        "reason": "Ay yüzeyinin üzerinde yükselen renkli Dünya görüntüsü, sahnenin Earthrise anlatımıyla birebir uyumlu."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 43,
+      "start_s": 298.0,
+      "duration_s": 5.0,
+      "narration": "The polar ridges are an exception, with near continuous sun.",
+      "purpose": "cutaway",
+      "motion": "slow push-in",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 copper-red Moon in total eclipse with a bright diamond-ring edge, stars, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 44,
+      "start_s": 303.0,
+      "duration_s": 6.0,
+      "narration": "But the crater floors never see light. Power through darkness is the hard problem.",
+      "purpose": "explain",
+      "motion": "slow descent into darkness",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_044.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA18163",
+        "title": "Lunar Reconnaissance Orbiter Artist Concept",
+        "credit": "NASA/JPL — PIA18163",
+        "fit_score": 5,
+        "reason": "LRO'yu Ay yüzeyi üzerinde gösteren sanatçı çizimi konuya yakın, ancak gölgeli krater içleri görünmüyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 45,
+      "start_s": 309.0,
+      "duration_s": 7.0,
+      "narration": "NASA is aiming for a fission reactor of about one hundred kilowatts on the surface by around 2030.",
+      "purpose": "evidence",
+      "motion": "slow orbit with parallax",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_045.jpg",
+        "source": "nasa",
+        "nasa_id": "GRC-2015-C-06315",
+        "title": "Fission Surface Power Technology Demonstration Unit",
+        "credit": "NASA/GRC — GRC-2015-C-06315",
+        "fit_score": 4,
+        "reason": "Stirling dönüştürücü üzerinde çalışan teknisyen görseli fisyon yüzey gücü temasına kısmen yakın, ancak reaktör veya radyatör paneli değil."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 45,
+          "text": "100 KW BY 2030",
+          "position": "center",
+          "style": "number",
+          "in_s": 2.0,
+          "out_s": 6.5
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 45,
+        "count": 10,
+        "label": "Fission reactor target"
+      }
+    },
+    {
+      "id": 46,
+      "start_s": 316.0,
+      "duration_s": 7.0,
+      "narration": "Experts doubt the timeline more than the size. A working surface reactor by 2030 is a steep climb.",
+      "purpose": "explain",
+      "motion": "slow push-in",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 experimental reactor test rig in a desert facility, heat shimmer, dusk light, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 47,
+      "start_s": 323.0,
+      "duration_s": 7.0,
+      "narration": "And that is the honest tension at the center of this story. Can the schedule hold?",
+      "purpose": "cutaway",
+      "motion": "slow rotation with push-in",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_047.jpg",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e000877",
+        "title": "Hubble Spies Charming Spiral Galaxy Bursting with Stars",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e000877",
+        "fit_score": 7,
+        "reason": "Mavi kollu ve sıcak merkezli sarmal galaksi görseli sahnenin zaman ve ölçek anlatımına uygun, renkli ve sinematik."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 48,
+      "start_s": 330.0,
+      "duration_s": 9.0,
+      "narration": "NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028.",
+      "purpose": "evidence",
+      "motion": "slow pull-out revealing Earth",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 crew capsule in low Earth orbit, solar wings, bright blue Earth limb with city lights, no text",
+      "overlays": [
+        {
+          "scene_id": 48,
+          "text": "ARTEMIS III: 2027, IV: 2028",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 2.0,
+          "out_s": 8.5
+        }
+      ],
+      "evidence_tracker": {
+        "scene_id": 48,
+        "count": 11,
+        "label": "Artemis dates"
+      }
+    },
+    {
+      "id": 49,
+      "start_s": 339.0,
+      "duration_s": 6.0,
+      "narration": "Experts question the 2027 and 2028 dates. The Artemis crewed lander still needs development.",
+      "purpose": "explain",
+      "motion": "low-angle slow tilt up",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_049.jpg",
+        "source": "nasa",
+        "nasa_id": "11 03 24 artemis 3 on surface",
+        "title": "Artist’s Concepts Depict SpaceX’s Starship HLS on the Moon for NASA Artemis",
+        "credit": "NASA/MSFC — 11 03 24 artemis 3 on surface",
+        "fit_score": 8,
+        "reason": "Ay yüzeyinde duran Starship HLS sanatçı çizimi, sahnenin iniş aracı geliştirme anlatımıyla güçlü uyum sağlıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 50,
+      "start_s": 345.0,
+      "duration_s": 9.0,
+      "narration": "The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining.",
+      "purpose": "explain",
+      "motion": "slow handheld-like drift upward",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_050.jpg",
+        "source": "nasa",
+        "nasa_id": "as14-68-9414",
+        "title": "Astronaut Alan Shepard stands beside large boulder found by Apollo 14 crew",
+        "credit": "NASA/JSC — as14-68-9414",
+        "fit_score": 6,
+        "reason": "Apollo 14 astronotunun kıyafetinde toz izleri olan görseli, sahnenin toz ve zorlu yüzey anlatımına uygun."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 51,
+      "start_s": 354.0,
+      "duration_s": 7.0,
+      "narration": "So the rebel question is this. Is the Moon Base a plan, or a promise on a slide?",
+      "purpose": "cutaway",
+      "motion": "slow push-in through the field",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_051.jpg",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e001061",
+        "title": "Hubble Team Unveils Most Colorful View of Universe Captured by Space Telescope",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e001061",
+        "fit_score": 8,
+        "reason": "Renkli galaksi dolu derin uzay alanı, sahnenin 'sonsuz uzay ve büyük soru' havasını iyi yansıtıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 51,
+          "text": "PLAN OR PROMISE?",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 2.5,
+          "out_s": 6.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 52,
+      "start_s": 361.0,
+      "duration_s": 5.0,
+      "narration": "Now the race. China is also aiming for the south pole.",
+      "purpose": "evidence",
+      "motion": "slow push-in with side pan",
+      "transition": "whip",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 orbiter and lander heading to the lunar south pole, red accent lighting, no text",
+      "overlays": [],
+      "evidence_tracker": {
+        "scene_id": 52,
+        "count": 12,
+        "label": "Chang'e-7 delay"
+      }
+    },
+    {
+      "id": 53,
+      "start_s": 366.0,
+      "duration_s": 7.0,
+      "narration": "Its Chang'e-7 mission, built to look for water ice near Shackleton, was postponed in August to 2027.",
+      "purpose": "explain",
+      "motion": "slow dolly alongside",
+      "transition": "cut",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 small rover with solar panels on a grey lunar plain beside a lander, long shadows, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 54,
+      "start_s": 373.0,
+      "duration_s": 9.0,
+      "narration": "China plans a crewed landing by around 2030. It is also planning a lunar research station with Russia, with construction from about 2031.",
+      "purpose": "explain",
+      "motion": "slow crane across the base",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 crewed lander and station modules on the Moon, red and gold accents, Earth in sky, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 55,
+      "start_s": 382.0,
+      "duration_s": 6.0,
+      "narration": "Those dates are not firm, on either side. So this is not a clean sprint.",
+      "purpose": "cutaway",
+      "motion": "slow parallax drift",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_055.jpg",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e002063",
+        "title": "Hubble Snaps Sharp Image Of Cosmic Concoction",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e002063",
+        "fit_score": 8,
+        "reason": "Renkli ve dokulu yıldız oluşum bölgesi, sahnedeki büyük ve enerjik kozmik görüntü ihtiyacını iyi karşılıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 56,
+      "start_s": 388.0,
+      "duration_s": 9.0,
+      "narration": "Two programs, both with slipping calendars, both eyeing the Shackleton area. That is a reason for speed, and a reason for caution.",
+      "purpose": "cutaway",
+      "motion": "slow lateral pan along the rings",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_056.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA06193",
+        "title": "The Greatest Saturn Portrait ...Yet",
+        "credit": "NASA/JPL — PIA06193",
+        "fit_score": 9,
+        "reason": "Satürn'ün halkalarıyla birlikte çekilmiş büyüleyici portre, sahnedeki majeste ve kozmik ton için en uygun aday."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 57,
+      "start_s": 397.0,
+      "duration_s": 6.0,
+      "narration": "NASA is even inviting students in, with a one million dollar Moon Base Challenge.",
+      "purpose": "evidence",
+      "motion": "slow push-in on the group",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_057.jpg",
+        "source": "nasa",
+        "nasa_id": "NASA_KenHall_1672",
+        "title": "2025 Human Exploration Rover Challenge",
+        "credit": "NASA/MSFC — NASA_KenHall_1672",
+        "fit_score": 6,
+        "reason": "Öğrencilerin yaptığı paletli robotu gösteriyor, ancak atölye yerine açık alanda bir yarışma sahnesi olduğu için brief'e tam uymuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": {
+        "scene_id": 57,
+        "count": 13,
+        "label": "Student challenge"
+      }
+    },
+    {
+      "id": 58,
+      "start_s": 403.0,
+      "duration_s": 8.0,
+      "narration": "A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now.",
+      "purpose": "cutaway",
+      "motion": "slow zoom-out",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_058.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA10389",
+        "title": "AM 1316-241",
+        "credit": "NASA/JPL — PIA10389",
+        "fit_score": 7,
+        "reason": "Birbirini etkileyen iki galaksiyi sinematik bir kadrajda gösteriyor ve 'yavaş dans' fikrine uygun."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 59,
+      "start_s": 411.0,
+      "duration_s": 6.0,
+      "narration": "So let's go back to the opening. Why did NASA pause its own station?",
+      "purpose": "cutaway",
+      "motion": "slow pull-out, silhouette drifting",
+      "transition": "zoom-through",
+      "image": {
+        "file": "assets/scene_059.jpg",
+        "source": "nasa",
+        "nasa_id": "11 03 24  orion transfer",
+        "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+        "credit": "NASA/MSFC — 11 03 24  orion transfer",
+        "fit_score": 5,
+        "reason": "Ay'ın yanında küçük görünen uzay aracı kadrajı brief'in ölçek fikrine yakın, ancak gösterilen araç Gateway değil Starship HLS ve Orion."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 59,
+          "text": "WHY PAUSE THE STATION?",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 1.5,
+          "out_s": 5.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 60,
+      "start_s": 417.0,
+      "duration_s": 5.0,
+      "narration": "Because the base is not a place. It is a sequence.",
+      "purpose": "explain",
+      "motion": "slow tracking along the footprints",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_060.jpg",
+        "source": "nasa",
+        "nasa_id": "6901250",
+        "title": "Saturn Apollo Program",
+        "credit": "NASA/MSFC — 6901250",
+        "fit_score": 8,
+        "reason": "Apollo 11 astronotunun ay tozundaki ayak izi, sahnedeki ilk adım ve uzun dizi fikrini doğrudan anlatıyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 61,
+      "start_s": 422.0,
+      "duration_s": 7.0,
+      "narration": "Landers first, then rovers, then power, then habitats. Each step depends on the one before it.",
+      "purpose": "cutaway",
+      "motion": "slow rotation of the cloud bands",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_061.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA21771",
+        "title": "Juno Over Jupiter's South Pole (Illustration)",
+        "credit": "NASA/JPL — PIA21771",
+        "fit_score": 7,
+        "reason": "Juno'nun Jüpiter'in güney kutbu üzerindeki renkli bant yapısını gösteren görüntü, katmanlı basamaklar temasını destekliyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 62,
+      "start_s": 429.0,
+      "duration_s": 8.0,
+      "narration": "NASA chose to spend its effort on that surface sequence, near the ice, and Gateway is paused, not dead.",
+      "purpose": "explain",
+      "motion": "slow tracking pan following the capsule",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_062.jpg",
+        "source": "nasa",
+        "nasa_id": "art001e000270",
+        "title": "Orion Approaches Moon for Outbound Powered Flyby",
+        "credit": "NASA/JSC — art001e000270",
+        "fit_score": 8,
+        "reason": "Orion'un Ay'ın yanından geçişini gösteren kadraj, sahnedeki Ay yakın uçuşu ifadesine çok iyi uyuyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 63,
+      "start_s": 437.0,
+      "duration_s": 9.0,
+      "narration": "So the better question is not why NASA paused a station. It is whether the surface sequence can hold, step by step.",
+      "purpose": "explain",
+      "motion": "slow push-in with rotation",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_063.png",
+        "source": "nasa",
+        "nasa_id": "GSFC_20171208_Archive_e000743",
+        "title": "NASA Unveils Celestial Fireworks as Official Image for Hubble 25th Anniversary",
+        "credit": "NASA/GSFC — GSFC_20171208_Archive_e000743",
+        "fit_score": 9,
+        "reason": "Westerlund 2 kümesinin parlak genç yıldızları ve renkli bulutsusu, sahnedeki 'ışık basamakları' fikrine çok uygun."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 64,
+      "start_s": 446.0,
+      "duration_s": 6.0,
+      "narration": "Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030.",
+      "purpose": "cutaway",
+      "motion": "tilt up following the trail",
+      "transition": "whip",
+      "image": {
+        "file": "assets/scene_064.jpg",
+        "source": "nasa",
+        "nasa_id": "S72-55070",
+        "title": "Launch of the Apollo 17 lunar landing mission",
+        "credit": "NASA/JSC — S72-55070",
+        "fit_score": 8,
+        "reason": "Gece fırlatma anında alevler ve dumanla çekilmiş Apollo 17 görüntüsü, sahnedeki gece fırlatma atmosferini güçlü biçimde veriyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 65,
+      "start_s": 452.0,
+      "duration_s": 6.0,
+      "narration": "And whether anyone can show that the ice is usable, and where it came from.",
+      "purpose": "cutaway",
+      "motion": "slow glide over the ice",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_065.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA00291",
+        "title": "Europa Broken Ice",
+        "credit": "NASA/JPL — PIA00291",
+        "fit_score": 6,
+        "reason": "Europa yüzeyindeki çatlak ağı brief'teki buzlu, çatlaklı yüzey ifadesine uyuyor, ancak görüntü gri tonlu ve düşük çözünürlüklü."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 66,
+      "start_s": 458.0,
+      "duration_s": 7.0,
+      "narration": "The base is still mostly on paper. The next two years decide whether it becomes hardware.",
+      "purpose": "cutaway",
+      "motion": "slow pull-out to emphasise emptiness",
+      "transition": "cut",
+      "image": {
+        "file": "assets/scene_066.jpg",
+        "source": "nasa",
+        "nasa_id": "as15-87-11849",
+        "title": "View of Mount Hadley as photographed by Apollo 15 during EVA",
+        "credit": "NASA/JSC — as15-87-11849",
+        "fit_score": 5,
+        "reason": "Mount Hadley'nin çevresindeki çorak Ay yüzeyi brief'in zeminine uyuyor, ancak uzaktaki iniş aracı bu karede görünmüyor."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 66,
+          "text": "PAPER OR HARDWARE?",
+          "position": "bottom",
+          "style": "headline",
+          "in_s": 3.0,
+          "out_s": 6.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 67,
+      "start_s": 465.0,
+      "duration_s": 7.0,
+      "narration": "And either way, the south pole is where both NASA and China are placing their bets.",
+      "purpose": "cutaway",
+      "motion": "slow zoom-in to the centre",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_067.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA20294",
+        "title": "WFPC2 Image of the Variable Star Eta Carinae",
+        "credit": "NASA/JPL — PIA20294",
+        "fit_score": 9,
+        "reason": "Eta Carinae'nin çift loblu, parlak ve renkli Hubble görüntüsü, 'iki güç tek merkez' brief'iyle birebir örtüşüyor."
+      },
+      "ai_prompt": null,
+      "overlays": [],
+      "evidence_tracker": null
+    },
+    {
+      "id": 68,
+      "start_s": 472.0,
+      "duration_s": 6.0,
+      "narration": "If you want to follow it with us, subscribe to Rebel Minds Cosmos.",
+      "purpose": "outro",
+      "motion": "slow pull-out with gentle rotation",
+      "transition": "crossfade",
+      "image": {
+        "file": "assets/scene_068.jpg",
+        "source": "nasa",
+        "nasa_id": "PIA12348",
+        "title": "Great Observatories Unique Views of the Milky Way",
+        "credit": "NASA/JPL — PIA12348",
+        "fit_score": 8,
+        "reason": "Great Observatories ortak Samanyolu merkez panoraması çok renkli ve davetkar, outro için uygun."
+      },
+      "ai_prompt": null,
+      "overlays": [
+        {
+          "scene_id": 68,
+          "text": "SUBSCRIBE",
+          "position": "center",
+          "style": "headline",
+          "in_s": 1.5,
+          "out_s": 5.5
+        }
+      ],
+      "evidence_tracker": null
+    },
+    {
+      "id": 69,
+      "start_s": 478.0,
+      "duration_s": 6.0,
+      "narration": "Next time, we go inside those dark craters, and ask where that ice came from.",
+      "purpose": "outro",
+      "motion": "slow push-in into the darkness, fade to navy",
+      "transition": "crossfade",
+      "image": null,
+      "ai_prompt": "Cinematic 16:9 camera dropping toward a dark crater rim, faint blue ice shimmer, stars above, no text",
+      "overlays": [],
+      "evidence_tracker": null
+    }
+  ]
+}

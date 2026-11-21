@@ -1,0 +1,51 @@
+{
+  "overlays": [
+    {"scene_id": 1, "text": "NO BASE YET", "position": "bottom", "style": "headline", "in_s": 3.5, "out_s": 7.5},
+    {"scene_id": 2, "text": "SLIPPED TO 2027", "position": "bottom", "style": "number", "in_s": 1.0, "out_s": 5.0},
+    {"scene_id": 4, "text": "MARCH 2026", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 4.0},
+    {"scene_id": 6, "text": "PAUSED, NOT CANCELLED", "position": "bottom", "style": "headline", "in_s": 1.5, "out_s": 6.0},
+    {"scene_id": 10, "text": "$20B / 7 YEARS", "position": "center", "style": "number", "in_s": 2.0, "out_s": 6.0},
+    {"scene_id": 11, "text": "A CITY? NOT YET", "position": "bottom", "style": "headline", "in_s": 3.5, "out_s": 7.5},
+    {"scene_id": 12, "text": "PHASE ONE: 2029", "position": "lower-third", "style": "label", "in_s": 1.5, "out_s": 6.0},
+    {"scene_id": 13, "text": "PHASE TWO: 2032", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 4.5},
+    {"scene_id": 14, "text": "PHASE THREE", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 4.5},
+    {"scene_id": 16, "text": "WHY THE SOUTH POLE?", "position": "bottom", "style": "headline", "in_s": 0.5, "out_s": 4.0},
+    {"scene_id": 17, "text": "MINUS 250 C", "position": "center", "style": "number", "in_s": 2.5, "out_s": 7.0},
+    {"scene_id": 18, "text": "COLDER THAN PLUTO", "position": "bottom", "style": "headline", "in_s": 0.5, "out_s": 4.5},
+    {"scene_id": 19, "text": "LCROSS, 2009", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 4.5},
+    {"scene_id": 20, "text": "155 KG, NOT A TOTAL", "position": "bottom", "style": "number", "in_s": 2.0, "out_s": 8.0},
+    {"scene_id": 23, "text": "WHERE DID IT COME FROM?", "position": "bottom", "style": "headline", "in_s": 4.5, "out_s": 8.5},
+    {"scene_id": 28, "text": "MOON BASE I: BLUE ORIGIN", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 5.5},
+    {"scene_id": 31, "text": "MAY 28, 2026", "position": "lower-third", "style": "number", "in_s": 3.0, "out_s": 8.0},
+    {"scene_id": 33, "text": "MOON BASE III: Q1 2027", "position": "lower-third", "style": "label", "in_s": 0.5, "out_s": 5.0},
+    {"scene_id": 45, "text": "100 KW BY 2030", "position": "center", "style": "number", "in_s": 2.0, "out_s": 6.5},
+    {"scene_id": 48, "text": "ARTEMIS III: 2027, IV: 2028", "position": "bottom", "style": "headline", "in_s": 2.0, "out_s": 8.5},
+    {"scene_id": 51, "text": "PLAN OR PROMISE?", "position": "bottom", "style": "headline", "in_s": 2.5, "out_s": 6.5},
+    {"scene_id": 59, "text": "WHY PAUSE THE STATION?", "position": "bottom", "style": "headline", "in_s": 1.5, "out_s": 5.5},
+    {"scene_id": 66, "text": "PAPER OR HARDWARE?", "position": "bottom", "style": "headline", "in_s": 3.0, "out_s": 6.5},
+    {"scene_id": 68, "text": "SUBSCRIBE", "position": "center", "style": "headline", "in_s": 1.5, "out_s": 5.5}
+  ],
+  "evidence_tracker": [
+    {"scene_id": 6, "count": 1, "label": "Paused, not cancelled"},
+    {"scene_id": 10, "count": 2, "label": "Cost estimate"},
+    {"scene_id": 12, "count": 3, "label": "Three-phase plan"},
+    {"scene_id": 17, "count": 4, "label": "Permanent shadow cold"},
+    {"scene_id": 19, "count": 5, "label": "LCROSS water ice"},
+    {"scene_id": 28, "count": 6, "label": "Moon Base One"},
+    {"scene_id": 31, "count": 7, "label": "New Glenn explosion"},
+    {"scene_id": 35, "count": 8, "label": "PROMISE nuclear rover"},
+    {"scene_id": 38, "count": 9, "label": "MoonFall hoppers"},
+    {"scene_id": 45, "count": 10, "label": "Fission reactor target"},
+    {"scene_id": 48, "count": 11, "label": "Artemis dates"},
+    {"scene_id": 52, "count": 12, "label": "Chang'e-7 delay"},
+    {"scene_id": 57, "count": 13, "label": "Student challenge"}
+  ],
+  "thumbnail": {
+    "headline": "GATEWAY PAUSED. WHY?",
+    "layout": "Tek odak: Ay'in guney kutbunda golgede kalmis krater kenari; ustte yari silik, mor cizgili hayalet istasyon silueti ve yaninda kucuk bir duraklat simgesi. Sol yarida gercek foto dokusu, sag yarida blueprint cizgisi ('kagit uzerinde' mesaji). Basliklar sol ustte, Montserrat ExtraBold, buz beyazi, iki satir (GATEWAY PAUSED. / WHY?); 'PAUSED' kelimesi amber. Arka plan derin uzay lacivert, ufukta amber gunes isigi. Metin guvenli kenar bosluklarinin icinde, telefonda okunur.",
+    "image_prompt": "Cinematic 16:9 view of the lunar south pole at a shadowed crater rim with long dramatic shadows, photorealistic grey regolith on the left fading into a faint blueprint wireframe on the right, an empty flat landing site in the foreground, a translucent ghostly space station silhouette in lunar orbit high in the sky with a small glowing pause symbol beside it, amber sun glow on the horizon, deep navy space sky with violet nebula glow, single strong focal point, high contrast, empty space in upper left for a headline, no text, no letters",
+    "text_color": "#F2F5FF",
+    "accent_color": "#FFB020"
+  },
+  "design_notes": "Toplam 24 overlay: hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold (en az 64 px), %10 guvenli kenarlarin icinde ve gerektiginde yumusak koyu scrim ile. Overlay'ler sadece anahtar sayilari (20B dolar, -250 C, 155 kg, 100 kW), tarihleri ve cerceve sorularini vurguluyor; kozmik cutaway sahnelerinin cogunda metin yok. Kanit sayaci yalnizca evidence_update true olan 13 sahnede (6, 10, 12, 17, 19, 28, 31, 35, 38, 45, 48, 52, 57) goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Sayac ust kosede, overlay'ler alt/orta/lower-third konumunda oldugu icin cakisma yok. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY?"
+}
