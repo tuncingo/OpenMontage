@@ -1,0 +1,51 @@
+{
+  "titles": [
+    "NASA's Moon Base: What Is Real and What Is a Drawing",
+    "NASA Paused a Space Station for a Moon Base. Why?",
+    "The Moon Base Is Still a Schedule, Not a Building",
+    "Why NASA Is Betting on the Moon's Dark Craters",
+    "Moon Base 2032: Nuclear Rovers, Hopping Drones, Ice"
+  ],
+  "recommended_title": "NASA Paused a Space Station for a Moon Base. Why?",
+  "thumbnail": {
+    "headline": "Real or Drawing?",
+    "concept": "Tek odak: Ay'ın güney kutbunda yarı gölgede kalmış bir krater kenarı. Sol yarısı gerçek NASA tarzı fotoğraf dokusu, sağ yarısı soluk bir çizim/blueprint çizgisi olarak biten bir kubbe taslağı. Arka plan derin uzay lacivert, ufukta amber güneş ışığı, krater içinde mor parıltı. Metin büyük, buz beyazı Montserrat ExtraBold.",
+    "image_prompt": "Cinematic 16:9 view of the lunar south pole at a crater rim, half of the scene photorealistic grey regolith with long dramatic shadows and a glowing amber sun on the horizon, the other half fading into a faint blueprint wireframe sketch of a habitat dome, deep navy space sky with violet nebula glow, a small rover silhouette in the foreground, strong single focal point, high contrast, no text, no letters"
+  },
+  "description": "NASA says it is building a Moon base. As far as we can find, not one piece of it has landed yet. In March 2026 the agency paused Gateway to focus on the lunar surface, so what is real and what is just a drawing?\n\nIn this episode we walk through NASA's three-phase plan, the evidence for ice at the south pole (and what we still do not know), the nuclear-powered PROMISE rover, the hopping MoonFall drones, the reactor timeline experts doubt, and China's competing plans near Shackleton.\n\nChapters\n00:00 The base that has not landed\n00:45 Gateway paused, not cancelled\n01:50 Three phases: 2029 and 2032\n02:50 Why the south pole? Ice in the dark\n05:00 Light, and where the ice came from\n05:40 Landers, PROMISE and MoonFall\n07:20 Power and the 100 kilowatt reactor\n08:10 Can the schedule hold?\n09:00 China's Chang'e-7 and the race\n09:50 What to watch next\n\nNote: some figures (the roughly 20 billion dollar cost, the New Glenn pad incident and early 2027 lander date, the Artemis IV date) come from press or trade reports and are not independently confirmed. We flag them in the video.\n\nSources\nS1. https://www.nasa.gov/moonbase/\nS2. https://www.nasa.gov/moonbase-phases/\nS3. https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/\nS4. https://www.planetary.org/articles/water-on-the-moon-guide\nS5. https://www.theregister.com/2026/03/24/goodbye_lunar_gateway_nasa_ditches/\nS6. https://www.aol.com/news/experts-sound-off-trump-nasa-131201551.html\nS7. https://scientificamerican.com/article/china-delays-ambitious-change-7-moon-mission-until-2027\nS8. https://en.wikipedia.org/wiki/Lunar_south_pole\nS9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-nuclear-rover-to-the-lunar-south-pole/\nS10. https://www.nasa.gov/mission/promise/\nS11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/\nS12. https://www.aljazeera.com/amp/news/2026/3/24/nasa-to-spend-20bn-on-moon-base-nuclear-powered-mars-spacecraft\nS13. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/\nS14. https://www.skyatnightmagazine.com/news/artemis-iii-wont-land-on-moon\n\nSubscribe to Rebel Minds: Cosmos. Next time: inside the dark craters, and where the ice came from.",
+  "tags": [
+    "NASA Moon base",
+    "lunar south pole",
+    "Artemis",
+    "Gateway cancelled",
+    "Moon water ice",
+    "PROMISE rover",
+    "MoonFall",
+    "Chang'e-7",
+    "Shackleton crater",
+    "lunar nuclear reactor",
+    "Jared Isaacman",
+    "space news 2026",
+    "Moon exploration",
+    "Rebel Minds Cosmos"
+  ],
+  "chapters": [
+    {"time_estimate": "00:00", "title": "The base that has not landed"},
+    {"time_estimate": "00:45", "title": "Gateway paused, not cancelled"},
+    {"time_estimate": "01:50", "title": "Three phases: 2029 and 2032"},
+    {"time_estimate": "02:50", "title": "Why the south pole? Ice in the dark"},
+    {"time_estimate": "05:00", "title": "Light, and where the ice came from"},
+    {"time_estimate": "05:40", "title": "Landers, PROMISE and MoonFall"},
+    {"time_estimate": "07:20", "title": "Power and the 100 kilowatt reactor"},
+    {"time_estimate": "08:10", "title": "Can the schedule hold?"},
+    {"time_estimate": "09:00", "title": "China's Chang'e-7 and the race"},
+    {"time_estimate": "09:50", "title": "What to watch next"}
+  ],
+  "originality": {
+    "score": 7,
+    "risk": "low",
+    "similar_to": ["Ep3 — Where did the Moon come from? (aynı nesne, farklı konu)", "Tipik 'NASA Moon base explained' / 'Artemis' haber özeti videoları"],
+    "notes": "Önceki bölümlerden belirgin biçimde ayrışıyor: Ep1 yıldızlararası cisimler, Ep2 Mars biyoimzası, Ep3 Ay'ın kökeni; bu bölüm program/zamanlama analizi. (Ep4 listede zaten bu bölüm olarak görünüyor, kendisiyle kıyaslanmadı.) Toplu üretilen uzay videolarından farkı: her iddiada kaynak atfı, belirsizliklerin açıkça işaretlenmesi (20 milyar dolar, New Glenn, Artemis IV), 'plan mı, slayt vaadi mi' çerçevesi, Gateway kararının gerekçesi ve eleştirisi, buzun varlığı ile miktarı/çıkarılabilirliği arasındaki ayrım ve açık döngü (buzun kökeni). Zayıf nokta: konu çok kalabalık ve haber odaklı; geneli NASA basın bültenlerinin yeniden anlatımına yaklaşabilir. Özgünlüğü artırmak için: kendi yorumumuz (reaktör neden gerekli, MoonFall neden zıplıyor), zaman çizelgesi grafiği ve kaynak karşılaştırması gibi özgün görsel/analiz katmanları kullanılmalı; anlatım sesi ve görsellerin şablon gibi görünmemesi için sahneler çeşitlendirilmeli. Uzun vadede bölümler kalıp (hook, kanıt sayacı, kapanış) tekrarına düşmemeli. Not: araştırma notlarındaki 'Chandrayaan-1 ve LRO' ifadesi S4 ile doğrulanmalı."
+  },
+  "posting_notes": "Yayın: Cumartesi/Pazar akşamı (TR 19:00-21:00) veya Salı-Perşembe 18:00; uzay haberi ilgisi için Gateway/Artemis haber döngüsüne yakın yayınlayın. Sabit yorum önerisi: 'Buzun Ay'a nereden geldiğini siz ne düşünüyorsunuz: kuyruklu yıldız, asteroit, güneş rüzgarı mı? Bir sonraki bölümde bunu açıyoruz. Belirsiz rakamlar (20 milyar dolar, New Glenn olayı, Artemis IV) basın kaynaklıdır, güncel durumu yoruma yazın.' Açıklamaya güncel haber olursa düzeltme notu ekleyin. Shorts fikirleri (zaman damgaları tahminidir, kurguya göre güncelleyin): 1) 00:00-00:40 'Moon base: not one piece has landed yet' (kanca + Gateway duraklatma). 2) 03:00-04:00 'Colder than Pluto: ice in permanently shadowed craters' (LCROSS örneği ile). 3) 06:20-07:10 'Hopping drones and a nuclear rover: the strangest Moon machines' (PROMISE + MoonFall). Her Short sonunda tam bölüme yönlendirme."
+}
