@@ -5,6 +5,9 @@ import playfairUrl from "../fonts/PlayfairDisplay-latin.woff2";
 import spaceGroteskUrl from "../fonts/SpaceGrotesk-latin.woff2";
 import montserratExtraBoldUrl from "../fonts/Montserrat-ExtraBold-latin.woff2";
 import interSemiBoldUrl from "../fonts/Inter-SemiBold-latin.woff2";
+import inter300Url from "../fonts/Inter-300-latin.woff2";
+import inter400Url from "../fonts/Inter-400-latin.woff2";
+import inter500Url from "../fonts/Inter-500-latin.woff2";
 
 /**
  * Fonts bundled with the compositions instead of fetched from Google Fonts at
@@ -63,3 +66,11 @@ export const loadMontserratExtraBold = () => ({
 export const loadInterSemiBold = () => ({
   fontFamily: register("Inter", interSemiBoldUrl, "normal", ["600"]),
 });
+
+// Inter Light / Regular / Medium for the "reference" look (thin numerals, hairline rules, letter-spaced captions).
+export const loadInterFamily = () => {
+  register("Inter", inter300Url, "normal", ["300"]);
+  register("Inter", inter400Url, "normal", ["400"]);
+  register("Inter", inter500Url, "normal", ["500"]);
+  return { fontFamily: register("Inter", interSemiBoldUrl, "normal", ["600"]) };
+};

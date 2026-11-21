@@ -10,11 +10,12 @@ import {
   useCurrentFrame,
 } from "remotion";
 import { TransitionSeries, linearTiming } from "@remotion/transitions";
-import { loadInterSemiBold, loadMontserratExtraBold } from "./lib/localFonts";
+import { loadInterFamily } from "./lib/localFonts";
 import { presentationFor, transitionFrames } from "./lib/episodeTransitions";
 import { ProceduralScene, ProceduralVariant } from "./components/ProceduralScene";
 import {
   CornerLabel,
+  Credit,
   EvidenceTracker,
   KineticHeadline,
   KineticNumber,
@@ -31,6 +32,8 @@ import {
  *    extended by the next transition's length so the cut points stay locked to the narration
  *  - every photo moves: Ken Burns + a counter-moving blurred depth layer; a star/dust layer
  *    drifts over everything (denser on cutaways)
+ *  - look follows the channel's earlier episodes: near-black ground, Inter Light numerals, hairline rules,
+ *    letter-spaced captions, teal accent, small grey source credit bottom-right
  *  - overlays animate in and out (kinetic numbers, word-by-word headlines, lower thirds);
  *    the evidence tracker unfolds, counts up and folds away
  */
@@ -60,6 +63,8 @@ export interface EpisodeScene {
   src: string | null;
   procedural?: ProceduralVariant | null;
   purpose?: string;
+  /** Short image credit shown bottom-right (e.g. "Image: NASA/JSC"). */
+  credit?: string;
   motion: string;
   transition: string;
   overlays: EpisodeOverlay[];
@@ -157,8 +162,7 @@ const OverlayItem: React.FC<{ o: EpisodeOverlay }> = ({ o }) => {
 };
 
 export const RebelEpisode: React.FC<EpisodeProps> = ({ fps, scenes, narration }) => {
-  loadMontserratExtraBold();
-  loadInterSemiBold();
+  loadInterFamily();
 
   // Each scene is stretched by the length of the transition INTO the next scene, so every
   // cut point still lands on start_s of the next scene (the overlap is subtracted by the series).
@@ -205,6 +209,11 @@ export const RebelEpisode: React.FC<EpisodeProps> = ({ fps, scenes, narration })
                 </Sequence>
               );
             })}
+            {s.credit ? (
+              <Sequence from={from + Math.round(0.4 * fps)} durationInFrames={Math.max(12, own - Math.round(0.6 * fps))} layout="none">
+                <Credit text={s.credit} />
+              </Sequence>
+            ) : null}
             {s.evidence_tracker ? (
               <Sequence
                 from={from + 6}

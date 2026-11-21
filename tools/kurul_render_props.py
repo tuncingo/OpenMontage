@@ -135,6 +135,9 @@ def main() -> None:
             shutil.copy(f, dst)
             src = f"images/scene_{sid:03d}{ext}"
         proc = PROCEDURAL.get(sid) if not src else None
+        credit = ""
+        if src and s["image"].get("credit"):
+            credit = "Image: " + s["image"]["credit"].split(" \u2014 ")[0].strip()
         if not src and not proc:
             missing.append(sid)
         overlays = []
@@ -146,7 +149,7 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
+            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })
