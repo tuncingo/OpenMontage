@@ -2,7 +2,7 @@
 
 **Durum:** ⚠️ SENİN KARARIN GEREKİYOR — 2 turda eşik aşılamadı
 **Bölüm kodu:** `2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole`
-**Taslak turu:** 3 · **Son ortalama:** 6.0/10
+**Taslak turu:** 4 · **Son ortalama:** 7.17/10
 
 ## Tur geçmişi
 | Tur | Ortalama | En düşük | Kritik sorun | Karar |
@@ -10,141 +10,130 @@
 | 1 | 6.33 | 6.0 | 0 | revise |
 | 2 | 7.33 | 7.0 | 0 | needs_human |
 | 3 | 6.0 | 4.0 | 2 | needs_human |
+| 4 | 7.17 | 6.5 | 0 | needs_human |
 
 ## Son tur hakem notları
-### Doğrulayıcı — 7.0/10
-Metnin çekirdeği (fazlar, buz sayıları, PROMISE, MoonFall, Çin) araştırma notlarıyla uyumlu. Ancak S13'e dayanan 20/30 milyar dolar ve Artemis III/IV cümleleri ile 'hiçbir araç inmedi', 'Athena' ve 'ilk iki inişçi' ifadeleri notlarda dayanaksız veya yanlış hizalı; ayrıca hedge'ler silinince 'basın rakamı' niteliği kayboldu.
+### Doğrulayıcı — 8.0/10
+Önceki turdaki kritik hatalar giderilmiş; S13 doğrudan doğrulandı, S14-S18 ağ kısıtı nedeniyle açılamadı ve araştırma notlarına dayanarak tutarlı bulundu. Kalan sorunlar küçük atıf ve ifade meseleleri.
 
-İddialar: 31 doğrulandı · 2 tartışmalı · 6 kaynaksız
-- **major** — "The price tag is about twenty billion dollars for the Moon Base plan, and about thirty billion over the decade for all three phases. [S13]"
-  - Sorun: Cümle tamamen editör kaynağı S13'e dayanıyor; araştırma notları yalnızca 20 milyar doları, o da 'basın rakamı, denetlenmiş NASA bütçesi değil' ve yaklaşık yedi yıl (CBS) kaydıyla veriyor; 30 milyar notlarda yok. Dış kaynaklar 30 milyarı doğruluyor ve 20 milyarın ilk ~7 yıl/ilk iki faz olduğunu söylüyor; metin iki rakamı birbirinden bağımsız gibi sunuyor ve 'basın raporlarına göre' çerçevesi silinmiş. Not: S13 URL'siz, doğrulanamaz.
-  - Öneri: Reword to: 'Press reports put the first seven years, roughly the first two phases, at about twenty billion dollars, and the full three-phase plan at about thirty billion over a decade.' Cite a public source (e.g. Fiscal Times or Bloomberg) instead of S13, and keep the 'reported' framing.
-- **major** — "Not one vehicle from the Moon Base programme has landed on the Moon yet. [S1] [S11]"
-  - Sorun: Araştırma: 'No Moon Base lander had landed as of the sources found. Not confirmed either way; verify.' Kesin cümle olarak veriliyor; S1/S11 bunu açıkça söylemiyor. Muhtemelen doğru ama dayanaksız.
-  - Öneri: Verify on nasa.gov/moonbase as of 2026-11-21 and keep, or soften to 'As of this recording, no Moon Base lander has reached the surface.'
-- **major** — "That is separate from the 2025 Athena landing by Intuitive Machines. The first Moon Base landers are still on Earth, and their launch has slipped to early 2027. [S11]"
-  - Sorun: Athena (IM-2, Mart 2025) araştırmada ve kaynaklarda hiç geçmiyor; [S11] bu cümleyi desteklemiyor. 'Still on Earth' de kaynaksız. 'Early 2027' notlarda 'the first part of 2027' (S14 yalnızca arama özeti, çekilemedi) olarak geçiyor.
-  - Öneri: Either add a citable source for the March 2025 IM-2 Athena landing (it landed near the south pole and tipped over) or drop the sentence. Cite S11 only for the slip to the first part of 2027.
-- **major** — "New Glenn exploded on its pad during a test firing in May 2026, and NASA's Moon Base manager confirmed that the first two landers slipped to the first half of 2027. [S13] [S11]"
-  - Sorun: Test firing ayrıntısı notlarda yok (dış kaynaklar 28 Mayıs 2026 static fire patlamasını doğruluyor, yani olgu doğru). Ancak 'Moon Base yöneticisi doğruladı' ve 'ilk yarı' notlarda yalnızca 'first part of 2027' ve arama özeti; yönetici ifadesi bağımsız aramada bulunamadı. Üstelik notlara göre kayan iki görev Moon Base I ve III'tür (Blue Moon MK1 ve Nova-C), 'ilk iki lander' ise I ve II gibi okunur. S11 başlığı da bu yıl bir ay inişi beklendiğini ima ediyor, ifadeyle gerilim olabilir.
-  - Öneri: Write: 'New Glenn exploded on its pad during a static-fire test in May 2026. Blue Origin's Moon Base One lander and Intuitive Machines' Moon Base Three lander have slipped to the first part of 2027.' Cite Spaceflight Now for the explosion and the AIAA piece for the slip, after reading the AIAA page.
-- **major** — "Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028."
-  - Sorun: Araştırma notları bunu 'sources conflict, verify before stating as fact' diye işaretliyor, yalnızca arama özetleri. Cümle S13'e (editör) dayanıyor. Bağımsız aramada NASA'nın kendi güncel planı bunu doğruluyor (Artemis III 2027 LEO gösterimi, Artemis IV 2028 iniş hedefi), yani olgu büyük olasılıkla doğru; ama 'makes' kesin ifadesi yerine hedef olduğu belirtilmeli.
-  - Öneri: Say 'NASA now plans Artemis III as a 2027 Earth-orbit test and targets the first landing on Artemis IV in 2028' and cite the NASA Artemis architecture page rather than S13.
-- **minor** — "Blue Origin won a ninety four million dollar contract to deliver it, with a target of late 2028. [S2] [S9]"
-  - Sorun: Notlara göre 94 milyon dolar 'base contract', üstüne 140 milyon dolarlık opsiyon var; opsiyon atlanınca sözleşme küçük görünüyor. S2 (phases sayfası) sözleşme tutarını kapsamıyor, kaynak S1/S9.
-  - Öneri: Say 'a ninety four million dollar base contract, with a hundred forty million option' and cite [S1] [S9].
-- **minor** — "NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S2] [S9]"
-  - Sorun: Öğrenci yarışması notlarda S1 (nasa.gov/moonbase) ve R&D World'e dayanıyor; S2 yarışmayı desteklemiyor. Bu hâliyle S2 yalnızca faz tarihini kapsıyor.
-  - Öneri: Cite [S1] [S9] for the challenge and [S2] only for Phase Three timing.
-- **minor** — "Second, MoonFall. Four hopping drones from JPL, planned for 2028. Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days."
-  - Sorun: 'Flying across a lunar day' notlarda yalnızca bir parantez; 14 günlük süre ile uçuş birlikte çarpıtılabilir. Ayrıca 'hopping' ile 'flying' karışık.
-  - Öneri: Say: 'They are designed to hop across the surface to map landing sites, operating over a lunar day of about fourteen Earth days.'
-- **minor** — "That is colder than the surface of Pluto."
-  - Sorun: Notlarda 'colder than Pluto' var; Plüton yüzeyi yaklaşık -230 C olduğundan doğru, ama kaynak karşılaştırma yapıyorsa belirtilmeli; sadece Planetary kaynağı dayanak.
-  - Öneri: Keep, but ensure the figure matches the Planetary Society wording ('about minus 250 C') and say 'colder than Pluto's typical surface'.
-- **minor** — "A working surface reactor by 2030 is a steep climb."
-  - Sorun: Yorum cümlesi; kaynak (S6) uzmanların takvimden şüphe ettiğini söylüyor, 'steep climb' bir yorum. Ayrıca S6 yalnızca AOL arama özeti, tam metin okunmadı.
-  - Öneri: Attribute: 'Experts quoted by the press call that timeline a steep climb.'
+İddialar: 30 doğrulandı · 0 tartışmalı · 3 kaynaksız
+- **minor** — "The first direct detection came in 2009."
+  - Sorun: Araştırma notlarında LCROSS'un 'ilk doğrudan tespit' olduğu yazmıyor; sadece 2009'da yaklaşık 155 kg su tespit ettiği var. 'İlk' iddiası desteksiz (Chandrayaan-1 aynı yıl uzaktan hidrasyon saptadı).
+  - Öneri: Say 'A key direct detection came in 2009' or 'LCROSS in 2009 gave direct evidence' unless S4 explicitly says first.
+- **minor** — "Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028. [S2] [S9]"
+  - Sorun: S2 (moonbase-phases) bu sözleşme rakamlarını içermiyor; notlarda rakamlar nasa.gov/moonbase ve rdworldonline'dan geliyor. S9 yalnızca arama özetine dayanıyor.
+  - Öneri: Cite [S1] [S9] for the contract; keep [S2] only for the rover and drill description.
+- **minor** — "The first three have slipped to 2027. [S1] [S18]"
+  - Sorun: S18 'bu yıl beklenen üç CLPS görevi 2027'ye kaydı' diyor; Moon Base II (Griffin) için ayrı bir kaynak yok ve S11 yalnızca I ve III'ü kapsıyor. S18'e doğrudan erişilemedi. Ayrıca S1 kaymayı desteklemiyor.
+  - Öneri: Cite only [S18] for the slip, and confirm that S18 maps the three delayed missions to Moon Base I-III.
+- **minor** — "Experts question the 2027 and 2028 dates."
+  - Sorun: Uzman şüphesi kaynağı (AOL/S6) arama özetine dayanıyor ve Artemis III/IV yeniden yapılanmasından önceki planlara ait olabilir; yeni 'Dünya yörüngesi testi' çerçevesiyle uyumu doğrulanmadı.
+  - Öneri: Soften to 'Some experts doubt the landing and reactor schedules' without tying it to the Artemis III orbital test.
+- **minor** — "Moon Base One and Three slipped to the first part of 2027. [S17] [S11]"
+  - Sorun: S11 yalnızca arama özetiyle görüldü, sayfa açılamadı; S17 patlama tarihi için geçerli ama kaymayı S17 değil S11 destekliyor (sıralama okuyucuyu yanıltabilir).
+  - Öneri: Split citations: explosion date [S17], slip to early 2027 [S11]; note S11 is unverified.
 
-### Şüpheci Hakem — 4.0/10
-Bilim kısmı (buz, PSR'ler, LCROSS, Chandrayaan-3) dürüst ve iyi kalibre edilmiş; ancak bu turda doğrulama çekinceleri bilinçli olarak silinmiş ve araştırmada 'basın rakamı', 'kaynaklar çelişiyor', 'yalnızca arama özeti' olarak işaretlenen iddialar, denetlenemeyen bir editör kaynağına (S13) dayanılarak kesin gerçek gibi sunuluyor. 'Asi ama dürüst' çizgisi için bu kabul edilemez.
-- **critical** — "The price tag is about twenty billion dollars for the Moon Base plan, and about thirty billion over the decade for all three phases. [S13]"
-  - Sorun: Araştırma notları 20 milyar doları açıkça 'denetlenmiş bir NASA bütçesi değil, basın rakamı' olarak işaretliyor (yaklaşık yedi yıl için, CBS arama özeti üzerinden). 30 milyar dolar / on yıl rakamı araştırmada hiç yok. İkisi de URL'si, belge adı, tarihi olmayan ve izleyicinin ya da hakemin kontrol edemeyeceği 'editöre göre NASA belgeleri' kaynağına (S13) dayandırılmış ve hiçbir çekince konmamış. Ayrıca iki rakam birbirine bağlanmamış: 20 milyar ile 30 milyar dolar arasındaki ilişki (hangi yıllar, hangi fazlar) belirsiz ve kafa karıştırıcı.
-  - Öneri: Either cite a specific, verifiable NASA document (title, date, URL) for both figures, or revert to: 'Press reports put the cost at about twenty billion dollars over roughly seven years. That is a reported figure, not an audited NASA budget.' Drop the thirty-billion figure unless a checkable source is added, and if kept, explain how it relates to the twenty billion.
-- **critical** — "Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028."
-  - Sorun: Araştırma bu konuda açık: 'Kaynaklar çelişiyor. NASA'nın kendi Artemis III sayfası güncel değildi. Gerçek olarak sunmadan önce doğrula' ve araştırma 2028'i 'geçici' olarak niteliyor. Senaryo bunu kesin gerçeğe çevirmiş ('makes the first landing in 2028'), hem de aynı paragrafta uzmanların bu tarihlerden şüphe ettiğini söylerken. Bu iç çelişki ve sahte kesinlik.
-  - Öneri: Say: 'Under the reported restructure, Artemis III becomes a 2027 rehearsal in Earth orbit, and the first crewed landing moves to Artemis IV, tentatively 2028. Not every source agrees yet.' Cite the specific source instead of the unverifiable S13.
-- **major** — "New Glenn exploded on its pad during a test firing in May 2026, and NASA's Moon Base manager confirmed that the first two landers slipped to the first half of 2027. [S13] [S11]"
-  - Sorun: Üç sorun var. (1) S11 araştırmada 'yalnızca arama özeti; sayfa getirilemedi' olarak işaretli, yani 'confirmed' kelimesi kaynağın gücünü abartıyor. (2) 'test firing' ayrıntısı araştırmada geçmiyor. (3) Olgusal hata: araştırmaya göre ertelenenler Moon Base I (Blue Moon MK1) ve Nova-C Trinity, yani Moon Base III. Moon Base II (Astrobotic Griffin) değil. Az önce üç numaralı görev sayıldığı için 'first two landers' izleyiciye yanlışlıkla Moon Base I ve II'yi düşündürüyor.
-  - Öneri: Replace with: 'In May 2026 a New Glenn rocket exploded on its pad. According to reporting, Moon Base One and the Intuitive Machines lander slipped from fall 2026 to the first part of 2027.' Remove 'during a test firing' unless sourced, and replace 'confirmed' with 'said, according to reports'.
-- **major** — "Not one vehicle from the Moon Base programme has landed on the Moon yet. [S1] [S11]"
-  - Sorun: Videonun ana kancası, araştırmanın 'bulunan kaynaklara göre; iki yönde de doğrulanmadı, doğrula' dediği bir iddiaya dayanıyor. 5. satırdaki 'still on Earth' ve 2025 Athena inişi de araştırmada yok, kaynaksız. Kanca doğru olabilir ama doğrulanmış olarak sunulmamalı.
-  - Öneri: Verify against a dated source as of 2026-11-21 and cite it, or soften to: 'As of the latest reports we found, no Moon Base lander has touched down.' Source the Athena reference or cut it.
-- **major** — "S13. NASA Moon Base documents, per editor (not in research.md)"
-  - Sorun: Hiçbir izleyicinin ya da hakemin kontrol edemeyeceği bir kaynak, senaryodaki en tartışmalı iddiaları (maliyet, New Glenn, Artemis yeniden yapılanması) tek başına taşıyor. Revizyon notları ayrıca 'tüm doğrulama çekinceleri silindi' diyor. Kaynak şeffaflığı, 'asi ama dürüst' bir kanalın temel şartı.
-  - Öneri: Replace S13 with specific document titles, dates and URLs. If those cannot be provided, restore the hedges from the research notes for every claim that rests only on S13.
-- **minor** — "Experts doubt the timeline more than the size."
-  - Sorun: Bu genelleme tek bir ikincil kaynaktan geliyor (AOL, arama özeti üzerinden). 'Experts' çoğulu, tek bir haberde aktarılan birkaç görüşü uzman uzlaşısı gibi gösteriyor.
-  - Öneri: Say: 'Experts quoted in one round of coverage doubted the timeline more than the size.'
-- **minor** — "Blue Origin won a ninety four million dollar contract to deliver it, with a target of late 2028."
-  - Sorun: Araştırmaya göre bu 94 milyon dolarlık temel sözleşme artı 140 milyon dolarlık bir opsiyon. Opsiyonu atlamak gerçek ölçeği eksik gösteriyor.
-  - Öneri: Say 'a ninety-four million dollar base contract, with a hundred-forty million dollar option'.
-- **minor** — "The base is still a drawing."
-  - Sorun: Retorik olarak güçlü ama biraz abartılı. Donanım var ve test ediliyor (Blue Moon MK1 kalkışa hazırlanıp test edildi, sözleşmeler imzalandı). 'Drawing' benzetmesi, gelişmenin gerçek durumunu küçümsüyor.
-  - Öneri: Say: 'The base is still mostly plans and prototypes. The next two years decide whether it becomes working hardware on the Moon.'
+### Şüpheci Hakem — 7.0/10
+Taslak 4 belirgin biçimde iyileşmiş: fiyat, Artemis ve Gateway çerçevelemeleri artık kaynaklı ve temkinli. Ancak buz tahmininin coğrafi bağlamı, LCROSS için 'ilk doğrudan tespit' iddiası, New Glenn patlamasının Nova-C kaymasıyla nedensel bağlanması ve başlıktaki 'neden' sorusunun yalnızca NASA'nın resmi gerekçesiyle yanıtlanması hâlâ düzeltilmeli.
+- **major** — "Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. Moon Base One and Three slipped to the first part of 2027."
+  - Sorun: Cümle dizilimi patlamanın iki görevi de geciktirdiğini ima ediyor. Moon Base III (Intuitive Machines Nova-C) New Glenn ile uçmuyor; kaynaklar (S11 yalnızca arama özeti, S17) Nova-C kaymasının nedenini patlamaya bağlamıyor. Zamansal yakınlık nedensellik gibi sunuluyor.
+  - Öneri: Separate cause from timeline: 'New Glenn, the rocket meant to carry Moon Base One, exploded during a static fire test on May 28, 2026. Moon Base One has slipped to the first part of 2027. Moon Base Three, on a different rocket, has slipped too, and SpacePolicyOnline reports all three CLPS missions expected this year are now in 2027.' Do not attribute Trinity's delay to New Glenn unless a source says so.
+- **major** — "One radar based estimate for the polar regions puts it at more than six hundred billion kilograms."
+  - Sorun: Yaygın olarak alıntılanan '600 milyon metrik ton' (600 milyar kg) rakamı Chandrayaan-1 Mini-SAR'ın kuzey kutbundaki ~40 krater için verdiği tahmindir. Güney kutbundaki üs için kullanmak, 'kutuplar genelinde' demek bile, rakamın bağlamını yanlış aktarabilir. S4 metni bu ayrımı yapıyor mu kontrol edilmeli.
+  - Öneri: Check S4's exact wording. If it is the Mini-SAR north-pole figure, say: 'One radar estimate, for craters near the Moon's north pole, put it at more than six hundred billion kilograms... It is not a measurement of the south pole, and certainly not of the base site.' Keep the Olympic-pool comparison only if attached to that caveat.
+- **major** — "The first direct detection came in 2009. NASA's LCROSS probe hit a crater and kicked up a plume"
+  - Sorun: 'İlk doğrudan tespit' tartışmalı bir öncelik iddiası. 2008'de Chandrayaan-1 Moon Impact Probe (CHACE) ve 2009'da M3 de su/hidrasyon izleri bildirdi; gölgeli kraterlerdeki yüzey buzunun doğrudan kanıtı ise 2018'de M3 verisiyle yayımlandı. Araştırma notları 'ilk' kelimesini desteklemiyor. Ayrıca kraterin adı (Cabeus) verilmiyor.
+  - Öneri: Rephrase to: 'A key direct measurement came in 2009. NASA's LCROSS probe struck Cabeus crater, near the south pole, and the plume contained about 155 kilograms of water.' Rename the EVIDENCE card to 'LCROSS impact at Cabeus, 2009'.
+- **major** — "And why shelve a space station? Because NASA chose to focus on the surface base, near the ice. Gateway is paused, not dead, and that is the bet."
+  - Sorun: Başlık 'NASA neden durdurdu?' diye soruyor ama yanıt döngüsel: 'yüzeye odaklanmak istediği için'. Bu NASA'nın resmi gerekçesi; maliyet/bütçe yeniden dağıtımı, Gateway'in yıllardır gereksizlikle eleştirilmesi, yönetimin öncelikleri gibi alternatif açıklamalar hiç anılmıyor. 'Asi ama dürüst' bir kanal için resmi söylem ile analizi ayırmak gerekir.
+  - Öneri: Label it explicitly as the stated rationale and acknowledge the open debate: 'NASA's stated reason is focus: put the money and hardware on the surface, near the ice. Critics had long questioned what Gateway added, and the pause also frees budget. Which reason weighed most is not something the public documents settle.' Source the critic/budget angle (e.g. S12 opinion piece) or drop it and simply say the deeper reasons are not public.
+- **minor** — "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases."
+  - Sorun: Rakamlar olgu gibi veriliyor; oysa bunlar yetkililerin plan/tahmin rakamları (Isaacman ve program yöneticisi García-Galán), onaylı ya da denetlenmiş bir bütçe değil. Ayrıca kalıcı bir üs için gerçekçiliği tartışmalı.
+  - Öneri: Attribute and hedge: 'NASA officials put the price at about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases. Those are planning figures, not an approved budget.'
+- **minor** — "NASA is aiming for a fission reactor of about one hundred kilowatts on the surface by around 2030. Experts doubt the timeline more than the size."
+  - Sorun: Reaktör hedefi ve uzman görüşü yalnızca AOL üzerinden ikincil bir arama özetine (S6) dayanıyor. 'Uzmanlar' genellemesi tek bir habere dayanıyor ve kanıt gücü aktarılmıyor.
+  - Öneri: Cite a primary NASA Fission Surface Power source for the 100 kW / 2030 target, and narrow the expert claim: 'Experts quoted in press coverage doubt the timeline more than the size.'
+- **minor** — "The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining. [S10]"
+  - Sorun: S10 (PROMISE sayfası) yalnızca eğimler, sırtlar ve derin kraterleri destekliyor; toz ve aşırı soğuk iddiası bu kaynağa bağlı değil.
+  - Öneri: Add [S4] for the extreme cold, and either source the dust point or soften it to a general statement not tied to S10.
+- **minor** — "The base is still mostly on paper and on test stands. The next two years decide whether it becomes hardware."
+  - Sorun: Donanım zaten mevcut (Blue Moon MK1 test ediliyor, lander'lar inşa edildi); 'iki yıl donanım olup olmayacağına karar verecek' ifadesi hem kendi önceki cümlesiyle çelişiyor hem de kesinlik abartısı içeriyor.
+  - Öneri: Change to: 'The next two years will show whether that hardware reaches the surface and works there.'
+- **minor** — "So let's go back to the opening. Why has so little been built?"
+  - Sorun: Açılışta sorulan soru 'neden Gateway durduruldu' ve 'ne gerçek, ne kağıt üzerinde' idi; 'neden bu kadar az şey inşa edildi' sorusu açılışta yok. Ayrıca 'az inşa edildi' yanıltıcı; sorun inşa değil, iniş/fırlatma.
+  - Öneri: Replace with: 'So let's go back to the opening. Why has nothing landed yet?'
+- **minor** — "None of the Moon Base missions has landed yet. The first three have slipped to 2027. [S1] [S18]"
+  - Sorun: S18 'bu yıl beklenen üç CLPS görevinin' kaydığını söylüyor; bunların tam olarak Moon Base I-III olduğu ve Blue Moon MK1'in CLPS kapsamında sayıldığı açıkça doğrulanmalı. Araştırma notu iniş durumunu 'doğrulanmadı' olarak işaretlemişti.
+  - Öneri: Confirm in S18 that the three slipped missions are Moon Base I, II and III; if not, say 'The three robotic landings NASA expected this year have all slipped to 2027.'
 
-### Hikâye Editörü — 7.0/10
-Kanca güçlü ve gerilimli, dürüst ton iyi; ancak ortadaki lander/rover/Artemis bölümü bilgi listesine dönüyor, Gateway sorusu ve buzun kökeni sorusu tatmin edici kapanmıyor, son bölümde tekrar var.
-- **major** — "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander."
-  - Sorun: İzleyicinin en olası terk noktası: kanca ve buz/ışık kısmından sonra isim, şirket ve rakam listesi başlıyor. Uzman olmayan biri için dil dolambaçlı ve TTS'te okunması zor (Shackleton Connecting Ridge, Astrobotic, PROMISE, MoonFall, JPL art arda).
-  - Öneri: Cut to one human-scale sentence: 'Three private landers go first, and NASA is buying rides instead of building them.' Name only Blue Origin. Open the next section with a question or stake before the PROMISE and MoonFall specs, and trim the drill depth, contract value and mission length.
-- **major** — "So why did NASA pause Gateway? And what is real here, and what is just a drawing?"
-  - Sorun: Hook'taki ana soru (neden duraklattı) yalnızca 'yüzeye odaklanmak için' diye cevaplanıyor ve aynı cevap üç kez tekrarlanıyor. Vaat edilen 'neden' tatmin edici açılmıyor, izleyici boşluk hissedebilir.
-  - Öneri: Give one concrete reason in the Gateway section (for example cost, or that orbit offers no ice or surface access) in a single sentence, and then cut the repeat in the closing recap to a brief callback.
+### Hikâye Editörü — 6.5/10
+Kanca olgusal ve gerilimli, ama orta bolum rakam ve takvim listesine donuyor; Gateway sorusu ile kapanistaki 'neden az sey insa edildi' sorusu uyusmuyor ve buz kaynagi merakı bolum icinde cevaplanmiyor.
+- **major** — "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases."
+  - Sorun: Hook'tan hemen sonra gelen Gateway ve fiyat bolumu kuru ve rakam yuklu; izleyici 30-60. saniyede dusme egilimi gosterir. Gateway sorusu cevaplanmadan fiyat ve ortak ulke ayrintilari araya giriyor.
+  - Öneri: Cut the partner-nations sentence or move it later, give the price one human comparison, and answer 'why pause Gateway' in one clear sentence right after the hook before moving on.
+- **major** — "So let's go back to the opening. Why has so little been built?"
+  - Sorun: Acilis 'Gateway neden durduruldu' ve 'ne gercek, ne kagit uzerinde' sorularini sordu; kapanista farkli bir soru ('neden az sey insa edildi') cevaplaniyor. Merak dongusu temiz kapanmiyor.
+  - Öneri: Rewrite as 'Back to the two questions we opened with', then answer Gateway first (the bet on the surface and the ice), then real versus paper (a sequence of robotic missions, not a building).
 - **major** — "And here is the loop I cannot close. Where did it come from? Comets, asteroids, the solar wind, even Earth. Scientists have not settled that. Hold on to that question."
-  - Sorun: Merak döngüsü açılıyor ama bölüm içinde hiç kapanmıyor, 'Next time' ile erteleniyor. Sonuç olarak izleyici bu bölümde ödül almıyor; 'hold on' ifadesi de gerilimi zayıflatıyor.
-  - Öneri: Pay off partly inside this episode: add two sentences on which source each candidate would fit and what a drill sample could show, then keep the teaser in the outro. Drop 'Hold on to that question'.
-- **major** — "Experts question the 2027 and 2028 landing dates. Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028."
-  - Sorun: Net değil: 2027 bir iniş tarihi olmadığı halde 'landing dates' deniyor; Artemis III ve IV bir anda ortaya çıkıyor ve açıklanmıyor. Uzman olmayan izleyici izi kaybeder.
-  - Öneri: Rewrite: 'The first crewed landing, now Artemis IV, is set for 2028. Experts doubt that date, because the lander is still being developed.' Mention Artemis III only if needed, with one clause of context.
-- **minor** — "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice."
-  - Sorun: Bağlamsız ve akışı kesen bir cümle; neden önemli olduğu söylenmiyor, TTS'te zor bir isim.
-  - Öneri: Either cut it or connect it: 'Even India's Chandrayaan-3 lander only measured temperatures. It did not see ice.'
+  - Sorun: Buzun kaynagi merak boslugu acilip bolum icinde hic ele alinmiyor; sadece sonraki bolume erteleniyor. Izleyici tatmin olmadan ayriliyor.
+  - Öneri: Spend three or four sentences explaining one competing hypothesis (comet impacts versus solar wind hydrogen) and what a sample from the pole could tell, then say what remains open.
+- **major** — "NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028. Experts question the 2027 and 2028 dates."
+  - Sorun: Orta kisimda PROMISE, MoonFall, JAXA rover, reaktor, Artemis ve Chang'e peş peşe geliyor; takvim ve rakam yogunlugu temposu dusuruyor, sade izleyici icin Artemis III/IV ayrintisi konu disi.
+  - Öneri: Trim Artemis to one sentence ('the crewed landing dates are doubted by experts') and drop the Three/Four detail, or cut it and keep only the reactor as the schedule-risk example.
+- **major** — "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander."
+  - Sorun: Uc numarali isim ve uc sirket sese cevrilince karisiyor; sonraki cumlede sadece One ve Three kaydi soyleniyor, Two'nun akibeti belirsiz kaliyor.
+  - Öneri: Say what happens to Moon Base Two explicitly, and simplify to 'three commercial landers, the first from Blue Origin', then give the slip as one clear beat.
 - **minor** — "NASA is even inviting students in, with a one million dollar Moon Base Challenge."
-  - Sorun: Anlatının geriliminden sapan bir yan bilgi, Çin yarışından hemen sonra tempoyu düşürüyor.
-  - Öneri: Shorten to one line folded into the ending ('Phase Three belongs to people in school right now') or cut the challenge and its evidence marker.
-- **minor** — "So let's go back to the opening. Why has so little been built? [S1]"
-  - Sorun: Kapanış bölümü önceki bilgileri (Gateway, aşamalar, ay yüzeyi) yeniden özetliyor; 'Because the base is not a place. It is a sequence.' güzel ama iki paragraf tekrarla sulandırılmış.
-  - Öneri: Keep 'the base is not a place, it is a sequence' as the pay-off line, cut the Gateway repeat, and go straight to the watch list.
-- **minor** — "That is separate from the 2025 Athena landing by Intuitive Machines. The first Moon Base landers are still on Earth, and their launch has slipped to early 2027."
-  - Sorun: Hook'un ikinci perdesi savunmacı bir dipnot gibi duruyor; ilk 15 saniyedeki sürükleyici etkiyi hafifletiyor.
-  - Öneri: Move the Athena clarification after the Gateway line, or compress to one clause: 'Not counting last year's Athena, nothing from this programme has landed.'
-- **minor** — "Sunlight for power, ice in the dark. Close together. That is the pitch."
-  - Sorun: Bu güzel bir ritim ama 'The idea of a sunless pole is wrong' ile hemen öncesinde çelişkiyi anlamak için duraksama gerekiyor; ayrıca bir kez daha 'The first reason' / 'second reason' yapısı hafif didaktik.
-  - Öneri: Merge into: 'Some ridges get near constant sunlight, and the craters beside them stay dark and icy. Power next to water. That is the pitch.'
-- **minor** — "## Revision notes"
-  - Sorun: Senaryo dosyasında Türkçe revizyon notları ve kaynak listesi var; TTS'e girmemesi için ayrıştırılmalı.
-  - Öneri: Make sure the narration extractor stops at '## Sources' and that the revision notes are stripped from the voice-over input.
+  - Sorun: Finalden hemen once gelen yan bilgi; ivmeyi kiriyor ve ana gerilimle (takvim tutar mi) baglantisi zayif.
+  - Öneri: Cut the paragraph or shorten it to one sentence folded into the closing line about who will build Phase Three.
+- **minor** — "Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed."
+  - Sorun: 'Paused, not cancelled' fikri uc kez tekrarlaniyor (kanit etiketi, bu cumle, kapanis); tekrar hissi veriyor.
+  - Öneri: Keep the evidence label and the closing callback, and cut this 'Notice the word paused' sentence to just the hardware detail.
+- **minor** — "Which brings us to power. [S6]"
+  - Sorun: Gecis zayif; MoonFall ve JAXA rover'dan guce ani sicrama oluyor, kanca cumlesi yok.
+  - Öneri: Use a tension bridge: 'None of this works without one thing, power, and the Moon makes that brutally hard.'
+- **minor** — "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice."
+  - Sorun: Konu disi, kisa ve baglamsiz bir cumle; acikca gerekcelendirilmeden ritmi bozuyor ve TTS icin 'Chandrayaan-3' telaffuz riski var.
+  - Öneri: Either cut it, or connect it: 'India's Chandrayaan-3 measured the cold, but did not see ice directly, which is why the evidence is still thin.'
 
 ## Stratejist
-**Önerilen başlık:** NASA Paused a Space Station for a Moon Base. Why?
+**Önerilen başlık:** Why Did NASA Pause Gateway for a Moon Base?
 
 **Alternatifler:**
-- NASA's Moon Base: What Is Real and What Is a Drawing
-- NASA Paused a Space Station for a Moon Base. Why?
-- The Moon Base Is Still a Schedule, Not a Building
-- Why NASA Is Betting on the Moon's Dark Craters
-- Moon Base 2032: Nuclear Rovers, Hopping Drones, Ice
+- Why Did NASA Pause Gateway for a Moon Base?
+- NASA Paused Gateway. No Moon Base Has Landed Yet
+- Moon Base Reality Check: What Is Real, What Is Paper
+- NASA Shelved a Moon Station. Here Is the Catch
+- The Moon Base Is a Schedule, Not a Building
 
-**Thumbnail:** "Real or Drawing?" — Tek odak: Ay'ın güney kutbunda yarı gölgede kalmış bir krater kenarı. Sol yarısı gerçek NASA tarzı fotoğraf dokusu, sağ yarısı soluk bir çizim/blueprint çizgisi olarak biten bir kubbe taslağı. Arka plan derin uzay lacivert, ufukta amber güneş ışığı, krater içinde mor parıltı. Metin büyük, buz beyazı Montserrat ExtraBold.
+**Thumbnail:** "Gateway Paused. Why?" — Tek odak: Ay'ın güney kutbunda gölgede kalmış bir krater kenarı. Yukarıda, ince mor çizgilerle yarı silik bir 'hayalet' istasyon silüeti (Gateway) Ay yörüngesinde duruyor ve üzerinde küçük bir duraklat (pause) simgesi var. Aşağıda krater kenarında henüz boş bir iniş alanı, ufukta amber güneş ışığı. Sol yarıda gerçek NASA tarzı fotoğraf dokusu, sağ yarıda çizim/blueprint hissi: 'kağıt üzerinde' mesajı. Arka plan derin uzay lacivert (#0B1026), buz beyazı (#F2F5FF) Montserrat ExtraBold başlık, vurgu amber. Telefonda okunur, tek odak.
 
 **Özgünlük:** 7/10 · risk: **low**
-Önceki bölümlerden belirgin biçimde ayrışıyor: Ep1 yıldızlararası cisimler, Ep2 Mars biyoimzası, Ep3 Ay'ın kökeni; bu bölüm program/zamanlama analizi. (Ep4 listede zaten bu bölüm olarak görünüyor, kendisiyle kıyaslanmadı.) Toplu üretilen uzay videolarından farkı: her iddiada kaynak atfı, belirsizliklerin açıkça işaretlenmesi (20 milyar dolar, New Glenn, Artemis IV), 'plan mı, slayt vaadi mi' çerçevesi, Gateway kararının gerekçesi ve eleştirisi, buzun varlığı ile miktarı/çıkarılabilirliği arasındaki ayrım ve açık döngü (buzun kökeni). Zayıf nokta: konu çok kalabalık ve haber odaklı; geneli NASA basın bültenlerinin yeniden anlatımına yaklaşabilir. Özgünlüğü artırmak için: kendi yorumumuz (reaktör neden gerekli, MoonFall neden zıplıyor), zaman çizelgesi grafiği ve kaynak karşılaştırması gibi özgün görsel/analiz katmanları kullanılmalı; anlatım sesi ve görsellerin şablon gibi görünmemesi için sahneler çeşitlendirilmeli. Uzun vadede bölümler kalıp (hook, kanıt sayacı, kapanış) tekrarına düşmemeli. Not: araştırma notlarındaki 'Chandrayaan-1 ve LRO' ifadesi S4 ile doğrulanmalı.
+Önceki bölümlerden belirgin biçimde ayrışıyor: Ep1 yıldızlararası cisimler, Ep2 Mars biyoimzası, Ep3 Ay'ın kökeni; bu bölüm program ve zamanlama analizi (Ep4 listede bu bölümün kendisi, kendisiyle kıyaslanmadı). Toplu üretilen uzay videolarından farkı: her olgusal cümlede kaynak atfı (18 kaynak), belirsizliklerin açıkça işaretlenmesi (buzun miktarı, maliyet, Artemis ve reaktör takvimi), 'plan mı, slayttaki söz mü' çerçevesi, Gateway'in 'iptal değil, duraklatıldı' ayrımı, buzun varlığı ile çıkarılabilirliği arasındaki fark ve açık döngü (buzun kökeni, bir sonraki bölümde ödenecek). Dikkat: arama yapılmadı, kalabalıklık değerlendirmesi bilgiye dayalı. Konu kalabalık ve haber odaklı; metin hâlâ NASA bültenleri ve basın haberlerinin derlemesine yaklaşabilir. Özgünlüğü korumak için: kendi yorumumuzu öne çıkarın (reaktör neden şart, MoonFall neden zıplıyor, 'base bir yer değil bir dizi'), takvim/zaman çizelgesi grafiği ve kaynak karşılaştırması gibi özgün görsel katmanlar kullanın, sahneleri çeşitlendirin, hazır stok/şablon görünümünden kaçının. Uzun vadede hook, kanıt sayacı, kapanış kalıbını bölümler arasında biraz değiştirin. Haber güncelliği riski: tarihler hızla eskiyebilir, açıklamada 'Kasım 2026 itibarıyla' notu var.
 
-Benzediği: Ep3 — Where did the Moon come from? (aynı nesne, farklı konu), Tipik 'NASA Moon base explained' / 'Artemis' haber özeti videoları
+Benzediği: Ep3 - Where did the Moon come from? (aynı gök cismi, tamamen farklı konu ve yapı), Tipik 'NASA Moon base explained' / 'Artemis update' haber özeti videoları
 
-**Yayın notları:** Yayın: Cumartesi/Pazar akşamı (TR 19:00-21:00) veya Salı-Perşembe 18:00; uzay haberi ilgisi için Gateway/Artemis haber döngüsüne yakın yayınlayın. Sabit yorum önerisi: 'Buzun Ay'a nereden geldiğini siz ne düşünüyorsunuz: kuyruklu yıldız, asteroit, güneş rüzgarı mı? Bir sonraki bölümde bunu açıyoruz. Belirsiz rakamlar (20 milyar dolar, New Glenn olayı, Artemis IV) basın kaynaklıdır, güncel durumu yoruma yazın.' Açıklamaya güncel haber olursa düzeltme notu ekleyin. Shorts fikirleri (zaman damgaları tahminidir, kurguya göre güncelleyin): 1) 00:00-00:40 'Moon base: not one piece has landed yet' (kanca + Gateway duraklatma). 2) 03:00-04:00 'Colder than Pluto: ice in permanently shadowed craters' (LCROSS örneği ile). 3) 06:20-07:10 'Hopping drones and a nuclear rover: the strangest Moon machines' (PROMISE + MoonFall). Her Short sonunda tam bölüme yönlendirme.
+**Yayın notları:** Yayın: bugün 21 Kasım 2026 Cumartesi; TR 19:00-21:00 aralığında yayınlayın (hafta sonu akşamı), alternatif Salı-Perşembe 18:00. Gateway ve Artemis haber döngüsüne yakın olması izlenme için avantaj. Sabit yorum önerisi: 'Hiçbir Moon Base görevi henüz inmedi ve ilk üçü 2027'ye kaydı. Sizce Gateway'i duraklatmak doğru bahis mi? Ve buz Ay'a nereden geldi: kuyruklu yıldız, asteroit, güneş rüzgarı, Dünya? Bir sonraki bölümde bunu açıyoruz. Maliyet ve Artemis tarihleri basın kaynaklıdır; yeni gelişme olursa yoruma yazın.' Yeni haber (inişler, reaktör, Artemis tarihleri) çıkarsa açıklamaya düzeltme notu ekleyin. Shorts fikirleri (süreler yaklaşık 140 kelime/dk tahminidir, final kurguya göre güncelleyin): 1) 00:00-00:45 'No Moon Base mission has landed. NASA paused its Moon station for it' (kanca + Gateway duraklatma). 2) 02:30-03:30 'Colder than Pluto: ice that survives in the dark' (kalıcı gölgeli kraterler, LCROSS, ice yok-lake değil vurgusu). 3) 05:20-06:10 'A nuclear rover and hopping drones: the strangest Moon machines' (PROMISE + MoonFall). Her Short sonunda tam bölüme yönlendirme.
 
 ### Açıklama
 
-NASA says it is building a Moon base. As far as we can find, not one piece of it has landed yet. In March 2026 the agency paused Gateway to focus on the lunar surface, so what is real and what is just a drawing?
+NASA says it is building a Moon Base. None of the Moon Base missions has landed yet, and the first three have slipped to 2027. To chase this base, the agency put its planned space station around the Moon, Gateway, on hold. So why did NASA pause Gateway, and what is real here versus still on paper?
 
-In this episode we walk through NASA's three-phase plan, the evidence for ice at the south pole (and what we still do not know), the nuclear-powered PROMISE rover, the hopping MoonFall drones, the reactor timeline experts doubt, and China's competing plans near Shackleton.
+In this episode: why Gateway is paused and not cancelled, NASA's three-phase plan (2029 and 2032 marks), the evidence for water ice at the lunar south pole and what we still do not know, the three commercial landers and the New Glenn setback, the nuclear-powered PROMISE rover, the MoonFall hopping drones, the 100 kilowatt reactor target, the doubted Artemis dates, and China's delayed Chang'e-7. Plus the open question: where did the ice come from?
 
 Chapters
-00:00 The base that has not landed
-00:45 Gateway paused, not cancelled
-01:50 Three phases: 2029 and 2032
-02:50 Why the south pole? Ice in the dark
-05:00 Light, and where the ice came from
-05:40 Landers, PROMISE and MoonFall
-07:20 Power and the 100 kilowatt reactor
-08:10 Can the schedule hold?
-09:00 China's Chang'e-7 and the race
-09:50 What to watch next
+00:00 Not one piece has landed yet
+00:35 Why NASA paused Gateway
+01:25 What "base" really means: three phases
+02:05 Why the south pole? Ice and light
+04:20 Three landers and the New Glenn setback
+05:20 PROMISE and MoonFall
+06:10 Power and the 100 kilowatt reactor
+06:50 Can the schedule hold?
+07:25 China, Chang'e-7 and the race
+08:00 What to watch next
 
-Note: some figures (the roughly 20 billion dollar cost, the New Glenn pad incident and early 2027 lander date, the Artemis IV date) come from press or trade reports and are not independently confirmed. We flag them in the video.
+A note on certainty: the cost figures (about 20 billion dollars over seven years, about 30 billion over a decade) and the Artemis dates come from press and trade reporting, and experts question the reactor and Artemis timelines. The ice is well supported, but how much there is, in what form, and whether it can be mined is not settled. We flag this in the video. Status as of November 2026; dates may change.
 
 Sources
 S1. https://www.nasa.gov/moonbase/
@@ -158,10 +147,14 @@ S8. https://en.wikipedia.org/wiki/Lunar_south_pole
 S9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-nuclear-rover-to-the-lunar-south-pole/
 S10. https://www.nasa.gov/mission/promise/
 S11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/
-S12. https://www.aljazeera.com/amp/news/2026/3/24/nasa-to-spend-20bn-on-moon-base-nuclear-powered-mars-spacecraft
-S13. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/
-S14. https://www.skyatnightmagazine.com/news/artemis-iii-wont-land-on-moon
+S12. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/
+S13. https://www.planetary.org/articles/ignition-new-nasa-initiatives
+S14. https://www.astronomy.com/space-exploration/nasas-30b-plan-to-build-a-moon-base/
+S15. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon
+S16. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846
+S17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans
+S18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
 
 Subscribe to Rebel Minds: Cosmos. Next time: inside the dark craters, and where the ice came from.
 
-**Etiketler:** NASA Moon base, lunar south pole, Artemis, Gateway cancelled, Moon water ice, PROMISE rover, MoonFall, Chang'e-7, Shackleton crater, lunar nuclear reactor, Jared Isaacman, space news 2026, Moon exploration, Rebel Minds Cosmos
+**Etiketler:** NASA Moon Base, Gateway paused, why did NASA pause Gateway, lunar Gateway, lunar south pole, Moon water ice, Moon Base One, New Glenn explosion, PROMISE rover, MoonFall drones, Chang'e-7, Shackleton crater, lunar nuclear reactor, Artemis III, Artemis IV, Jared Isaacman, Moon exploration 2026, space news, Rebel Minds Cosmos
