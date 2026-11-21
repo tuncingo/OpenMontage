@@ -1,0 +1,55 @@
+{
+  "score": 8,
+  "verdict": "pass",
+  "summary": "İkinci taslak belirsizlikleri (20 milyar dolar, New Glenn, Artemis IV, buz miktarı) dürüstçe işaretliyor ve abartı dilinden büyük ölçüde arınmış. Kalan sorunlar LCROSS'un 'doğrudan örnek' olarak sunulması, Gateway gerekçesinin kaynaksız NASA görüşü gibi aktarılması ve kapanıştaki küçük iç çelişki gibi düzeltilebilir ifade sorunları.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "The first direct sample came in 2009. NASA's LCROSS probe hit a crater and kicked up a plume containing about one hundred fifty five kilograms of water.",
+      "problem": "LCROSS bir örnek toplamadı. Çarpma bulutunu uzaktan spektroskopiyle gözlemledi. 'Direct sample' ifadesi, numune alınıp incelendiği izlenimini veriyor ve kanıtın türünü abartıyor. EVIDENCE etiketi de aynı hatayı tekrarlıyor.",
+      "fix": "Say 'The first direct detection came in 2009: NASA's LCROSS slammed a spent rocket stage into Cabeus crater, and instruments watching the plume measured roughly 155 kilograms of water vapor and ice.' Rename the EVIDENCE tag to 'LCROSS, first direct detection'."
+    },
+    {
+      "severity": "minor",
+      "quote": "Gateway was a staging point, not a mine. NASA decided its money does more on the surface.",
+      "problem": "Bu, NASA'nın resmi gerekçesi olarak sunuluyor ama araştırma notlarında böyle bir gerekçe alıntısı yok. S5 yalnızca arama özeti. Yazarın yorumu olgu gibi duruyor.",
+      "fix": "Attribute or hedge it: 'NASA's stated aim was to focus on the surface. My reading: Gateway was a staging point, not a mine, and the agency is betting its money does more near the ice.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "Other instruments, including Chandrayaan-1 and the Lunar Reconnaissance Orbiter, also point to polar ice. [S4]",
+      "problem": "Revizyon notunun kendisi bu cümlenin S4 ile doğrulanmadığını söylüyor. Doğrulanmamış bir iddia bir kaynağa bağlanmış.",
+      "fix": "Verify against the Planetary Society guide (S4) before recording. If it is not there, cite the Chandrayaan-1 M3 ice-map paper (Li et al. 2018, PNAS) or drop the instrument names."
+    },
+    {
+      "severity": "minor",
+      "quote": "The base is still a drawing.",
+      "problem": "Senaryo daha önce 'Part of it is already real' diyor ve sözleşmelerle donanım testlerini anlatıyor. Kapanış bunu kesin bir dille geri alıyor, bu da iç çelişki ve hafif bir aşırı basitleştirme.",
+      "fix": "Change to: 'On the Moon, the base is still a drawing. On Earth, contracts are signed and landers are being tested.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "Reports say the first crewed landing may now fall to Artemis IV, tentatively 2028. Sources conflict. The crew rovers depend on that date.",
+      "problem": "Rover'ların bu tarihe bağlı olduğu bilgisi araştırmada kaynaklı bir iddia olarak yer almıyor, yazarın çıkarımı. Ayrıca S14 çekilemedi, yalnızca arama özeti var.",
+      "fix": "Say 'The crewed rovers only matter once crews arrive, so they likely track that date too.' and keep the 'sources conflict' hedge."
+    },
+    {
+      "severity": "minor",
+      "quote": "Experts question the 2027 and 2028 landing dates. The Artemis crewed lander still needs development. [S6]",
+      "problem": "'Experts' belirsiz kalıyor ve tüm uzman şüpheciliği bölümü, arama özeti üzerinden okunan tek bir ikincil haber kaynağına (AOL) dayanıyor. Kanıtın gücü izleyiciye aktarılmıyor.",
+      "fix": "Name the expert or outlet if available, or say 'Experts quoted in one round of news coverage question...' to signal it is a single secondary source."
+    },
+    {
+      "severity": "minor",
+      "quote": "Blue Origin won a ninety four million dollar contract to deliver it",
+      "problem": "Araştırmaya göre bu 94 milyon dolarlık bir temel sözleşme artı 140 milyon dolarlık bir opsiyon. Böyle sunulunca toplam maliyet olduğu sanılabilir.",
+      "fix": "Say 'a ninety four million dollar base contract, with more on offer as an option'."
+    },
+    {
+      "severity": "minor",
+      "quote": "Critics may argue an orbital hub still has value.",
+      "problem": "Varsayımsal eleştirmenler zayıf bir saman adam etkisi yaratıyor. Araştırmada gerçek bir görüş yazısı (S13) varken bu boşa harcanmış.",
+      "fix": "Ground it with the real opinion piece: 'One opinion piece argues the partners and the orbital hub are being left in limbo. [S13]'"
+    }
+  ]
+}

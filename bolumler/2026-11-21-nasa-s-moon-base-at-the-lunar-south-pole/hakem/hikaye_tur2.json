@@ -1,0 +1,73 @@
+{
+  "score": 7,
+  "verdict": "revise",
+  "summary": "Kanca (taş çıkmayan 'üs' + rafa kaldırılan istasyon) gerçek bir gerilim kuruyor ve bölüm 'üs bir yer değil, bir dizidir' tezine toparlanıyor. Ancak orta bölüm bir görev/rakam listesine dönüşüyor, aşırı çekince cümleleri akışı kesiyor ve bazı merak döngüleri (neden zıplama, buzun kökeni) ödenmeden kalıyor.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "Three commercial landers, from Blue Origin, Astrobotic and Intuitive Machines. The first is aimed at the Shackleton Connecting Ridge. NASA is buying rides, not building every machine itself.",
+      "problem": "En olası izleyici kaybı noktası. Buz bölümünün merakından sonra gelen bu kısım isim ve görev listesine dönüşüyor; 'Shackleton Connecting Ridge' uzman olmayan biri için boş bir etiket ve izleyiciye neden umursaması gerektiği söylenmiyor. Ardından gelen PROMISE, MoonFall ve JAXA rover paragrafları aynı liste ritmini sürdürüyor (yaklaşık 2 dakika stakesiz).",
+      "fix": "Listeyi tek bir soruyla çerçevele: 'Before anyone lives there, three questions must be answered: can we land, can we move, can we power it?' Shackleton'ı 'a ridge on the rim of a crater that sits in almost permanent sunlight' diye tek cümleyle tanımla veya adı çıkar. Landers/PROMISE/MoonFall'ı bu üç sorunun cevabı olarak sırala."
+    },
+    {
+      "severity": "major",
+      "quote": "Those rides have slipped. One trade report says a New Glenn rocket exploded on its pad in May, pushing the first landers to early 2027. I could not confirm that independently, so check the latest news.",
+      "problem": "Üç cümlelik doğrulanamamış iddia + 'check the latest news' anlatıcıyı güvensiz gösteriyor ve tempoyu öldürüyor. Aynı çekince kapanışta ve 'Experts question' bölümünde tekrar ediyor; çekince yorgunluğu oluşuyor.",
+      "fix": "Tek cümleye indir: 'One trade report says a New Glenn rocket exploded on its pad in May, which would push landings to early 2027. That is unconfirmed.' Kapanıştaki tekrarı koru ama 'check the latest news' ve diğer uzun disclaimer'ları sil."
+    },
+    {
+      "severity": "major",
+      "quote": "Why hop? That is a design choice I would love to hear the engineers explain.",
+      "problem": "Açılan bir merak döngüsü ödenmiyor, sadece 'bilmiyorum' deniyor. Zıplayan drone'lar bölümün en çekici görseli ama izleyiciye bir cevap ya da en azından makul bir hipotez verilmiyor; buzun kökeni de benzer şekilde ödenmeden sonraki bölüme erteleniyor.",
+      "fix": "Kaynağa dayalı kısa bir neden ver (ör. 'In rough, shadowed terrain, hopping can cross craters wheels cannot') veya soruyu atıp MoonFall'ı iki cümleyle bitir. Buzun kökeni döngüsü için bölüm sonunda en az bir yarım cevap (comets vs solar wind, 'the evidence points to several sources') ver."
+    },
+    {
+      "severity": "major",
+      "quote": "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice.",
+      "problem": "Uzman olmayan izleyici için açıklamasız, öncesiyle bağı olmayan tek cümlelik bir ayrıntı; akışı bozuyor ve 'ice solid' mesajını bulanıklaştırıyor. Ayrıca önceki cümledeki Chandrayaan-1/LRO iddiası S4'e eşlenmiş ama araştırma notlarına göre doğrulanmamış.",
+      "fix": "Cümleyi sil veya LCROSS paragrafına 'Not every mission has seen ice directly' gibi tek bir cümleye bağla. Chandrayaan-1/LRO cümlesini S4'te doğrula, doğrulanamazsa çıkar."
+    },
+    {
+      "severity": "major",
+      "quote": "Reports say the first crewed landing may now fall to Artemis IV, tentatively 2028. Sources conflict. The crew rovers depend on that date.",
+      "problem": "Anlaşılması zor ve belirsiz: 'Artemis IV' ve 'crew rovers' hiç tanıtılmadı, 'Sources conflict' izleyiciye ne çıkaracağını söylemiyor. Aynı bölümde 'Experts question the 2027 and 2028 landing dates' ile birleşince tarih yığını oluşuyor.",
+      "fix": "Tek cümle: 'Even the astronaut landing that would use those rovers keeps slipping, and reports disagree on when.' Artemis IV adını ve 'Sources conflict' ifadesini çıkar."
+    },
+    {
+      "severity": "minor",
+      "quote": "Press reports put the cost near twenty billion dollars. That figure is not an audited NASA number.",
+      "problem": "Açılıştan hemen sonra gelen bu kısım hikayeyi ilerletmeyen bir muhasebe uyarısı; kanca gerilimini ilk 60 saniyede söndürüyor.",
+      "fix": "'Press reports put the price near twenty billion dollars, though NASA has not published that figure.' tek cümlesi yeter."
+    },
+    {
+      "severity": "minor",
+      "quote": "Part of it is already real. Artemis II sent a crew around the Moon. NASA highlights images from the April sixth flyby, including the Moon passing in front of the Sun. The crew did not land.",
+      "problem": "Bölümün en etkileyici gerçek görüntüsü (insan uçuşu) 7. dakikada, rakam yığınının arasında, ayrıca 'the crew did not land' ile hemen söndürülüyor. Açılıştaki 'nothing has landed' tezine duygusal karşı ağırlık olarak daha erken kullanılabilir.",
+      "fix": "Bu paragrafı 'Phase One' anlatımının hemen sonrasına taşı: 'What is real so far is a crew that flew around the Moon and came home.' Görsel olarak Ay'ın Güneş'in önünden geçişini kullan."
+    },
+    {
+      "severity": "minor",
+      "quote": "It is a bet, and it is still a bet.",
+      "problem": "TTS'de tuhaf ve anlamsız bir tekrar; kapanışa doğru enerji düşürüyor. Ayrıca 'Gateway was a staging point' ifadesi ikinci kez tekrarlanıyor.",
+      "fix": "'It is a bet, and the next two years will show whether it pays off.' Veya 'Gateway was a staging point' tekrarını 'Gateway would have been a waystation' gibi tek seferlik özetle."
+    },
+    {
+      "severity": "minor",
+      "quote": "The base is still a drawing. The next two years decide whether it becomes hardware. And either way, the south pole is where both NASA and China are placing their bets.",
+      "problem": "Güçlü bir kapanış cümlesi ('still a drawing') üçüncü cümleyle sulandırılıyor ve ardından CTA geliyor; yansıtıcı kapanış tek net imgeyle bitmiyor. CTA 'Rebel Minds Cosmos' adını okurken ve 'follow it with us' ifadesi biraz mekanik.",
+      "fix": "Üçüncü cümleyi çıkar; 'The base is still a drawing. Within two years, we will know if it becomes hardware.' ile bitir. CTA'yı sonraki bölüm vaadiyle birleştir: 'Next time, we go inside those dark craters. Subscribe so you do not miss it.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "NASA is even inviting students in, with a one million dollar Moon Base Challenge.",
+      "problem": "Öğrenci yarışması tema ve gerilimle bağlantısız, kapanıştan hemen önce tempoyu düşürüyor; 'race' bölümünün ivmesi bozuluyor.",
+      "fix": "Kısalt veya sil; 'Phase Three belongs to people who are in school right now' cümlesini kapanış paragrafına taşı."
+    },
+    {
+      "severity": "minor",
+      "quote": "So what is real here, and what is just a drawing?",
+      "problem": "Kanca kavramsal olarak iyi ama ilk 30 saniyede somut, duyusal bir imge ya da sürpriz rakam yok; soru kalıbı genel. 'As far as I can find' çekincesi de ilk cümlede güveni biraz azaltıyor.",
+      "fix": "Soruyu somut yap: 'So what exactly is real, and what is still a slide in a presentation?' veya ikinci cümleye 'a station that was already partly built' benzeri somut bir detay ekle (kaynakla doğrulanırsa)."
+    }
+  ]
+}
