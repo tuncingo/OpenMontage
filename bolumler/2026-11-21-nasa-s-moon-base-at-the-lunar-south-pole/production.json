@@ -42,7 +42,7 @@
     "text_color": "#F2F5FF",
     "accent_color": "#FFB020"
   },
-  "design_notes": "Toplam 24 overlay: hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold (en az 64 px), %10 guvenli kenarlarin icinde ve gerektiginde yumusak koyu scrim ile. Overlay'ler sadece anahtar sayilari (20B dolar, -250 C, 155 kg, 100 kW), tarihleri ve cerceve sorularini vurguluyor; kozmik cutaway sahnelerinin cogunda metin yok. Kanit sayaci yalnizca evidence_update true olan 13 sahnede (6, 10, 12, 17, 19, 28, 31, 35, 38, 45, 48, 52, 57) goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Sayac ust kosede, overlay'ler alt/orta/lower-third konumunda oldugu icin cakisma yok. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY?",
+  "design_notes": "Toplam 32 overlay: 24 ana overlay (hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold, en az 64 px, %10 guvenli kenarlarin icinde, gerektiginde yumusak koyu scrim) ve gercek bir gorevi gosteren yapay zeka sahneleri (19, 20, 29, 33, 35, 38, 52, 54) icin 8 kucuk 'Illustration' etiketi (sag ust kose, yaklasik 30 px, in 0.3 s, sahne suresi eksi 0.3 s). Faz overlay'leri artik 'PHASE 1: NOW–2029', 'PHASE 2: 2029–2032', 'PHASE 3: 2032+'. Kanit sayaci artik yalnizca gercek kanit ogelerinin oldugu 8 sahnede (6, 17, 19, 31, 35, 38, 45, 52) 1'den 8'e sayarak goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Maliyet, uc faz, Artemis tarihleri, ogrenci yarismasi ve Moon Base One sayaclari kaldirildi. Sayac ve Illustration etiketi ust koseyi paylasabilir; sayac sol ust, etiket sag ust tutulmali. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY?",
   "style_guide": "# Rebel Minds: Cosmos — Style Guide\n\n## Voice\nCurious, slightly rebellious, evidence-driven. We question the consensus but never overclaim. We make the viewer feel smart, not lectured. No hype words (\"scientists are shocked\", \"this changes everything\", \"proves\").\n\n## Script\n- Language: English. Pace: ~140 words per minute. Default length: 10 minutes.\n- First 15 seconds: a hook built on genuine tension or a question — no false promises.\n- Short-to-medium sentences written for text-to-speech; no parentheses; numbers written the way they should be spoken.\n- Cite every factual sentence with [S1], [S2]… mapped to a `## Sources` list.\n- Put `[EVIDENCE: short label]` on its own line right before a NEW piece of evidence is introduced (drives the evidence tracker).\n- Open curiosity loops and pay them off. Reflective close, one natural call to action.\n\n## Visuals\n- Colourful, constantly moving cosmic imagery. Even general statements get cosmic cutaways (star clusters, planets, discs, nebulae) — never a static or empty frame.\n- Never the same visual style twice in a row; never the same image twice in an episode.\n- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument.\n- Every scene has motion: slow push-in, pull-out, pan, parallax, rotation.\n\n## On-screen text (must be legible on a phone)\n- Max 6 words per overlay, large bold sans-serif (min 64 px height on a 1080p frame), inside 10% safe margins, high contrast (soft dark scrim when needed).\n- Few overlays rather than many — only where they help understanding or land a key number.\n\n## Evidence tracker\nA recurring graphic that appears ONLY when a new piece of evidence is introduced (count + short label), then disappears. Never permanent clutter.\n\n## Palette & type\n- Deep space navy `#0B1026`, cosmic violet `#6C3BFF`, solar amber `#FFB020`, ice white `#F2F5FF`\n- Montserrat ExtraBold (headings/overlays), Inter (small labels)\n\n## Thumbnail\nMax 4 words, one focal subject, readable at phone size, palette colours.\n",
   "scenes": [
     {
@@ -286,11 +286,7 @@
           "out_s": 6.0
         }
       ],
-      "evidence_tracker": {
-        "scene_id": 10,
-        "count": 2,
-        "label": "Cost estimate"
-      }
+      "evidence_tracker": null
     },
     {
       "id": 11,
@@ -343,18 +339,14 @@
       "overlays": [
         {
           "scene_id": 12,
-          "text": "PHASE ONE: 2029",
+          "text": "PHASE 1: NOW–2029",
           "position": "lower-third",
           "style": "label",
           "in_s": 1.5,
           "out_s": 6.0
         }
       ],
-      "evidence_tracker": {
-        "scene_id": 12,
-        "count": 3,
-        "label": "Three-phase plan"
-      }
+      "evidence_tracker": null
     },
     {
       "id": 13,
@@ -377,7 +369,7 @@
       "overlays": [
         {
           "scene_id": 13,
-          "text": "PHASE TWO: 2032",
+          "text": "PHASE 2: 2029–2032",
           "position": "lower-third",
           "style": "label",
           "in_s": 0.5,
@@ -399,7 +391,7 @@
       "overlays": [
         {
           "scene_id": 14,
-          "text": "PHASE THREE",
+          "text": "PHASE 3: 2032+",
           "position": "lower-third",
           "style": "label",
           "in_s": 0.5,
@@ -473,7 +465,7 @@
       ],
       "evidence_tracker": {
         "scene_id": 17,
-        "count": 4,
+        "count": 2,
         "label": "Permanent shadow cold"
       }
     },
@@ -525,11 +517,20 @@
           "style": "label",
           "in_s": 0.5,
           "out_s": 4.5
+        },
+        {
+          "scene_id": 19,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 7.7
         }
       ],
       "evidence_tracker": {
         "scene_id": 19,
-        "count": 5,
+        "count": 3,
         "label": "LCROSS water ice"
       }
     },
@@ -551,6 +552,15 @@
           "style": "number",
           "in_s": 2.0,
           "out_s": 8.0
+        },
+        {
+          "scene_id": 20,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 8.7
         }
       ],
       "evidence_tracker": null
@@ -715,11 +725,7 @@
           "out_s": 5.5
         }
       ],
-      "evidence_tracker": {
-        "scene_id": 28,
-        "count": 6,
-        "label": "Moon Base One"
-      }
+      "evidence_tracker": null
     },
     {
       "id": 29,
@@ -731,7 +737,17 @@
       "transition": "crossfade",
       "image": null,
       "ai_prompt": "Cinematic 16:9 four-legged lander descending with rover on top, dust cloud, golden light, no text",
-      "overlays": [],
+      "overlays": [
+        {
+          "scene_id": 29,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 5.7
+        }
+      ],
       "evidence_tracker": null
     },
     {
@@ -785,7 +801,7 @@
       ],
       "evidence_tracker": {
         "scene_id": 31,
-        "count": 7,
+        "count": 4,
         "label": "New Glenn explosion"
       }
     },
@@ -828,6 +844,15 @@
           "style": "label",
           "in_s": 0.5,
           "out_s": 5.0
+        },
+        {
+          "scene_id": 33,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 5.7
         }
       ],
       "evidence_tracker": null
@@ -863,10 +888,20 @@
       "transition": "cut",
       "image": null,
       "ai_prompt": "Cinematic 16:9 rugged six-wheeled rover on lunar terrain, faint warm glow from nuclear power unit at the rear, no text",
-      "overlays": [],
+      "overlays": [
+        {
+          "scene_id": 35,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 4.7
+        }
+      ],
       "evidence_tracker": {
         "scene_id": 35,
-        "count": 8,
+        "count": 5,
         "label": "PROMISE nuclear rover"
       }
     },
@@ -914,10 +949,20 @@
       "transition": "whip",
       "image": null,
       "ai_prompt": "Cinematic 16:9 small spherical hopping drone mid-leap above a lunar crater, thruster puff, Earthrise behind, no text",
-      "overlays": [],
+      "overlays": [
+        {
+          "scene_id": 38,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 4.7
+        }
+      ],
       "evidence_tracker": {
         "scene_id": 38,
-        "count": 9,
+        "count": 6,
         "label": "MoonFall hoppers"
       }
     },
@@ -1006,7 +1051,7 @@
       "motion": "slow push-in",
       "transition": "cut",
       "image": null,
-      "ai_prompt": "Cinematic 16:9 copper-red Moon in total eclipse with a bright diamond-ring edge, stars, no text",
+      "ai_prompt": "Cinematic 16:9 lunar polar ridge with a low sun skimming the horizon, crest glowing in warm golden light, long raking shadows across grey regolith, adjacent crater floors completely black in shadow, black starry sky, strong light-to-dark contrast, no text",
       "overlays": [],
       "evidence_tracker": null
     },
@@ -1061,7 +1106,7 @@
       ],
       "evidence_tracker": {
         "scene_id": 45,
-        "count": 10,
+        "count": 7,
         "label": "Fission reactor target"
       }
     },
@@ -1119,11 +1164,7 @@
           "out_s": 8.5
         }
       ],
-      "evidence_tracker": {
-        "scene_id": 48,
-        "count": 11,
-        "label": "Artemis dates"
-      }
+      "evidence_tracker": null
     },
     {
       "id": 49,
@@ -1207,10 +1248,20 @@
       "transition": "whip",
       "image": null,
       "ai_prompt": "Cinematic 16:9 orbiter and lander heading to the lunar south pole, red accent lighting, no text",
-      "overlays": [],
+      "overlays": [
+        {
+          "scene_id": 52,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 4.7
+        }
+      ],
       "evidence_tracker": {
         "scene_id": 52,
-        "count": 12,
+        "count": 8,
         "label": "Chang'e-7 delay"
       }
     },
@@ -1237,7 +1288,17 @@
       "transition": "crossfade",
       "image": null,
       "ai_prompt": "Cinematic 16:9 crewed lander and station modules on the Moon, red and gold accents, Earth in sky, no text",
-      "overlays": [],
+      "overlays": [
+        {
+          "scene_id": 54,
+          "text": "Illustration",
+          "position": "top-right",
+          "style": "label",
+          "size_px": 30,
+          "in_s": 0.3,
+          "out_s": 8.7
+        }
+      ],
       "evidence_tracker": null
     },
     {
@@ -1301,11 +1362,7 @@
       },
       "ai_prompt": null,
       "overlays": [],
-      "evidence_tracker": {
-        "scene_id": 57,
-        "count": 13,
-        "label": "Student challenge"
-      }
+      "evidence_tracker": null
     },
     {
       "id": 58,
