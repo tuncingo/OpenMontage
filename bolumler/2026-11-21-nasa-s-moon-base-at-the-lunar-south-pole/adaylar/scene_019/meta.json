@@ -3,19 +3,54 @@
   "narration": "In 2009, NASA's LCROSS slammed into Cabeus crater, near the south pole, and the plume confirmed water ice.",
   "visual_brief": "LCROSS impact and plume imagery at Cabeus.",
   "purpose": "evidence",
-  "nasa_query": "LCROSS impact Cabeus",
+  "nasa_query": "LCROSS impact plume Cabeus | LCROSS Centaur impact",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_019/aday_0.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e002006",
-      "title": "Ten Cool Things Seen in the First Year of LRO",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Mountains on the Moon On the Earth, we are taught that mountains form over millions of years, the result of gradual shifting and colliding plates. On the moon however, the situation is quite different. Even the largest lunar mountains were formed in minutes or less as asteroids and comets slammed in",
+      "nasa_id": "KSC-2009-5400",
+      "title": "KSC-2009-5400",
+      "center": "KSC",
+      "date": "2009-10-09",
+      "description": "CAPE CANAVERAL, Fla. – Employees at NASA's Kennedy Space Center take advantage of an early morning opportunity to watch the Lunar Crater Observation and Sensing Satellite, or LCROSS, and its spent Centaur upper stage impact the lunar surface live on NASA Television. The employees seen here are in th",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-2009-5400/KSC-2009-5400~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5400/KSC-2009-5400~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5400/KSC-2009-5400~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5400/KSC-2009-5400~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5400/KSC-2009-5400~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_019/aday_1.jpg",
+      "nasa_id": "KSC-2009-5402",
+      "title": "KSC-2009-5402",
+      "center": "KSC",
+      "date": "2009-10-09",
+      "description": "CAPE CANAVERAL, Fla. – Large screens are tuned to NASA Television to allow employees at NASA's Kennedy Space Center a live view of the impact of the Lunar Crater Observation and Sensing Satellite, or LCROSS, and its spent Centaur upper stage on the moon. The employees seen here are in the 5th Floor ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-5402/KSC-2009-5402~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5402/KSC-2009-5402~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5402/KSC-2009-5402~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5402/KSC-2009-5402~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5402/KSC-2009-5402~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_019/aday_2.jpg",
+      "nasa_id": "KSC-2009-5401",
+      "title": "KSC-2009-5401",
+      "center": "KSC",
+      "date": "2009-10-09",
+      "description": "CAPE CANAVERAL, Fla. – Employees at NASA's Kennedy Space Center view live on NASA Television the impact of the Lunar Crater Observation and Sensing Satellite, or LCROSS, and its spent Centaur upper stage on the moon. The employees seen here are in the 5th Floor Conference Room of Operations Support ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-5401/KSC-2009-5401~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5401/KSC-2009-5401~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5401/KSC-2009-5401~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5401/KSC-2009-5401~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-5401/KSC-2009-5401~orig.jpg"
       ]
     }
   ]

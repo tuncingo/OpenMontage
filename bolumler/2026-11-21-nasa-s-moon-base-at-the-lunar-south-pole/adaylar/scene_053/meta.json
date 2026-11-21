@@ -3,6 +3,103 @@
   "narration": "Its Chang'e-7 mission, built to look for water ice near Shackleton, was postponed in August to 2027.",
   "visual_brief": "Chinese lunar rover on the far side surface.",
   "purpose": "explain",
-  "nasa_query": "Chang'e-4 Yutu",
-  "candidates": []
+  "nasa_query": "VIPER rover lunar south pole | lunar rover solar panels",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_0.jpg",
+      "nasa_id": "GRC-2022-C-04467",
+      "title": "Viper Rover, in SLOPE Lab,",
+      "center": "GRC",
+      "date": "2022-06-29",
+      "description": "An Engineer maps out the position of rocks during VIPER testing at The NASA Glenn Research Center. A test version of the VIPER rover continues to show how well it moves through a simulated lunar surface in our SLOPE lab. This is a critical step toward ensuring the rover is ready for its 2023 mission",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_1.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0104",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_2.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0016",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "The Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission is prepared for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be shipped to",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_3.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0029",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_4.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0064",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_053/aday_5.jpg",
+      "nasa_id": "GRC-2019-C-09932",
+      "title": "Virtual Intelligent Planetary Exploration Rover, VIPER Mobili...",
+      "center": "GRC",
+      "date": "2019-10-22",
+      "description": "Virtual Intelligent Planetary Exploration Rover, VIPER Mobility Platform Testing An engineering model of the Volatiles Investigating Polar Exploration Rover, or VIPER, is tested in the Simulated Lunar Operations Laboratory at NASA’s Glenn Research Center in Cleveland, Ohio. About the size of a golf ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2019-C-09932/GRC-2019-C-09932~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2019-C-09932/GRC-2019-C-09932~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2019-C-09932/GRC-2019-C-09932~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2019-C-09932/GRC-2019-C-09932~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2019-C-09932/GRC-2019-C-09932~orig.jpg"
+      ]
+    }
+  ]
 }

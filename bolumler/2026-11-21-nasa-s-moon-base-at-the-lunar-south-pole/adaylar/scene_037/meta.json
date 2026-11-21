@@ -3,70 +3,95 @@
   "narration": "Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028.",
   "visual_brief": "Radioisotope power unit glowing, then lander delivering cargo.",
   "purpose": "explain",
-  "nasa_query": "Radioisotope power system",
+  "nasa_query": "radioisotope power system RTG | radioisotope thermoelectric generator",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_0.jpg",
-      "nasa_id": "PIA23305",
-      "title": "Power for Mars 2020",
-      "center": "JPL",
-      "date": "2019-07-24",
-      "description": "The electricity needed to operate NASA's Mars 2020 rover is provided by a power system called a Multi-Mission Radioisotope Thermoelectric Generator, or MMRTG. The MMRTG will be inserted into the aft end of the rover between the panels with gold tubing visible at the rear, which are called heat excha",
+      "nasa_id": "KSC-97PC903",
+      "title": "KSC-97PC903",
+      "center": "KSC",
+      "date": "1997-05-17",
+      "description": "Environmental Health Specialist Jamie A. Keeley, of EG&G Florida Inc., uses an ion chamber dose rate meter to measure radiation levels in one of three radioisotope thermoelectric generators (RTGs) that will provide electrical power to the Cassini spacecraft on its mission to explore the Saturnian sy",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-97PC903/KSC-97PC903~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC903/KSC-97PC903~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC903/KSC-97PC903~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC903/KSC-97PC903~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC903/KSC-97PC903~orig.jpg"
       ]
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_1.jpg",
-      "nasa_id": "GRC-2026-C-00383",
-      "title": "NASA Administrator Jared Isaacman’s Visit to Glenn",
-      "center": "GRC",
-      "date": "2026-01-27",
-      "description": "During a visit to NASA's Glenn Research Center in Cleveland on Tuesday, Jan. 27, 2026, NASA Administrator Jared Isaacman speaks with Carl Sandifer, manager of the Radioisotope Power Systems Program, inside the Electric Propulsion and Power Laboratory as Rickey Shyne, director of Research and Enginee",
+      "nasa_id": "KSC-97PC1090",
+      "title": "KSC-97PC1090",
+      "center": "KSC",
+      "date": "1997-07-19",
+      "description": "Workers in the Payload Hazardous Servicing Facility remove the storage collar from a radioisotope thermoelectric generator (RTG) in preparation for installation on the Cassini spacecraft. Cassini will be outfitted with three RTGs. The power units are undergoing mechanical and electrical verification",
       "links": [
-        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~large.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-97PC1090/KSC-97PC1090~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1090/KSC-97PC1090~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1090/KSC-97PC1090~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1090/KSC-97PC1090~orig.jpg"
       ]
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_2.jpg",
-      "nasa_id": "PIA23827",
-      "title": "Fitting the Rover's Power Supply",
-      "center": "JPL",
-      "date": "2020-07-08",
-      "description": "Technicians in the payload processing facility at NASA's Kennedy Space Center in Florida perform a fit check between NASA'S Mars 2020 Perseverance rover and its Multi-Mission Radioisotope Thermoelectric Generator on April 16-17, 2020. The Multi-Mission Radioisotope Thermoelectric Generator is design",
+      "nasa_id": "9710533",
+      "title": "Space Science",
+      "center": "MSFC",
+      "date": "1997-07-18",
+      "description": "Jet Propulsion Research Lab (JPL) workers use a borescope to verify the pressure relief device bellow's integrity on a radioisotope thermoelectric generator (RTG) that has been installed on the Cassini spacecraft in the Payload Hazardous Servicing Facility. The activity is part of the mechanical and",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~orig.jpg"
+        "https://images-assets.nasa.gov/image/9710533/9710533~small.jpg",
+        "https://images-assets.nasa.gov/image/9710533/9710533~thumb.jpg",
+        "https://images-assets.nasa.gov/image/9710533/9710533~orig.jpg"
       ]
     },
     {
       "index": 3,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_3.jpg",
-      "nasa_id": "PIA23981",
-      "title": "Rover Power Source",
-      "center": "JPL",
-      "date": "2020-07-08",
-      "description": "The Multi-Mission Radioisotope Thermoelectric Generator for NASA'S Mars 2020 Perseverance rover is shown during a fit check with the rover in a payload processing facility at NASA's Kennedy Space Center in Florida on April 16-17, 2020. The Multi-Mission Radioisotope Thermoelectric Generator is desig",
+      "nasa_id": "9710534",
+      "title": "Space Science",
+      "center": "MSFC",
+      "date": "1997-07-18",
+      "description": "Jet Propulsion Research Lab (JPL) workers use a borescope to verify the pressure relief device bellow's integrity on a radioisotope thermoelectric generator (RTG) that has been installed on the Cassini spacecraft in the Payload Hazardous Servicing Facility. The activity is part of the mechanical and",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~orig.jpg"
+        "https://images-assets.nasa.gov/image/9710534/9710534~small.jpg",
+        "https://images-assets.nasa.gov/image/9710534/9710534~thumb.jpg",
+        "https://images-assets.nasa.gov/image/9710534/9710534~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_4.jpg",
+      "nasa_id": "KSC-97PC1066",
+      "title": "KSC-97PC1066",
+      "center": "KSC",
+      "date": "1997-07-18",
+      "description": "Jet Propulsion Laboratory (JPL) engineers examine the interface surface on the Cassini spacecraft prior to installation of the third radioisotope thermoelectric generator (RTG). The other two RTGs, at left, already are installed on Cassini. The three RTGs will be used to power Cassini on its mission",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-97PC1066/KSC-97PC1066~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1066/KSC-97PC1066~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1066/KSC-97PC1066~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1066/KSC-97PC1066~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_5.jpg",
+      "nasa_id": "KSC-97PC1068",
+      "title": "KSC-97PC1068",
+      "center": "KSC",
+      "date": "1997-07-18",
+      "description": "Jet Propulsion Laboratory (JPL) workers Dan Maynard and John Shuping prepare to install a radioisotope thermoelectric generator (RTG) on the Cassini spacecraft in the Payload Hazardous Servicing Facility (PHSF). The three RTGs which will provide electrical power to Cassini on its mission to the Satu",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-97PC1068/KSC-97PC1068~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1068/KSC-97PC1068~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1068/KSC-97PC1068~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-97PC1068/KSC-97PC1068~orig.jpg"
       ]
     }
   ]

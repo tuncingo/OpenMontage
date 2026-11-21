@@ -3,11 +3,91 @@
   "narration": "It held about one hundred fifty five kilograms of water. That is only what the plume let us see. It is not a total.",
   "visual_brief": "Plume rising above crater rim, sunlit cloud with instruments in view.",
   "purpose": "explain",
-  "nasa_query": "LCROSS Centaur plume",
+  "nasa_query": "LCROSS plume water ice Moon | Cabeus crater LCROSS",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_0.jpg",
+      "nasa_id": "ARC-2006-ACD06-0232-001",
+      "title": "ARC-2006-ACD06-0232-001",
+      "center": "ARC",
+      "date": "2006-04-10",
+      "description": "LCROSS (Lunar CRater Observation and Sensing Satellite) Mission Art IMAGES COURTESY OF NORTHROP GRUMMAN, WILLIAM FURLONG, ARTIST This NASA Ames spacecraft is a small 'secondary payload' spacecraft that will travel with Lunar Reconnaissance Obriter (LRO) satellite to the moon on the same rocket, the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-001/ARC-2006-ACD06-0232-001~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-001/ARC-2006-ACD06-0232-001~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-001/ARC-2006-ACD06-0232-001~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-001/ARC-2006-ACD06-0232-001~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-001/ARC-2006-ACD06-0232-001~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_1.jpg",
+      "nasa_id": "ARC-2006-ACD06-0232-004",
+      "title": "ARC-2006-ACD06-0232-004",
+      "center": "ARC",
+      "date": "2006-04-10",
+      "description": "LCROSS (Lunar CRater Observation and Sensing Satellite) Mission Art IMAGES COURTESY OF NORTHROP GRUMMAN, WILLIAM FURLONG, ARTIST This NASA Ames spacecraft is a small 'secondary payload' spacecraft that will travel with Lunar Reconnaissance Obriter (LRO) satellite to the moon on the same rocket, the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-004/ARC-2006-ACD06-0232-004~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-004/ARC-2006-ACD06-0232-004~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-004/ARC-2006-ACD06-0232-004~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-004/ARC-2006-ACD06-0232-004~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-004/ARC-2006-ACD06-0232-004~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_2.jpg",
+      "nasa_id": "ARC-2006-ACD06-0232-005",
+      "title": "ARC-2006-ACD06-0232-005",
+      "center": "ARC",
+      "date": "2006-04-10",
+      "description": "LCROSS (Lunar CRater Observation and Sensing Satellite) Mission Art IMAGES COURTESY OF NORTHROP GRUMMAN, WILLIAM FURLONG, ARTIST This NASA Ames spacecraft is a small 'secondary payload' spacecraft that will travel with Lunar Reconnaissance Obriter (LRO) satellite to the moon on the same rocket, the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-005/ARC-2006-ACD06-0232-005~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-005/ARC-2006-ACD06-0232-005~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-005/ARC-2006-ACD06-0232-005~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-005/ARC-2006-ACD06-0232-005~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-005/ARC-2006-ACD06-0232-005~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_3.jpg",
+      "nasa_id": "ARC-2006-ACD06-0232-002",
+      "title": "ARC-2006-ACD06-0232-002",
+      "center": "ARC",
+      "date": "2006-04-10",
+      "description": "LCROSS (Lunar CRater Observation and Sensing Satellite) Mission Art IMAGES COURTESY OF NORTHROP GRUMMAN, WILLIAM FURLONG, ARTIST This NASA Ames spacecraft is a small 'secondary payload' spacecraft that will travel with Lunar Reconnaissance Obriter (LRO) satellite to the moon on the same rocket, the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-002/ARC-2006-ACD06-0232-002~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-002/ARC-2006-ACD06-0232-002~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-002/ARC-2006-ACD06-0232-002~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-002/ARC-2006-ACD06-0232-002~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-002/ARC-2006-ACD06-0232-002~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_4.jpg",
+      "nasa_id": "ARC-2006-ACD06-0232-003",
+      "title": "ARC-2006-ACD06-0232-003",
+      "center": "ARC",
+      "date": "2006-04-10",
+      "description": "LCROSS (Lunar CRater Observation and Sensing Satellite) Mission Art IMAGES COURTESY OF NORTHROP GRUMMAN, WILLIAM FURLONG, ARTIST This NASA Ames spacecraft is a small 'secondary payload' spacecraft that will travel with Lunar Reconnaissance Obriter (LRO) satellite to the moon on the same rocket, the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-003/ARC-2006-ACD06-0232-003~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-003/ARC-2006-ACD06-0232-003~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-003/ARC-2006-ACD06-0232-003~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-003/ARC-2006-ACD06-0232-003~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2006-ACD06-0232-003/ARC-2006-ACD06-0232-003~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_020/aday_5.jpg",
       "nasa_id": "SSC-20091009-S01945H",
       "title": "Stennis engineer part of LCROSS moon mission",
       "center": "SSC",

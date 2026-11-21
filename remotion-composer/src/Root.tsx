@@ -16,6 +16,7 @@ import { ProductReveal, ProductRevealProps } from "./components/ProductReveal";
 import { CaptionOverlay, WordCaption } from "./components/CaptionOverlay";
 import { CollageBurst, CollageBurstProps } from "./CollageBurst";
 import { LyricOverlay, LyricOverlayProps, calculateLyricOverlayMetadata } from "./LyricOverlay";
+import { RebelEpisode, EpisodeProps, calculateEpisodeMetadata } from "./RebelEpisode";
 
 // ---------------------------------------------------------------------------
 // Theme System — prevents every video from looking like dark fintech
@@ -136,6 +137,16 @@ const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
 export const Root: React.FC = () => {
   return (
     <>
+      <Composition
+        id="RebelEpisode"
+        component={RebelEpisode}
+        durationInFrames={30 * 30}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{ fps: 30, totalSeconds: 30, scenes: [] } as EpisodeProps}
+        calculateMetadata={calculateEpisodeMetadata}
+      />
       <Composition
         id="Explainer"
         component={Explainer}

@@ -3,70 +3,102 @@
   "narration": "NASA says it is building a base on the Moon. None of the Moon Base missions has landed yet.",
   "visual_brief": "Slow reveal of the grey, cratered Moon limb against black space, an empty lunar plain with no base in sight.",
   "purpose": "hook",
-  "nasa_query": "Moon Base NASA",
+  "nasa_query": "Moon horizon rising dark surface | Earthrise Moon Apollo 8",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_0.jpg",
-      "nasa_id": "KSC-20261107-PH-KLS02_0016",
-      "title": "Moon Base Briefing at Max Power in KSC Studio",
-      "center": "KSC",
-      "date": "2026-11-07",
-      "description": "From left to right, NASA Deputy Press Secretary George Alderman; NASA Administrator Jared Isaacman; Carlos García-Galán, manager, Moon Base Program; Nicky Fox, associate administrator for NASA’s Science Mission Directorate; and Dayna Ise, acting director, Utility and Infrastructure Office, Moon Base",
+      "nasa_id": "art002e021278",
+      "title": "A Breathtaking Earthset from Orion",
+      "center": "JSC",
+      "date": "2026-04-06",
+      "description": "art002e021278 (April 6, 2026) – Echoing the iconic Earthrise photo captured by the Apollo 8 astronauts in 1968, during the lunar flyby, the Artemis II crew captured a shot of Earthset as they passed behind the Moon’s far side. It is one of many photos taken during the seven-hour lunar flyby by the A",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0016/KSC-20261107-PH-KLS02_0016~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0016/KSC-20261107-PH-KLS02_0016~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0016/KSC-20261107-PH-KLS02_0016~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0016/KSC-20261107-PH-KLS02_0016~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0016/KSC-20261107-PH-KLS02_0016~orig.JPG"
+        "https://images-assets.nasa.gov/image/art002e021278/art002e021278~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e021278/art002e021278~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e021278/art002e021278~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e021278/art002e021278~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e021278/art002e021278~orig.jpg"
       ]
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_1.jpg",
-      "nasa_id": "NHQ20261108_admin_0004",
-      "title": "NASA's MAX POWER at Kennedy Space Center",
-      "center": "KSC",
-      "date": "2026-11-08",
-      "description": "Carlos García-Galán, NASA’s Moon Base program manager, provides remarks announcing NASA’s Moon Base Student Challenge during the agency’s MAX POWER event, Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. The $1 million competition invites student teams at U.S. high schools and post-s",
+      "nasa_id": "jsc2025e034457",
+      "title": "The official Artemis II mission crew patch",
+      "center": "JSC",
+      "date": "2025-03-18",
+      "description": "jsc2025e034457 (March 18, 2025) -- The official Artemis II mission crew patch. The Artemis II test flight begins when a mighty team launches the first crew of the Artemis generation. This patch designates the mission as “AII,” signifying not only the second major flight of the Artemis campaign, but ",
       "links": [
-        "https://images-assets.nasa.gov/image/NHQ20261108_admin_0004/NHQ20261108_admin_0004~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20261108_admin_0004/NHQ20261108_admin_0004~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20261108_admin_0004/NHQ20261108_admin_0004~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20261108_admin_0004/NHQ20261108_admin_0004~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20261108_admin_0004/NHQ20261108_admin_0004~orig.jpg"
+        "https://images-assets.nasa.gov/image/jsc2025e034457/jsc2025e034457~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e034457/jsc2025e034457~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e034457/jsc2025e034457~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e034457/jsc2025e034457~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e034457/jsc2025e034457~orig.jpg"
       ]
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_2.jpg",
-      "nasa_id": "KSC-20261107-PH-KLS02_0006",
-      "title": "Moon Base Briefing at Max Power in KSC Studio",
+      "nasa_id": "KSC-20250404-PH-KLS01_0043",
+      "title": "Artemis II Mission Patch on VAB",
       "center": "KSC",
-      "date": "2026-11-07",
-      "description": "Media gather to watch NASA Administrator Jared Isaacman; Carlos García-Galán, manager, Moon Base Program; Nicky Fox, associate administrator for NASA’s Science Mission Directorate; and Dayna Ise, acting director, Utility and Infrastructure Office, Moon Base Program, present an update on NASA’s Moon ",
+      "date": "2025-04-04",
+      "description": "Employees at NASA’s Kennedy Space Center in Florida take photos of the official Artemis II mission crew insignia projected on the exterior of the spaceport’s Vehicle Assembly Building on Friday, April 4, 2025. The patch designates the mission as “AII,” signifying not only the second major flight of ",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0006/KSC-20261107-PH-KLS02_0006~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0006/KSC-20261107-PH-KLS02_0006~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0006/KSC-20261107-PH-KLS02_0006~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0006/KSC-20261107-PH-KLS02_0006~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0006/KSC-20261107-PH-KLS02_0006~orig.JPG"
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0043/KSC-20250404-PH-KLS01_0043~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0043/KSC-20250404-PH-KLS01_0043~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0043/KSC-20250404-PH-KLS01_0043~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0043/KSC-20250404-PH-KLS01_0043~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0043/KSC-20250404-PH-KLS01_0043~orig.jpg"
       ]
     },
     {
       "index": 3,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_3.jpg",
-      "nasa_id": "KSC-20261107-PH-KLS02_0021",
-      "title": "Moon Base Briefing at Max Power in KSC Studio",
+      "nasa_id": "KSC-20250404-PH-KLS01_0016",
+      "title": "Artemis II Mission Patch on VAB",
       "center": "KSC",
-      "date": "2026-11-07",
-      "description": "From left to right, Ryan Stephan, Cargo Landers Director, Moon Base Program; Mark Wiese, Moon Base Transportation Office Program; Bradley Smith, Commercial Access to Space, NASA Program; and Matt Wallace, Deputy Director for Flight Projects, at an update on NASA’s Moon Base on Saturday, Nov. 7, 2026",
+      "date": "2025-04-04",
+      "description": "The official Artemis II mission crew insignia is projected on the exterior of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Friday, April 4, 2025. The patch designates the mission as “AII,” signifying not only the second major flight of the Artemis campaign, but also an ",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0021/KSC-20261107-PH-KLS02_0021~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0021/KSC-20261107-PH-KLS02_0021~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0021/KSC-20261107-PH-KLS02_0021~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0021/KSC-20261107-PH-KLS02_0021~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0021/KSC-20261107-PH-KLS02_0021~orig.JPG"
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0016/KSC-20250404-PH-KLS01_0016~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0016/KSC-20250404-PH-KLS01_0016~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0016/KSC-20250404-PH-KLS01_0016~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0016/KSC-20250404-PH-KLS01_0016~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0016/KSC-20250404-PH-KLS01_0016~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_4.jpg",
+      "nasa_id": "KSC-20250404-PH-KLS01_0031",
+      "title": "Artemis II Mission Patch on VAB",
+      "center": "KSC",
+      "date": "2025-04-04",
+      "description": "The official Artemis II mission crew insignia is projected on the exterior of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Friday, April 4, 2025. The patch designates the mission as “AII,” signifying not only the second major flight of the Artemis campaign, but also an ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0031/KSC-20250404-PH-KLS01_0031~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0031/KSC-20250404-PH-KLS01_0031~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0031/KSC-20250404-PH-KLS01_0031~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0031/KSC-20250404-PH-KLS01_0031~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0031/KSC-20250404-PH-KLS01_0031~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_001/aday_5.jpg",
+      "nasa_id": "KSC-20250404-PH-KLS01_0073",
+      "title": "Artemis II Mission Patch on VAB",
+      "center": "KSC",
+      "date": "2025-04-04",
+      "description": "Employees at NASA’s Kennedy Space Center in Florida take photos of the official Artemis II mission crew insignia projected on the exterior of the spaceport’s Vehicle Assembly Building on Friday, April 4, 2025. The patch designates the mission as “AII,” signifying not only the second major flight of ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0073/KSC-20250404-PH-KLS01_0073~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0073/KSC-20250404-PH-KLS01_0073~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0073/KSC-20250404-PH-KLS01_0073~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0073/KSC-20250404-PH-KLS01_0073~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250404-PH-KLS01_0073/KSC-20250404-PH-KLS01_0073~orig.jpg"
       ]
     }
   ]

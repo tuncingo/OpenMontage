@@ -3,27 +3,72 @@
   "narration": "The first three have slipped to 2027. And to chase this base, the agency put its own planned space station around the Moon on hold.",
   "visual_brief": "A planned lunar space station concept render orbiting the Moon, then dimming as if switched off.",
   "purpose": "hook",
-  "nasa_query": "Lunar Gateway",
+  "nasa_query": "Lunar Gateway space station | Gateway Power and Propulsion Element Moon orbit",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_0.jpg",
-      "nasa_id": "jsc2025e037586",
-      "title": "The Lunar Gateway Launch Map (jsc2025e037586)",
+      "nasa_id": "jsc2024e041788 (1)",
+      "title": "Gateway Lunar Space Station Configuration",
       "center": "JSC",
-      "date": "2025-04-10",
-      "description": "The Lunar Gateway Launch, mapped. Gateway's first elements, the Power and Propulsion Element and HALO (Habitation and Logistics Outpost), will launch together to lunar orbit, where they’ll set the stage for Artemis IV: the first Gateway assembly mission. During this milestone mission, the Artemis IV",
+      "date": "2024-06-13",
+      "description": "The Gateway lunar space station configuration and major international and commercial partners. ",
       "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e037586/jsc2025e037586~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e037586/jsc2025e037586~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e037586/jsc2025e037586~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e037586/jsc2025e037586~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e037586/jsc2025e037586~orig.jpg"
+        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~orig.jpg"
       ]
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_1.jpg",
+      "nasa_id": "jsc2024e024935",
+      "title": "jsc2024e024935",
+      "center": "JSC",
+      "date": "2024-04-09",
+      "description": "What astronauts see as they tour the Gateway lunar space station in virtual reality.",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2024e024935/jsc2024e024935~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024935/jsc2024e024935~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024935/jsc2024e024935~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024935/jsc2024e024935~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_2.jpg",
+      "nasa_id": "jsc2024e024934",
+      "title": "jsc2024e024934",
+      "center": "JSC",
+      "date": "2024-04-09",
+      "description": "What astronauts see as they tour the Gateway lunar space station in virtual reality.",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2024e024934/jsc2024e024934~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024934/jsc2024e024934~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024934/jsc2024e024934~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024934/jsc2024e024934~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_3.jpg",
+      "nasa_id": "jsc2024e024936",
+      "title": "jsc2024e024936",
+      "center": "JSC",
+      "date": "2024-04-09",
+      "description": "What astronauts see as they tour the Gateway lunar space station in virtual reality.",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2024e024936/jsc2024e024936~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024936/jsc2024e024936~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024936/jsc2024e024936~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e024936/jsc2024e024936~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_4.jpg",
       "nasa_id": "jsc2024e063114_alt",
       "title": "jsc2024e063114 -- Advanced Modeling Enhances Gateway’s Lunar Dust Defense",
       "center": "JSC",
@@ -38,35 +83,19 @@
       ]
     },
     {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_2.jpg",
-      "nasa_id": "jsc2024e063104 (2)",
-      "title": "jsc2024e063104 -- Advanced Modeling Enhances Gateway’s Lunar Dust Defense",
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_5.jpg",
+      "nasa_id": "jsc2024e012816",
+      "title": "jsc2024e012816",
       "center": "JSC",
-      "date": "2024-09-19",
-      "description": "Josh Litofsky leads a Gateway lunar dust adhesion testing campaign at NASA’s Johnson Space Center in Houston. His team studies how lunar dust interacts with materials chosen for Gateway's construction. Here, Litofsky carefully positions a sample holder inside a vacuum chamber. Litofksy’s work seeks ",
+      "date": "2024-02-13",
+      "description": "NASA astronaut Nicole Mann participates in virtual reality testing of the Gateway lunar space station to ensure its comfort and safety when astronauts live and conduct science there on future Artemis missions. PHOTO DATE: 02-13-24 LOCATION: Bldg. 15 - VR Lab SUBJECT: Photographic support for Gateway",
       "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e063104 (2)/jsc2024e063104 (2)~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e063104 (2)/jsc2024e063104 (2)~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e063104 (2)/jsc2024e063104 (2)~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e063104 (2)/jsc2024e063104 (2)~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e063104 (2)/jsc2024e063104 (2)~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_002/aday_3.jpg",
-      "nasa_id": "jsc2024e041788 (1)",
-      "title": "Gateway Lunar Space Station Configuration",
-      "center": "JSC",
-      "date": "2024-06-13",
-      "description": "The Gateway lunar space station configuration and major international and commercial partners. ",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e041788 (1)/jsc2024e041788 (1)~orig.jpg"
+        "https://images-assets.nasa.gov/image/jsc2024e012816/jsc2024e012816~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e012816/jsc2024e012816~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e012816/jsc2024e012816~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e012816/jsc2024e012816~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2024e012816/jsc2024e012816~orig.jpg"
       ]
     }
   ]

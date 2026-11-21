@@ -3,22 +3,22 @@
   "narration": "Only Phase Three, from 2032, is the permanent outpost with habitats.",
   "visual_brief": "Habitat concept on the lunar surface with astronauts.",
   "purpose": "explain",
-  "nasa_query": "Foundation Surface Habitat",
+  "nasa_query": "inflatable lunar habitat | lunar surface habitat astronauts",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_014/aday_0.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000840",
-      "title": "Coloring the Sea Around the Pribilof Islands",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "The Operational Land Imager (OLI) on Landsat 8 captured this view of a phytoplankton bloom near Alaska’s Pribilof Islands on Sept. 22, 2014. The Pribilofs are surrounded by nutrient-rich waters in the Bering Sea. The milky green and light blue shading of the water indicates the presence of vast popu",
+      "nasa_id": "Gateway Summer Req Images Rev2_11",
+      "title": "Gateway Close-up - International Habitat (I-Hab)",
+      "center": "JSC",
+      "date": "2023-08-18",
+      "description": "Gateway's International Habitat (I-Hab) module, provided by ESA, is one of two of the space station's habitation modules in addition to HALO. Astronauts will live, conduct science, and prepare for lunar surface missions inside I-Hab and HALO. ",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000840/GSFC_20171208_Archive_e000840~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000840/GSFC_20171208_Archive_e000840~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000840/GSFC_20171208_Archive_e000840~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000840/GSFC_20171208_Archive_e000840~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000840/GSFC_20171208_Archive_e000840~orig.jpg"
+        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_11/Gateway Summer Req Images Rev2_11~medium.jpg",
+        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_11/Gateway Summer Req Images Rev2_11~small.jpg",
+        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_11/Gateway Summer Req Images Rev2_11~thumb.jpg",
+        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_11/Gateway Summer Req Images Rev2_11~large.jpg",
+        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_11/Gateway Summer Req Images Rev2_11~orig.png"
       ]
     }
   ]

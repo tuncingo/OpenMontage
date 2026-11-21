@@ -3,6 +3,8 @@ import { cancelRender, continueRender, delayRender } from "remotion";
 import playfairItalicUrl from "../fonts/PlayfairDisplay-Italic-latin.woff2";
 import playfairUrl from "../fonts/PlayfairDisplay-latin.woff2";
 import spaceGroteskUrl from "../fonts/SpaceGrotesk-latin.woff2";
+import montserratExtraBoldUrl from "../fonts/Montserrat-ExtraBold-latin.woff2";
+import interSemiBoldUrl from "../fonts/Inter-SemiBold-latin.woff2";
 
 /**
  * Fonts bundled with the compositions instead of fetched from Google Fonts at
@@ -52,4 +54,12 @@ const register = (family: string, url: string, style: "normal" | "italic", weigh
 export const loadSpaceGrotesk = (weights: string[]) => ({ fontFamily: register("Space Grotesk", spaceGroteskUrl, "normal", weights) });
 export const loadPlayfair = (style: "normal" | "italic", weights: string[]) => ({
   fontFamily: register("Playfair Display", style === "italic" ? playfairItalicUrl : playfairUrl, style, weights),
+});
+
+// Rebel Minds: Cosmos channel fonts (SIL OFL 1.1; licence in ../fonts/Montserrat-OFL.txt).
+export const loadMontserratExtraBold = () => ({
+  fontFamily: register("Montserrat", montserratExtraBoldUrl, "normal", ["800"]),
+});
+export const loadInterSemiBold = () => ({
+  fontFamily: register("Inter", interSemiBoldUrl, "normal", ["600"]),
 });

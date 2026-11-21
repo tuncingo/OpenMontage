@@ -3,7 +3,7 @@
   "narration": "Moon Base III also slipped, to the first quarter of 2027, according to its maker.",
   "visual_brief": "Odysseus lander image on the lunar surface.",
   "purpose": "explain",
-  "nasa_query": "Odysseus lunar landing",
+  "nasa_query": "Odysseus lunar lander Intuitive Machines | Nova-C lunar lander",
   "candidates": [
     {
       "index": 0,
@@ -67,6 +67,38 @@
         "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~thumb.jpg",
         "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~large.jpg",
         "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_4.jpg",
+      "nasa_id": "RGM_4156",
+      "title": "RGM_4156",
+      "center": "HQ",
+      "date": "2024-02-23",
+      "description": "For the first time in more than 50 years, new NASA science instruments and technology demonstrations are operating on the Moon following the first successful delivery of the agency’s CLPS (Commercial Lunar Payload Services) initiative. Experts from NASA and Intuitive Machines hosted a news conferenc",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4156/RGM_4156~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4156/RGM_4156~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4156/RGM_4156~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4156/RGM_4156~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4156/RGM_4156~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_5.jpg",
+      "nasa_id": "RGM_4112",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "JSC",
+      "date": "2024-02-23",
+      "description": "For the first time in more than 50 years, new NASA science instruments and technology demonstrations are operating on the Moon following the first successful delivery of the agency’s CLPS (Commercial Lunar Payload Services) initiative. Experts from NASA and Intuitive Machines hosted a news conferenc",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~orig.jpg"
       ]
     }
   ]

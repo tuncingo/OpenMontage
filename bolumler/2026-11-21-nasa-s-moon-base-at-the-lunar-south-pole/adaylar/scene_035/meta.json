@@ -3,70 +3,102 @@
   "narration": "First, PROMISE. A six wheeled rover powered by a nuclear source.",
   "visual_brief": "Six-wheeled rover concept with a glowing power source.",
   "purpose": "evidence",
-  "nasa_query": "Perseverance rover wheels",
+  "nasa_query": "VIPER rover Moon | lunar rover Apollo",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_0.jpg",
-      "nasa_id": "PIA23821",
-      "title": "Wheels Up for Perseverance Rover",
-      "center": "JPL",
-      "date": "2020-04-03",
-      "description": "Three of the six flight wheels that will travel to Mars can be seen attached to NASA's Perseverance rover (which is inverted on a handling fixture) on March 30, 2020 at the Kennedy Space Center in Florida. The protective antistatic foil covering the wheels will be removed before launch; the launch w",
+      "nasa_id": "ACD20-0047",
+      "title": "VIPER Drill",
+      "center": "ARC",
+      "date": "2019-10-29",
+      "description": "NASA is sending a mobile robot to the south pole of the Moon to get a close-up view of the location and concentration of water ice in the region and for the first time ever, actually sample the water ice at the same pole where the first woman and next man will land in 2024 under the Artemis program.",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~orig.jpg"
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~medium.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~small.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~large.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~orig.jpg"
       ]
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_1.jpg",
-      "nasa_id": "KSC-20200402-PH-JPL01_0001",
-      "title": "Mars 2020 Perseverance Rover Wheels",
-      "center": "KSC",
-      "date": "2020-04-02",
-      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "nasa_id": "GRC-2022-C-04467",
+      "title": "Viper Rover, in SLOPE Lab,",
+      "center": "GRC",
+      "date": "2022-06-29",
+      "description": "An Engineer maps out the position of rocks during VIPER testing at The NASA Glenn Research Center. A test version of the VIPER rover continues to show how well it moves through a simulated lunar surface in our SLOPE lab. This is a critical step toward ensuring the rover is ready for its 2023 mission",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~orig.jpg"
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2022-C-04467/GRC-2022-C-04467~orig.jpg"
       ]
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_2.jpg",
-      "nasa_id": "KSC-20200402-PH-JPL01_0003",
-      "title": "Mars 2020 Perseverance Rover Wheels",
+      "nasa_id": "KSC-20230221-PH-KLS01_0104",
+      "title": "VIPER MSolo Preparation for Packing",
       "center": "KSC",
-      "date": "2020-04-02",
-      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0104/KSC-20230221-PH-KLS01_0104~orig.jpg"
       ]
     },
     {
       "index": 3,
       "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_3.jpg",
-      "nasa_id": "KSC-20200402-PH-JPL01_0002",
-      "title": "Mars 2020 Perseverance Rover Wheels",
+      "nasa_id": "KSC-20230221-PH-KLS01_0016",
+      "title": "VIPER MSolo Preparation for Packing",
       "center": "KSC",
-      "date": "2020-04-02",
-      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "date": "2023-02-21",
+      "description": "The Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission is prepared for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be shipped to",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0016/KSC-20230221-PH-KLS01_0016~orig.jpg"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_4.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0029",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0029/KSC-20230221-PH-KLS01_0029~orig.jpg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_5.jpg",
+      "nasa_id": "KSC-20230221-PH-KLS01_0064",
+      "title": "VIPER MSolo Preparation for Packing",
+      "center": "KSC",
+      "date": "2023-02-21",
+      "description": "Technicians prepare the Mass Spectrometer Observing Lunar Operations (MSolo) for NASA’s Volatile Investigating Polar Exploration Rover (VIPER) mission for packing inside a laboratory in the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Feb. 21, 2023. MSolo will be sh",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20230221-PH-KLS01_0064/KSC-20230221-PH-KLS01_0064~orig.jpg"
       ]
     }
   ]

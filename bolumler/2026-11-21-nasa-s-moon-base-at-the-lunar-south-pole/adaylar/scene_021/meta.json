@@ -3,6 +3,102 @@
   "narration": "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice. So the evidence that ice exists is solid.",
   "visual_brief": "Chandrayaan-3 lander and rover on the lunar surface.",
   "purpose": "evidence",
-  "nasa_query": "Chandrayaan-3 Vikram lander",
-  "candidates": []
+  "nasa_query": "Blue Ghost lunar lander | Moon lander thermal probe south pole",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_0.jpg",
+      "nasa_id": "Rac_Integrated_horizontal_2",
+      "title": "NASA Science Payload to Study Lunar Dust",
+      "center": "MSFC",
+      "date": "2024-12-20",
+      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is planning to study how different materials react to the lunar environment. Regolith Adherence Characterization, or RAC, is one of 10 payloads set to be carried to the Moon by the Blu",
+      "links": [
+        "https://images-assets.nasa.gov/image/Rac_Integrated_horizontal_2/Rac_Integrated_horizontal_2~medium.jpg",
+        "https://images-assets.nasa.gov/image/Rac_Integrated_horizontal_2/Rac_Integrated_horizontal_2~small.jpg",
+        "https://images-assets.nasa.gov/image/Rac_Integrated_horizontal_2/Rac_Integrated_horizontal_2~thumb.jpg",
+        "https://images-assets.nasa.gov/image/Rac_Integrated_horizontal_2/Rac_Integrated_horizontal_2~large.jpg",
+        "https://images-assets.nasa.gov/image/Rac_Integrated_horizontal_2/Rac_Integrated_horizontal_2~orig.png"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_1.jpg",
+      "nasa_id": "NGLR Payload EDIT",
+      "title": "NASA Anticipates Lunar Findings from Artemis Retroreflector",
+      "center": "MSFC",
+      "date": "2025-01-02",
+      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is expected to significantly expand our knowledge of the Moon. Next Generation Lunar Retroreflector, or NGLR-1, is one of 10 payloads set to be carried to the Moon by the Blue Ghost 1 ",
+      "links": [
+        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~medium.jpg",
+        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~small.jpg",
+        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~orig.png"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_2.jpg",
+      "nasa_id": "RAC Pre-Integration Image 1",
+      "title": "NASA Science Payload to Study Lunar Dust",
+      "center": "MSFC",
+      "date": "2024-12-20",
+      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is planning to study how different materials react to the lunar environment. Regolith Adherence Characterization, or RAC, is one of 10 payloads set to be carried to the Moon by the Blu",
+      "links": [
+        "https://images-assets.nasa.gov/image/RAC Pre-Integration Image 1/RAC Pre-Integration Image 1~medium.jpg",
+        "https://images-assets.nasa.gov/image/RAC Pre-Integration Image 1/RAC Pre-Integration Image 1~small.jpg",
+        "https://images-assets.nasa.gov/image/RAC Pre-Integration Image 1/RAC Pre-Integration Image 1~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RAC Pre-Integration Image 1/RAC Pre-Integration Image 1~large.jpg",
+        "https://images-assets.nasa.gov/image/RAC Pre-Integration Image 1/RAC Pre-Integration Image 1~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_3.jpg",
+      "nasa_id": "IMG_0311",
+      "title": "NASA Science Payload to Study Lunar Dust",
+      "center": "MSFC",
+      "date": "2024-12-20",
+      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is planning to study how different materials react to the lunar environment. Regolith Adherence Characterization, or RAC, is one of 10 payloads set to be carried to the Moon by the Blu",
+      "links": [
+        "https://images-assets.nasa.gov/image/IMG_0311/IMG_0311~medium.jpg",
+        "https://images-assets.nasa.gov/image/IMG_0311/IMG_0311~small.jpg",
+        "https://images-assets.nasa.gov/image/IMG_0311/IMG_0311~thumb.jpg",
+        "https://images-assets.nasa.gov/image/IMG_0311/IMG_0311~large.jpg",
+        "https://images-assets.nasa.gov/image/IMG_0311/IMG_0311~orig.JPG"
+      ]
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_4.jpg",
+      "nasa_id": "IMG_4939",
+      "title": "NASA CLPS Payload Aims to Probe the Moon",
+      "center": "MSFC",
+      "date": "2024-12-18",
+      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could help improve our understanding of the Moon. The Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity, or LISTER, is one of 10 payloads set to be carried to the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~medium.jpg",
+        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~small.jpg",
+        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~thumb.jpg",
+        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~large.jpg",
+        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~orig.jpeg"
+      ]
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_021/aday_5.jpg",
+      "nasa_id": "KSC-20250115-PH-CSH01_0001",
+      "title": "CLPS Firefly Blue Ghost Mission 1 Launch Streak",
+      "center": "KSC",
+      "date": "2025-01-15",
+      "description": "Creating a golden streak in the night sky, a SpaceX Falcon 9 rocket carrying Firefly Aerospace’s Blue Ghost Mission One lander soars upward after liftoff from Launch Complex 39A at NASA’s Kennedy Space Center in Florida on Wednesday, Jan. 15, 2025 as part of NASA’s CLPS (Commercial Lunar Payload Ser",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20250115-PH-CSH01_0001/KSC-20250115-PH-CSH01_0001~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250115-PH-CSH01_0001/KSC-20250115-PH-CSH01_0001~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250115-PH-CSH01_0001/KSC-20250115-PH-CSH01_0001~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250115-PH-CSH01_0001/KSC-20250115-PH-CSH01_0001~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20250115-PH-CSH01_0001/KSC-20250115-PH-CSH01_0001~orig.jpg"
+      ]
+    }
+  ]
 }
