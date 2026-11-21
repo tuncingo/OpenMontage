@@ -14,6 +14,10 @@ In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpo
 
 Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed. The effort moves from orbit down to the ground, near the polar ice. The fate of partners like Europe, Japan and Canada is still unresolved. [S5] [S12]
 
+[EVIDENCE: The price tag]
+
+The price tag is about twenty billion dollars for the Moon Base plan, and about thirty billion over the decade for all three phases. [S13]
+
 Now, the word base. Picture a city under a dome. That is not what NASA describes, at least not yet. [S2]
 
 [EVIDENCE: Three phases, 2029 and 2032 marks]
@@ -52,7 +56,7 @@ Now, who is actually going? NASA numbers the missions. [S3]
 
 Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander. NASA is buying rides, not building every machine itself. [S3]
 
-Those rides have slipped. A New Glenn rocket exploded on its pad in May, and the first two landers moved from fall 2026 to the first part of 2027. [S11]
+Those rides have slipped. New Glenn exploded on its pad during a test firing in May 2026, and NASA's Moon Base manager confirmed that the first two landers slipped to the first half of 2027. [S13] [S11]
 
 What comes after the landers? Two strange machines. [S2]
 
@@ -76,9 +80,9 @@ NASA is aiming for a fission reactor of about one hundred kilowatts on the surfa
 
 And that is the honest tension at the center of this story. Can the schedule hold? [S6]
 
-[EVIDENCE: Experts doubt 2027 and 2028 dates]
+[EVIDENCE: Artemis III and IV, and the doubted dates]
 
-Experts question the 2027 and 2028 landing dates. The Artemis crewed lander still needs development. [S6]
+Experts question the 2027 and 2028 landing dates. Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028. The Artemis crewed lander still needs development. [S13] [S6]
 
 The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining. [S10]
 
@@ -121,12 +125,10 @@ S9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-n
 S10. https://www.nasa.gov/mission/promise/
 S11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/
 S12. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/
+S13. NASA Moon Base documents, per editor (not in research.md)
 
 ## Revision notes
-- Tüm doğrulama hedge'leri silindi (I could not confirm, keeping in mind, as far as I can find, says an expert, reports say, sources conflict).
-- "The crew rovers depend on that date", Artemis IV ve 20 milyar dolar iddiaları ile Artemis II paragrafı tamamen çıkarıldı; S12 (Al Jazeera) ve S14 kaynakları listeden düşürüldü, S13 S12 oldu.
-- LCROSS "first direct detection" yapıldı, EVIDENCE etiketi eşlendi. Chandrayaan-1/LRO cümlesi araştırmada kaynağı olmadığı için silindi.
-- Kanca keskinleştirildi: hiçbir Moon Base aracı inmedi; 2025 Athena inişinden ayrıldı (Athena bilgisi araştırma notlarında yok, editör emriyle eklendi, kaynaksız).
-- Gateway bölümü güçlendirildi ve kapanışta tekrar bağlandı.
-- Lander bölümü 3 cümleye indirildi; "Why hop?" sorusu silindi.
-- Anlatım 1400 kelimenin altına indirildi.
+- Tüm doğrulama hedge'leri silindi; önceki emirler (1400 kelime altı, kanca, Gateway bölümü, 3 cümlelik lander bölümü) korundu.
+- Editör emri 7: yaklaşık 20 milyar dolar ve on yılda yaklaşık 30 milyar dolar (üç faz) cümlesi eklendi, çekinceli ifade yok. [S13]
+- Editör emri 8: New Glenn "Mayıs 2026'da test ateşlemesinde rampada patladı", Moon Base yöneticisi ilk iki inişçinin 2027'nin ilk yarısına kaydığını doğruladı; Artemis III 2027 Dünya yörüngesi testi, Artemis IV 2028 ilk iniş. "Unconfirmed" ve "Sources conflict" ifadeleri yok.
+- Yeni kaynak girişi S13: "NASA Moon Base documents, per editor (not in research.md)", URL uydurulmadı.
