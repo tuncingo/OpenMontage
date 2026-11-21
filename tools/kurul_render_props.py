@@ -32,7 +32,13 @@ TAIL_PAD_S = 0.4
 END_PAD_S = 1.5
 
 # Abstract scenes drawn in code (no image model).
-PROCEDURAL = {16: "crater", 17: "thermal", 22: "radar", 25: "ridge", 43: "ridge", 69: "descent"}
+PROCEDURAL = {
+    # abstract scenes
+    16: "crater", 17: "thermal", 22: "radar", 25: "ridge", 43: "ridge", 69: "descent",
+    # no honest real image existed: generic code-drawn Moon scenes (labelled "Illustration")
+    2: "descent", 14: "ridge", 19: "crater", 21: "descent", 29: "descent", 35: "ridge",
+    37: "thermal", 46: "radar", 52: "radar", 53: "ridge", 54: "crater",
+}
 
 
 def main() -> None:

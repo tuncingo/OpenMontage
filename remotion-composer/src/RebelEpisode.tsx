@@ -129,7 +129,7 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; fadeIn: number; durationInFra
   return (
     <AbsoluteFill style={{ opacity, backgroundColor: NAVY, transform: `scale(${zoomIn})` }}>
       {scene.procedural ? (
-        <ProceduralScene variant={scene.procedural} />
+        <ProceduralScene variant={scene.procedural} seed={scene.id} />
       ) : scene.src ? (
         <AbsoluteFill
           style={{
@@ -211,7 +211,8 @@ const OverlayText: React.FC<{ o: EpisodeOverlay; sceneFrames: number }> = ({ o, 
           textTransform: "uppercase",
           padding: "10px 26px",
           borderRadius: 10,
-          background: "linear-gradient(rgba(11,16,38,0.0), rgba(11,16,38,0.0))",
+          // soft dark scrim keeps text readable over bright photos
+          background: "rgba(11,16,38,0.5)",
           textShadow: "0 3px 18px rgba(5,7,15,0.95), 0 0 6px rgba(5,7,15,0.9)",
         }}
       >

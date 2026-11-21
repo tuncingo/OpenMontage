@@ -57,7 +57,7 @@ const ridgePath = (seed: number, baseY: number, amp: number, steps = 48): string
   return "M -20 " + H + " L " + pts.map((p) => p[0].toFixed(1) + " " + p[1].toFixed(1)).join(" L ") + " L " + (W + 20) + " " + H + " Z";
 };
 
-const Crater: React.FC<{ t: number; deep?: boolean }> = ({ t, deep }) => {
+const Crater: React.FC<{ t: number; deep?: boolean; sd: number }> = ({ t, deep, sd }) => {
   // t: 0..1 progress; slow push-in toward the crater
   const scale = 1 + t * 0.18;
   return (
@@ -79,9 +79,9 @@ const Crater: React.FC<{ t: number; deep?: boolean }> = ({ t, deep }) => {
         </linearGradient>
       </defs>
       <rect width={W} height={H} fill="url(#cr-bg)" />
-      <Stars seed={11} count={120} maxY={420} />
+      <Stars seed={11 + sd} count={120} maxY={420} />
       <g transform={`translate(${W / 2} ${H * 0.58}) scale(${scale}) translate(${-W / 2} ${-H * 0.58})`}>
-        <path d={ridgePath(3, 640, 26)} fill="#2A2F4F" />
+        <path d={ridgePath(3 + sd, 640, 26)} fill="#2A2F4F" />
         <ellipse cx={W / 2} cy={H * 0.6} rx={760} ry={250} fill="#3A3F63" />
         <ellipse cx={W / 2} cy={H * 0.62} rx={700} ry={218} fill="none" stroke="url(#cr-rim)" strokeWidth={deep ? 16 : 10} />
         <ellipse cx={W / 2} cy={H * 0.64} rx={660} ry={190} fill="url(#cr-floor)" />
@@ -91,8 +91,8 @@ const Crater: React.FC<{ t: number; deep?: boolean }> = ({ t, deep }) => {
   );
 };
 
-const Thermal: React.FC<{ t: number; frame: number }> = ({ t, frame }) => {
-  const r = rng(21);
+const Thermal: React.FC<{ t: number; frame: number; sd: number }> = ({ t, frame, sd }) => {
+  const r = rng(21 + sd);
   const blobs = Array.from({ length: 14 }, () => ({
     x: 120 + r() * (W - 240),
     y: 120 + r() * (H - 240),
@@ -132,11 +132,11 @@ const Thermal: React.FC<{ t: number; frame: number }> = ({ t, frame }) => {
   );
 };
 
-const Radar: React.FC<{ frame: number; t: number }> = ({ frame, t }) => {
+const Radar: React.FC<{ frame: number; t: number; sd: number }> = ({ frame, t, sd }) => {
   const cx = W / 2;
   const cy = H / 2;
   const sweep = (frame * 2.2) % 360;
-  const r = rng(5);
+  const r = rng(5 + sd);
   const craters = Array.from({ length: 22 }, () => ({
     x: 200 + r() * (W - 400),
     y: 160 + r() * (H - 320),
@@ -173,7 +173,7 @@ const Radar: React.FC<{ frame: number; t: number }> = ({ frame, t }) => {
   );
 };
 
-const Ridge: React.FC<{ t: number }> = ({ t }) => {
+const Ridge: React.FC<{ t: number; sd: number }> = ({ t, sd }) => {
   const sunX = 1500 - t * 120;
   const sunY = 560 + t * 18;
   return (
@@ -194,19 +194,19 @@ const Ridge: React.FC<{ t: number }> = ({ t }) => {
         </linearGradient>
       </defs>
       <rect width={W} height={H} fill="url(#rg-sky)" />
-      <Stars seed={4} count={150} maxY={520} />
+      <Stars seed={4 + sd} count={150} maxY={520} />
       <rect width={W} height={H} fill="url(#rg-sun)" />
-      <path d={ridgePath(8, 660, 30)} fill="url(#rg-lit)" />
+      <path d={ridgePath(8 + sd, 660, 30)} fill="url(#rg-lit)" />
       {/* Long shadows raking left from the ridge crest */}
-      <path d={ridgePath(8, 760, 18)} fill="#05070F" opacity={0.92} />
-      <path d={ridgePath(15, 900, 22)} fill="#02030A" />
+      <path d={ridgePath(8 + sd, 760, 18)} fill="#05070F" opacity={0.92} />
+      <path d={ridgePath(15 + sd, 900, 22)} fill="#02030A" />
       <circle cx={sunX} cy={sunY} r={22} fill="#FFF8DC" />
       <ellipse cx={sunX} cy={sunY} rx={340} ry={3.5} fill="#FFF3C4" opacity={0.65} />
     </svg>
   );
 };
 
-const Descent: React.FC<{ t: number }> = ({ t }) => {
+const Descent: React.FC<{ t: number; sd: number }> = ({ t, sd }) => {
   const dip = t * 330; // the "camera" drops toward the rim
   return (
     <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H}>
@@ -222,11 +222,11 @@ const Descent: React.FC<{ t: number }> = ({ t }) => {
       </defs>
       <rect width={W} height={H} fill="url(#ds-sky)" />
       <g transform={`translate(0 ${-dip * 0.35})`}>
-        <Stars seed={9} count={170} maxY={760} />
+        <Stars seed={9 + sd} count={170} maxY={760} />
       </g>
       <g transform={`translate(0 ${-dip})`}>
-        <path d={ridgePath(2, 760, 22)} fill="#33385C" />
-        <path d={ridgePath(6, 900, 18)} fill="#1A1E3A" />
+        <path d={ridgePath(2 + sd, 760, 22)} fill="#33385C" />
+        <path d={ridgePath(6 + sd, 900, 18)} fill="#1A1E3A" />
         <ellipse cx={W / 2} cy={1180} rx={880} ry={260} fill="#010207" />
         <ellipse cx={W / 2} cy={1180} rx={880} ry={260} fill="none" stroke="#FFD58A" strokeOpacity={0.55} strokeWidth={8} />
         <ellipse cx={W / 2 + 120} cy={1230} rx={260} ry={60} fill="url(#ds-ice)" opacity={0.35 + 0.4 * t} />
@@ -235,8 +235,11 @@ const Descent: React.FC<{ t: number }> = ({ t }) => {
   );
 };
 
-export const ProceduralScene: React.FC<{ variant: ProceduralVariant }> = ({ variant }) => {
+export const ProceduralScene: React.FC<{ variant: ProceduralVariant; seed?: number }> = ({ variant, seed = 0 }) =>
+  // seed offsets the star fields / terrain so repeated variants do not look identical
+ {
   const frame = useCurrentFrame();
+  const sd = seed * 13;
   const { durationInFrames } = useVideoConfig();
   const t = interpolate(frame, [0, Math.max(1, durationInFrames - 1)], [0, 1], {
     extrapolateLeft: "clamp",
@@ -244,11 +247,11 @@ export const ProceduralScene: React.FC<{ variant: ProceduralVariant }> = ({ vari
   });
   return (
     <AbsoluteFill style={{ backgroundColor: "#05070F" }}>
-      {variant === "crater" && <Crater t={t} deep />}
-      {variant === "thermal" && <Thermal t={t} frame={frame} />}
-      {variant === "radar" && <Radar t={t} frame={frame} />}
-      {variant === "ridge" && <Ridge t={t} />}
-      {variant === "descent" && <Descent t={t} />}
+      {variant === "crater" && <Crater t={t} deep sd={sd} />}
+      {variant === "thermal" && <Thermal t={t} frame={frame} sd={sd} />}
+      {variant === "radar" && <Radar t={t} frame={frame} sd={sd} />}
+      {variant === "ridge" && <Ridge t={t} sd={sd} />}
+      {variant === "descent" && <Descent t={t} sd={sd} />}
     </AbsoluteFill>
   );
 };
