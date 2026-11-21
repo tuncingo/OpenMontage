@@ -14,7 +14,9 @@
    "position": "bottom",
    "style": "number",
    "in_s": 1.0,
-   "out_s": 5.0
+   "out_s": 5.0,
+   "hero": "2027",
+   "caption": "SLIPPED TO"
   },
   {
    "scene_id": 4,
@@ -38,7 +40,9 @@
    "position": "center",
    "style": "number",
    "in_s": 2.0,
-   "out_s": 6.0
+   "out_s": 6.0,
+   "hero": "$20B",
+   "caption": "OVER 7 YEARS"
   },
   {
    "scene_id": 11,
@@ -95,7 +99,9 @@
    "position": "center",
    "style": "number",
    "in_s": 2.5,
-   "out_s": 7.0
+   "out_s": 7.0,
+   "hero": "−250°C",
+   "caption": "PERMANENTLY SHADOWED"
   },
   {
    "scene_id": 18,
@@ -137,7 +143,9 @@
    "position": "bottom",
    "style": "number",
    "in_s": 2.0,
-   "out_s": 8.0
+   "out_s": 8.0,
+   "hero": "155 KG",
+   "caption": "NOT A TOTAL"
   },
   {
    "scene_id": 21,
@@ -179,7 +187,8 @@
    "position": "lower-third",
    "style": "number",
    "in_s": 3.0,
-   "out_s": 8.0
+   "out_s": 8.0,
+   "hero": "MAY 28, 2026"
   },
   {
    "scene_id": 33,
@@ -213,7 +222,9 @@
    "position": "center",
    "style": "number",
    "in_s": 2.0,
-   "out_s": 6.5
+   "out_s": 6.5,
+   "hero": "2030",
+   "caption": "100 KW REACTOR BY"
   },
   {
    "scene_id": 46,

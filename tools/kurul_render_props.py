@@ -9,7 +9,7 @@ Writes  projects/<kod>/assets/public/            (Remotion --public-dir)
         projects/<kod>/render_props.json
 
 Scene length = max(planned duration, narration length + 0.4 s), so speech is never cut.
-Narration is only loudness-normalised (no EQ, no reverb).
+Narration is only loudness-normalised (mild compression + limiter to reach -14 LUFS; no EQ, no reverb).
 
 Usage: python tools/kurul_render_props.py <kod> [--max-seconds N] [--lufs -16]
 Run with the project .venv (needs numpy + soundfile).
@@ -45,7 +45,9 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("kod")
     ap.add_argument("--max-seconds", type=float, default=None, help="preview: keep only the first N seconds")
-    ap.add_argument("--lufs", type=float, default=-16.0)
+    ap.add_argument("--lufs", type=float, default=-14.0)
+    ap.add_argument("--tp", type=float, default=-1.5, help="true-peak ceiling for loudnorm (headroom for AAC)")
+    ap.add_argument("--from-seconds", type=float, default=0.0, help="start the clip at this time (clip is re-based to 0)")
     ap.add_argument("--suffix", default="", help="output name suffix, e.g. _preview")
     a = ap.parse_args()
 
@@ -72,6 +74,12 @@ def main() -> None:
         t += dur
     total_full = t
 
+    if a.from_seconds:
+        timeline = [x for x in timeline if x["start"] >= a.from_seconds - 1e-6]
+        off = timeline[0]["start"]
+        for x in timeline:
+            x["start"] -= off
+        total_full = timeline[-1]["start"] + timeline[-1]["dur"]
     if a.max_seconds:
         timeline = [x for x in timeline if x["start"] < a.max_seconds]
     total = min(total_full, a.max_seconds) if a.max_seconds else total_full + END_PAD_S
@@ -89,11 +97,29 @@ def main() -> None:
     raw = os.path.join(pr, "assets", "audio", f"narration_raw{a.suffix}.wav")
     sf.write(raw, buf, sr)
     out_audio = os.path.join(pub, "audio", f"narration{a.suffix}.wav")
-    subprocess.run(
-        ["ffmpeg", "-loglevel", "error", "-y", "-i", raw, "-af", f"loudnorm=I={a.lufs}:TP=-1.5:LRA=11",
-         "-ar", "48000", "-ac", "1", out_audio],
-        check=True,
-    )
+    # Loudness: speech here is ~-24 LUFS with only ~3 dB of headroom, so plain gain to the target
+    # would clip. Mild 2:1 compression + a look-ahead limiter, gain iterated until the
+    # measured integrated loudness hits the target and true peak stays under the ceiling.
+    def measure(path: str) -> tuple[float, float]:
+        r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", path, "-af", "ebur128=peak=true", "-f", "null", "-"],
+                           capture_output=True, text=True).stderr
+        tail = r[r.rindex("Integrated loudness"):]
+        i = float(tail.split("I:")[1].split("LUFS")[0])
+        tp = float(tail.split("Peak:")[1].split("dBFS")[0])
+        return i, tp
+
+    ceil_db = a.tp - 0.4  # sample-peak ceiling; measured true peak lands ~0.4-0.6 dB above it
+    ceil_lin = 10 ** (ceil_db / 20)
+    gain = a.lufs - measure(raw)[0] - 3.0  # dual-mono stereo reads +3 LU above the mono source
+    for _ in range(4):
+        chain = (f"aresample=48000,pan=stereo|c0=c0|c1=c0,acompressor=threshold=-26dB:ratio=2:attack=10:release=150,volume={gain:.2f}dB,"
+                 f"alimiter=limit={ceil_lin:.4f}:attack=3:release=60:level=0")
+        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", raw, "-af", chain, out_audio], check=True)
+        i_meas, tp_meas = measure(out_audio)
+        if abs(i_meas - a.lufs) <= 0.15 and tp_meas <= a.tp + 0.4:
+            break
+        gain += a.lufs - i_meas
+    print(f"SES: {i_meas:.1f} LUFS, true peak {tp_meas:.1f} dBTP (hedef {a.lufs} LUFS, tavan {a.tp} dBTP)")
 
     # 3) scenes + images
     scenes_out = []
@@ -120,7 +146,7 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
+            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })
