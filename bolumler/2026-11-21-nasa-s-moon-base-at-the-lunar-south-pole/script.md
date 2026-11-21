@@ -10,7 +10,7 @@ In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpo
 
 [EVIDENCE: Gateway paused, not cancelled]
 
-Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed. The effort moves from orbit down to the ground, near the polar ice. The fate of partners like Europe, Japan and Canada is still unresolved. [S5] [S12]
+Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed. But much of that hardware was already built, and it is not easy to reuse. [S5] [S13] [S14] The effort moves from orbit down to the ground, near the polar ice. The fate of partners like Europe, Japan and Canada is still unresolved. [S5] [S12]
 
 [EVIDENCE: The price tag]
 
@@ -32,15 +32,13 @@ The first reason is water. [S4]
 
 Parts of the polar craters never see sunlight. They can reach about minus two hundred fifty degrees Celsius. That is colder than the surface of Pluto. In that cold, water ice can survive for a very long time. [S4]
 
-One radar based estimate for the polar regions puts it at more than six hundred billion kilograms. That is about two hundred forty thousand Olympic swimming pools. But it is a low end figure for the poles as a whole, not a number for the base site. And it does not mean lakes. This is ice mixed into soil. [S4]
+[EVIDENCE: LCROSS impact, 2009]
 
-[EVIDENCE: LCROSS, the first direct detection]
-
-The first direct detection came in 2009. NASA's LCROSS probe hit a crater and kicked up a plume containing about one hundred fifty five kilograms of water. That is only what the plume let us see. It is not a total. [S4]
+In 2009, NASA's LCROSS slammed into Cabeus crater, near the south pole, and the plume confirmed water ice. It held about one hundred fifty five kilograms of water. That is only what the plume let us see. It is not a total. [S4]
 
 Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice. [S8]
 
-So the evidence that ice exists is solid. What is thin is how much there is, what form it takes, and whether anyone can mine it. [S4]
+So the evidence that ice exists is solid. What is thin is how much there is, what form it takes, and whether anyone can mine it. And this is ice mixed into soil, not lakes. [S4]
 
 And here is the loop I cannot close. Where did it come from? Comets, asteroids, the solar wind, even Earth. Scientists have not settled that. Hold on to that question. [S4]
 
@@ -54,9 +52,9 @@ Now, who is actually going? NASA numbers the missions. [S3]
 
 Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander. NASA is buying rides, not building every machine itself. [S3]
 
-[EVIDENCE: New Glenn explodes in a test]
+[EVIDENCE: New Glenn explodes in a test, and a separate delay]
 
-Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. Moon Base One and Three slipped to the first part of 2027. [S17] [S11]
+Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027. [S17] [S11] Moon Base Three, the Intuitive Machines lander, also slipped to the first quarter of 2027, through a separate delay. [S11]
 
 What comes after the landers? Two strange machines. [S2]
 
@@ -100,15 +98,13 @@ So this is not a clean sprint. Two programs, both with slipping calendars, both 
 
 NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S1] [S2]
 
-So let's go back to the opening. Why has so little been built? [S1]
+So let's go back to the opening. Why did NASA pause its own station? [S5]
 
-Because the base is not a place. It is a sequence. Landers first, then rovers, then power, then habitats. Each step depends on the one before it. [S2]
+Because the base is not a place. It is a sequence. Landers first, then rovers, then power, then habitats. Each step depends on the one before it. NASA chose to spend its effort on that surface sequence, near the ice, and Gateway is paused, not dead. [S2] [S5]
 
-And why shelve a space station? Because NASA chose to focus on the surface base, near the ice. Gateway is paused, not dead, and that is the bet. [S5]
+So the better question is not why NASA paused a station. It is whether the surface sequence can hold, step by step. Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030. And whether anyone can show that the ice is usable, and where it came from. [S18] [S6] [S4]
 
-Here is what I would watch. Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030. And whether anyone can show that the ice is usable, and where it came from. [S18] [S6] [S4]
-
-The base is still mostly on paper and on test stands. The next two years decide whether it becomes hardware. And either way, the south pole is where both NASA and China are placing their bets. [S2] [S7]
+The base is still mostly on paper. The next two years decide whether it becomes hardware. And either way, the south pole is where both NASA and China are placing their bets. [S2] [S7]
 
 If you want to follow it with us, subscribe to Rebel Minds Cosmos. Next time, we go inside those dark craters, and ask where that ice came from.
 
@@ -133,9 +129,9 @@ S17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-signif
 S18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
 
 ## Revision notes
-- Eski S13 ("NASA Moon Base documents, per editor") ve ona yapılan tüm atıflar silindi. S13 numarası artık Planetary Society "Ignition" makalesine ait; S14 Astronomy, S15 Space.com Artemis, S16 The Register Artemis, S17 Space.com Blue Origin, S18 SpacePolicyOnline eklendi. S1-S12 numaraları değişmedi.
-- Kanca: "Hiçbir Moon Base görevi henüz inmedi. İlk üçü 2027'ye kaydı." [S18]; 2025 Athena cümlesi ve "still on Earth" ifadesi tamamen kaldırıldı.
-- Fiyat: "ilk yedi yılda yaklaşık 20 milyar, on yılda üç faz için yaklaşık 30 milyar" tek cümlede bağlandı [S14]. Gateway duraklatma cümlesine S13 eklendi.
-- Lander kayması: New Glenn 28 Mayıs 2026'da statik ateşleme testinde patladı [S17]; "ilk iki lander" yerine "Moon Base One ve Three" 2027'nin ilk kısmına kaydı [S11].
-- Artemis: "NASA hedefliyor" çerçevesiyle Artemis III 2027 Dünya yörüngesi lander testi, Artemis IV erken 2028 ilk mürettebatlı iniş [S15] [S16]; uzman şüphesi cümlesiyle çelişmiyor.
-- PROMISE: "94 milyon dolar, 140 milyon dolar opsiyon" [S9]. Öğrenci yarışması S1'e bağlandı. "Hâlâ bir çizim" yerine "çoğunlukla kağıt üzerinde ve test tezgahlarında". Gateway bölümü, 3 cümlelik lander bölümü ve 1400 kelime altı korundu (yaklaşık 1170 kelime anlatım).
+- New Glenn: patlama yalnızca Moon Base One'ın (Blue Moon Mk1) kaymasına bağlandı; Moon Base Three (Nova-C Trinity) ayrı bir gecikmeyle 2027 ilk çeyreğine kaydı [S11]. EVIDENCE etiketi buna göre güncellendi.
+- LCROSS: "first direct detection" ve her türlü "ilk" iddiası kaldırıldı; yeni cümle: Cabeus krateri, plume suyu doğruladı. EVIDENCE etiketi "LCROSS impact, 2009" yapıldı.
+- 600 milyar kg buz cümlesi (ve yüzme havuzu karşılaştırması) tamamen silindi; araştırma notları "kuzey kutbu kraterleri" çerçevesini desteklemiyor. "Göl değil, toprağa karışık buz" ifadesi korundu.
+- Gateway cevabına tek cümle eklendi: donanımın büyük kısmı zaten inşa edilmişti ve yeniden kullanımı kolay değil [S13] [S14]. Maliyet iddiası eklenmedi.
+- Kapanış açılış sorusuna bağlandı: "Why did NASA pause its own station?" cevaplandı ve soru "yüzey dizisi tutacak mı" olarak yeniden çerçevelendi.
+- "test stands" ifadesi kaldırıldı; "mostly on paper" korundu.
