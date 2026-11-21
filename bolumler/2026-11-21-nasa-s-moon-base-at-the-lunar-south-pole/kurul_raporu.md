@@ -113,7 +113,7 @@ Kanca olgusal ve gerilimli, ama orta bolum rakam ve takvim listesine donuyor; Ga
 
 Benzediği: Ep3 - Where did the Moon come from? (aynı gök cismi, tamamen farklı konu ve yapı), Tipik 'NASA Moon base explained' / 'Artemis update' haber özeti videoları
 
-**Yayın notları:** Yayın: bugün 21 Kasım 2026 Cumartesi; TR 19:00-21:00 aralığında yayınlayın (hafta sonu akşamı), alternatif Salı-Perşembe 18:00. Gateway ve Artemis haber döngüsüne yakın olması izlenme için avantaj. Sabit yorum önerisi: 'Hiçbir Moon Base görevi henüz inmedi ve ilk üçü 2027'ye kaydı. Sizce Gateway'i duraklatmak doğru bahis mi? Ve buz Ay'a nereden geldi: kuyruklu yıldız, asteroit, güneş rüzgarı, Dünya? Bir sonraki bölümde bunu açıyoruz. Maliyet ve Artemis tarihleri basın kaynaklıdır; yeni gelişme olursa yoruma yazın.' Yeni haber (inişler, reaktör, Artemis tarihleri) çıkarsa açıklamaya düzeltme notu ekleyin. Shorts fikirleri (süreler yaklaşık 140 kelime/dk tahminidir, final kurguya göre güncelleyin): 1) 00:00-00:45 'No Moon Base mission has landed. NASA paused its Moon station for it' (kanca + Gateway duraklatma). 2) 02:30-03:30 'Colder than Pluto: ice that survives in the dark' (kalıcı gölgeli kraterler, LCROSS, ice yok-lake değil vurgusu). 3) 05:20-06:10 'A nuclear rover and hopping drones: the strangest Moon machines' (PROMISE + MoonFall). Her Short sonunda tam bölüme yönlendirme.
+**Yayın notları:** Yayın: bugün 21 Kasım 2026 Cumartesi; TR 19:00-21:00 aralığında yayınlayın (hafta sonu akşamı), alternatif Salı-Perşembe 18:00. Gateway ve Artemis haber döngüsüne yakın olması izlenme için avantaj. Sabit yorum önerisi: 'Hiçbir Moon Base görevi henüz inmedi ve ilk üçü 2027'ye kaydı. Sizce Gateway'i duraklatmak doğru bahis mi? Ve buz Ay'a nereden geldi: kuyruklu yıldız, asteroit, güneş rüzgarı, Dünya? Bir sonraki bölümde bunu açıyoruz. Maliyet ve Artemis tarihleri basın kaynaklıdır; yeni gelişme olursa yoruma yazın.' Yeni haber (inişler, reaktör, Artemis tarihleri) çıkarsa açıklamaya düzeltme notu ekleyin. Shorts fikirleri (süreler yaklaşık 140 kelime/dk tahminidir, final kurguya göre güncelleyin): 1) 00:00-00:40 'No Moon Base mission has landed. NASA paused its Moon station for it' (kanca + Gateway duraklatma). 2) 01:50-02:50 'Colder than Pluto: ice that survives in the dark' (kalıcı gölgeli kraterler, LCROSS, ice yok-lake değil vurgusu). 3) 04:02-04:56 'A nuclear rover and hopping drones: the strangest Moon machines' (PROMISE + MoonFall). Her Short sonunda tam bölüme yönlendirme.
 
 ### Açıklama
 
@@ -123,15 +123,15 @@ In this episode: why Gateway is paused and not cancelled, NASA's three-phase pla
 
 Chapters
 00:00 Not one piece has landed yet
-00:35 Why NASA paused Gateway
-01:25 What "base" really means: three phases
-02:05 Why the south pole? Ice and light
-04:20 Three landers and the New Glenn setback
-05:20 PROMISE and MoonFall
-06:10 Power and the 100 kilowatt reactor
-06:50 Can the schedule hold?
-07:25 China, Chang'e-7 and the race
-08:00 What to watch next
+00:26 Why NASA paused Gateway
+01:14 What "base" really means: three phases
+01:44 Why the south pole? Ice and light
+03:17 Three landers and the New Glenn setback
+04:02 PROMISE and MoonFall
+04:56 Power and the 100 kilowatt reactor
+05:30 Can the schedule hold?
+06:10 China, Chang'e-7 and the race
+07:03 What to watch next
 
 A note on certainty: the cost figures (about 20 billion dollars over seven years, about 30 billion over a decade) and the Artemis dates come from press and trade reporting, and experts question the reactor and Artemis timelines. The ice is well supported, but how much there is, in what form, and whether it can be mined is not settled. We flag this in the video. Status as of November 2026; dates may change.
 
