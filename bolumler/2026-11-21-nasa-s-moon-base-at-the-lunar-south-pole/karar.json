@@ -680,9 +680,194 @@
           ]
         }
       ]
+    },
+    {
+      "round": 4,
+      "avg": 7.17,
+      "min": 6.5,
+      "critical": 0,
+      "decision": "needs_human",
+      "reviews": [
+        {
+          "role": "dogrulayici",
+          "name": "Doğrulayıcı",
+          "score": 8.0,
+          "verdict": "pass",
+          "summary": "Önceki turdaki kritik hatalar giderilmiş; S13 doğrudan doğrulandı, S14-S18 ağ kısıtı nedeniyle açılamadı ve araştırma notlarına dayanarak tutarlı bulundu. Kalan sorunlar küçük atıf ve ifade meseleleri.",
+          "claims": {
+            "verified": 30,
+            "disputed": 0,
+            "unsupported": 3
+          },
+          "issues": [
+            {
+              "severity": "minor",
+              "quote": "The first direct detection came in 2009.",
+              "problem": "Araştırma notlarında LCROSS'un 'ilk doğrudan tespit' olduğu yazmıyor; sadece 2009'da yaklaşık 155 kg su tespit ettiği var. 'İlk' iddiası desteksiz (Chandrayaan-1 aynı yıl uzaktan hidrasyon saptadı).",
+              "fix": "Say 'A key direct detection came in 2009' or 'LCROSS in 2009 gave direct evidence' unless S4 explicitly says first."
+            },
+            {
+              "severity": "minor",
+              "quote": "Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028. [S2] [S9]",
+              "problem": "S2 (moonbase-phases) bu sözleşme rakamlarını içermiyor; notlarda rakamlar nasa.gov/moonbase ve rdworldonline'dan geliyor. S9 yalnızca arama özetine dayanıyor.",
+              "fix": "Cite [S1] [S9] for the contract; keep [S2] only for the rover and drill description."
+            },
+            {
+              "severity": "minor",
+              "quote": "The first three have slipped to 2027. [S1] [S18]",
+              "problem": "S18 'bu yıl beklenen üç CLPS görevi 2027'ye kaydı' diyor; Moon Base II (Griffin) için ayrı bir kaynak yok ve S11 yalnızca I ve III'ü kapsıyor. S18'e doğrudan erişilemedi. Ayrıca S1 kaymayı desteklemiyor.",
+              "fix": "Cite only [S18] for the slip, and confirm that S18 maps the three delayed missions to Moon Base I-III."
+            },
+            {
+              "severity": "minor",
+              "quote": "Experts question the 2027 and 2028 dates.",
+              "problem": "Uzman şüphesi kaynağı (AOL/S6) arama özetine dayanıyor ve Artemis III/IV yeniden yapılanmasından önceki planlara ait olabilir; yeni 'Dünya yörüngesi testi' çerçevesiyle uyumu doğrulanmadı.",
+              "fix": "Soften to 'Some experts doubt the landing and reactor schedules' without tying it to the Artemis III orbital test."
+            },
+            {
+              "severity": "minor",
+              "quote": "Moon Base One and Three slipped to the first part of 2027. [S17] [S11]",
+              "problem": "S11 yalnızca arama özetiyle görüldü, sayfa açılamadı; S17 patlama tarihi için geçerli ama kaymayı S17 değil S11 destekliyor (sıralama okuyucuyu yanıltabilir).",
+              "fix": "Split citations: explosion date [S17], slip to early 2027 [S11]; note S11 is unverified."
+            }
+          ]
+        },
+        {
+          "role": "supheci",
+          "name": "Şüpheci Hakem",
+          "score": 7.0,
+          "verdict": "revise",
+          "summary": "Taslak 4 belirgin biçimde iyileşmiş: fiyat, Artemis ve Gateway çerçevelemeleri artık kaynaklı ve temkinli. Ancak buz tahmininin coğrafi bağlamı, LCROSS için 'ilk doğrudan tespit' iddiası, New Glenn patlamasının Nova-C kaymasıyla nedensel bağlanması ve başlıktaki 'neden' sorusunun yalnızca NASA'nın resmi gerekçesiyle yanıtlanması hâlâ düzeltilmeli.",
+          "issues": [
+            {
+              "severity": "major",
+              "quote": "Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. Moon Base One and Three slipped to the first part of 2027.",
+              "problem": "Cümle dizilimi patlamanın iki görevi de geciktirdiğini ima ediyor. Moon Base III (Intuitive Machines Nova-C) New Glenn ile uçmuyor; kaynaklar (S11 yalnızca arama özeti, S17) Nova-C kaymasının nedenini patlamaya bağlamıyor. Zamansal yakınlık nedensellik gibi sunuluyor.",
+              "fix": "Separate cause from timeline: 'New Glenn, the rocket meant to carry Moon Base One, exploded during a static fire test on May 28, 2026. Moon Base One has slipped to the first part of 2027. Moon Base Three, on a different rocket, has slipped too, and SpacePolicyOnline reports all three CLPS missions expected this year are now in 2027.' Do not attribute Trinity's delay to New Glenn unless a source says so."
+            },
+            {
+              "severity": "major",
+              "quote": "One radar based estimate for the polar regions puts it at more than six hundred billion kilograms.",
+              "problem": "Yaygın olarak alıntılanan '600 milyon metrik ton' (600 milyar kg) rakamı Chandrayaan-1 Mini-SAR'ın kuzey kutbundaki ~40 krater için verdiği tahmindir. Güney kutbundaki üs için kullanmak, 'kutuplar genelinde' demek bile, rakamın bağlamını yanlış aktarabilir. S4 metni bu ayrımı yapıyor mu kontrol edilmeli.",
+              "fix": "Check S4's exact wording. If it is the Mini-SAR north-pole figure, say: 'One radar estimate, for craters near the Moon's north pole, put it at more than six hundred billion kilograms... It is not a measurement of the south pole, and certainly not of the base site.' Keep the Olympic-pool comparison only if attached to that caveat."
+            },
+            {
+              "severity": "major",
+              "quote": "The first direct detection came in 2009. NASA's LCROSS probe hit a crater and kicked up a plume",
+              "problem": "'İlk doğrudan tespit' tartışmalı bir öncelik iddiası. 2008'de Chandrayaan-1 Moon Impact Probe (CHACE) ve 2009'da M3 de su/hidrasyon izleri bildirdi; gölgeli kraterlerdeki yüzey buzunun doğrudan kanıtı ise 2018'de M3 verisiyle yayımlandı. Araştırma notları 'ilk' kelimesini desteklemiyor. Ayrıca kraterin adı (Cabeus) verilmiyor.",
+              "fix": "Rephrase to: 'A key direct measurement came in 2009. NASA's LCROSS probe struck Cabeus crater, near the south pole, and the plume contained about 155 kilograms of water.' Rename the EVIDENCE card to 'LCROSS impact at Cabeus, 2009'."
+            },
+            {
+              "severity": "major",
+              "quote": "And why shelve a space station? Because NASA chose to focus on the surface base, near the ice. Gateway is paused, not dead, and that is the bet.",
+              "problem": "Başlık 'NASA neden durdurdu?' diye soruyor ama yanıt döngüsel: 'yüzeye odaklanmak istediği için'. Bu NASA'nın resmi gerekçesi; maliyet/bütçe yeniden dağıtımı, Gateway'in yıllardır gereksizlikle eleştirilmesi, yönetimin öncelikleri gibi alternatif açıklamalar hiç anılmıyor. 'Asi ama dürüst' bir kanal için resmi söylem ile analizi ayırmak gerekir.",
+              "fix": "Label it explicitly as the stated rationale and acknowledge the open debate: 'NASA's stated reason is focus: put the money and hardware on the surface, near the ice. Critics had long questioned what Gateway added, and the pause also frees budget. Which reason weighed most is not something the public documents settle.' Source the critic/budget angle (e.g. S12 opinion piece) or drop it and simply say the deeper reasons are not public."
+            },
+            {
+              "severity": "minor",
+              "quote": "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases.",
+              "problem": "Rakamlar olgu gibi veriliyor; oysa bunlar yetkililerin plan/tahmin rakamları (Isaacman ve program yöneticisi García-Galán), onaylı ya da denetlenmiş bir bütçe değil. Ayrıca kalıcı bir üs için gerçekçiliği tartışmalı.",
+              "fix": "Attribute and hedge: 'NASA officials put the price at about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases. Those are planning figures, not an approved budget.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "NASA is aiming for a fission reactor of about one hundred kilowatts on the surface by around 2030. Experts doubt the timeline more than the size.",
+              "problem": "Reaktör hedefi ve uzman görüşü yalnızca AOL üzerinden ikincil bir arama özetine (S6) dayanıyor. 'Uzmanlar' genellemesi tek bir habere dayanıyor ve kanıt gücü aktarılmıyor.",
+              "fix": "Cite a primary NASA Fission Surface Power source for the 100 kW / 2030 target, and narrow the expert claim: 'Experts quoted in press coverage doubt the timeline more than the size.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining. [S10]",
+              "problem": "S10 (PROMISE sayfası) yalnızca eğimler, sırtlar ve derin kraterleri destekliyor; toz ve aşırı soğuk iddiası bu kaynağa bağlı değil.",
+              "fix": "Add [S4] for the extreme cold, and either source the dust point or soften it to a general statement not tied to S10."
+            },
+            {
+              "severity": "minor",
+              "quote": "The base is still mostly on paper and on test stands. The next two years decide whether it becomes hardware.",
+              "problem": "Donanım zaten mevcut (Blue Moon MK1 test ediliyor, lander'lar inşa edildi); 'iki yıl donanım olup olmayacağına karar verecek' ifadesi hem kendi önceki cümlesiyle çelişiyor hem de kesinlik abartısı içeriyor.",
+              "fix": "Change to: 'The next two years will show whether that hardware reaches the surface and works there.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "So let's go back to the opening. Why has so little been built?",
+              "problem": "Açılışta sorulan soru 'neden Gateway durduruldu' ve 'ne gerçek, ne kağıt üzerinde' idi; 'neden bu kadar az şey inşa edildi' sorusu açılışta yok. Ayrıca 'az inşa edildi' yanıltıcı; sorun inşa değil, iniş/fırlatma.",
+              "fix": "Replace with: 'So let's go back to the opening. Why has nothing landed yet?'"
+            },
+            {
+              "severity": "minor",
+              "quote": "None of the Moon Base missions has landed yet. The first three have slipped to 2027. [S1] [S18]",
+              "problem": "S18 'bu yıl beklenen üç CLPS görevinin' kaydığını söylüyor; bunların tam olarak Moon Base I-III olduğu ve Blue Moon MK1'in CLPS kapsamında sayıldığı açıkça doğrulanmalı. Araştırma notu iniş durumunu 'doğrulanmadı' olarak işaretlemişti.",
+              "fix": "Confirm in S18 that the three slipped missions are Moon Base I, II and III; if not, say 'The three robotic landings NASA expected this year have all slipped to 2027.'"
+            }
+          ]
+        },
+        {
+          "role": "hikaye",
+          "name": "Hikâye Editörü",
+          "score": 6.5,
+          "verdict": "revise",
+          "summary": "Kanca olgusal ve gerilimli, ama orta bolum rakam ve takvim listesine donuyor; Gateway sorusu ile kapanistaki 'neden az sey insa edildi' sorusu uyusmuyor ve buz kaynagi merakı bolum icinde cevaplanmiyor.",
+          "issues": [
+            {
+              "severity": "major",
+              "quote": "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases.",
+              "problem": "Hook'tan hemen sonra gelen Gateway ve fiyat bolumu kuru ve rakam yuklu; izleyici 30-60. saniyede dusme egilimi gosterir. Gateway sorusu cevaplanmadan fiyat ve ortak ulke ayrintilari araya giriyor.",
+              "fix": "Cut the partner-nations sentence or move it later, give the price one human comparison, and answer 'why pause Gateway' in one clear sentence right after the hook before moving on."
+            },
+            {
+              "severity": "major",
+              "quote": "So let's go back to the opening. Why has so little been built?",
+              "problem": "Acilis 'Gateway neden durduruldu' ve 'ne gercek, ne kagit uzerinde' sorularini sordu; kapanista farkli bir soru ('neden az sey insa edildi') cevaplaniyor. Merak dongusu temiz kapanmiyor.",
+              "fix": "Rewrite as 'Back to the two questions we opened with', then answer Gateway first (the bet on the surface and the ice), then real versus paper (a sequence of robotic missions, not a building)."
+            },
+            {
+              "severity": "major",
+              "quote": "And here is the loop I cannot close. Where did it come from? Comets, asteroids, the solar wind, even Earth. Scientists have not settled that. Hold on to that question.",
+              "problem": "Buzun kaynagi merak boslugu acilip bolum icinde hic ele alinmiyor; sadece sonraki bolume erteleniyor. Izleyici tatmin olmadan ayriliyor.",
+              "fix": "Spend three or four sentences explaining one competing hypothesis (comet impacts versus solar wind hydrogen) and what a sample from the pole could tell, then say what remains open."
+            },
+            {
+              "severity": "major",
+              "quote": "NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028. Experts question the 2027 and 2028 dates.",
+              "problem": "Orta kisimda PROMISE, MoonFall, JAXA rover, reaktor, Artemis ve Chang'e peş peşe geliyor; takvim ve rakam yogunlugu temposu dusuruyor, sade izleyici icin Artemis III/IV ayrintisi konu disi.",
+              "fix": "Trim Artemis to one sentence ('the crewed landing dates are doubted by experts') and drop the Three/Four detail, or cut it and keep only the reactor as the schedule-risk example."
+            },
+            {
+              "severity": "major",
+              "quote": "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander.",
+              "problem": "Uc numarali isim ve uc sirket sese cevrilince karisiyor; sonraki cumlede sadece One ve Three kaydi soyleniyor, Two'nun akibeti belirsiz kaliyor.",
+              "fix": "Say what happens to Moon Base Two explicitly, and simplify to 'three commercial landers, the first from Blue Origin', then give the slip as one clear beat."
+            },
+            {
+              "severity": "minor",
+              "quote": "NASA is even inviting students in, with a one million dollar Moon Base Challenge.",
+              "problem": "Finalden hemen once gelen yan bilgi; ivmeyi kiriyor ve ana gerilimle (takvim tutar mi) baglantisi zayif.",
+              "fix": "Cut the paragraph or shorten it to one sentence folded into the closing line about who will build Phase Three."
+            },
+            {
+              "severity": "minor",
+              "quote": "Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed.",
+              "problem": "'Paused, not cancelled' fikri uc kez tekrarlaniyor (kanit etiketi, bu cumle, kapanis); tekrar hissi veriyor.",
+              "fix": "Keep the evidence label and the closing callback, and cut this 'Notice the word paused' sentence to just the hardware detail."
+            },
+            {
+              "severity": "minor",
+              "quote": "Which brings us to power. [S6]",
+              "problem": "Gecis zayif; MoonFall ve JAXA rover'dan guce ani sicrama oluyor, kanca cumlesi yok.",
+              "fix": "Use a tension bridge: 'None of this works without one thing, power, and the Moon makes that brutally hard.'"
+            },
+            {
+              "severity": "minor",
+              "quote": "Chandrayaan-3 measured temperatures at high latitudes, but it did not directly detect ice.",
+              "problem": "Konu disi, kisa ve baglamsiz bir cumle; acikca gerekcelendirilmeden ritmi bozuyor ve TTS icin 'Chandrayaan-3' telaffuz riski var.",
+              "fix": "Either cut it, or connect it: 'India's Chandrayaan-3 measured the cold, but did not see ice directly, which is why the evidence is still thin.'"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "round": 3,
+  "round": 4,
   "decision": "needs_human",
-  "avg": 6.0
+  "avg": 7.17
 }
