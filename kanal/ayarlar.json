@@ -1,0 +1,9 @@
+{
+  "pass_avg": 7.5,
+  "pass_min": 6,
+  "max_rounds": 2,
+  "nasa_candidates": 4,
+  "frame_every_s": 5,
+  "frames_per_batch": 30,
+  "scenes_per_selector_batch": 12
+}
