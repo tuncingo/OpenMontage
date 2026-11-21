@@ -1,0 +1,73 @@
+{
+  "scene_id": 60,
+  "narration": "Because the base is not a place. It is a sequence.",
+  "visual_brief": "Historic Moon landing footprints, a first step in a long sequence.",
+  "purpose": "explain",
+  "nasa_query": "Apollo 11 footprint",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_060/aday_0.jpg",
+      "nasa_id": "6901250",
+      "title": "Saturn Apollo Program",
+      "center": "MSFC",
+      "date": "1969-07-20",
+      "description": "This is a close-up view of an astronaut’s footprint in the lunar soil, photographed by a 70 mm lunar surface camera during the Apollo 11 lunar surface extravehicular activity. The first manned lunar mission, the Apollo 11 launched aboard a Saturn V launch vehicle from the Kennedy Space Center, Flori",
+      "links": [
+        "https://images-assets.nasa.gov/image/6901250/6901250~medium.jpg",
+        "https://images-assets.nasa.gov/image/6901250/6901250~small.jpg",
+        "https://images-assets.nasa.gov/image/6901250/6901250~thumb.jpg",
+        "https://images-assets.nasa.gov/image/6901250/6901250~large.jpg",
+        "https://images-assets.nasa.gov/image/6901250/6901250~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_060/aday_1.jpg",
+      "nasa_id": "as11-37-5545",
+      "title": "Flag of the U.S. deployed on surface of the Moon",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-37-5545 (20 July 1969) --- The flag of the United States, deployed on the surface of the moon, dominates this photograph taken from inside the Lunar Module (LM). The footprints of astronauts Neil A. Armstrong and Edwin E. Aldrin Jr. stand out very clearly. In the far background is the deployed ",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-37-5545/as11-37-5545~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5545/as11-37-5545~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5545/as11-37-5545~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5545/as11-37-5545~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5545/as11-37-5545~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_060/aday_2.jpg",
+      "nasa_id": "as11-37-5551",
+      "title": "Components of the Early Apollo Scientific Experiments Package (EASEP)",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-37-5551 (20 July 1969) --- Two components of the Early Apollo Scientific Experiments Package (EASEP) are seen deployed on the lunar surface in this view photographed from inside the Lunar Module (LM). In the far background is the Passive Seismic Experiment Package (PSEP); and to the right and c",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-37-5551/as11-37-5551~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5551/as11-37-5551~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5551/as11-37-5551~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5551/as11-37-5551~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-37-5551/as11-37-5551~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_060/aday_3.jpg",
+      "nasa_id": "6900947",
+      "title": "Saturn Apollo Program",
+      "center": "MSFC",
+      "date": "1969-07-20",
+      "description": "This is a close-up view of an astronaut’s foot and footprint in the lunar soil, photographed by a 70 mm lunar surface camera during the Apollo 11 lunar surface extravehicular activity (EVA). The first manned lunar mission launched via a Saturn V launch vehicle from the Kennedy Space Center, Florida ",
+      "links": [
+        "https://images-assets.nasa.gov/image/6900947/6900947~medium.jpg",
+        "https://images-assets.nasa.gov/image/6900947/6900947~small.jpg",
+        "https://images-assets.nasa.gov/image/6900947/6900947~thumb.jpg",
+        "https://images-assets.nasa.gov/image/6900947/6900947~large.jpg",
+        "https://images-assets.nasa.gov/image/6900947/6900947~orig.jpg"
+      ]
+    }
+  ]
+}

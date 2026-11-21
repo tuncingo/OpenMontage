@@ -1,0 +1,73 @@
+{
+  "scene_id": 6,
+  "narration": "Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed.",
+  "visual_brief": "Power and propulsion element hardware in a clean room, ready but unused.",
+  "purpose": "evidence",
+  "nasa_query": "Gateway PPE module",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_006/aday_0.jpg",
+      "nasa_id": "KSC-20240716-PH-NAS01_0002",
+      "title": "Gateway Configuration Illustrations",
+      "center": "KSC",
+      "date": "2024-07-16",
+      "description": "An artist’s rendering displays a configuration of the lunar-orbiting Gateway space station’s modules and visiting spacecraft. The core elements of Gateway consist of the Habitation and Logistics Outpost (HALO) element, the Power and Propulsion Element (PPE), and Lunar I-Hab. Visiting vehicles includ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0002/KSC-20240716-PH-NAS01_0002~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0002/KSC-20240716-PH-NAS01_0002~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0002/KSC-20240716-PH-NAS01_0002~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0002/KSC-20240716-PH-NAS01_0002~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0002/KSC-20240716-PH-NAS01_0002~orig.png"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_006/aday_1.jpg",
+      "nasa_id": "KSC-20240716-PH-NAS01_0001",
+      "title": "Gateway Configuration Illustrations",
+      "center": "KSC",
+      "date": "2024-07-16",
+      "description": "An artist’s rendering displays a configuration of the lunar-orbiting Gateway space station’s modules and visiting spacecraft. The core elements of Gateway consist of the Habitation and Logistics Outpost (HALO) element, the Power and Propulsion Element (PPE), and Lunar I-Hab. Visiting vehicles includ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0001/KSC-20240716-PH-NAS01_0001~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0001/KSC-20240716-PH-NAS01_0001~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0001/KSC-20240716-PH-NAS01_0001~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0001/KSC-20240716-PH-NAS01_0001~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20240716-PH-NAS01_0001/KSC-20240716-PH-NAS01_0001~orig.png"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_006/aday_2.jpg",
+      "nasa_id": "jsc2026e005282",
+      "title": "Thruster Gimbal Range of Motion Testing for Gateway’s Power and Propulsion Element jsc2026e005282",
+      "center": "JSC",
+      "date": "2025-12-22",
+      "description": "During this Engineering Qualification Module test, the gimbal platforms for the Busek-built BHT-6000 Hall effect thrusters are exercised through their full range of motion to verify articulation performance and confirm the system can properly steer thrust once integrated with Gateway’s Power and Pro",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2026e005282/jsc2026e005282~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005282/jsc2026e005282~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005282/jsc2026e005282~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005282/jsc2026e005282~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005282/jsc2026e005282~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_006/aday_3.jpg",
+      "nasa_id": "jsc2026e005281",
+      "title": "Thruster Gimbal Range of Motion Testing for Gateway’s Power and Propulsion Element jsc2026e005281",
+      "center": "JSC",
+      "date": "2025-12-22",
+      "description": "During this Engineering Qualification Module test, the gimbal platforms for the Busek-built BHT-6000 Hall effect thrusters are exercised through their full range of motion to verify articulation performance and confirm the system can properly steer thrust once integrated with Gateway’s Power and Pro",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2026e005281/jsc2026e005281~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005281/jsc2026e005281~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005281/jsc2026e005281~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005281/jsc2026e005281~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2026e005281/jsc2026e005281~orig.jpg"
+      ]
+    }
+  ]
+}

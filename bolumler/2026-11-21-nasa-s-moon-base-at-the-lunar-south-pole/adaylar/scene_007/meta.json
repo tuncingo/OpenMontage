@@ -1,0 +1,73 @@
+{
+  "scene_id": 7,
+  "narration": "But much of that hardware was already built, and it is not easy to reuse.",
+  "visual_brief": "Built habitat module hardware being handled in a factory.",
+  "purpose": "explain",
+  "nasa_query": "HALO Northrop Grumman",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_007/aday_0.jpg",
+      "nasa_id": "jsc2025e036496",
+      "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036496)",
+      "center": "JSC",
+      "date": "2025-04-04",
+      "description": "Gateway’s HALO (Habitation and Logistics Outpost) at Northrop Grumman’s facility in Gilbert, Arizona, on April 4, 2025, shortly after its arrival from Thales Alenia Space in Turin, Italy. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2025e036496/jsc2025e036496~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036496/jsc2025e036496~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036496/jsc2025e036496~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036496/jsc2025e036496~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036496/jsc2025e036496~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_007/aday_1.jpg",
+      "nasa_id": "jsc2025e041604",
+      "title": "Up-Close with HALO (jsc2025e041604)",
+      "center": "JSC",
+      "date": "2025-04-24",
+      "description": "NASA astronaut Randy Bresnik peers inside the HALO module during a close-up look on April 24, 2024, at Northrop Grumman’s facility in Gilbert, Arizona. The visit was part of an event commemorating HALO’s arrival in the United States, marking a major milestone for Gateway. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2025e041604/jsc2025e041604~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041604/jsc2025e041604~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041604/jsc2025e041604~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041604/jsc2025e041604~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041604/jsc2025e041604~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_007/aday_2.jpg",
+      "nasa_id": "jsc2025e036495",
+      "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036495)",
+      "center": "JSC",
+      "date": "2025-04-04",
+      "description": "Gateway’s HALO (Habitation and Logistics Outpost) at Northrop Grumman’s facility in Gilbert, Arizona, on April 4, 2025, shortly after its arrival from Thales Alenia Space in Turin, Italy. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2025e036495/jsc2025e036495~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036495/jsc2025e036495~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036495/jsc2025e036495~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036495/jsc2025e036495~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e036495/jsc2025e036495~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_007/aday_3.jpg",
+      "nasa_id": "jsc2025e041603",
+      "title": "HALO Arrival Event in Arizona (jsc2025e041603)",
+      "center": "JSC",
+      "date": "2025-04-24",
+      "description": "Dr. Lori Glaze, acting associate administrator for NASA’s Exploration Systems Development Mission Directorate, and Dr. Jon B. Olansen, Gateway Program manager, on stage during an April 24, 2025, event at Northrop Grumman’s facility in Gilbert, Arizona, commemorating HALO’s arrival in the United Stat",
+      "links": [
+        "https://images-assets.nasa.gov/image/jsc2025e041603/jsc2025e041603~medium.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041603/jsc2025e041603~small.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041603/jsc2025e041603~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041603/jsc2025e041603~large.jpg",
+        "https://images-assets.nasa.gov/image/jsc2025e041603/jsc2025e041603~orig.jpg"
+      ]
+    }
+  ]
+}

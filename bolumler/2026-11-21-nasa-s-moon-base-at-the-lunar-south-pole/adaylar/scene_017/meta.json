@@ -1,0 +1,73 @@
+{
+  "scene_id": 17,
+  "narration": "Parts of the polar craters never see sunlight. They can reach about minus two hundred fifty degrees Celsius.",
+  "visual_brief": "False-colour map of permanently shadowed regions near the pole.",
+  "purpose": "evidence",
+  "nasa_query": "Shadowed crater LRO",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_017/aday_0.jpg",
+      "nasa_id": "KSC-2009-2990",
+      "title": "KSC-2009-2990",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – At Astrotech Space Operations in Titusville, Fla., technicians remove red-tag items from the Lunar Reconnaissance Orbiter, or LRO, before flight. The LRO will be mated with NASA's Lunar CRater Observation and Sensing Satellite, known as LCROSS, spacecraft. Instruments on the L",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2990/KSC-2009-2990~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2990/KSC-2009-2990~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2990/KSC-2009-2990~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2990/KSC-2009-2990~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2990/KSC-2009-2990~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_017/aday_1.jpg",
+      "nasa_id": "ARC-2009-ACD09-0084",
+      "title": "ARC-2009-ACD09-0084",
+      "center": "ARC",
+      "date": "2009-05-14",
+      "description": "Dan Andrews, Project Manager LCROSS and Craig Tooley, Project Manager LRO (Lunar Reconnaissance Orbiter) in front of Spacecraft at the Astrotech facility titusville, FL during LRO/LCROSS media photo op event. The LCROSS mission's objective is to confirm the presence or absence of water ice in a perm",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_017/aday_2.jpg",
+      "nasa_id": "KSC-2009-2987",
+      "title": "KSC-2009-2987",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – One of three solar panels is seen during closeout of the Lunar Reconnaissance Orbiter, or LRO, at Astrotech Space Operations in Titusville, Fla. The satellite's primary mission is to search for water ice on the moon in a permanently shadowed crater near one of the lunar poles.",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2987/KSC-2009-2987~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2987/KSC-2009-2987~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2987/KSC-2009-2987~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2987/KSC-2009-2987~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2987/KSC-2009-2987~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_017/aday_3.jpg",
+      "nasa_id": "KSC-2009-2002",
+      "title": "KSC-2009-2002",
+      "center": "KSC",
+      "date": "2009-03-07",
+      "description": "CAPE CANAVERAL, Fla. – At Astrotech in Titusville, Fla., NASA's Lunar Reconnaissance Orbiter, or LRO, spacecraft is being prepared for lifting to an Aronson table. The LRO will be rotated on the table to provide proper access for processing. The orbiter will carry seven instruments to provide scient",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2002/KSC-2009-2002~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2002/KSC-2009-2002~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2002/KSC-2009-2002~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2002/KSC-2009-2002~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2002/KSC-2009-2002~orig.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "scene_id": 55,
+  "narration": "Those dates are not firm, on either side. So this is not a clean sprint.",
+  "visual_brief": "Huge, colourful star-forming region, pulsing energy.",
+  "purpose": "cutaway",
+  "nasa_query": "Tarantula Nebula Webb",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_055/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002063",
+      "title": "Hubble Snaps Sharp Image Of Cosmic Concoction",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image release July 13, 2010 To view a video of this image go to: <a href=\"http://www.flickr.com/photos/gsfc/4790394066/\">www.flickr.com/photos/gsfc/4790394066/</a> and here: <a href=\"http://www.flickr.com/photos/gsfc/4789786191/\">www.flickr.com/photos/gsfc/4789786191/</a> A colourful star-formi",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002063/GSFC_20171208_Archive_e002063~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002063/GSFC_20171208_Archive_e002063~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002063/GSFC_20171208_Archive_e002063~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002063/GSFC_20171208_Archive_e002063~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002063/GSFC_20171208_Archive_e002063~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_055/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001955",
+      "title": "Hubble reveals heart of Lagoon Nebula",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Image release date September 22, 2010 To view a video of this image go here: <a href=\"http://www.flickr.com/photos/gsfc/5014452203\">www.flickr.com/photos/gsfc/5014452203</a> Caption: A spectacular new NASA/ESA Hubble Space Telescope image reveals the heart of the Lagoon Nebula. Seen as a massive clo",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_055/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001427",
+      "title": "NASA Hubble Finds a True Blue Planet",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This illustration shows HD 189733b, a huge gas giant that orbits very close to its host star HD 189733. The planet's atmosphere is scorching with a temperature of over 1000 degrees Celsius, and it rains glass, sideways, in howling 7000 kilometre-per-hour winds. At a distance of 63 light-years from u",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001427/GSFC_20171208_Archive_e001427~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001427/GSFC_20171208_Archive_e001427~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001427/GSFC_20171208_Archive_e001427~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001427/GSFC_20171208_Archive_e001427~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001427/GSFC_20171208_Archive_e001427~orig.jpg"
+      ]
+    }
+  ]
+}

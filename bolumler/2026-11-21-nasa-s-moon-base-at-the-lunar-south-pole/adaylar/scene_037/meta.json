@@ -1,0 +1,73 @@
+{
+  "scene_id": 37,
+  "narration": "Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028.",
+  "visual_brief": "Radioisotope power unit glowing, then lander delivering cargo.",
+  "purpose": "explain",
+  "nasa_query": "Radioisotope power system",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_0.jpg",
+      "nasa_id": "PIA23305",
+      "title": "Power for Mars 2020",
+      "center": "JPL",
+      "date": "2019-07-24",
+      "description": "The electricity needed to operate NASA's Mars 2020 rover is provided by a power system called a Multi-Mission Radioisotope Thermoelectric Generator, or MMRTG. The MMRTG will be inserted into the aft end of the rover between the panels with gold tubing visible at the rear, which are called heat excha",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA23305/PIA23305~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_1.jpg",
+      "nasa_id": "GRC-2026-C-00383",
+      "title": "NASA Administrator Jared Isaacman’s Visit to Glenn",
+      "center": "GRC",
+      "date": "2026-01-27",
+      "description": "During a visit to NASA's Glenn Research Center in Cleveland on Tuesday, Jan. 27, 2026, NASA Administrator Jared Isaacman speaks with Carl Sandifer, manager of the Radioisotope Power Systems Program, inside the Electric Propulsion and Power Laboratory as Rickey Shyne, director of Research and Enginee",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2026-C-00383/GRC-2026-C-00383~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_2.jpg",
+      "nasa_id": "PIA23827",
+      "title": "Fitting the Rover's Power Supply",
+      "center": "JPL",
+      "date": "2020-07-08",
+      "description": "Technicians in the payload processing facility at NASA's Kennedy Space Center in Florida perform a fit check between NASA'S Mars 2020 Perseverance rover and its Multi-Mission Radioisotope Thermoelectric Generator on April 16-17, 2020. The Multi-Mission Radioisotope Thermoelectric Generator is design",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA23827/PIA23827~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_037/aday_3.jpg",
+      "nasa_id": "PIA23981",
+      "title": "Rover Power Source",
+      "center": "JPL",
+      "date": "2020-07-08",
+      "description": "The Multi-Mission Radioisotope Thermoelectric Generator for NASA'S Mars 2020 Perseverance rover is shown during a fit check with the rover in a payload processing facility at NASA's Kennedy Space Center in Florida on April 16-17, 2020. The Multi-Mission Radioisotope Thermoelectric Generator is desig",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA23981/PIA23981~orig.jpg"
+      ]
+    }
+  ]
+}

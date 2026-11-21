@@ -1,0 +1,23 @@
+{
+  "scene_id": 69,
+  "narration": "Next time, we go inside those dark craters, and ask where that ice came from.",
+  "visual_brief": "Heavily cratered south pole terrain ending in a dark crater teaser.",
+  "purpose": "outro",
+  "nasa_query": "Lunar craters Clementine",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_069/aday_0.jpg",
+      "nasa_id": "PIA00432",
+      "title": "Clementine Images of Earth and Moon",
+      "center": "JPL",
+      "date": "1999-06-12",
+      "description": "During its flight and lunar orbit, NASA’s Clementine spacecraft returned images of the planet Earth and the Moon. This collection of UVVIS camera Clementine images shows the Earth from the Moon and 3 images of the Earth. The image on the left shows the Earth as seen across the lunar north pole; the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA00432/PIA00432~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA00432/PIA00432~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA00432/PIA00432~orig.jpg"
+      ]
+    }
+  ]
+}

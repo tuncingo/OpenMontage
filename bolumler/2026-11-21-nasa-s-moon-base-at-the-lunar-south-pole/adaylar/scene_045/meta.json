@@ -1,0 +1,73 @@
+{
+  "scene_id": 45,
+  "narration": "NASA is aiming for a fission reactor of about one hundred kilowatts on the surface by around 2030.",
+  "visual_brief": "Fission surface power reactor concept with radiator panels.",
+  "purpose": "evidence",
+  "nasa_query": "Fission Surface Power",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_045/aday_0.jpg",
+      "nasa_id": "GRC-2023-C-10425",
+      "title": "Fission Surface Power",
+      "center": "GRC",
+      "date": "2023-11-17",
+      "description": "Detail of the Fission Surface Power Structure that part of the research in providing power on the moon.",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2023-C-10425/GRC-2023-C-10425~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2023-C-10425/GRC-2023-C-10425~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2023-C-10425/GRC-2023-C-10425~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2023-C-10425/GRC-2023-C-10425~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2023-C-10425/GRC-2023-C-10425~orig.JPG"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_045/aday_1.jpg",
+      "nasa_id": "GRC-2015-C-06315",
+      "title": "Fission Surface Power Technology Demonstration Unit",
+      "center": "GRC",
+      "date": "2016-11-09",
+      "description": "NASA Glenn Technician Mark Springowski works on a 10-kilowatt Stirling Power Conversion Unit, which is part of the Fission Surface Power Technology Demonstration Unit. This is a system level demonstration of a surface power system, which could potentially be used to support manned missions to the mo",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2015-C-06315/GRC-2015-C-06315~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2015-C-06315/GRC-2015-C-06315~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2015-C-06315/GRC-2015-C-06315~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2015-C-06315/GRC-2015-C-06315~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2015-C-06315/GRC-2015-C-06315~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_045/aday_2.jpg",
+      "nasa_id": "GRC-2024-C-00921",
+      "title": "Maxwell Briggs Portrait",
+      "center": "GRC",
+      "date": "2024-02-15",
+      "description": "Chief Technologist Maxwell Briggs, who is responsible for early-stage innovations, poses in front of the Fission Surface Power System at NASA Glenn Research Center. Photo Credit: (NASA/Sara Lowthian-Hanna)",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2024-C-00921/GRC-2024-C-00921~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2024-C-00921/GRC-2024-C-00921~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2024-C-00921/GRC-2024-C-00921~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2024-C-00921/GRC-2024-C-00921~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2024-C-00921/GRC-2024-C-00921~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_045/aday_3.jpg",
+      "nasa_id": "NHQ20260127_admin_0004",
+      "title": "Administrator Isaacman Visits Glenn",
+      "center": "KSC",
+      "date": "2026-01-27",
+      "description": "NASA Administrator Jared Isaacman, center left, is shown the Kilowatt Reactor Using Stirling TechnologY (KRUSTY) by Lee Mason, fission surface power chief technologist, right, as he tours the Electric Propulsion and Power Laboratory, Tuesday, Jan. 27, 2026, at NASA’s Glenn Research Center in Clevela",
+      "links": [
+        "https://images-assets.nasa.gov/image/NHQ20260127_admin_0004/NHQ20260127_admin_0004~large.jpg",
+        "https://images-assets.nasa.gov/image/NHQ20260127_admin_0004/NHQ20260127_admin_0004~medium.jpg",
+        "https://images-assets.nasa.gov/image/NHQ20260127_admin_0004/NHQ20260127_admin_0004~small.jpg",
+        "https://images-assets.nasa.gov/image/NHQ20260127_admin_0004/NHQ20260127_admin_0004~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NHQ20260127_admin_0004/NHQ20260127_admin_0004~orig.jpg"
+      ]
+    }
+  ]
+}

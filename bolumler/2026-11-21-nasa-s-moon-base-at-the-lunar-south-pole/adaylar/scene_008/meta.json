@@ -1,0 +1,73 @@
+{
+  "scene_id": 8,
+  "narration": "The effort moves from orbit down to the ground, near the polar ice.",
+  "visual_brief": "Glowing pink and red nebula clouds, a sense of descent and gravity.",
+  "purpose": "cutaway",
+  "nasa_query": "Rosette Nebula Hubble",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_008/aday_0.jpg",
+      "nasa_id": "PIA09072",
+      "title": "Seeing Stars in Serpens",
+      "center": "JPL",
+      "date": "2006-12-08",
+      "description": "Infant stars are glowing gloriously in this image of the Serpens star-forming region, captured by NASA Spitzer Space Telescope. The reddish-pink dots are baby stars deeply embedded in the cosmic cloud of gas and dust that collapsed to create it.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09072/PIA09072~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA09072/PIA09072~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09072/PIA09072~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09072/PIA09072~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA09072/PIA09072~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_008/aday_1.jpg",
+      "nasa_id": "iss042e136099",
+      "title": "iss042e136099",
+      "center": "JSC",
+      "date": "2015-01-15",
+      "description": "ISS042e136099 (Jan 15, 20105) -- Interior view of the Columbus European Laboratory taken during the crew's sleep period (main lights are turned off). The pink glow comes from the Vegetable Production System (Veggie) greenhouse, housed in the module.",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss042e136099/iss042e136099~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136099/iss042e136099~small.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136099/iss042e136099~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136099/iss042e136099~large.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136099/iss042e136099~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_008/aday_2.jpg",
+      "nasa_id": "iss042e136094",
+      "title": "iss042e136094",
+      "center": "JSC",
+      "date": "2015-01-15",
+      "description": "ISS042e136094 (Jan 15, 2015) -- Interior view looking forward (FWD) in the Destiny U.S. Laboratory during the crew's sleep period, with the main lights turned off. The pink glow comes from the Vegetable Production System (Veggie) greenhouse, housed in the Columbus European Laboratory.",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss042e136094/iss042e136094~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136094/iss042e136094~small.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136094/iss042e136094~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136094/iss042e136094~large.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136094/iss042e136094~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_008/aday_3.jpg",
+      "nasa_id": "iss042e136109",
+      "title": "Interior View in Node 2",
+      "center": "JSC",
+      "date": "2015-01-15",
+      "description": "Interior view looking starboard (STBD) and aft in the Harmony Node 2, taken during the crew's sleep period (main lights are turned off). Hatches into the Columbus European Laboratory and Destiny U.S. Laboratory are in view. The pink glow comes from the Vegetable Production System (Veggie) greenhouse",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss042e136109/iss042e136109~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136109/iss042e136109~small.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136109/iss042e136109~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136109/iss042e136109~large.jpg",
+        "https://images-assets.nasa.gov/image/iss042e136109/iss042e136109~orig.jpg"
+      ]
+    }
+  ]
+}

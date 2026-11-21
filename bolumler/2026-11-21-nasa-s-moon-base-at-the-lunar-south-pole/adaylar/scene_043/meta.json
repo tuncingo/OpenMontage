@@ -1,0 +1,73 @@
+{
+  "scene_id": 43,
+  "narration": "The polar ridges are an exception, with near continuous sun.",
+  "visual_brief": "Sun skimming the horizon of the Moon, ridge glowing.",
+  "purpose": "cutaway",
+  "nasa_query": "Moon eclipse",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_043/aday_0.jpg",
+      "nasa_id": "MAF_20211119_LunarEclipse03",
+      "title": "Partial eclipse of Beaver Moon 2021",
+      "center": "MAF",
+      "date": "2021-11-19",
+      "description": "A nearly total eclipse of November’s full “Beaver Moon” occurs over the city of New Orleans in the early morning hours of Friday, November 19, 2021. The 97% eclipse clocked in at 3 hours, 28 minutes and 24 seconds making it the longest partial moon eclipse in 580 years. Image credit: NASA/Michael De",
+      "links": [
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse03/MAF_20211119_LunarEclipse03~medium.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse03/MAF_20211119_LunarEclipse03~small.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse03/MAF_20211119_LunarEclipse03~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse03/MAF_20211119_LunarEclipse03~large.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse03/MAF_20211119_LunarEclipse03~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_043/aday_1.jpg",
+      "nasa_id": "MAF_20211119_LunarEclipse02",
+      "title": "Partial eclipse of Beaver Moon 2021",
+      "center": "MAF",
+      "date": "2021-11-19",
+      "description": "A nearly total eclipse of November’s full “Beaver Moon” occurs over the city of New Orleans in the early morning hours of Friday, November 19, 2021. The 97% eclipse clocked in at 3 hours, 28 minutes and 24 seconds making it the longest partial moon eclipse in 580 years. Image credit: NASA/Michael De",
+      "links": [
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse02/MAF_20211119_LunarEclipse02~medium.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse02/MAF_20211119_LunarEclipse02~small.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse02/MAF_20211119_LunarEclipse02~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse02/MAF_20211119_LunarEclipse02~large.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse02/MAF_20211119_LunarEclipse02~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_043/aday_2.jpg",
+      "nasa_id": "MAF_20211119_LunarEclipse01",
+      "title": "Partial eclipse of Beaver Moon 2021",
+      "center": "MAF",
+      "date": "2021-11-19",
+      "description": "A nearly total eclipse of November’s full “Beaver Moon” occurs over the city of New Orleans in the early morning hours of Friday, November 19, 2021. The 97% eclipse clocked in at 3 hours, 28 minutes and 24 seconds making it the longest partial moon eclipse in 580 years. Image credit: NASA/Michael De",
+      "links": [
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse01/MAF_20211119_LunarEclipse01~medium.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse01/MAF_20211119_LunarEclipse01~small.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse01/MAF_20211119_LunarEclipse01~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse01/MAF_20211119_LunarEclipse01~large.jpg",
+        "https://images-assets.nasa.gov/image/MAF_20211119_LunarEclipse01/MAF_20211119_LunarEclipse01~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_043/aday_3.jpg",
+      "nasa_id": "GRC-2025-C-01605",
+      "title": "Total Lunar Eclipse & Blood Moon 2025",
+      "center": "GRC",
+      "date": "2025-03-14",
+      "description": "This composite photo made up of 11 images of shows the Blood Moon and the phases of the Lunar Eclipse on March 14th, 2025 seen from Brookpark, OH at NASA Glenn Research Center.. Photo Credit: (NASA/Jordan Cochran)",
+      "links": [
+        "https://images-assets.nasa.gov/image/GRC-2025-C-01605/GRC-2025-C-01605~medium.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2025-C-01605/GRC-2025-C-01605~small.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2025-C-01605/GRC-2025-C-01605~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2025-C-01605/GRC-2025-C-01605~large.jpg",
+        "https://images-assets.nasa.gov/image/GRC-2025-C-01605/GRC-2025-C-01605~orig.jpg"
+      ]
+    }
+  ]
+}

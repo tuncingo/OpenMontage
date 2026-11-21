@@ -1,0 +1,65 @@
+{
+  "scene_id": 24,
+  "narration": "Comets, asteroids, the solar wind, even Earth. Scientists have not settled that. Hold on to that question.",
+  "visual_brief": "Comet nucleus with jets of gas against stars.",
+  "purpose": "cutaway",
+  "nasa_query": "Comet 67P Rosetta",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_024/aday_0.jpg",
+      "nasa_id": "PIA21068",
+      "title": "Farewell Rosetta: ESA Mission to End on Comet Surface",
+      "center": "JPL",
+      "date": "2016-09-29",
+      "description": "This view shows Comet 67P/Churyumov-Gerasimenko as seen by the OSIRIS wide-angle camera on ESA's Rosetta spacecraft on September 29, 2016, when Rosetta was at an altitude of 14 miles (23 kilometers). The European Space Agency's (ESA) Rosetta mission will come to a dramatic end on Friday, Sept. 30, w",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA21068/PIA21068~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA21068/PIA21068~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA21068/PIA21068~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA21068/PIA21068~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA21068/PIA21068~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_024/aday_1.jpg",
+      "nasa_id": "PIA18418",
+      "title": "Rosetta Approach Tripych: Comet 67P",
+      "center": "JPL",
+      "date": "2014-07-24",
+      "description": "Comet 67P/Churyumov-Gerasimenko was imaged by ESA Rosetta spacecraft on July 20, 2014, from a distance of approximately 3,400 miles 5,500 kilometers. These three images were taken two hours apart.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18418/PIA18418~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18418/PIA18418~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_024/aday_2.jpg",
+      "nasa_id": "PIA18402",
+      "title": "Rosetta Mission Destination: Comet 67P/Churnyumov-Gerasimenko",
+      "center": "JPL",
+      "date": "2014-07-17",
+      "description": "This observation from ESA Rosetta spacecraft shows that comet 67P/Churyumov-Gerasimenko has a two-part shape. The image on the left is from OSIRIS; the image on the right is enhanced with interpolated data.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18402/PIA18402~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18402/PIA18402~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_024/aday_3.jpg",
+      "nasa_id": "PIA17666",
+      "title": "Rosetta at Comet",
+      "center": "JPL",
+      "date": "2014-01-24",
+      "description": "Artist impression of the Rosetta orbiter at comet 67P/Churyumova-Gerasimenko. The image is not to scale.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~orig.jpg"
+      ]
+    }
+  ]
+}

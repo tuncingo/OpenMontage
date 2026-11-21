@@ -1,0 +1,22 @@
+{
+  "scene_id": 25,
+  "narration": "There is a second reason for the pole. Light. The idea of a sunless pole is wrong.",
+  "visual_brief": "Sunlit ridge at the lunar pole with a blazing low sun.",
+  "purpose": "cutaway",
+  "nasa_query": "Lunar illumination LRO",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_025/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000796",
+      "title": "NASA's LRO Discovers Lunar Hydrogen More Abundant on Moon's Pole-Facing Slopes",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Space travel is difficult and expensive – it would cost thousands of dollars to launch a bottle of water to the moon. The recent discovery of hydrogen-bearing molecules, possibly including water, on the moon has explorers excited because these deposits could be mined if they are sufficiently abundan",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000796/GSFC_20171208_Archive_e000796~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000796/GSFC_20171208_Archive_e000796~orig.jpg"
+      ]
+    }
+  ]
+}

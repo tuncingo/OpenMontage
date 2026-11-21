@@ -1,0 +1,73 @@
+{
+  "scene_id": 10,
+  "narration": "The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases.",
+  "visual_brief": "Huge rocket lifting off, conveying scale and cost.",
+  "purpose": "evidence",
+  "nasa_query": "Artemis SLS launch",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_010/aday_0.jpg",
+      "nasa_id": "KSC-20220915-PH-JNP01_0003",
+      "title": "Artemis I SLS at Launch Complex 39B",
+      "center": "KSC",
+      "date": "2022-09-15",
+      "description": "A close-up view of the Artemis I Space Launch System (SLS) and Orion spacecraft atop the mobile launcher on Launch Pad 39B at NASA’s Kennedy Space Center in Florida on Sept. 15, 2022. A portion of the umbilical connections are in view, as well as the crew access arm. Artemis I is the first integrate",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0003/KSC-20220915-PH-JNP01_0003~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0003/KSC-20220915-PH-JNP01_0003~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0003/KSC-20220915-PH-JNP01_0003~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0003/KSC-20220915-PH-JNP01_0003~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0003/KSC-20220915-PH-JNP01_0003~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_010/aday_1.jpg",
+      "nasa_id": "KSC-20220915-PH-JNP01_0001",
+      "title": "Artemis I SLS at Launch Complex 39B",
+      "center": "KSC",
+      "date": "2022-09-15",
+      "description": "A view of the Artemis I Space Launch System (SLS) and Orion spacecraft atop the mobile launcher on Launch Pad 39B at NASA’s Kennedy Space Center in Florida on Sept. 15, 2022. To the right is one of three lightning protection towers that surround the pad and protect the SLS and Orion from lightning s",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0001/KSC-20220915-PH-JNP01_0001~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0001/KSC-20220915-PH-JNP01_0001~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0001/KSC-20220915-PH-JNP01_0001~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0001/KSC-20220915-PH-JNP01_0001~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0001/KSC-20220915-PH-JNP01_0001~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_010/aday_2.jpg",
+      "nasa_id": "KSC-20220915-PH-JNP01_0002",
+      "title": "Artemis I SLS at Launch Complex 39B",
+      "center": "KSC",
+      "date": "2022-09-15",
+      "description": "A view of the Artemis I Space Launch System (SLS) and Orion spacecraft atop the mobile launcher on Launch Pad 39B at NASA’s Kennedy Space Center in Florida on Sept. 15, 2022. Also in view are two of the three lightning towers that surround the pad and protect the SLS and Orion from lightning strikes",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0002/KSC-20220915-PH-JNP01_0002~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0002/KSC-20220915-PH-JNP01_0002~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0002/KSC-20220915-PH-JNP01_0002~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0002/KSC-20220915-PH-JNP01_0002~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20220915-PH-JNP01_0002/KSC-20220915-PH-JNP01_0002~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_010/aday_3.jpg",
+      "nasa_id": "KSC-01172026-Artemis II_Rollout-5",
+      "title": "NASA's Artemis II SLS Rocket and Orion Spacecraft Rollout to Launch Pad 39B",
+      "center": "MSFC",
+      "date": "2026-01-17",
+      "description": "This image shows NASA’s SLS (Space Launch System) and Orion spacecraft rolling out of the Vehicle Assembly Building at NASA’s Kennedy Space Center. NASA's massive Crawler-Transporter, upgraded for the Artemis program, carries the powerful SLS rocket and Orion spacecraft on the Mobile Launcher from t",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-01172026-Artemis II_Rollout-5/KSC-01172026-Artemis II_Rollout-5~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-01172026-Artemis II_Rollout-5/KSC-01172026-Artemis II_Rollout-5~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-01172026-Artemis II_Rollout-5/KSC-01172026-Artemis II_Rollout-5~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-01172026-Artemis II_Rollout-5/KSC-01172026-Artemis II_Rollout-5~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-01172026-Artemis II_Rollout-5/KSC-01172026-Artemis II_Rollout-5~orig.jpg"
+      ]
+    }
+  ]
+}

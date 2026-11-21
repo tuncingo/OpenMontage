@@ -1,0 +1,69 @@
+{
+  "scene_id": 51,
+  "narration": "So the rebel question is this. Is the Moon Base a plan, or a promise on a slide?",
+  "visual_brief": "Endless galaxies field in deep space, a sense of big question.",
+  "purpose": "cutaway",
+  "nasa_query": "Hubble Ultra Deep Field",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_051/aday_0.jpg",
+      "nasa_id": "hubble-sees-a-legion-of-galaxies_25608651281_o",
+      "title": "Swimming in Sculptor",
+      "center": "GSFC",
+      "date": "2016-03-07",
+      "description": "Peering deep into the early Universe, this picturesque parallel field observation from the NASA/ESA Hubble Space Telescope reveals thousands of colourful galaxies swimming in the inky blackness of space. A few foreground stars from our own galaxy, the Milky Way, are also visible. In October 2013 Hub",
+      "links": [
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~small.jpg",
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~thumb.jpg",
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_051/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001651",
+      "title": "Hubble Goes to the eXtreme to Assemble Farthest-Ever View of the Universe",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image release September 25, 2012 Like photographers assembling a portfolio of best shots, astronomers have assembled a new, improved portrait of mankind's deepest-ever view of the universe. Called the eXtreme Deep Field, or XDF, the photo was assembled by combining 10 years of NASA Hubble Space",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_051/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000394",
+      "title": "Hubble Sees a Legion of Galaxies",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Peering deep into the early universe, this picturesque parallel field observation from the NASA/ESA Hubble Space Telescope reveals thousands of colorful galaxies swimming in the inky blackness of space. A few foreground stars from our own galaxy, the Milky Way, are also visible. In October 2013 Hubb",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000394/GSFC_20171208_Archive_e000394~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000394/GSFC_20171208_Archive_e000394~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000394/GSFC_20171208_Archive_e000394~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_051/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001061",
+      "title": "Hubble Team Unveils Most Colorful View of Universe Captured by Space Telescope",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Astronomers using NASA's Hubble Space Telescope have assembled a comprehensive picture of the evolving universe – among the most colorful deep space images ever captured by the 24-year-old telescope. Researchers say the image, in new study called the Ultraviolet Coverage of the Hubble Ultra Deep Fie",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001061/GSFC_20171208_Archive_e001061~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001061/GSFC_20171208_Archive_e001061~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001061/GSFC_20171208_Archive_e001061~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001061/GSFC_20171208_Archive_e001061~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001061/GSFC_20171208_Archive_e001061~orig.jpg"
+      ]
+    }
+  ]
+}

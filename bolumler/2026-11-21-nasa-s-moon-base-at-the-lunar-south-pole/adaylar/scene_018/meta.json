@@ -1,0 +1,66 @@
+{
+  "scene_id": 18,
+  "narration": "That is colder than the surface of Pluto. In that cold, water ice can survive for a very long time.",
+  "visual_brief": "Pluto's icy plains and haze, pale cream and blue.",
+  "purpose": "cutaway",
+  "nasa_query": "Pluto New Horizons",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_018/aday_0.jpg",
+      "nasa_id": "PIA09234",
+      "title": "New Horizons Sees Pluto",
+      "center": "JPL",
+      "date": "2007-04-02",
+      "description": "The Long Range Reconnaissance Imager on NASA New Horizons acquired images of the Pluto field three days apart in late September 2006, in order to see Pluto motion against a dense background of stars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09234/PIA09234~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09234/PIA09234~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09234/PIA09234~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_018/aday_1.jpg",
+      "nasa_id": "PIA09232",
+      "title": "New Horizons Sees Pluto Sept. 21",
+      "center": "JPL",
+      "date": "2007-04-02",
+      "description": "A white arrow marks Pluto in this NASA New Horizons Long Range Reconnaissance Imager picture taken Sept. 21, 2006. Pluto is little more than a faint point of light among a dense field of stars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09232/PIA09232~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09232/PIA09232~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09232/PIA09232~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_018/aday_2.jpg",
+      "nasa_id": "PIA09233",
+      "title": "New Horizons Sees Pluto Sept. 24",
+      "center": "JPL",
+      "date": "2007-04-02",
+      "description": "A white arrow marks Pluto in this NASA New Horizons Long Range Reconnaissance Imager picture taken Sept. 24, 2006. Pluto is little more than a faint point of light among a dense field of stars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09233/PIA09233~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09233/PIA09233~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09233/PIA09233~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_018/aday_3.jpg",
+      "nasa_id": "PIA20201",
+      "title": "New Horizons Very Best View of Pluto Mosiac",
+      "center": "JPL",
+      "date": "2015-12-05",
+      "description": "This mosaic is composed of the sharpest views of Pluto that NASA's New Horizons spacecraft obtained during its flyby of the distant planet on July 14, 2015. The pictures are part of a sequence taken near New Horizons' closest approach to Pluto, with resolutions of about 250-280 feet (77-85 meters) p",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA20201/PIA20201~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA20201/PIA20201~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA20201/PIA20201~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA20201/PIA20201~orig.jpg"
+      ]
+    }
+  ]
+}

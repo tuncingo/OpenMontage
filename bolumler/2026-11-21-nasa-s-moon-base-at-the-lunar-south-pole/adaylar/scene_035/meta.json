@@ -1,0 +1,73 @@
+{
+  "scene_id": 35,
+  "narration": "First, PROMISE. A six wheeled rover powered by a nuclear source.",
+  "visual_brief": "Six-wheeled rover concept with a glowing power source.",
+  "purpose": "evidence",
+  "nasa_query": "Perseverance rover wheels",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_0.jpg",
+      "nasa_id": "PIA23821",
+      "title": "Wheels Up for Perseverance Rover",
+      "center": "JPL",
+      "date": "2020-04-03",
+      "description": "Three of the six flight wheels that will travel to Mars can be seen attached to NASA's Perseverance rover (which is inverted on a handling fixture) on March 30, 2020 at the Kennedy Space Center in Florida. The protective antistatic foil covering the wheels will be removed before launch; the launch w",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA23821/PIA23821~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_1.jpg",
+      "nasa_id": "KSC-20200402-PH-JPL01_0001",
+      "title": "Mars 2020 Perseverance Rover Wheels",
+      "center": "KSC",
+      "date": "2020-04-02",
+      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0001/KSC-20200402-PH-JPL01_0001~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_2.jpg",
+      "nasa_id": "KSC-20200402-PH-JPL01_0003",
+      "title": "Mars 2020 Perseverance Rover Wheels",
+      "center": "KSC",
+      "date": "2020-04-02",
+      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0003/KSC-20200402-PH-JPL01_0003~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_035/aday_3.jpg",
+      "nasa_id": "KSC-20200402-PH-JPL01_0002",
+      "title": "Mars 2020 Perseverance Rover Wheels",
+      "center": "KSC",
+      "date": "2020-04-02",
+      "description": "Wheels are installed on NASA’s Mars Perseverance rover inside Kennedy Space Center’s Payload Hazardous Servicing Facility on March 30, 2020. Perseverance will liftoff aboard a United Launch Alliance Atlas V 541 rocket from Cape Canaveral Air Force Station in July 2020. NASA’s Launch Services Program",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200402-PH-JPL01_0002/KSC-20200402-PH-JPL01_0002~orig.jpg"
+      ]
+    }
+  ]
+}

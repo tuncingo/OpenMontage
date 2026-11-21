@@ -1,0 +1,22 @@
+{
+  "scene_id": 19,
+  "narration": "In 2009, NASA's LCROSS slammed into Cabeus crater, near the south pole, and the plume confirmed water ice.",
+  "visual_brief": "LCROSS impact and plume imagery at Cabeus.",
+  "purpose": "evidence",
+  "nasa_query": "LCROSS impact Cabeus",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_019/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002006",
+      "title": "Ten Cool Things Seen in the First Year of LRO",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Mountains on the Moon On the Earth, we are taught that mountains form over millions of years, the result of gradual shifting and colliding plates. On the moon however, the situation is quite different. Even the largest lunar mountains were formed in minutes or less as asteroids and comets slammed in",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~orig.jpg"
+      ]
+    }
+  ]
+}

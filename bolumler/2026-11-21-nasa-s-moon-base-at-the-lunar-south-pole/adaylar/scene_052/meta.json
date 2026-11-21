@@ -1,0 +1,73 @@
+{
+  "scene_id": 52,
+  "narration": "Now the race. China is also aiming for the south pole.",
+  "visual_brief": "Chang'e-7 spacecraft concept near the lunar south pole.",
+  "purpose": "evidence",
+  "nasa_query": "Chang'e-7",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_0.jpg",
+      "nasa_id": "S111E5109",
+      "title": "Lockhart and Chang-Diaz pose in the Quest A/L during STS-111 UF-2 docked OPS",
+      "center": "JSC",
+      "date": "2002-06-07",
+      "description": "STS111-E-5109 (7 June 2002) --- Astronauts Paul S. Lockhart (left), STS-111 pilot, and Franklin R. Chang-Diaz, mission specialist, greet Expedition Four members (out of frame) with smiles during a brief reunion not long after hatch-opening on June 7, 2002.",
+      "links": [
+        "https://images-assets.nasa.gov/image/S111E5109/S111E5109~medium.jpg",
+        "https://images-assets.nasa.gov/image/S111E5109/S111E5109~small.jpg",
+        "https://images-assets.nasa.gov/image/S111E5109/S111E5109~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S111E5109/S111E5109~large.jpg",
+        "https://images-assets.nasa.gov/image/S111E5109/S111E5109~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_1.jpg",
+      "nasa_id": "S111E5107",
+      "title": "Whitson, Chang-Diaz and Walz in Node 1 during STS-111 UF-2 docked OPS",
+      "center": "JSC",
+      "date": "2002-06-07",
+      "description": "STS111-E-5107 (7 June 2002) --- Astronauts Peggy A. Whitson (left), Expedition Five flight engineer, Franklin R. Chang-Diaz, STS-111 mission specialist, and Carl E. Walz, Expedition Four flight engineer, are photographed in the Unity node on the International Space Station (ISS).",
+      "links": [
+        "https://images-assets.nasa.gov/image/S111E5107/S111E5107~medium.jpg",
+        "https://images-assets.nasa.gov/image/S111E5107/S111E5107~small.jpg",
+        "https://images-assets.nasa.gov/image/S111E5107/S111E5107~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S111E5107/S111E5107~large.jpg",
+        "https://images-assets.nasa.gov/image/S111E5107/S111E5107~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_2.jpg",
+      "nasa_id": "S111E5105",
+      "title": "Whitson and Walz in Destiny U.S. Lab following STS-111 UF-2 ingress to the ISS",
+      "center": "JSC",
+      "date": "2002-06-07",
+      "description": "STS111-E-5105 (7 June 2002) --- Astronauts Peggy A. Whitson (background), Expedition Five flight engineer, and Carl E. Walz, Expedition Four flight engineer, are photographed on the International Space Station (ISS). The two are in the process of changing roles.",
+      "links": [
+        "https://images-assets.nasa.gov/image/S111E5105/S111E5105~medium.jpg",
+        "https://images-assets.nasa.gov/image/S111E5105/S111E5105~small.jpg",
+        "https://images-assets.nasa.gov/image/S111E5105/S111E5105~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S111E5105/S111E5105~large.jpg",
+        "https://images-assets.nasa.gov/image/S111E5105/S111E5105~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_3.jpg",
+      "nasa_id": "sts080-331-030",
+      "title": "Rominger and Jernigan during LiOH canister changeout",
+      "center": "JSC",
+      "date": "1996-12-26",
+      "description": "STS080-331-030 (19 Nov.-7 Dec. 1996) --- Astronauts Kent V. Rominger, STS-80 pilot, and Tamara E. Jernigan, mission specialist, perform a routine housekeeping chore during the space shuttle Columbia's record stay in Earth-orbit. The two are changing out the lithium hydroxide canisters beneath the mi",
+      "links": [
+        "https://images-assets.nasa.gov/image/sts080-331-030/sts080-331-030~medium.jpg",
+        "https://images-assets.nasa.gov/image/sts080-331-030/sts080-331-030~small.jpg",
+        "https://images-assets.nasa.gov/image/sts080-331-030/sts080-331-030~thumb.jpg",
+        "https://images-assets.nasa.gov/image/sts080-331-030/sts080-331-030~large.jpg",
+        "https://images-assets.nasa.gov/image/sts080-331-030/sts080-331-030~orig.jpg"
+      ]
+    }
+  ]
+}

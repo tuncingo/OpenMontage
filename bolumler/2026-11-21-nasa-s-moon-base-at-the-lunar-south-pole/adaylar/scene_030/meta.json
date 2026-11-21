@@ -1,0 +1,73 @@
+{
+  "scene_id": 30,
+  "narration": "NASA is buying rides, not building every machine itself.",
+  "visual_brief": "Intuitive Machines Nova-C lander on the Moon.",
+  "purpose": "explain",
+  "nasa_query": "Intuitive Machines Nova-C",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_030/aday_0.jpg",
+      "nasa_id": "IM_00309",
+      "title": "Intuitive Machines’ Nova-C lunar lander",
+      "center": "MSFC",
+      "date": "2024-02-07",
+      "description": "IM-1, the first NASA Commercial Launch Program Services launch for Intuitive Machines’ Nova-C lunar lander, will carry multiple payloads to the Moon, including Lunar Node-1, demonstrating autonomous navigation via radio beacon to support precise geolocation and navigation among lunar orbiters, lande",
+      "links": [
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~medium.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~small.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~thumb.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~large.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_030/aday_1.jpg",
+      "nasa_id": "MSFC-201901572",
+      "title": "October, 2019 Tech Talk With Rob Morehead",
+      "center": "MSFC",
+      "date": "2019-10-24",
+      "description": "Rob Morehead, lead propulsion engineer for Intuitive Machines in Houston, delivers the monthly Tech Talk on Oct. 24 at NASA’s Marshall Space Flight Center. Morehead presented Intuitive Machines’ Nova-C lunar lander, which will deliver payloads to the surface of the Moon for government and commercial",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-201901572/MSFC-201901572~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201901572/MSFC-201901572~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201901572/MSFC-201901572~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201901572/MSFC-201901572~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201901572/MSFC-201901572~orig.tif"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_030/aday_2.jpg",
+      "nasa_id": "RGM_4112",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "JSC",
+      "date": "2024-02-23",
+      "description": "For the first time in more than 50 years, new NASA science instruments and technology demonstrations are operating on the Moon following the first successful delivery of the agency’s CLPS (Commercial Lunar Payload Services) initiative. Experts from NASA and Intuitive Machines hosted a news conferenc",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4112/RGM_4112~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_030/aday_3.jpg",
+      "nasa_id": "RGM_4126",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "HQ",
+      "date": "2024-02-23",
+      "description": "Steve Altemus, chief executive officer and co-founder, Intuitive Machines, participates in a news conference Feb. 23, 2024, at NASA’s Johnson Space Center in Houston to discuss the company’s Nova-C lander, called Odysseus, and its successful soft landing on the Moon Feb. 22, 2024. The mission is the",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~orig.jpg"
+      ]
+    }
+  ]
+}

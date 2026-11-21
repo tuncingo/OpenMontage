@@ -1,0 +1,68 @@
+{
+  "scene_id": 26,
+  "narration": "Some ridges there get near continuous sunlight, while the shadowed craters sit nearby.",
+  "visual_brief": "Roiling Sun with prominences in amber.",
+  "purpose": "cutaway",
+  "nasa_query": "Solar Dynamics Observatory Sun",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_026/aday_0.jpg",
+      "nasa_id": "PIA26681",
+      "title": " Image of Sun From NASA's Solar Dynamics Observatory",
+      "center": "JPL",
+      "date": "2025-09-15",
+      "description": " On Sept. 10, 2025, NASA's Solar Dynamics Observatory captured this image of the Sun. SDO is managed by NASA's Goddard Space Flight Center, Greenbelt, Maryland, for NASA's Science Mission Directorate in Washington. Its Atmosphere Imaging Assembly was built by the Lockheed Martin Solar Astrophysics L",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_026/aday_1.jpg",
+      "nasa_id": "PIA17669",
+      "title": "Pulses from the Sun",
+      "center": "JPL",
+      "date": "2014-02-11",
+      "description": "The dark region seen on the face of the sun at the end of March 2013 is a coronal hole just above and to the right of the middle of the picture, which is a source of fast solar wind leaving the sun in this image from NASA Solar Dynamic Observatory.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17669/PIA17669~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17669/PIA17669~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17669/PIA17669~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_026/aday_2.jpg",
+      "nasa_id": "PIA17914",
+      "title": "Substantial Coronal Hole",
+      "center": "JPL",
+      "date": "2015-01-29",
+      "description": "A large, dark coronal hole at the bottom of the Sun has been the most dominant feature this week Jan. 29, 2014 as seen by NASA GSFC Solar Dynamics Observatory.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17914/PIA17914~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17914/PIA17914~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17914/PIA17914~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_026/aday_3.jpg",
+      "nasa_id": "PIA22662",
+      "title": "Magnetic Field Portrayed",
+      "center": "JPL",
+      "date": "2018-08-14",
+      "description": "NASA's Solar Dynamics Observatory (SDO) scientists use their computer models to generate a view of the sun's magnetic field (Aug. 10, 2018). We took the opportunity to compare an extreme ultraviolet view of the sun with the same image showing the superimposed field lines. The bright active region ri",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~orig.jpg"
+      ]
+    }
+  ]
+}

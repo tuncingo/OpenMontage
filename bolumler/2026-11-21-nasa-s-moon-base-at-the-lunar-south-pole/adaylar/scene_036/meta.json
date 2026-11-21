@@ -1,0 +1,73 @@
+{
+  "scene_id": 36,
+  "narration": "It carries a drill that reaches about one meter down, and it is designed for an eighteen month mission.",
+  "visual_brief": "Drill sampling frozen ground.",
+  "purpose": "explain",
+  "nasa_query": "VIPER rover drill",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_036/aday_0.jpg",
+      "nasa_id": "ACD20-0047",
+      "title": "VIPER Drill",
+      "center": "ARC",
+      "date": "2019-10-29",
+      "description": "NASA is sending a mobile robot to the south pole of the Moon to get a close-up view of the location and concentration of water ice in the region and for the first time ever, actually sample the water ice at the same pole where the first woman and next man will land in 2024 under the Artemis program.",
+      "links": [
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~medium.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~small.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~large.jpg",
+        "https://images-assets.nasa.gov/image/ACD20-0047/ACD20-0047~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_036/aday_1.jpg",
+      "nasa_id": "KSC-20200925-PH-GEB01_0069",
+      "title": "MSolo Instrument Work",
+      "center": "KSC",
+      "date": "2020-09-25",
+      "description": "Engineers and technicians at NASA’s Kennedy Space Center in Florida work with instruments for Mass Spectrometer observing lunar operations (MSolo) inside the Space Station Processing on Sept. 25, 2020. MSolo is a commercial off-the-shelf mass spectrometer modified to work in space and it will help a",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0069/KSC-20200925-PH-GEB01_0069~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0069/KSC-20200925-PH-GEB01_0069~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0069/KSC-20200925-PH-GEB01_0069~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0069/KSC-20200925-PH-GEB01_0069~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0069/KSC-20200925-PH-GEB01_0069~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_036/aday_2.jpg",
+      "nasa_id": "KSC-20200925-PH-GEB01_0060",
+      "title": "MSolo Instrument Work",
+      "center": "KSC",
+      "date": "2020-09-25",
+      "description": "Engineers and technicians at NASA’s Kennedy Space Center in Florida work with instruments for Mass Spectrometer observing lunar operations (MSolo) inside the Space Station Processing on Sept. 25, 2020. MSolo is a commercial off-the-shelf mass spectrometer modified to work in space and it will help a",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0060/KSC-20200925-PH-GEB01_0060~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0060/KSC-20200925-PH-GEB01_0060~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0060/KSC-20200925-PH-GEB01_0060~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0060/KSC-20200925-PH-GEB01_0060~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0060/KSC-20200925-PH-GEB01_0060~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_036/aday_3.jpg",
+      "nasa_id": "KSC-20200925-PH-GEB01_0043",
+      "title": "MSolo Instrument Work",
+      "center": "KSC",
+      "date": "2020-09-25",
+      "description": "Engineers and technicians at NASA’s Kennedy Space Center in Florida are preparing the Mass Spectrometer observing lunar operations (MSolo) for launch inside the Space Station Processing Facility at NASA’s Kennedy Space Center in Florida on Sept. 25, 2020. MSolo is a commercial off-the-shelf mass spe",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0043/KSC-20200925-PH-GEB01_0043~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0043/KSC-20200925-PH-GEB01_0043~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0043/KSC-20200925-PH-GEB01_0043~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0043/KSC-20200925-PH-GEB01_0043~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20200925-PH-GEB01_0043/KSC-20200925-PH-GEB01_0043~orig.jpg"
+      ]
+    }
+  ]
+}

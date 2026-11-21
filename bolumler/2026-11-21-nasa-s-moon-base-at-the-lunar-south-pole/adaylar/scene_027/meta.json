@@ -1,0 +1,68 @@
+{
+  "scene_id": 27,
+  "narration": "Sunlight for power, ice in the dark. Close together. That is the pitch. Now, who is actually going? NASA numbers the missions.",
+  "visual_brief": "Supernova remnant explosion colours, then toward launch of landers.",
+  "purpose": "transition",
+  "nasa_query": "Cassiopeia A Webb",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_027/aday_0.jpg",
+      "nasa_id": "PIA14884",
+      "title": "Ancient Supernova Revealed",
+      "center": "JPL",
+      "date": "2011-12-10",
+      "description": "Seen as a red dusty cloud in this image from NASA Wide-field Infrared Survey Explorer, Puppis A is the remnant of a supernova explosion.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA14884/PIA14884~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA14884/PIA14884~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA14884/PIA14884~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA14884/PIA14884~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA14884/PIA14884~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_027/aday_1.jpg",
+      "nasa_id": "PIA17839",
+      "title": "Adding a New Color to Palate of Cassiopeia A Images",
+      "center": "JPL",
+      "date": "2014-02-19",
+      "description": "NASA NuSTAR is complementing previous observations of the Cassiopeia A supernova remnant red and green by providing the first maps of radioactive material forged in the fiery explosion blue.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17839/PIA17839~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17839/PIA17839~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17839/PIA17839~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_027/aday_2.jpg",
+      "nasa_id": "PIA11748",
+      "title": "Supernova Remnant in 3-D",
+      "center": "JPL",
+      "date": "2009-01-06",
+      "description": "For the first time, a multiwavelength three-dimensional reconstruction of a supernova remnant has been created. This visualization of Cassiopeia A, or Cas A, the result of an explosion approximately 330 years ago, uses data from several NASA telescopes.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11748/PIA11748~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11748/PIA11748~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_027/aday_3.jpg",
+      "nasa_id": "PIA13449",
+      "title": "An Explosion of Infrared Color",
+      "center": "JPL",
+      "date": "2010-12-09",
+      "description": "This oddly colorful nebula is the supernova remnant IC 443 as seen by NASA Wide-field Infrared Survey Explorer; the Jellyfish nebula is particularly interesting because it provides a look into how stellar explosions interact with their environment.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13449/PIA13449~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13449/PIA13449~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13449/PIA13449~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13449/PIA13449~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA13449/PIA13449~orig.jpg"
+      ]
+    }
+  ]
+}

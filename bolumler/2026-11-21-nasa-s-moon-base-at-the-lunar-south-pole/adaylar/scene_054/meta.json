@@ -1,0 +1,73 @@
+{
+  "scene_id": 54,
+  "narration": "China plans a crewed landing by around 2030. It is also planning a lunar research station with Russia, with construction from about 2031.",
+  "visual_brief": "Lunar lander and research station concept, Chinese programme.",
+  "purpose": "explain",
+  "nasa_query": "Lanyue lander China",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_0.jpg",
+      "nasa_id": "SSC-20000925-S068D-01",
+      "title": "Lunar Lander Exhibit",
+      "center": "SSC",
+      "date": "2000-09-25",
+      "description": "NASA's Lunar Lander exhibit is located at the Mississippi I-10 Welcome Center in Hancock County, Miss., just west of Bay St. Louis and 45 miles east of New Orleans on I-10 at Exit 2. The exhibit features a 30-foot-tall replica of a Lunar Lander used as a trainer by the Apollo 13 astronauts. Apollo 1",
+      "links": [
+        "https://images-assets.nasa.gov/image/SSC-20000925-S068D-01/SSC-20000925-S068D-01~medium.jpg",
+        "https://images-assets.nasa.gov/image/SSC-20000925-S068D-01/SSC-20000925-S068D-01~small.jpg",
+        "https://images-assets.nasa.gov/image/SSC-20000925-S068D-01/SSC-20000925-S068D-01~thumb.jpg",
+        "https://images-assets.nasa.gov/image/SSC-20000925-S068D-01/SSC-20000925-S068D-01~large.jpg",
+        "https://images-assets.nasa.gov/image/SSC-20000925-S068D-01/SSC-20000925-S068D-01~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_1.jpg",
+      "nasa_id": "MSFC-20180912-1801643",
+      "title": "Nathaniel Brown with Lunar Pallet Lander.",
+      "center": "MSFC",
+      "date": "2018-09-07",
+      "description": "Nathaniel Brown, a mechanical design engineer, works the structure design and interfaces for the Lunar Pallet Lander. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-20180912-1801643/MSFC-20180912-1801643~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-20180912-1801643/MSFC-20180912-1801643~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-20180912-1801643/MSFC-20180912-1801643~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-20180912-1801643/MSFC-20180912-1801643~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-20180912-1801643/MSFC-20180912-1801643~orig.tif"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_2.jpg",
+      "nasa_id": "IM_00309",
+      "title": "Intuitive Machines’ Nova-C lunar lander",
+      "center": "MSFC",
+      "date": "2024-02-07",
+      "description": "IM-1, the first NASA Commercial Launch Program Services launch for Intuitive Machines’ Nova-C lunar lander, will carry multiple payloads to the Moon, including Lunar Node-1, demonstrating autonomous navigation via radio beacon to support precise geolocation and navigation among lunar orbiters, lande",
+      "links": [
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~medium.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~small.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~thumb.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~large.jpg",
+        "https://images-assets.nasa.gov/image/IM_00309/IM_00309~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_3.jpg",
+      "nasa_id": "MSFC-202000241",
+      "title": "MSFC Chief Scientist Renee Weber with Lunar Lander Models",
+      "center": "MSFC",
+      "date": "2020-02-25",
+      "description": "Environmental portrait of Renee Weber, commemorating her recent transition to the MSFC Chief Scientist position. Pictured with lunar lander models in the lander lab building 4747.",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-202000241/MSFC-202000241~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-202000241/MSFC-202000241~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-202000241/MSFC-202000241~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-202000241/MSFC-202000241~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-202000241/MSFC-202000241~orig.tif"
+      ]
+    }
+  ]
+}

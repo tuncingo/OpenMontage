@@ -1,0 +1,73 @@
+{
+  "scene_id": 39,
+  "narration": "Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days.",
+  "visual_brief": "Lunar regolith footprints and terrain being mapped.",
+  "purpose": "explain",
+  "nasa_query": "Lunar regolith Apollo",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_0.jpg",
+      "nasa_id": "S72-53949",
+      "title": "APOLLO 17 - INFLIGHT Experiment Equipment",
+      "center": "JSC",
+      "date": "1972-11-28",
+      "description": "S72-53949 (November 1972) --- The upper and bottom sections of the Lunar Neutron Probe Experiment (S-229), in a stowed configuration, which will be used at the Taurus-Littrow landing site by the Apollo 17 crewmen. The purpose of this experiment is to measure neutron capture rates in the lunar regoli",
+      "links": [
+        "https://images-assets.nasa.gov/image/S72-53949/S72-53949~medium.jpg",
+        "https://images-assets.nasa.gov/image/S72-53949/S72-53949~small.jpg",
+        "https://images-assets.nasa.gov/image/S72-53949/S72-53949~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S72-53949/S72-53949~large.jpg",
+        "https://images-assets.nasa.gov/image/S72-53949/S72-53949~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_1.jpg",
+      "nasa_id": "PIA24297",
+      "title": "Armstrong and Rock Box",
+      "center": "JPL",
+      "date": "2020-12-22",
+      "description": "Apollo 11 commander Neil Armstrong works with an Apollo Lunar Sample Return Container during a two-and-a-half-hour lunar surface simulation training exercise. The image was taken on Apr. 18, 1969, in Building 9 at the Manned Spacecraft Center in Houston, Texas. The sample tubes carried by NASA's Mar",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA24297/PIA24297~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA24297/PIA24297~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA24297/PIA24297~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA24297/PIA24297~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA24297/PIA24297~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_2.jpg",
+      "nasa_id": "KSC-2011-7763",
+      "title": "KSC-2011-7763",
+      "center": "KSC",
+      "date": "2011-11-08",
+      "description": "CAPE CANAVERAL, Fla. – In the Granular Mechanics and Regolith Operations (GMRO) Lab at NASA's Kennedy Space Center in Florida, a piece of the Surveyor 3 spacecraft returned from the lunar surface on the Apollo 12 mission is available for examination by the lab's staff. The GMRO Lab is one of several",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2011-7763/KSC-2011-7763~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7763/KSC-2011-7763~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7763/KSC-2011-7763~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7763/KSC-2011-7763~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7763/KSC-2011-7763~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_3.jpg",
+      "nasa_id": "KSC-2011-7761",
+      "title": "KSC-2011-7761",
+      "center": "KSC",
+      "date": "2011-11-08",
+      "description": "CAPE CANAVERAL, Fla. – In the Granular Mechanics and Regolith Operations (GMRO) Lab at NASA's Kennedy Space Center in Florida, Dr. Philip Metzger examines under a microscope a piece of the Surveyor 3 spacecraft returned from the lunar surface on the Apollo 12 mission. The GMRO Lab is one of several ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2011-7761/KSC-2011-7761~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7761/KSC-2011-7761~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7761/KSC-2011-7761~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7761/KSC-2011-7761~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2011-7761/KSC-2011-7761~orig.jpg"
+      ]
+    }
+  ]
+}

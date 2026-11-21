@@ -1,0 +1,73 @@
+{
+  "scene_id": 33,
+  "narration": "Moon Base III also slipped, to the first quarter of 2027, according to its maker.",
+  "visual_brief": "Odysseus lander image on the lunar surface.",
+  "purpose": "explain",
+  "nasa_query": "Odysseus lunar landing",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_0.jpg",
+      "nasa_id": "RGM_4126",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "HQ",
+      "date": "2024-02-23",
+      "description": "Steve Altemus, chief executive officer and co-founder, Intuitive Machines, participates in a news conference Feb. 23, 2024, at NASA’s Johnson Space Center in Houston to discuss the company’s Nova-C lander, called Odysseus, and its successful soft landing on the Moon Feb. 22, 2024. The mission is the",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4126/RGM_4126~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_1.jpg",
+      "nasa_id": "RGM_4369",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "JSC",
+      "date": "2024-02-23",
+      "description": "Prasun Desai, deputy associate administrator, Space Technology Mission Directorate at NASA Headquarters, participates in a news conference Feb. 23, 2024, at the agency’s Johnson Space Center in Houston. Desai was on hand to discuss the NASA science and technology aboard the Intuitive Machine’s Nova-",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4369/RGM_4369~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4369/RGM_4369~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4369/RGM_4369~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4369/RGM_4369~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4369/RGM_4369~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_2.jpg",
+      "nasa_id": "RGM_4276",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "JSC",
+      "date": "2024-02-23",
+      "description": "Tim Crain, chief technology officer and co-founder, Intuitive Machines, participates in a news conference Feb. 23, 2024, at NASA’s Johnson Space Center in Houston to discuss the company’s Nova-C lander, called Odysseus, and its successful soft landing on the Moon Feb. 22, 2024. The mission is the fi",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4276/RGM_4276~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4276/RGM_4276~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4276/RGM_4276~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4276/RGM_4276~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4276/RGM_4276~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_033/aday_3.jpg",
+      "nasa_id": "RGM_4255",
+      "title": "News Conference on Intuitive Machines' First Lunar Landing",
+      "center": "JSC",
+      "date": "2024-02-23",
+      "description": "Joel Kearns, deputy associate administrator for Exploration, Science Mission Directorate, NASA Headquarters, participates in a news conference Feb. 23, 2024, at the agency’s Johnson Space Center in Houston. Kearns was on hand to discuss the NASA science and technology aboard Intuitive Machines’ Nova",
+      "links": [
+        "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~medium.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~small.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~thumb.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~large.jpg",
+        "https://images-assets.nasa.gov/image/RGM_4255/RGM_4255~orig.jpg"
+      ]
+    }
+  ]
+}

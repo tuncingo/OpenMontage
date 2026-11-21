@@ -1,0 +1,73 @@
+{
+  "scene_id": 62,
+  "narration": "NASA chose to spend its effort on that surface sequence, near the ice, and Gateway is paused, not dead.",
+  "visual_brief": "Orion spacecraft passing the Moon near a lunar limb.",
+  "purpose": "explain",
+  "nasa_query": "Orion Moon flyby",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_062/aday_0.jpg",
+      "nasa_id": "art001e000270",
+      "title": "Orion Approaches Moon for Outbound Powered Flyby",
+      "center": "JSC",
+      "date": "2022-11-21",
+      "description": "art001e000270 (Nov. 21, 2022) A portion of the far side of the Moon looms large just beyond the Orion spacecraft in this image taken on the sixth day of the Artemis I mission by a camera on the tip of one of Orion’s solar arrays. The spacecraft entered the lunar sphere of influence Sunday, Nov. 20, ",
+      "links": [
+        "https://images-assets.nasa.gov/image/art001e000270/art001e000270~medium.jpg",
+        "https://images-assets.nasa.gov/image/art001e000270/art001e000270~small.jpg",
+        "https://images-assets.nasa.gov/image/art001e000270/art001e000270~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art001e000270/art001e000270~large.jpg",
+        "https://images-assets.nasa.gov/image/art001e000270/art001e000270~orig.jpg"
+      ]
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_062/aday_1.jpg",
+      "nasa_id": "art001e000268",
+      "title": "Orion Approaches Moon for Outbound Powered Flyby",
+      "center": "JSC",
+      "date": "2022-11-21",
+      "description": "art001e000268 (Nov. 21, 2022) A portion of the far side of the Moon looms large just beyond the Orion spacecraft in this image taken on the sixth day of the Artemis I mission by a camera on the tip of one of Orion’s solar arrays. The spacecraft entered the lunar sphere of influence Sunday, Nov. 20, ",
+      "links": [
+        "https://images-assets.nasa.gov/image/art001e000268/art001e000268~medium.jpg",
+        "https://images-assets.nasa.gov/image/art001e000268/art001e000268~small.jpg",
+        "https://images-assets.nasa.gov/image/art001e000268/art001e000268~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art001e000268/art001e000268~large.jpg",
+        "https://images-assets.nasa.gov/image/art001e000268/art001e000268~orig.jpg"
+      ]
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_062/aday_2.jpg",
+      "nasa_id": "art002e016299",
+      "title": "Earthrise Captured by Orion",
+      "center": "JSC",
+      "date": "2026-04-06",
+      "description": "art002e016299 (April 6, 2026) - Earthrise captured from a camera mounted on one of the Orion spacecraft’s solar array wings at 7:22 p.m. ET during the Artemis II crew’s flyby of the Moon’s far side. Earth appears as a delicate sliver - with the portion on the left darkened by shadow and a portion on",
+      "links": [
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~orig.jpg"
+      ]
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_062/aday_3.jpg",
+      "nasa_id": "art001e002130",
+      "title": "Orion Approaches Moon for Return Powered Flyby",
+      "center": "JSC",
+      "date": "2022-12-05",
+      "description": "art001e002130 Dec. 5, 2022 A portion of the Moon looms large just beyond the Orion spacecraft in this image taken on the 20th day of the Artemis I mission by a camera on the tip of one of Orion’s solar arrays. The return powered flyby burn committed Orion to a return to Earth trajectory ahead of a s",
+      "links": [
+        "https://images-assets.nasa.gov/image/art001e002130/art001e002130~medium.jpg",
+        "https://images-assets.nasa.gov/image/art001e002130/art001e002130~small.jpg",
+        "https://images-assets.nasa.gov/image/art001e002130/art001e002130~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art001e002130/art001e002130~large.jpg",
+        "https://images-assets.nasa.gov/image/art001e002130/art001e002130~orig.jpg"
+      ]
+    }
+  ]
+}
