@@ -1,14 +1,12 @@
 # Why Did NASA Pause Its Moon Station? The Moon Base Reality Check
 ## Script
-NASA says it is building a base on the Moon. Not one vehicle from the Moon Base programme has landed on the Moon yet. [S1] [S11]
-
-That is separate from the 2025 Athena landing by Intuitive Machines. The first Moon Base landers are still on Earth, and their launch has slipped to early 2027. [S11]
+NASA says it is building a base on the Moon. None of the Moon Base missions has landed yet. The first three have slipped to 2027. [S1] [S18]
 
 And to chase this base, the agency put its own planned space station around the Moon on hold. [S5]
 
-So why did NASA pause Gateway? And what is real here, and what is just a drawing?
+So why did NASA pause Gateway? And what is real here, and what is still on paper?
 
-In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpost in lunar orbit. The pause is indefinite. The stated goal was to focus on a base on the surface. [S5]
+In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpost in lunar orbit. The pause is indefinite. The stated goal was to focus on a base on the surface. [S5] [S13]
 
 [EVIDENCE: Gateway paused, not cancelled]
 
@@ -16,7 +14,7 @@ Notice the word paused. NASA says Gateway is not cancelled, and its hardware may
 
 [EVIDENCE: The price tag]
 
-The price tag is about twenty billion dollars for the Moon Base plan, and about thirty billion over the decade for all three phases. [S13]
+The price tag is about twenty billion dollars over the first seven years, and about thirty billion over a decade for all three phases. [S14]
 
 Now, the word base. Picture a city under a dome. That is not what NASA describes, at least not yet. [S2]
 
@@ -56,13 +54,15 @@ Now, who is actually going? NASA numbers the missions. [S3]
 
 Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander. NASA is buying rides, not building every machine itself. [S3]
 
-Those rides have slipped. New Glenn exploded on its pad during a test firing in May 2026, and NASA's Moon Base manager confirmed that the first two landers slipped to the first half of 2027. [S13] [S11]
+[EVIDENCE: New Glenn explodes in a test]
+
+Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. Moon Base One and Three slipped to the first part of 2027. [S17] [S11]
 
 What comes after the landers? Two strange machines. [S2]
 
 [EVIDENCE: PROMISE nuclear rover]
 
-First, PROMISE. A six wheeled rover powered by a nuclear source. It carries a drill that reaches about one meter down, and it is designed for an eighteen month mission. Blue Origin won a ninety four million dollar contract to deliver it, with a target of late 2028. [S2] [S9]
+First, PROMISE. A six wheeled rover powered by a nuclear source. It carries a drill that reaches about one meter down, and it is designed for an eighteen month mission. Blue Origin won a ninety four million dollar contract to deliver it, with a one hundred forty million dollar option and a target of late 2028. [S2] [S9]
 
 [EVIDENCE: MoonFall hopping drones]
 
@@ -80,9 +80,9 @@ NASA is aiming for a fission reactor of about one hundred kilowatts on the surfa
 
 And that is the honest tension at the center of this story. Can the schedule hold? [S6]
 
-[EVIDENCE: Artemis III and IV, and the doubted dates]
+[EVIDENCE: Artemis Three and Four, and the doubted dates]
 
-Experts question the 2027 and 2028 landing dates. Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028. The Artemis crewed lander still needs development. [S13] [S6]
+NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028. Experts question the 2027 and 2028 dates. The Artemis crewed lander still needs development. [S15] [S16] [S6]
 
 The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining. [S10]
 
@@ -98,7 +98,7 @@ So this is not a clean sprint. Two programs, both with slipping calendars, both 
 
 [EVIDENCE: Student challenge, one million dollars]
 
-NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S2] [S9]
+NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S1] [S2]
 
 So let's go back to the opening. Why has so little been built? [S1]
 
@@ -106,9 +106,9 @@ Because the base is not a place. It is a sequence. Landers first, then rovers, t
 
 And why shelve a space station? Because NASA chose to focus on the surface base, near the ice. Gateway is paused, not dead, and that is the bet. [S5]
 
-Here is what I would watch. Whether the first landers reach the surface in early 2027. Whether the reactor stays near 2030. And whether anyone can show that the ice is usable, and where it came from. [S11] [S6] [S4]
+Here is what I would watch. Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030. And whether anyone can show that the ice is usable, and where it came from. [S18] [S6] [S4]
 
-The base is still a drawing. The next two years decide whether it becomes hardware. And either way, the south pole is where both NASA and China are placing their bets. [S2] [S7]
+The base is still mostly on paper and on test stands. The next two years decide whether it becomes hardware. And either way, the south pole is where both NASA and China are placing their bets. [S2] [S7]
 
 If you want to follow it with us, subscribe to Rebel Minds Cosmos. Next time, we go inside those dark craters, and ask where that ice came from.
 
@@ -125,10 +125,17 @@ S9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-n
 S10. https://www.nasa.gov/mission/promise/
 S11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/
 S12. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/
-S13. NASA Moon Base documents, per editor (not in research.md)
+S13. https://www.planetary.org/articles/ignition-new-nasa-initiatives
+S14. https://www.astronomy.com/space-exploration/nasas-30b-plan-to-build-a-moon-base/
+S15. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon
+S16. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846
+S17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans
+S18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
 
 ## Revision notes
-- Tüm doğrulama hedge'leri silindi; önceki emirler (1400 kelime altı, kanca, Gateway bölümü, 3 cümlelik lander bölümü) korundu.
-- Editör emri 7: yaklaşık 20 milyar dolar ve on yılda yaklaşık 30 milyar dolar (üç faz) cümlesi eklendi, çekinceli ifade yok. [S13]
-- Editör emri 8: New Glenn "Mayıs 2026'da test ateşlemesinde rampada patladı", Moon Base yöneticisi ilk iki inişçinin 2027'nin ilk yarısına kaydığını doğruladı; Artemis III 2027 Dünya yörüngesi testi, Artemis IV 2028 ilk iniş. "Unconfirmed" ve "Sources conflict" ifadeleri yok.
-- Yeni kaynak girişi S13: "NASA Moon Base documents, per editor (not in research.md)", URL uydurulmadı.
+- Eski S13 ("NASA Moon Base documents, per editor") ve ona yapılan tüm atıflar silindi. S13 numarası artık Planetary Society "Ignition" makalesine ait; S14 Astronomy, S15 Space.com Artemis, S16 The Register Artemis, S17 Space.com Blue Origin, S18 SpacePolicyOnline eklendi. S1-S12 numaraları değişmedi.
+- Kanca: "Hiçbir Moon Base görevi henüz inmedi. İlk üçü 2027'ye kaydı." [S18]; 2025 Athena cümlesi ve "still on Earth" ifadesi tamamen kaldırıldı.
+- Fiyat: "ilk yedi yılda yaklaşık 20 milyar, on yılda üç faz için yaklaşık 30 milyar" tek cümlede bağlandı [S14]. Gateway duraklatma cümlesine S13 eklendi.
+- Lander kayması: New Glenn 28 Mayıs 2026'da statik ateşleme testinde patladı [S17]; "ilk iki lander" yerine "Moon Base One ve Three" 2027'nin ilk kısmına kaydı [S11].
+- Artemis: "NASA hedefliyor" çerçevesiyle Artemis III 2027 Dünya yörüngesi lander testi, Artemis IV erken 2028 ilk mürettebatlı iniş [S15] [S16]; uzman şüphesi cümlesiyle çelişmiyor.
+- PROMISE: "94 milyon dolar, 140 milyon dolar opsiyon" [S9]. Öğrenci yarışması S1'e bağlandı. "Hâlâ bir çizim" yerine "çoğunlukla kağıt üzerinde ve test tezgahlarında". Gateway bölümü, 3 cümlelik lander bölümü ve 1400 kelime altı korundu (yaklaşık 1170 kelime anlatım).

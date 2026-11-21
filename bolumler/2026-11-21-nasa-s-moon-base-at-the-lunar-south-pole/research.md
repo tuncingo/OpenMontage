@@ -76,3 +76,18 @@
 18. https://space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo (search listing)
 
 Note: euronews.com, skyatnightmagazine.com, cbsnews.com and aerospaceamerica.aiaa.org could not be fetched (outside allowed network domains). Claims from them rest on search summaries and need verification.
+
+## Editor-supplied sources (round 4)
+(Supplied by the editor; script IDs S13-S18 refer to this list, not to the numbered Source list above.)
+- S13. The Planetary Society, "'Ignition': A new series of NASA initiatives", 24 March 2026. https://www.planetary.org/articles/ignition-new-nasa-initiatives
+  Finding: Gateway paused indefinitely; per documents on NASA's website, about $20 billion on the lunar base over the next seven years.
+- S14. Astronomy, "NASA's $30B plan to build a Moon base", 25 March 2026. https://www.astronomy.com/space-exploration/nasas-30b-plan-to-build-a-moon-base/
+  Finding: Isaacman: $20B over seven years; Moon Base program manager Carlos García-Galán: three-phase plan needing $30B over the next decade. Linked wording: $20 billion over the first seven years, about $30 billion over a decade for all three phases.
+- S15. Space.com, "NASA is overhauling its Artemis program…", March 2026. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon
+- S16. The Register, "Fly me to the Moon: NASA reshuffles the Artemis card deck", 2 March 2026. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846
+  Finding (S15, S16): Artemis III is a 2027 Earth-orbit lander test. Artemis IV is the first crewed landing, targeted early 2028. State as NASA's target.
+- S17. Space.com, "'A pretty significant setback': How Blue Origin's rocket explosion affects NASA's moon plans", May 2026. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans
+  Finding: New Glenn exploded on 28 May 2026 while being prepared for launch, during a static-fire test.
+- S11 (Aerospace America, already listed above as item 14): Moon Base I (Blue Moon Mk1 Endurance) and Moon Base III (Nova-C Trinity) slipped to "the first part of 2027".
+- S18. SpacePolicyOnline, "NASA Shares Moon Base Progress, Contract Awards", November 2026. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
+  Finding: The three CLPS missions expected this year have all slipped to 2027.
