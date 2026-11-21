@@ -10,7 +10,7 @@ In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpo
 
 [EVIDENCE: Gateway paused, not cancelled]
 
-Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed. But much of that hardware was already built, and it is not easy to reuse. [S5] [S13] [S14] The effort moves from orbit down to the ground, near the polar ice. The fate of partners like Europe, Japan and Canada is still unresolved. [S5] [S12]
+Notice the word paused. NASA says Gateway is not cancelled, and its hardware may be repurposed. But much of that hardware was already built, and it is not easy to reuse. [S14] [S19] The effort moves from orbit down to the ground, near the polar ice. The fate of partners like Europe, Japan and Canada is still unresolved. [S5] [S12]
 
 [EVIDENCE: The price tag]
 
@@ -54,7 +54,7 @@ Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge. 
 
 [EVIDENCE: New Glenn explodes in a test, and a separate delay]
 
-Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027. [S17] [S11] Moon Base Three, the Intuitive Machines lander, also slipped to the first quarter of 2027, through a separate delay. [S11]
+Those rides have slipped. On May twenty eighth, 2026, New Glenn exploded during a static fire test while being prepared for launch. That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027. [S17] [S11] Moon Base III also slipped, to the first quarter of 2027, according to its maker. [S11]
 
 What comes after the landers? Two strange machines. [S2]
 
@@ -127,6 +127,7 @@ S15. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-art
 S16. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846
 S17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans
 S18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
+S19. Global News (Reuters), "Back to the moon? NASA says it will spend US$20B on building lunar base", March 2026, https://globalnews.ca/news/11743891/moon-nasa-lunar-base/
 
 ## Revision notes
 - New Glenn: patlama yalnızca Moon Base One'ın (Blue Moon Mk1) kaymasına bağlandı; Moon Base Three (Nova-C Trinity) ayrı bir gecikmeyle 2027 ilk çeyreğine kaydı [S11]. EVIDENCE etiketi buna göre güncellendi.

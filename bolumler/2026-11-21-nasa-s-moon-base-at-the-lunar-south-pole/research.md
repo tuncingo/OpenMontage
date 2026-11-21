@@ -91,3 +91,4 @@ Note: euronews.com, skyatnightmagazine.com, cbsnews.com and aerospaceamerica.aia
 - S11 (Aerospace America, already listed above as item 14): Moon Base I (Blue Moon Mk1 Endurance) and Moon Base III (Nova-C Trinity) slipped to "the first part of 2027".
 - S18. SpacePolicyOnline, "NASA Shares Moon Base Progress, Contract Awards", November 2026. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/
   Finding: The three CLPS missions expected this year have all slipped to 2027.
+- S19. Global News (Reuters), "Back to the moon? NASA says it will spend US$20B on building lunar base", March 2026. https://globalnews.ca/news/11743891/moon-nasa-lunar-base/
