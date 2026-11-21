@@ -1,14 +1,80 @@
-{"score": 6, "verdict": "revise",
- "summary": "Metin genel olarak araştırma notlarıyla uyumlu; ancak 'ilk iki lander' ifadesi notlarla çelişiyor (kayan görevler Moon Base I ve III), 'hiçbir araç inmedi' iddiası notlarda doğrulanmamış ve Athena cümlesi kaynaksız.",
- "claims": {"verified": 30, "disputed": 1, "unsupported": 4},
- "issues": [
-  {"severity": "critical", "quote": "the first two landers moved from fall 2026 to the first part of 2027", "problem": "Araştırma notlarına göre ertelenen görevler Moon Base I (Blue Moon MK1) ve Nova-C Trinity (Moon Base III); Moon Base II (Griffin) değil. 'İlk iki lander' yanlış.", "fix": "Write: 'the Blue Origin and Intuitive Machines landers moved from fall 2026 to the first part of 2027.'"},
-  {"severity": "major", "quote": "Not one vehicle from the Moon Base programme has landed on the Moon yet. [S1] [S11]", "problem": "Araştırma notları bunun doğrulanmadığını söylüyor ('Not confirmed either way; verify'). Sadece S11 (getirilemeyen arama özeti) ile destekleniyor.", "fix": "Verify on nasa.gov/moonbase that no Moon Base lander has landed as of Nov 2026, or soften to 'As of this recording, no Moon Base lander has reached the surface, according to NASA's programme page.'"},
-  {"severity": "major", "quote": "The first Moon Base landers are still on Earth, and their launch has slipped to early 2027. [S11]", "problem": "Gecikme bilgisi yalnızca erişilemeyen S11'in arama özetine dayanıyor; bugün (Kasım 2026) güncel durum teyit edilmemiş. Bağımsız aramada 2027 tarihi bulunamadı (sadece patlama ve genel gecikme doğrulandı).", "fix": "Confirm the 'early 2027' date from a fetchable source (e.g., nasa.gov/moonbase or Space.com) or say 'slipped into 2027 according to NASA's Moon Base manager'."},
-  {"severity": "minor", "quote": "That is separate from the 2025 Athena landing by Intuitive Machines.", "problem": "Athena (IM-2) gerçekten 6 Mart 2025'te Mons Mouton'a indi (arama ile doğrulandı) fakat yan yattı ve görev 12 saatte bitti; notlarda ve kaynaklarda yok, atıfsız. 'Landing' tek başına başarılı bir iniş izlenimi verebilir.", "fix": "Write: 'the 2025 Athena landing by Intuitive Machines, a separate commercial mission that touched down near the south pole but tipped over.' Add a citation (e.g., NASA or Space.com IM-2 coverage)."},
-  {"severity": "minor", "quote": "LCROSS, the first direct detection", "problem": "Arama, LCROSS'u kraterde ilk doğrudan su buzu teyidi olarak genel kabul gördüğünü gösteriyor ama S4 (Planetary Society) bunu 'first' diye ifade etmiyor; ayrıca bulgular 2009'da ön, 2010'da tam yayımlandı.", "fix": "Say 'first direct confirmation of water in a permanently shadowed crater' and cite NASA LCROSS page (science.nasa.gov/mission/lcross/) in addition to S4."},
-  {"severity": "minor", "quote": "kicked up a plume containing about one hundred fifty five kilograms of water.", "problem": "155 kg, aletin görüş alanındaki su buharı ve buzun azami tahminidir (±12 kg), tam olarak 'plume içeriği' değil.", "fix": "Write 'about 155 kilograms of water vapor and ice in the instrument's view'."},
-  {"severity": "minor", "quote": "Add dust and extreme cold. Even a perfect landing is not yet mining. [S10]", "problem": "S10 (PROMISE sayfası) yalnızca dik yamaçlar, sırtlar ve derin kraterleri belirtiyor; toz ve soğuk bu kaynaktan gelmiyor.", "fix": "Add [S4] for extreme cold, or drop 'dust' or cite a source for it."},
-  {"severity": "minor", "quote": "NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S2] [S9]", "problem": "Notlarda öğrenci yarışması nasa.gov/moonbase (S1) kaynağına atfediliyor; S2 ve S9 bunu açıkça desteklemiyor. 'Okuldaki insanlara ait' yorumdur.", "fix": "Cite [S1] for the challenge; mark the Phase Three line as commentary."},
-  {"severity": "minor", "quote": "Experts question the 2027 and 2028 landing dates. The Artemis crewed lander still needs development. [S6]", "problem": "S6 yalnızca arama özetine dayanıyor; ayrıca Artemis iniş takvimi notlarda çelişkili.", "fix": "Keep wording hedged to what the AOL/S6 piece says, and avoid any Artemis landing dates."}
- ]}
+{
+  "score": 7,
+  "verdict": "revise",
+  "summary": "Metnin çekirdeği (fazlar, buz sayıları, PROMISE, MoonFall, Çin) araştırma notlarıyla uyumlu. Ancak S13'e dayanan 20/30 milyar dolar ve Artemis III/IV cümleleri ile 'hiçbir araç inmedi', 'Athena' ve 'ilk iki inişçi' ifadeleri notlarda dayanaksız veya yanlış hizalı; ayrıca hedge'ler silinince 'basın rakamı' niteliği kayboldu.",
+  "claims": {"verified": 31, "disputed": 2, "unsupported": 6},
+  "s13_dependent_claims": [
+    "Moon Base plani yaklasik 20 milyar dolar, uc fazin tamami on yilda yaklasik 30 milyar dolar (script satir 19)",
+    "New Glenn Mayis 2026'da pad uzerinde patladi ve Moon Base yoneticisi ilk iki inisciyi 2027'nin ilk yarisina kaymis olarak dogruladi (satir 59, S13 + S11)",
+    "Artemis III 2027'de Dunya yorungesinde test, Artemis IV 2028'de ilk inis (satir 85, S13 + S6)"
+  ],
+  "no_source_claims": [
+    "2025 Athena landing by Intuitive Machines (satir 5): arastirmada ve hicbir S# kaynaginda yok",
+    "'Not one vehicle from the Moon Base programme has landed' (satir 3): arastirma 'not confirmed either way; verify' diyor",
+    "'The first Moon Base landers are still on Earth' (satir 5): kaynaksiz",
+    "'$30B over the decade' (satir 19): research.md'de yok, yalnizca S13 (editor) ve dis arama sonucu"
+  ],
+  "external_checks": "Bagimsiz aramada: $30B/on yil/uc faz (Fiscal Times, Astronomy, Flying) ve $20B'nin ilk ~yedi yil/ilk iki faz oldugu; Artemis III 2027 LEO testi ve Artemis IV 2028 ilk inis (NASA/Discover); New Glenn 28 Mayis 2026'da static fire testinde patladi (Spaceflight Now, Space.com) dogrulandi. 'Moon Base yoneticisi ilk iki inisciyi 2027 ilk yarisina kaydigini dogruladi' ifadesi bulunamadi.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "The price tag is about twenty billion dollars for the Moon Base plan, and about thirty billion over the decade for all three phases. [S13]",
+      "problem": "Cümle tamamen editör kaynağı S13'e dayanıyor; araştırma notları yalnızca 20 milyar doları, o da 'basın rakamı, denetlenmiş NASA bütçesi değil' ve yaklaşık yedi yıl (CBS) kaydıyla veriyor; 30 milyar notlarda yok. Dış kaynaklar 30 milyarı doğruluyor ve 20 milyarın ilk ~7 yıl/ilk iki faz olduğunu söylüyor; metin iki rakamı birbirinden bağımsız gibi sunuyor ve 'basın raporlarına göre' çerçevesi silinmiş. Not: S13 URL'siz, doğrulanamaz.",
+      "fix": "Reword to: 'Press reports put the first seven years, roughly the first two phases, at about twenty billion dollars, and the full three-phase plan at about thirty billion over a decade.' Cite a public source (e.g. Fiscal Times or Bloomberg) instead of S13, and keep the 'reported' framing."
+    },
+    {
+      "severity": "major",
+      "quote": "Not one vehicle from the Moon Base programme has landed on the Moon yet. [S1] [S11]",
+      "problem": "Araştırma: 'No Moon Base lander had landed as of the sources found. Not confirmed either way; verify.' Kesin cümle olarak veriliyor; S1/S11 bunu açıkça söylemiyor. Muhtemelen doğru ama dayanaksız.",
+      "fix": "Verify on nasa.gov/moonbase as of 2026-11-21 and keep, or soften to 'As of this recording, no Moon Base lander has reached the surface.'"
+    },
+    {
+      "severity": "major",
+      "quote": "That is separate from the 2025 Athena landing by Intuitive Machines. The first Moon Base landers are still on Earth, and their launch has slipped to early 2027. [S11]",
+      "problem": "Athena (IM-2, Mart 2025) araştırmada ve kaynaklarda hiç geçmiyor; [S11] bu cümleyi desteklemiyor. 'Still on Earth' de kaynaksız. 'Early 2027' notlarda 'the first part of 2027' (S14 yalnızca arama özeti, çekilemedi) olarak geçiyor.",
+      "fix": "Either add a citable source for the March 2025 IM-2 Athena landing (it landed near the south pole and tipped over) or drop the sentence. Cite S11 only for the slip to the first part of 2027."
+    },
+    {
+      "severity": "major",
+      "quote": "New Glenn exploded on its pad during a test firing in May 2026, and NASA's Moon Base manager confirmed that the first two landers slipped to the first half of 2027. [S13] [S11]",
+      "problem": "Test firing ayrıntısı notlarda yok (dış kaynaklar 28 Mayıs 2026 static fire patlamasını doğruluyor, yani olgu doğru). Ancak 'Moon Base yöneticisi doğruladı' ve 'ilk yarı' notlarda yalnızca 'first part of 2027' ve arama özeti; yönetici ifadesi bağımsız aramada bulunamadı. Üstelik notlara göre kayan iki görev Moon Base I ve III'tür (Blue Moon MK1 ve Nova-C), 'ilk iki lander' ise I ve II gibi okunur. S11 başlığı da bu yıl bir ay inişi beklendiğini ima ediyor, ifadeyle gerilim olabilir.",
+      "fix": "Write: 'New Glenn exploded on its pad during a static-fire test in May 2026. Blue Origin's Moon Base One lander and Intuitive Machines' Moon Base Three lander have slipped to the first part of 2027.' Cite Spaceflight Now for the explosion and the AIAA piece for the slip, after reading the AIAA page."
+    },
+    {
+      "severity": "major",
+      "quote": "Artemis III is a 2027 test in Earth orbit, and Artemis IV makes the first landing in 2028.",
+      "problem": "Araştırma notları bunu 'sources conflict, verify before stating as fact' diye işaretliyor, yalnızca arama özetleri. Cümle S13'e (editör) dayanıyor. Bağımsız aramada NASA'nın kendi güncel planı bunu doğruluyor (Artemis III 2027 LEO gösterimi, Artemis IV 2028 iniş hedefi), yani olgu büyük olasılıkla doğru; ama 'makes' kesin ifadesi yerine hedef olduğu belirtilmeli.",
+      "fix": "Say 'NASA now plans Artemis III as a 2027 Earth-orbit test and targets the first landing on Artemis IV in 2028' and cite the NASA Artemis architecture page rather than S13."
+    },
+    {
+      "severity": "minor",
+      "quote": "Blue Origin won a ninety four million dollar contract to deliver it, with a target of late 2028. [S2] [S9]",
+      "problem": "Notlara göre 94 milyon dolar 'base contract', üstüne 140 milyon dolarlık opsiyon var; opsiyon atlanınca sözleşme küçük görünüyor. S2 (phases sayfası) sözleşme tutarını kapsamıyor, kaynak S1/S9.",
+      "fix": "Say 'a ninety four million dollar base contract, with a hundred forty million option' and cite [S1] [S9]."
+    },
+    {
+      "severity": "minor",
+      "quote": "NASA is even inviting students in, with a one million dollar Moon Base Challenge. A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now. [S2] [S9]",
+      "problem": "Öğrenci yarışması notlarda S1 (nasa.gov/moonbase) ve R&D World'e dayanıyor; S2 yarışmayı desteklemiyor. Bu hâliyle S2 yalnızca faz tarihini kapsıyor.",
+      "fix": "Cite [S1] [S9] for the challenge and [S2] only for Phase Three timing."
+    },
+    {
+      "severity": "minor",
+      "quote": "Second, MoonFall. Four hopping drones from JPL, planned for 2028. Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days.",
+      "problem": "'Flying across a lunar day' notlarda yalnızca bir parantez; 14 günlük süre ile uçuş birlikte çarpıtılabilir. Ayrıca 'hopping' ile 'flying' karışık.",
+      "fix": "Say: 'They are designed to hop across the surface to map landing sites, operating over a lunar day of about fourteen Earth days.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "That is colder than the surface of Pluto.",
+      "problem": "Notlarda 'colder than Pluto' var; Plüton yüzeyi yaklaşık -230 C olduğundan doğru, ama kaynak karşılaştırma yapıyorsa belirtilmeli; sadece Planetary kaynağı dayanak.",
+      "fix": "Keep, but ensure the figure matches the Planetary Society wording ('about minus 250 C') and say 'colder than Pluto's typical surface'."
+    },
+    {
+      "severity": "minor",
+      "quote": "A working surface reactor by 2030 is a steep climb.",
+      "problem": "Yorum cümlesi; kaynak (S6) uzmanların takvimden şüphe ettiğini söylüyor, 'steep climb' bir yorum. Ayrıca S6 yalnızca AOL arama özeti, tam metin okunmadı.",
+      "fix": "Attribute: 'Experts quoted by the press call that timeline a steep climb.'"
+    }
+  ]
+}
