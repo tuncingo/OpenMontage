@@ -1,0 +1,14 @@
+{"selections": [
+{"scene_id": 13, "chosen": 2, "fit_score": 7, "reason": "Lunar Outpost Eagle arazi aracının kargo tepsisi ve güneş paneli açık, sahne anlatımıyla uyumlu bir test görüntüsü.", "issues": ["Kargo yükü tam olarak görünmüyor, sahne ağırlıklı olarak astronot ve araç odaklı."]},
+{"scene_id": 14, "chosen": -1, "fit_score": 1, "reason": "Adayların hepsi Bering Denizi'ndeki fitoplankton patlamasını gösteriyor, ay habitatıyla ilgisi yok.", "issues": ["Uygun ay habitatı görseli bulunamadı."]},
+{"scene_id": 15, "chosen": 2, "fit_score": 9, "reason": "Spitzer ve Hubble birleşimi Orion bulutsusu canlı renkleri ve yıldız oluşum bölgesiyle sahnenin görsel ihtiyacını birebir karşılıyor.", "issues": []},
+{"scene_id": 17, "chosen": -1, "fit_score": 2, "reason": "Adaylar LRO uzay aracının hazırlık fotoğrafları, kalıcı gölgeli kraterlerin false-color haritası değil.", "issues": ["Kalıcı gölgeli bölgelerin haritası veya ay kutbu görüntüsü bulunamadı."]},
+{"scene_id": 18, "chosen": 3, "fit_score": 5, "reason": "Pluto'nun buzlu yüzeyini gösteren tek gerçek yüzey mozaiği, ancak gri tonlu ve sahnenin kremi-mavi renk paleti yok.", "issues": ["Görüntü siyah-beyaz, kremi ve mavi renk tonu yok.", "Pluto'nun atmosfer pusu görülmüyor."]},
+{"scene_id": 19, "chosen": -1, "fit_score": 2, "reason": "Tek aday ay yüzeyinin genel bir manzarası, LCROSS çarpmasını veya tüy görüntüsünü göstermiyor.", "issues": ["LCROSS çarpma veya plume görüntüsü bulunamadı."]},
+{"scene_id": 20, "chosen": -1, "fit_score": 1, "reason": "Tek aday bir mühendisin portresi, plume veya LCROSS roketi görüntüsü değil.", "issues": ["Uygun plume görseli bulunamadı."]},
+{"scene_id": 23, "chosen": 3, "fit_score": 8, "reason": "Helix bulutsusunun Spitzer kızılötesi görüntüsü, toz ve gaz katmanlarını canlı renklerle gösterip sahnenin gizemli havasına uyuyor.", "issues": []},
+{"scene_id": 24, "chosen": 0, "fit_score": 7, "reason": "67P kuyruklu yıldız çekirdeğinin Rosetta görüntüsü, sahnenin kuyruklu yıldız temasına uygun ve yüksek çözünürlüklü.", "issues": ["Görüntü gri tonlu, gaz jetleri görünmüyor."]},
+{"scene_id": 25, "chosen": -1, "fit_score": 4, "reason": "Tek aday düşük çözünürlüklü bir kraterin yan görünümü, sahnenin güneşli sırt ve alçak güneş ışığı ihtiyacını karşılamıyor.", "issues": ["Alçak güneşle aydınlanan sırt görüntüsü yok.", "Aday düşük çözünürlüklü ve gri tonlu."]},
+{"scene_id": 26, "chosen": 0, "fit_score": 8, "reason": "SDO AIA 171 görüntüsü, amber renkli Güneş yüzeyi ve kenardaki parlak protüberansları sahnenin istediği görsel dille örtüşüyor.", "issues": ["Sol alt köşede küçük zaman damgası metni var."]},
+{"scene_id": 27, "chosen": 3, "fit_score": 7, "reason": "IC 443 süpernova kalıntısı, sahnenin patlama renkleri ihtiyacını canlı kırmızı-yeşil-mavi tonlarıyla karşılıyor.", "issues": []}
+]}
