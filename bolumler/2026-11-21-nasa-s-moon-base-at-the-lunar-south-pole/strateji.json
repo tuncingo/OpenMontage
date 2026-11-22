@@ -1,59 +1,89 @@
 {
-  "titles": [
-    "Why Did NASA Pause Gateway for a Moon Base?",
-    "NASA Paused Gateway. No Moon Base Has Landed Yet",
-    "Moon Base Reality Check: What Is Real, What Is Paper",
-    "NASA Shelved a Moon Station. Here Is the Catch",
-    "The Moon Base Is a Schedule, Not a Building"
-  ],
-  "recommended_title": "Why Did NASA Pause Gateway for a Moon Base?",
-  "thumbnail": {
-    "headline": "Gateway Paused. Why?",
-    "concept": "Tek odak: Ay'ın güney kutbunda gölgede kalmış bir krater kenarı. Yukarıda, ince mor çizgilerle yarı silik bir 'hayalet' istasyon silüeti (Gateway) Ay yörüngesinde duruyor ve üzerinde küçük bir duraklat (pause) simgesi var. Aşağıda krater kenarında henüz boş bir iniş alanı, ufukta amber güneş ışığı. Sol yarıda gerçek NASA tarzı fotoğraf dokusu, sağ yarıda çizim/blueprint hissi: 'kağıt üzerinde' mesajı. Arka plan derin uzay lacivert (#0B1026), buz beyazı (#F2F5FF) Montserrat ExtraBold başlık, vurgu amber. Telefonda okunur, tek odak.",
-    "image_prompt": "Cinematic 16:9 view of the lunar south pole at a crater rim with long dramatic shadows, photorealistic grey regolith on the left fading into a faint blueprint wireframe on the right, an empty flat landing site in the foreground, a translucent ghostly space station silhouette in lunar orbit high in the sky with a small pause symbol glowing beside it, glowing amber sun on the horizon, deep navy space sky with violet nebula glow, strong single focal point, high contrast, no text, no letters"
+ "titles": [
+  "Why Did NASA Pause Gateway for a Moon Base?",
+  "NASA Paused Gateway. No Moon Base Has Landed Yet",
+  "Moon Base Reality Check: What Is Real, What Is Paper",
+  "NASA Shelved a Moon Station. Here Is the Catch",
+  "The Moon Base Is a Schedule, Not a Building"
+ ],
+ "recommended_title": "Why Did NASA Pause Gateway for a Moon Base?",
+ "thumbnail": {
+  "headline": "Gateway Paused. Why?",
+  "concept": "Tek odak: Ay'ın güney kutbunda gölgede kalmış bir krater kenarı. Yukarıda, ince mor çizgilerle yarı silik bir 'hayalet' istasyon silüeti (Gateway) Ay yörüngesinde duruyor ve üzerinde küçük bir duraklat (pause) simgesi var. Aşağıda krater kenarında henüz boş bir iniş alanı, ufukta amber güneş ışığı. Sol yarıda gerçek NASA tarzı fotoğraf dokusu, sağ yarıda çizim/blueprint hissi: 'kağıt üzerinde' mesajı. Arka plan derin uzay lacivert (#0B1026), buz beyazı (#F2F5FF) Montserrat ExtraBold başlık, vurgu amber. Telefonda okunur, tek odak.",
+  "image_prompt": "Cinematic 16:9 view of the lunar south pole at a crater rim with long dramatic shadows, photorealistic grey regolith on the left fading into a faint blueprint wireframe on the right, an empty flat landing site in the foreground, a translucent ghostly space station silhouette in lunar orbit high in the sky with a small pause symbol glowing beside it, glowing amber sun on the horizon, deep navy space sky with violet nebula glow, strong single focal point, high contrast, no text, no letters"
+ },
+ "description": "NASA says it is building a Moon Base. None of the Moon Base missions has landed yet, and the first three have slipped to 2027. To chase this base, the agency put its planned space station around the Moon, Gateway, on hold. So why did NASA pause Gateway, and what is real here versus still on paper?\n\nIn this episode: why Gateway is paused and not cancelled, NASA's three-phase plan (2029 and 2032 marks), the evidence for water ice at the lunar south pole and what we still do not know, the three commercial landers and the New Glenn setback, the nuclear-powered PROMISE rover, the MoonFall hopping drones, the 100 kilowatt reactor target, the doubted Artemis dates, and China's delayed Chang'e-7. Plus the open question: where did the ice come from?\n\nChapters\n00:00 Not one piece has landed yet\n00:24 Why NASA paused Gateway\n01:15 What \"base\" really means: three phases\n01:49 Why the south pole? Ice and light\n03:24 Three landers and the New Glenn setback\n04:12 PROMISE and MoonFall\n05:09 Power and the 100 kilowatt reactor\n05:49 Can the schedule hold?\n06:30 China, Chang'e-7 and the race\n07:26 What to watch next\n\nA note on certainty: the roughly 20 billion dollars over the first seven years (and about 30 billion over a decade for all three phases) comes from NASA's own planning documents, as reported by the Planetary Society and Astronomy. The Artemis dates are NASA's targets and may change, and experts question the reactor and Artemis timelines. The ice is well supported, but how much there is, in what form, and whether it can be mined is not settled. We flag this in the video. Status as of November 2026; dates may change.\n\nSources\nS1. https://www.nasa.gov/moonbase/\nS2. https://www.nasa.gov/moonbase-phases/\nS3. https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/\nS4. https://www.planetary.org/articles/water-on-the-moon-guide\nS5. https://www.theregister.com/2026/03/24/goodbye_lunar_gateway_nasa_ditches/\nS6. https://www.aol.com/news/experts-sound-off-trump-nasa-131201551.html\nS7. https://scientificamerican.com/article/china-delays-ambitious-change-7-moon-mission-until-2027\nS8. https://en.wikipedia.org/wiki/Lunar_south_pole\nS9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-nuclear-rover-to-the-lunar-south-pole/\nS10. https://www.nasa.gov/mission/promise/\nS11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/\nS12. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/\nS13. https://www.planetary.org/articles/ignition-new-nasa-initiatives\nS14. https://www.astronomy.com/space-exploration/nasas-30b-plan-to-build-a-moon-base/\nS15. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon\nS16. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846\nS17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans\nS18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/\nS19. https://globalnews.ca/news/11743891/moon-nasa-lunar-base/\n\nSubscribe to Rebel Minds: Cosmos. Next time: inside the dark craters, and where the ice came from.",
+ "tags": [
+  "NASA Moon Base",
+  "Gateway paused",
+  "why did NASA pause Gateway",
+  "lunar Gateway",
+  "lunar south pole",
+  "Moon water ice",
+  "Moon Base One",
+  "New Glenn explosion",
+  "PROMISE rover",
+  "MoonFall drones",
+  "Chang'e-7",
+  "Shackleton crater",
+  "lunar nuclear reactor",
+  "Artemis III",
+  "Artemis IV",
+  "Jared Isaacman",
+  "Moon exploration 2026",
+  "space news",
+  "Rebel Minds Cosmos"
+ ],
+ "chapters": [
+  {
+   "time_estimate": "00:00",
+   "title": "Not one piece has landed yet"
   },
-  "description": "NASA says it is building a Moon Base. None of the Moon Base missions has landed yet, and the first three have slipped to 2027. To chase this base, the agency put its planned space station around the Moon, Gateway, on hold. So why did NASA pause Gateway, and what is real here versus still on paper?\n\nIn this episode: why Gateway is paused and not cancelled, NASA's three-phase plan (2029 and 2032 marks), the evidence for water ice at the lunar south pole and what we still do not know, the three commercial landers and the New Glenn setback, the nuclear-powered PROMISE rover, the MoonFall hopping drones, the 100 kilowatt reactor target, the doubted Artemis dates, and China's delayed Chang'e-7. Plus the open question: where did the ice come from?\n\nChapters\n00:00 Not one piece has landed yet\n00:26 Why NASA paused Gateway\n01:14 What \"base\" really means: three phases\n01:44 Why the south pole? Ice and light\n03:17 Three landers and the New Glenn setback\n04:02 PROMISE and MoonFall\n04:56 Power and the 100 kilowatt reactor\n05:30 Can the schedule hold?\n06:10 China, Chang'e-7 and the race\n07:03 What to watch next\n\nA note on certainty: the cost figures (about 20 billion dollars over seven years, about 30 billion over a decade) and the Artemis dates come from press and trade reporting, and experts question the reactor and Artemis timelines. The ice is well supported, but how much there is, in what form, and whether it can be mined is not settled. We flag this in the video. Status as of November 2026; dates may change.\n\nSources\nS1. https://www.nasa.gov/moonbase/\nS2. https://www.nasa.gov/moonbase-phases/\nS3. https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/\nS4. https://www.planetary.org/articles/water-on-the-moon-guide\nS5. https://www.theregister.com/2026/03/24/goodbye_lunar_gateway_nasa_ditches/\nS6. https://www.aol.com/news/experts-sound-off-trump-nasa-131201551.html\nS7. https://scientificamerican.com/article/china-delays-ambitious-change-7-moon-mission-until-2027\nS8. https://en.wikipedia.org/wiki/Lunar_south_pole\nS9. https://www.rdworldonline.com/nasas-moon-base-push-will-send-a-spare-parts-nuclear-rover-to-the-lunar-south-pole/\nS10. https://www.nasa.gov/mission/promise/\nS11. https://aerospaceamerica.aiaa.org/nasa-expects-one-lunar-launch-this-year-moon-base-manager-says/\nS12. https://www.theregister.com/2026/03/25/nasa_gateway_opinion/\nS13. https://www.planetary.org/articles/ignition-new-nasa-initiatives\nS14. https://www.astronomy.com/space-exploration/nasas-30b-plan-to-build-a-moon-base/\nS15. https://www.space.com/space-exploration/artemis/nasa-is-overhauling-its-artemis-program-what-does-that-mean-for-humanitys-return-to-the-moon\nS16. https://theregister.com/offbeat/2026/03/02/fly-me-to-the-moon-nasa-reshuffles-the-artemis-card-deck/4586846\nS17. https://www.space.com/space-exploration/launches-spacecraft/a-pretty-significant-setback-how-blue-origins-rocket-explosion-affects-nasas-moon-plans\nS18. https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/\n\nSubscribe to Rebel Minds: Cosmos. Next time: inside the dark craters, and where the ice came from.",
-  "tags": [
-    "NASA Moon Base",
-    "Gateway paused",
-    "why did NASA pause Gateway",
-    "lunar Gateway",
-    "lunar south pole",
-    "Moon water ice",
-    "Moon Base One",
-    "New Glenn explosion",
-    "PROMISE rover",
-    "MoonFall drones",
-    "Chang'e-7",
-    "Shackleton crater",
-    "lunar nuclear reactor",
-    "Artemis III",
-    "Artemis IV",
-    "Jared Isaacman",
-    "Moon exploration 2026",
-    "space news",
-    "Rebel Minds Cosmos"
-  ],
-  "chapters": [
-    {"time_estimate": "00:00", "title": "Not one piece has landed yet"},
-    {"time_estimate": "00:26", "title": "Why NASA paused Gateway"},
-    {"time_estimate": "01:14", "title": "What \"base\" really means: three phases"},
-    {"time_estimate": "01:44", "title": "Why the south pole? Ice and light"},
-    {"time_estimate": "03:17", "title": "Three landers and the New Glenn setback"},
-    {"time_estimate": "04:02", "title": "PROMISE and MoonFall"},
-    {"time_estimate": "04:56", "title": "Power and the 100 kilowatt reactor"},
-    {"time_estimate": "05:30", "title": "Can the schedule hold?"},
-    {"time_estimate": "06:10", "title": "China, Chang'e-7 and the race"},
-    {"time_estimate": "07:03", "title": "What to watch next"}
-  ],
-  "originality": {
-    "score": 7,
-    "risk": "low",
-    "similar_to": [
-      "Ep3 - Where did the Moon come from? (aynı gök cismi, tamamen farklı konu ve yapı)",
-      "Tipik 'NASA Moon base explained' / 'Artemis update' haber özeti videoları"
-    ],
-    "notes": "Önceki bölümlerden belirgin biçimde ayrışıyor: Ep1 yıldızlararası cisimler, Ep2 Mars biyoimzası, Ep3 Ay'ın kökeni; bu bölüm program ve zamanlama analizi (Ep4 listede bu bölümün kendisi, kendisiyle kıyaslanmadı). Toplu üretilen uzay videolarından farkı: her olgusal cümlede kaynak atfı (18 kaynak), belirsizliklerin açıkça işaretlenmesi (buzun miktarı, maliyet, Artemis ve reaktör takvimi), 'plan mı, slayttaki söz mü' çerçevesi, Gateway'in 'iptal değil, duraklatıldı' ayrımı, buzun varlığı ile çıkarılabilirliği arasındaki fark ve açık döngü (buzun kökeni, bir sonraki bölümde ödenecek). Dikkat: arama yapılmadı, kalabalıklık değerlendirmesi bilgiye dayalı. Konu kalabalık ve haber odaklı; metin hâlâ NASA bültenleri ve basın haberlerinin derlemesine yaklaşabilir. Özgünlüğü korumak için: kendi yorumumuzu öne çıkarın (reaktör neden şart, MoonFall neden zıplıyor, 'base bir yer değil bir dizi'), takvim/zaman çizelgesi grafiği ve kaynak karşılaştırması gibi özgün görsel katmanlar kullanın, sahneleri çeşitlendirin, hazır stok/şablon görünümünden kaçının. Uzun vadede hook, kanıt sayacı, kapanış kalıbını bölümler arasında biraz değiştirin. Haber güncelliği riski: tarihler hızla eskiyebilir, açıklamada 'Kasım 2026 itibarıyla' notu var."
+  {
+   "time_estimate": "00:24",
+   "title": "Why NASA paused Gateway"
   },
-  "posting_notes": "YAYIN ZAMANI (güncellendi: bugün Pazar 22 Kasım 2026, video 8:42)\nÖneri: bugün 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Senin önerdiğin 22:00 TR (14:00 ET / 11:00 PT / 19:00 UK) de makul; fark küçük, ikisinden biri olur. Gerekçe: (1) Genel rehberlerin çoğu ABD için öğleden sonra 14:00-16:00 ET civarını varsayılan sayıyor ve videoyu zirveden 1-2 saat önce yayınlamayı öneriyor ki YouTube dizinlesin ve ilk tıklamalar gelsin; 13:00 ET bunu sağlıyor. (2) 21:00 TR, Batı Kıyısı için sabah 10:00 olduğundan PT izleyicisini de kaçırmıyor, UK için 18:00 pazar akşamı. (3) Pazar akşamı ABD'de izleme sürer ve Pazartesi'ye taşar. VARSAYIMLAR: Kanalın kendi verisi yok; kaynaklar birbiriyle çelişiyor (bazıları hafta sonunu zayıf, bazıları Pazar'ı iyi buluyor; büyük veri setleri genelde Çar-Cum öğleden sonrasını öne çıkarıyor). Yani 'en iyi saat' kanıtlı değil, makul varsayım. Hafta ortasına kaydırmak mantıklı değil: Şükran Günü haftası (Per 26 Kasım) Çarşamba seyahat, Perşembe aile günü, dikkat dağınık olur; bugün yayınlamak güncellik ve yeni haber döngüsü için daha iyi. Gece yarısına yakın bir saat gerekmiyor, 21:00 TR sana zor değil; yine de YouTube Studio'da 'Schedule' ile zamanla (Visibility > Schedule), saat dilimini kontrol et (Studio, tarayıcının saat dilimini kullanır: Europe/Istanbul seçili görünmeli). Ayrıca yüklemeyi birkaç saat önce yapıp gizli/zamanlanmış bırak ki işleme (HD) bitmiş olsun. İlk 24-48 saat Studio'da Tıklanma oranı ve Ortalama izlenme süresine bak, ABD payını Audience sekmesinde kontrol et; veri gelince saati ona göre ayarla.\n\nAÇIKLAMA/BÖLÜM DÜZELTMELERİ (yapıştırmadan önce, bunlar bu alanın dışında, strateji.json'daki chapters ve description alanlarını ayrıca güncellemek gerekir): açıklamadaki bölüm zamanları eski tahmin. Gerçek altyazıya göre doğru liste: 00:00 Not one piece has landed yet / 00:24 Why NASA paused Gateway / 01:15 What \"base\" really means: three phases / 01:49 Why the south pole? Ice and light / 03:24 Three landers and the New Glenn setback / 04:12 PROMISE and MoonFall / 05:09 Power and the 100 kilowatt reactor / 05:49 Can the schedule hold? / 06:30 China, Chang'e-7 and the race / 07:26 What to watch next. Ayrıca açıklamadaki 'cost figures come from press and trade reporting' cümlesi eski: 20 milyar dolar rakamı NASA'nın kendi planlama belgelerinden geliyor (Planetary Society ve Astronomy aktarıyor); yalnızca Artemis tarihleri NASA'nın HEDEFLERİ olarak belirtilmeli.\n\nSABİT YORUM (video yayına girince yaz ve sabitle, İngilizce):\n'No Moon Base mission has landed yet, and the first three have slipped to 2027. NASA paused Gateway to focus on the surface. Do you think that is the right bet? And where did the Moon's ice come from: comets, asteroids, the solar wind, or Earth? We dig into that next time. Sources are in the description. The roughly $20 billion over the first seven years comes from NASA's own planning documents (as reported by the Planetary Society and Astronomy). The Artemis III and IV dates are NASA targets and may change. If something new breaks, I will note it here.'\n\nSHORTS TAKVİMİ (Şükran Günü haftası: Çarşamba ve Perşembe atlanıyor, Cuma Black Friday'de insanlar evde ve çevrimiçi; bu da varsayım). Saatler: TR / ET, ayrıca PT / UK.\n- Short 1: Pazartesi 23 Kasım, 22:00 TR / 14:00 ET (11:00 PT, 19:00 UK).\n- Short 2: Salı 24 Kasım, 22:00 TR / 14:00 ET (11:00 PT, 19:00 UK).\n- Short 3: Cuma 27 Kasım (Black Friday), 21:00 TR / 13:00 ET (10:00 PT, 18:00 UK).\nSırayı koru: kanca ve Gateway, sonra buz, sonra makineler; her biri tam bölüme çekmeli. Şükran Günü Perşembe'si hiçbir şey yayınlama.\n\nKESİM NOKTALARI (subtitles_en.srt'ye göre, hepsi cümle sonunda biter):\n1) 00:00.000 - 00:57.770 (~58 sn). Başlık: 'NASA Paused Its Moon Station. No Moon Base Has Landed Yet'. İçerik: kanca, Gateway duraklatıldı ama iptal değil, çaba kutup buzuna iniyor. Kapanış (ekranda ve açıklamada): 'Full story, and what is real versus still on paper, in the full episode: link in the description and pinned comment.'\n2) 01:52.580 - 02:52.840 (~60 sn). Başlık: 'Colder Than Pluto: The Ice That Survives in the Dark'. İçerik: kalıcı gölgeli kraterler, LCROSS, buzun varlığı sağlam ama miktarı belirsiz, göl değil toprağa karışık buz. Kapanış: 'Where did that ice come from? Nobody has settled it. Full episode on the channel, link below.'\n3) 04:12.020 - 04:56.180 (~44 sn). Başlık: 'A Nuclear Rover and Hopping Drones: The Strangest Moon Machines'. İçerik: PROMISE (altı tekerlekli, nükleer kaynaklı, ~1 m delme, 18 ay) ve MoonFall (4 zıplayan JPL dronu). Kapanış: 'The full Moon Base reality check is on the channel: link in the description.'\nKısa videoda 'Short 3' için hedef tarih ifadelerinin (late 2028, 2028) NASA hedefi olduğunu söylemeyi unutma; metinde zaten hedef olarak geçiyor. Short açıklamalarına tam bölümün linkini koy ve her Short'tan tam bölümü 'Related video' olarak bağla."
+  {
+   "time_estimate": "01:15",
+   "title": "What \"base\" really means: three phases"
+  },
+  {
+   "time_estimate": "01:49",
+   "title": "Why the south pole? Ice and light"
+  },
+  {
+   "time_estimate": "03:24",
+   "title": "Three landers and the New Glenn setback"
+  },
+  {
+   "time_estimate": "04:12",
+   "title": "PROMISE and MoonFall"
+  },
+  {
+   "time_estimate": "05:09",
+   "title": "Power and the 100 kilowatt reactor"
+  },
+  {
+   "time_estimate": "05:49",
+   "title": "Can the schedule hold?"
+  },
+  {
+   "time_estimate": "06:30",
+   "title": "China, Chang'e-7 and the race"
+  },
+  {
+   "time_estimate": "07:26",
+   "title": "What to watch next"
+  }
+ ],
+ "originality": {
+  "score": 7,
+  "risk": "low",
+  "similar_to": [
+   "Ep3 - Where did the Moon come from? (aynı gök cismi, tamamen farklı konu ve yapı)",
+   "Tipik 'NASA Moon base explained' / 'Artemis update' haber özeti videoları"
+  ],
+  "notes": "Önceki bölümlerden belirgin biçimde ayrışıyor: Ep1 yıldızlararası cisimler, Ep2 Mars biyoimzası, Ep3 Ay'ın kökeni; bu bölüm program ve zamanlama analizi (Ep4 listede bu bölümün kendisi, kendisiyle kıyaslanmadı). Toplu üretilen uzay videolarından farkı: her olgusal cümlede kaynak atfı (18 kaynak), belirsizliklerin açıkça işaretlenmesi (buzun miktarı, maliyet, Artemis ve reaktör takvimi), 'plan mı, slayttaki söz mü' çerçevesi, Gateway'in 'iptal değil, duraklatıldı' ayrımı, buzun varlığı ile çıkarılabilirliği arasındaki fark ve açık döngü (buzun kökeni, bir sonraki bölümde ödenecek). Dikkat: arama yapılmadı, kalabalıklık değerlendirmesi bilgiye dayalı. Konu kalabalık ve haber odaklı; metin hâlâ NASA bültenleri ve basın haberlerinin derlemesine yaklaşabilir. Özgünlüğü korumak için: kendi yorumumuzu öne çıkarın (reaktör neden şart, MoonFall neden zıplıyor, 'base bir yer değil bir dizi'), takvim/zaman çizelgesi grafiği ve kaynak karşılaştırması gibi özgün görsel katmanlar kullanın, sahneleri çeşitlendirin, hazır stok/şablon görünümünden kaçının. Uzun vadede hook, kanıt sayacı, kapanış kalıbını bölümler arasında biraz değiştirin. Haber güncelliği riski: tarihler hızla eskiyebilir, açıklamada 'Kasım 2026 itibarıyla' notu var."
+ },
+ "posting_notes": "YAYIN ZAMANI (güncellendi: bugün Pazar 22 Kasım 2026, video 8:42)\nÖneri: bugün 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Senin önerdiğin 22:00 TR (14:00 ET / 11:00 PT / 19:00 UK) de makul; fark küçük, ikisinden biri olur. Gerekçe: (1) Genel rehberlerin çoğu ABD için öğleden sonra 14:00-16:00 ET civarını varsayılan sayıyor ve videoyu zirveden 1-2 saat önce yayınlamayı öneriyor ki YouTube dizinlesin ve ilk tıklamalar gelsin; 13:00 ET bunu sağlıyor. (2) 21:00 TR, Batı Kıyısı için sabah 10:00 olduğundan PT izleyicisini de kaçırmıyor, UK için 18:00 pazar akşamı. (3) Pazar akşamı ABD'de izleme sürer ve Pazartesi'ye taşar. VARSAYIMLAR: Kanalın kendi verisi yok; kaynaklar birbiriyle çelişiyor (bazıları hafta sonunu zayıf, bazıları Pazar'ı iyi buluyor; büyük veri setleri genelde Çar-Cum öğleden sonrasını öne çıkarıyor). Yani 'en iyi saat' kanıtlı değil, makul varsayım. Hafta ortasına kaydırmak mantıklı değil: Şükran Günü haftası (Per 26 Kasım) Çarşamba seyahat, Perşembe aile günü, dikkat dağınık olur; bugün yayınlamak güncellik ve yeni haber döngüsü için daha iyi. Gece yarısına yakın bir saat gerekmiyor, 21:00 TR sana zor değil; yine de YouTube Studio'da 'Schedule' ile zamanla (Visibility > Schedule), saat dilimini kontrol et (Studio, tarayıcının saat dilimini kullanır: Europe/Istanbul seçili görünmeli). Ayrıca yüklemeyi birkaç saat önce yapıp gizli/zamanlanmış bırak ki işleme (HD) bitmiş olsun. İlk 24-48 saat Studio'da Tıklanma oranı ve Ortalama izlenme süresine bak, ABD payını Audience sekmesinde kontrol et; veri gelince saati ona göre ayarla.\n\nAÇIKLAMA/BÖLÜM DÜZELTMELERİ (yapıştırmadan önce, bunlar bu alanın dışında, strateji.json'daki chapters ve description alanlarını ayrıca güncellemek gerekir): açıklamadaki bölüm zamanları eski tahmin. Gerçek altyazıya göre doğru liste: 00:00 Not one piece has landed yet / 00:24 Why NASA paused Gateway / 01:15 What \"base\" really means: three phases / 01:49 Why the south pole? Ice and light / 03:24 Three landers and the New Glenn setback / 04:12 PROMISE and MoonFall / 05:09 Power and the 100 kilowatt reactor / 05:49 Can the schedule hold? / 06:30 China, Chang'e-7 and the race / 07:26 What to watch next. Ayrıca açıklamadaki 'cost figures come from press and trade reporting' cümlesi eski: 20 milyar dolar rakamı NASA'nın kendi planlama belgelerinden geliyor (Planetary Society ve Astronomy aktarıyor); yalnızca Artemis tarihleri NASA'nın HEDEFLERİ olarak belirtilmeli.\n\nSABİT YORUM (video yayına girince yaz ve sabitle, İngilizce):\n'No Moon Base mission has landed yet, and the first three have slipped to 2027. NASA paused Gateway to focus on the surface. Do you think that is the right bet? And where did the Moon's ice come from: comets, asteroids, the solar wind, or Earth? We dig into that next time. Sources are in the description. The roughly $20 billion over the first seven years comes from NASA's own planning documents (as reported by the Planetary Society and Astronomy). The Artemis III and IV dates are NASA targets and may change. If something new breaks, I will note it here.'\n\nSHORTS TAKVİMİ (Şükran Günü haftası: Çarşamba ve Perşembe atlanıyor, Cuma Black Friday'de insanlar evde ve çevrimiçi; bu da varsayım). Saatler: TR / ET, ayrıca PT / UK.\n- Short 1: Pazartesi 23 Kasım, 22:00 TR / 14:00 ET (11:00 PT, 19:00 UK).\n- Short 2: Salı 24 Kasım, 22:00 TR / 14:00 ET (11:00 PT, 19:00 UK).\n- Short 3: Cuma 27 Kasım (Black Friday), 21:00 TR / 13:00 ET (10:00 PT, 18:00 UK).\nSırayı koru: kanca ve Gateway, sonra buz, sonra makineler; her biri tam bölüme çekmeli. Şükran Günü Perşembe'si hiçbir şey yayınlama.\n\nKESİM NOKTALARI (subtitles_en.srt'ye göre, hepsi cümle sonunda biter):\n1) 00:00.000 - 00:57.770 (~58 sn). Başlık: 'NASA Paused Its Moon Station. No Moon Base Has Landed Yet'. İçerik: kanca, Gateway duraklatıldı ama iptal değil, çaba kutup buzuna iniyor. Kapanış (ekranda ve açıklamada): 'Full story, and what is real versus still on paper, in the full episode: link in the description and pinned comment.'\n2) 01:52.580 - 02:52.840 (~60 sn). Başlık: 'Colder Than Pluto: The Ice That Survives in the Dark'. İçerik: kalıcı gölgeli kraterler, LCROSS, buzun varlığı sağlam ama miktarı belirsiz, göl değil toprağa karışık buz. Kapanış: 'Where did that ice come from? Nobody has settled it. Full episode on the channel, link below.'\n3) 04:12.020 - 04:56.180 (~44 sn). Başlık: 'A Nuclear Rover and Hopping Drones: The Strangest Moon Machines'. İçerik: PROMISE (altı tekerlekli, nükleer kaynaklı, ~1 m delme, 18 ay) ve MoonFall (4 zıplayan JPL dronu). Kapanış: 'The full Moon Base reality check is on the channel: link in the description.'\nKısa videoda 'Short 3' için hedef tarih ifadelerinin (late 2028, 2028) NASA hedefi olduğunu söylemeyi unutma; metinde zaten hedef olarak geçiyor. Short açıklamalarına tam bölümün linkini koy ve her Short'tan tam bölümü 'Related video' olarak bağla."
 }
