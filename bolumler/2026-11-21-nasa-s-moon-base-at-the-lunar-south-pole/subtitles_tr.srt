@@ -1,0 +1,646 @@
+1
+00:00:00,000 --> 00:00:02,920
+NASA, Ay'da bir üs kurduğunu söylüyor.
+
+2
+00:00:03,280 --> 00:00:06,180
+Moon Base görevlerinden
+hiçbiri henüz inmedi.
+
+3
+00:00:08,030 --> 00:00:10,930
+İlk üçü 2027'ye kaydı.
+
+4
+00:00:11,350 --> 00:00:12,850
+Üstelik bu üs uğruna,
+
+5
+00:00:13,170 --> 00:00:17,410
+ajans Ay çevresindeki kendi
+uzay istasyonunu askıya aldı.
+
+6
+00:00:17,750 --> 00:00:19,870
+Peki NASA neden Gateway'i durdurdu?
+
+7
+00:00:20,270 --> 00:00:23,010
+Burada gerçek olan ne,
+hâlâ kâğıt üzerinde kalan ne?
+
+8
+00:00:24,390 --> 00:00:30,370
+Mart 2026'da NASA
+Yöneticisi Jared Isaacman
+
+9
+00:00:30,410 --> 00:00:33,330
+Ay yörüngesinde planlanan
+karakol Gateway'i durdurdu.
+
+10
+00:00:33,730 --> 00:00:35,570
+Duraklatma süresiz.
+
+11
+00:00:35,830 --> 00:00:39,170
+Amaç, yüzeydeki bir üsse odaklanmaktı.
+
+12
+00:00:40,410 --> 00:00:42,190
+'Askıya alındı' sözüne dikkat.
+
+13
+00:00:42,690 --> 00:00:47,210
+NASA, Gateway'in iptal edilmediğini
+söylüyor; donanım yeniden kullanılabilir.
+
+14
+00:00:47,550 --> 00:00:50,190
+Ama donanımın büyük
+kısmı çoktan üretilmişti,
+
+15
+00:00:50,370 --> 00:00:52,270
+ve yeniden kullanmak kolay değil.
+
+16
+00:00:53,250 --> 00:00:56,310
+Çaba yörüngeden yere iniyor,
+
+17
+00:00:56,550 --> 00:00:57,770
+kutup buzunun yakınına.
+
+18
+00:00:59,520 --> 00:01:04,500
+Avrupa, Japonya ve Kanada gibi
+ortakların kaderi hâlâ belirsiz.
+
+19
+00:01:05,020 --> 00:01:09,640
+Maliyet, ilk yedi yılda
+yaklaşık 20 milyar dolar,
+
+20
+00:01:09,860 --> 00:01:14,120
+on yılda, üç aşamanın tamamı için
+ise yaklaşık 30 milyar dolar.
+
+21
+00:01:15,040 --> 00:01:16,160
+Şimdi: 'üs' kelimesi.
+
+22
+00:01:16,200 --> 00:01:18,480
+Kubbe altında bir şehir düşünün.
+
+23
+00:01:18,740 --> 00:01:21,820
+NASA'nın anlattığı bu değil,
+en azından henüz değil.
+
+24
+00:01:22,520 --> 00:01:24,240
+Üç aşama var.
+
+25
+00:01:24,600 --> 00:01:30,180
+Birinci Aşama, bugünden 2029'a:
+robotlar, teknoloji gösterileri, keşif.
+
+26
+00:01:30,640 --> 00:01:36,260
+İkinci Aşama, 2029'dan
+2032'ye: erken enerji,
+
+27
+00:01:36,480 --> 00:01:37,960
+kargo ve haberleşme ekliyor.
+
+28
+00:01:38,720 --> 00:01:44,340
+Kalıcı karakol ve yaşam alanları yalnızca
+Üçüncü Aşama'da, 2032'den itibaren.
+
+29
+00:01:44,840 --> 00:01:48,560
+Yani bugün Moon Base, robotik
+görevlerden oluşan bir takvim.
+
+30
+00:01:49,000 --> 00:01:52,320
+Bir bina değil. Peki neden güney kutbu?
+
+31
+00:01:52,580 --> 00:01:54,400
+Ay'da bunca yer varken?
+
+32
+00:01:54,680 --> 00:01:56,380
+İlk neden su.
+
+33
+00:01:57,640 --> 00:02:00,780
+Kutup kraterlerinin bazı
+kısımları hiç güneş görmez.
+
+34
+00:02:01,240 --> 00:02:04,720
+Sıcaklık yaklaşık −250
+°C'ye kadar düşebilir.
+
+35
+00:02:05,920 --> 00:02:08,060
+Bu, Plüton'un yüzeyinden bile daha soğuk.
+
+36
+00:02:08,540 --> 00:02:12,860
+O soğukta su buzu çok
+uzun süre dayanabilir.
+
+37
+00:02:13,640 --> 00:02:18,320
+2009'da NASA'nın LCROSS aracı
+Cabeus kraterine çarptı,
+
+38
+00:02:18,360 --> 00:02:22,400
+güney kutbuna yakın; yükselen
+bulut su buzunu doğruladı.
+
+39
+00:02:23,000 --> 00:02:26,300
+Yaklaşık 155 kilogram su vardı.
+
+40
+00:02:26,680 --> 00:02:29,040
+Ama bu, bulutun bize
+gösterebildiği kadarı.
+
+41
+00:02:29,320 --> 00:02:30,580
+Toplam miktar değil.
+
+42
+00:02:31,920 --> 00:02:35,560
+Chandrayaan-3 yüksek
+enlemlerde sıcaklık ölçtü,
+
+43
+00:02:35,880 --> 00:02:38,360
+ama buzu doğrudan tespit etmedi.
+
+44
+00:02:38,640 --> 00:02:41,600
+Yani buzun var olduğuna dair kanıt sağlam.
+
+45
+00:02:41,960 --> 00:02:45,460
+İnce olan, ne kadar olduğu,
+hangi biçimde olduğu
+
+46
+00:02:45,500 --> 00:02:47,600
+ve birinin onu çıkarıp çıkaramayacağı.
+
+47
+00:02:50,100 --> 00:02:52,840
+Üstelik bu, göller değil,
+toprağa karışmış buz.
+
+48
+00:02:53,120 --> 00:02:55,200
+Kapatamadığım bir döngü de var.
+
+49
+00:02:55,720 --> 00:02:56,720
+Bu buz nereden geldi?
+
+50
+00:02:59,080 --> 00:03:02,280
+Kuyruklu yıldızlar, asteroitler,
+güneş rüzgârı, hatta Dünya.
+
+51
+00:03:02,760 --> 00:03:04,740
+Bilim insanları bunu henüz çözemedi.
+
+52
+00:03:05,060 --> 00:03:06,540
+Bu soruyu aklınızda tutun.
+
+53
+00:03:06,980 --> 00:03:08,820
+Kutbun ikinci bir nedeni daha var.
+
+54
+00:03:09,160 --> 00:03:12,380
+Işık. Güneşsiz kutup fikri yanlış.
+
+55
+00:03:13,540 --> 00:03:16,740
+Oradaki bazı sırtlar neredeyse
+sürekli güneş alıyor,
+
+56
+00:03:17,040 --> 00:03:19,120
+gölgedeki kraterler
+ise hemen yakınlarında.
+
+57
+00:03:19,720 --> 00:03:22,120
+Enerji için güneş, karanlıkta buz.
+
+58
+00:03:22,180 --> 00:03:24,160
+Birbirine yakın. Teklif bu.
+
+59
+00:03:24,600 --> 00:03:26,320
+Peki asıl kim gidiyor?
+
+60
+00:03:26,620 --> 00:03:28,060
+NASA görevleri numaralandırıyor.
+
+61
+00:03:28,680 --> 00:03:34,120
+Moon Base I, Shackleton Bağlantı Sırtı'nı
+hedefleyen Blue Origin iniş aracı.
+
+62
+00:03:34,660 --> 00:03:37,440
+Moon Base II, bir Astrobotic iniş aracı,
+
+63
+00:03:37,540 --> 00:03:41,020
+Moon Base III ise Intuitive
+Machines'in iniş aracı.
+
+64
+00:03:41,060 --> 00:03:45,500
+NASA, her makineyi kendisi
+yapmıyor; yolculuk satın alıyor.
+
+65
+00:03:46,140 --> 00:03:47,960
+O yolculuklar kaydı.
+
+66
+00:03:48,480 --> 00:03:51,160
+28 Mayıs 2026'da
+
+67
+00:03:51,560 --> 00:03:56,260
+New Glenn, fırlatmaya hazırlanırken
+yapılan statik ateşleme testinde patladı.
+
+68
+00:03:56,660 --> 00:04:01,120
+Bu patlama, Blue Origin'in
+iniş aracı Moon Base I'i
+
+69
+00:04:01,180 --> 00:04:03,880
+2027'nin ilk dönemine erteledi.
+
+70
+00:04:04,260 --> 00:04:09,860
+Moon Base III de ertelendi:
+2027'nin ilk çeyreğine,
+
+71
+00:04:10,120 --> 00:04:11,520
+üreticisine göre.
+
+72
+00:04:12,020 --> 00:04:13,620
+İnişlerden sonra ne geliyor?
+
+73
+00:04:13,820 --> 00:04:15,200
+İki tuhaf makine.
+
+74
+00:04:16,620 --> 00:04:21,300
+Önce PROMISE: nükleer kaynakla
+çalışan altı tekerlekli bir gezici.
+
+75
+00:04:21,940 --> 00:04:25,360
+Yaklaşık bir metre derine
+inen bir matkap taşıyor
+
+76
+00:04:25,520 --> 00:04:28,700
+ve 18 aylık bir görev için tasarlandı.
+
+77
+00:04:29,440 --> 00:04:34,620
+Blue Origin, onu teslim etmek için
+94 milyon dolarlık sözleşme kazandı,
+
+78
+00:04:34,760 --> 00:04:37,180
+140 milyon dolarlık bir opsiyonla
+
+79
+00:04:38,040 --> 00:04:39,820
+ve hedef 2028'in sonu.
+
+80
+00:04:41,320 --> 00:04:45,240
+Sonra MoonFall:
+JPL'den dört zıplayan dron,
+
+81
+00:04:45,520 --> 00:04:48,820
+2028 için planlanıyor. Tekerlek yok.
+
+82
+00:04:49,340 --> 00:04:52,420
+Sıçrama var. Görevleri
+iniş yerlerini haritalamak,
+
+83
+00:04:52,460 --> 00:04:56,180
+yaklaşık 14 Dünya günü
+süren bir Ay gününde uçarak.
+
+84
+00:04:56,630 --> 00:04:59,420
+Sonra bir üs gibi
+hissettiren kısım geliyor.
+
+85
+00:04:59,900 --> 00:05:03,100
+Japonya'nın uzay ajansından
+basınçlı bir gezici.
+
+86
+00:05:03,720 --> 00:05:06,660
+Ekiplerin giysisiz
+çalıştığı mobil laboratuvar,
+
+87
+00:05:06,700 --> 00:05:09,240
+28 güne kadar süren görevler için.
+
+88
+00:05:09,580 --> 00:05:11,200
+Buradan enerjiye geliyoruz.
+
+89
+00:05:12,500 --> 00:05:15,880
+Bir Ay günü yaklaşık 14
+Dünya günü güneş ışığı,
+
+90
+00:05:16,140 --> 00:05:17,660
+ardından 14 gün gece demek.
+
+91
+00:05:18,540 --> 00:05:22,620
+Kutup sırtları bir istisna:
+neredeyse sürekli güneş var.
+
+92
+00:05:23,100 --> 00:05:25,880
+Ama krater tabanları hiç ışık görmez.
+
+93
+00:05:26,240 --> 00:05:28,920
+Karanlıkta enerji sağlamak asıl zor sorun.
+
+94
+00:05:29,640 --> 00:05:33,240
+NASA, yüzeyde yaklaşık 100
+
+95
+00:05:33,280 --> 00:05:36,980
+kilovatlık bir fisyon reaktörünü
+2030 civarında hedefliyor.
+
+96
+00:05:37,720 --> 00:05:40,620
+Uzmanlar boyuttan çok takvimden şüpheli.
+
+97
+00:05:41,180 --> 00:05:45,560
+2030'a kadar çalışan bir yüzey
+reaktörü zorlu bir tırmanış.
+
+98
+00:05:46,060 --> 00:05:49,200
+Hikâyenin merkezindeki dürüst gerilim bu.
+
+99
+00:05:49,500 --> 00:05:50,940
+Takvim tutacak mı?
+
+100
+00:05:52,920 --> 00:05:59,160
+NASA, Artemis III'ü Dünya yörüngesinde
+2027 iniş aracı testi olarak,
+
+101
+00:05:59,420 --> 00:06:02,440
+Artemis IV'ü ise ilk mürettebatlı
+iniş olarak hedefliyor,
+
+102
+00:06:02,800 --> 00:06:04,860
+2028'in başında.
+
+103
+00:06:05,320 --> 00:06:10,220
+Uzmanlar 2027 ve 2028
+tarihlerinden şüpheli.
+
+104
+00:06:10,820 --> 00:06:13,940
+Mürettebatlı Artemis iniş
+aracının geliştirilmesi sürüyor.
+
+105
+00:06:14,400 --> 00:06:17,880
+Kutupta dik yamaçlar,
+sırtlar ve derin kraterler var.
+
+106
+00:06:18,260 --> 00:06:20,300
+Bir de toz ve aşırı soğuk.
+
+107
+00:06:20,620 --> 00:06:23,320
+Kusursuz bir iniş bile
+henüz madencilik değil.
+
+108
+00:06:23,760 --> 00:06:25,580
+İşte asi soru şu:
+
+109
+00:06:25,900 --> 00:06:29,180
+Moon Base bir plan mı,
+yoksa slayttaki bir söz mü?
+
+110
+00:06:30,560 --> 00:06:34,580
+Şimdi yarış. Çin de
+güney kutbunu hedefliyor.
+
+111
+00:06:35,720 --> 00:06:40,180
+Shackleton yakınında su buzu aramak
+için yapılan Chang'e-7 görevi
+
+112
+00:06:40,540 --> 00:06:44,000
+Ağustos'ta 2027'ye ertelendi.
+
+113
+00:06:44,400 --> 00:06:48,300
+Çin, 2030 civarında
+mürettebatlı bir iniş planlıyor.
+
+114
+00:06:48,940 --> 00:06:52,460
+Ayrıca Rusya ile bir Ay
+araştırma istasyonu planlıyor,
+
+115
+00:06:52,680 --> 00:06:55,520
+inşaat yaklaşık 2031'den itibaren.
+
+116
+00:06:56,240 --> 00:06:58,680
+Bu tarihler iki taraf için de kesin değil.
+
+117
+00:06:58,900 --> 00:07:00,860
+Yani bu temiz bir sprint değil.
+
+118
+00:07:01,960 --> 00:07:05,160
+İki program, ikisinin de takvimi kayıyor,
+
+119
+00:07:05,260 --> 00:07:07,340
+ikisi de Shackleton bölgesine göz dikmiş.
+
+120
+00:07:07,780 --> 00:07:11,100
+Bu hem hız hem de ihtiyat için bir neden.
+
+121
+00:07:11,500 --> 00:07:17,120
+NASA öğrencileri de davet ediyor:
+1 milyon dolarlık Moon Base Yarışması.
+
+122
+00:07:17,700 --> 00:07:19,520
+Bir üs uzun soluklu bir proje.
+
+123
+00:07:20,060 --> 00:07:26,100
+Üçüncü Aşama, 2032 ve sonrası,
+şu an okulda olanlara ait.
+
+124
+00:07:26,480 --> 00:07:28,200
+O hâlde açılışa dönelim.
+
+125
+00:07:28,580 --> 00:07:30,840
+NASA neden kendi istasyonunu durdurdu?
+
+126
+00:07:32,120 --> 00:07:34,320
+Çünkü üs bir yer değil.
+
+127
+00:07:34,560 --> 00:07:39,480
+O bir sıra: önce iniş
+araçları, sonra gezici,
+
+128
+00:07:39,520 --> 00:07:41,320
+sonra enerji, sonra yaşam alanları.
+
+129
+00:07:41,900 --> 00:07:44,220
+Her adım bir öncekine bağlı.
+
+130
+00:07:44,540 --> 00:07:47,660
+NASA, çabasını bu yüzey
+sırasına harcamayı seçti,
+
+131
+00:07:47,700 --> 00:07:51,300
+buzun yakınında; Gateway
+ise ölü değil, askıda.
+
+132
+00:07:52,260 --> 00:07:56,060
+Dolayısıyla asıl soru, NASA'nın
+neden istasyonu durdurduğu değil.
+
+133
+00:07:56,440 --> 00:07:58,960
+Asıl soru, yüzey sırasının
+dayanıp dayanamayacağı,
+
+134
+00:07:59,140 --> 00:08:04,860
+adım adım. İlk iniş araçlarının
+2027'de yüzeye ulaşıp ulaşmayacağı.
+
+135
+00:08:06,280 --> 00:08:08,420
+Reaktörün 2030 civarında
+kalıp kalmayacağı.
+
+136
+00:08:09,760 --> 00:08:12,760
+Ve buzun kullanılabilir
+olduğunu kimin gösterebileceği,
+
+137
+00:08:13,080 --> 00:08:14,300
+bir de nereden geldiği.
+
+138
+00:08:15,240 --> 00:08:17,840
+Üs hâlâ büyük ölçüde kâğıt üzerinde.
+
+139
+00:08:18,180 --> 00:08:21,280
+Önümüzdeki iki yıl, donanıma
+dönüşüp dönüşmeyeceğini belirler.
+
+140
+00:08:22,560 --> 00:08:23,660
+Ve her iki durumda da,
+
+141
+00:08:23,880 --> 00:08:28,020
+güney kutbu, NASA ile Çin'in
+iddialarını koyduğu yer.
+
+142
+00:08:28,470 --> 00:08:34,220
+Bizi takip etmek isterseniz,
+Rebel Minds Cosmos'a abone olun.
+
+143
+00:08:35,280 --> 00:08:38,540
+Bir sonraki bölümde o karanlık
+kraterlerin içine giriyoruz
+
+144
+00:08:38,580 --> 00:08:41,240
+ve o buzun nereden geldiğini soruyoruz.

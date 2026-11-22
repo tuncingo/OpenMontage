@@ -1,0 +1,650 @@
+1
+00:00:00,000 --> 00:00:02,920
+NASA says it is building
+a base on the Moon.
+
+2
+00:00:03,280 --> 00:00:06,180
+None of the Moon Base
+missions has landed yet.
+
+3
+00:00:08,030 --> 00:00:10,930
+The first three have slipped to 2027.
+
+4
+00:00:11,350 --> 00:00:12,850
+And to chase this base,
+
+5
+00:00:13,170 --> 00:00:17,410
+the agency put its own planned space
+station around the Moon on hold.
+
+6
+00:00:17,750 --> 00:00:19,870
+So why did NASA pause Gateway?
+
+7
+00:00:20,270 --> 00:00:23,010
+And what is real here,
+and what is still on paper?
+
+8
+00:00:24,390 --> 00:00:30,370
+In March 2026, NASA Administrator
+Jared Isaacman paused Gateway,
+
+9
+00:00:30,410 --> 00:00:33,330
+a planned outpost in lunar orbit.
+
+10
+00:00:33,730 --> 00:00:35,570
+The pause is indefinite.
+
+11
+00:00:35,830 --> 00:00:39,170
+The stated goal was to focus
+on a base on the surface.
+
+12
+00:00:40,410 --> 00:00:42,190
+Notice the word paused.
+
+13
+00:00:42,690 --> 00:00:47,210
+NASA says Gateway is not cancelled,
+and its hardware may be repurposed.
+
+14
+00:00:47,550 --> 00:00:50,190
+But much of that hardware
+was already built,
+
+15
+00:00:50,370 --> 00:00:52,270
+and it is not easy to reuse.
+
+16
+00:00:53,250 --> 00:00:56,310
+The effort moves from orbit
+down to the ground,
+
+17
+00:00:56,550 --> 00:00:57,770
+near the polar ice.
+
+18
+00:00:59,520 --> 00:01:04,500
+The fate of partners like Europe,
+Japan and Canada is still unresolved.
+
+19
+00:01:05,020 --> 00:01:09,640
+The price tag is about twenty billion
+dollars over the first seven years,
+
+20
+00:01:09,860 --> 00:01:14,120
+and about thirty billion over
+a decade for all three phases.
+
+21
+00:01:15,040 --> 00:01:16,160
+Now, the word base.
+
+22
+00:01:16,200 --> 00:01:18,480
+Picture a city under a dome.
+
+23
+00:01:18,740 --> 00:01:21,820
+That is not what NASA
+describes, at least not yet.
+
+24
+00:01:22,520 --> 00:01:24,240
+There are three phases.
+
+25
+00:01:24,600 --> 00:01:30,180
+Phase One, now to 2029, is robots,
+tech demos and scouting.
+
+26
+00:01:30,640 --> 00:01:36,260
+Phase Two, 2029 to 2032, adds early power,
+
+27
+00:01:36,480 --> 00:01:37,960
+cargo and communications.
+
+28
+00:01:38,720 --> 00:01:44,340
+Only Phase Three, from 2032,
+is the permanent outpost with habitats.
+
+29
+00:01:44,840 --> 00:01:48,560
+So today, the Moon Base
+is a schedule of robotic missions.
+
+30
+00:01:49,000 --> 00:01:52,320
+Not a building. But why the south pole?
+
+31
+00:01:52,580 --> 00:01:54,400
+Of all the places on the Moon?
+
+32
+00:01:54,680 --> 00:01:56,380
+The first reason is water.
+
+33
+00:01:57,640 --> 00:02:00,780
+Parts of the polar craters
+never see sunlight.
+
+34
+00:02:01,240 --> 00:02:04,720
+They can reach about minus two
+hundred fifty degrees Celsius.
+
+35
+00:02:05,920 --> 00:02:08,060
+That is colder than the surface of Pluto.
+
+36
+00:02:08,540 --> 00:02:12,860
+In that cold, water ice can
+survive for a very long time.
+
+37
+00:02:13,640 --> 00:02:18,320
+In 2009, NASA's LCROSS
+slammed into Cabeus crater,
+
+38
+00:02:18,360 --> 00:02:22,400
+near the south pole,
+and the plume confirmed water ice.
+
+39
+00:02:23,000 --> 00:02:26,300
+It held about one hundred
+fifty five kilograms of water.
+
+40
+00:02:26,680 --> 00:02:29,040
+That is only what the plume let us see.
+
+41
+00:02:29,320 --> 00:02:30,580
+It is not a total.
+
+42
+00:02:31,920 --> 00:02:35,560
+Chandrayaan-3 measured
+temperatures at high latitudes,
+
+43
+00:02:35,880 --> 00:02:38,360
+but it did not directly detect ice.
+
+44
+00:02:38,640 --> 00:02:41,600
+So the evidence that ice exists is solid.
+
+45
+00:02:41,960 --> 00:02:45,460
+What is thin is how much
+there is, what form it takes,
+
+46
+00:02:45,500 --> 00:02:47,600
+and whether anyone can mine it.
+
+47
+00:02:50,100 --> 00:02:52,840
+And this is ice mixed
+into soil, not lakes.
+
+48
+00:02:53,120 --> 00:02:55,200
+And here is the loop I cannot close.
+
+49
+00:02:55,720 --> 00:02:56,720
+Where did it come from?
+
+50
+00:02:59,080 --> 00:03:02,280
+Comets, asteroids,
+the solar wind, even Earth.
+
+51
+00:03:02,760 --> 00:03:04,740
+Scientists have not settled that.
+
+52
+00:03:05,060 --> 00:03:06,540
+Hold on to that question.
+
+53
+00:03:06,980 --> 00:03:08,820
+There is a second reason for the pole.
+
+54
+00:03:09,160 --> 00:03:12,380
+Light. The idea
+of a sunless pole is wrong.
+
+55
+00:03:13,540 --> 00:03:16,740
+Some ridges there get
+near continuous sunlight,
+
+56
+00:03:17,040 --> 00:03:19,120
+while the shadowed craters sit nearby.
+
+57
+00:03:19,720 --> 00:03:22,120
+Sunlight for power, ice in the dark.
+
+58
+00:03:22,180 --> 00:03:24,160
+Close together. That is the pitch.
+
+59
+00:03:24,600 --> 00:03:26,320
+Now, who is actually going?
+
+60
+00:03:26,620 --> 00:03:28,060
+NASA numbers the missions.
+
+61
+00:03:28,680 --> 00:03:34,120
+Moon Base One is a Blue Origin lander
+aimed at the Shackleton Connecting Ridge.
+
+62
+00:03:34,660 --> 00:03:37,440
+Moon Base Two is an Astrobotic lander,
+
+63
+00:03:37,540 --> 00:03:41,020
+and Moon Base Three
+is an Intuitive Machines lander.
+
+64
+00:03:41,060 --> 00:03:45,500
+NASA is buying rides,
+not building every machine itself.
+
+65
+00:03:46,140 --> 00:03:47,960
+Those rides have slipped.
+
+66
+00:03:48,480 --> 00:03:51,160
+On May twenty eighth, 2026,
+
+67
+00:03:51,560 --> 00:03:56,260
+New Glenn exploded during a static fire
+test while being prepared for launch.
+
+68
+00:03:56,660 --> 00:04:01,120
+That explosion pushed Moon Base
+One, the Blue Origin lander,
+
+69
+00:04:01,180 --> 00:04:03,880
+to the first part of 2027.
+
+70
+00:04:04,260 --> 00:04:09,860
+Moon Base III also slipped,
+to the first quarter of 2027,
+
+71
+00:04:10,120 --> 00:04:11,520
+according to its maker.
+
+72
+00:04:12,020 --> 00:04:13,620
+What comes after the landers?
+
+73
+00:04:13,820 --> 00:04:15,200
+Two strange machines.
+
+74
+00:04:16,620 --> 00:04:21,300
+First, PROMISE. A six wheeled
+rover powered by a nuclear source.
+
+75
+00:04:21,940 --> 00:04:25,360
+It carries a drill that reaches
+about one meter down,
+
+76
+00:04:25,520 --> 00:04:28,700
+and it is designed
+for an eighteen month mission.
+
+77
+00:04:29,440 --> 00:04:34,620
+Blue Origin won a ninety four million
+dollar contract to deliver it,
+
+78
+00:04:34,760 --> 00:04:37,180
+with a one hundred forty
+million dollar option
+
+79
+00:04:38,040 --> 00:04:39,820
+and a target of late 2028.
+
+80
+00:04:41,320 --> 00:04:45,240
+Second, MoonFall. Four
+hopping drones from JPL,
+
+81
+00:04:45,520 --> 00:04:48,820
+planned for 2028. Not wheels.
+
+82
+00:04:49,340 --> 00:04:52,420
+Hops. Their job is to map landing sites,
+
+83
+00:04:52,460 --> 00:04:56,180
+flying across a lunar day
+of about fourteen Earth days.
+
+84
+00:04:56,630 --> 00:04:59,420
+Later comes the part
+that feels like a base.
+
+85
+00:04:59,900 --> 00:05:03,100
+A pressurized rover
+from Japan's space agency.
+
+86
+00:05:03,720 --> 00:05:06,660
+A mobile lab where crews
+work without spacesuits,
+
+87
+00:05:06,700 --> 00:05:09,240
+on missions of up to twenty eight days.
+
+88
+00:05:09,580 --> 00:05:11,200
+Which brings us to power.
+
+89
+00:05:12,500 --> 00:05:15,880
+A lunar day is about fourteen
+Earth days of sunlight,
+
+90
+00:05:16,140 --> 00:05:17,660
+then fourteen of night.
+
+91
+00:05:18,540 --> 00:05:22,620
+The polar ridges are an exception,
+with near continuous sun.
+
+92
+00:05:23,100 --> 00:05:25,880
+But the crater floors never see light.
+
+93
+00:05:26,240 --> 00:05:28,920
+Power through darkness
+is the hard problem.
+
+94
+00:05:29,640 --> 00:05:33,240
+NASA is aiming for a fission
+reactor of about one hundred
+
+95
+00:05:33,280 --> 00:05:36,980
+kilowatts on the surface by around 2030.
+
+96
+00:05:37,720 --> 00:05:40,620
+Experts doubt the timeline
+more than the size.
+
+97
+00:05:41,180 --> 00:05:45,560
+A working surface reactor
+by 2030 is a steep climb.
+
+98
+00:05:46,060 --> 00:05:49,200
+And that is the honest tension
+at the center of this story.
+
+99
+00:05:49,500 --> 00:05:50,940
+Can the schedule hold?
+
+100
+00:05:52,920 --> 00:05:59,160
+NASA is targeting Artemis Three
+as a 2027 lander test in Earth orbit,
+
+101
+00:05:59,420 --> 00:06:02,440
+and Artemis Four
+as the first crewed landing,
+
+102
+00:06:02,800 --> 00:06:04,860
+in early 2028.
+
+103
+00:06:05,320 --> 00:06:10,220
+Experts question the 2027 and 2028 dates.
+
+104
+00:06:10,820 --> 00:06:13,940
+The Artemis crewed lander
+still needs development.
+
+105
+00:06:14,400 --> 00:06:17,880
+The pole has steep slopes,
+ridges and deep craters.
+
+106
+00:06:18,260 --> 00:06:20,300
+Add dust and extreme cold.
+
+107
+00:06:20,620 --> 00:06:23,320
+Even a perfect landing is not yet mining.
+
+108
+00:06:23,760 --> 00:06:25,580
+So the rebel question is this.
+
+109
+00:06:25,900 --> 00:06:29,180
+Is the Moon Base a plan,
+or a promise on a slide?
+
+110
+00:06:30,560 --> 00:06:34,580
+Now the race. China is also
+aiming for the south pole.
+
+111
+00:06:35,720 --> 00:06:40,180
+Its Chang'e-7 mission, built to look
+for water ice near Shackleton,
+
+112
+00:06:40,540 --> 00:06:44,000
+was postponed in August to 2027.
+
+113
+00:06:44,400 --> 00:06:48,300
+China plans a crewed
+landing by around 2030.
+
+114
+00:06:48,940 --> 00:06:52,460
+It is also planning a lunar
+research station with Russia,
+
+115
+00:06:52,680 --> 00:06:55,520
+with construction from about 2031.
+
+116
+00:06:56,240 --> 00:06:58,680
+Those dates are not firm, on either side.
+
+117
+00:06:58,900 --> 00:07:00,860
+So this is not a clean sprint.
+
+118
+00:07:01,960 --> 00:07:05,160
+Two programs, both
+with slipping calendars,
+
+119
+00:07:05,260 --> 00:07:07,340
+both eyeing the Shackleton area.
+
+120
+00:07:07,780 --> 00:07:11,100
+That is a reason for speed,
+and a reason for caution.
+
+121
+00:07:11,500 --> 00:07:17,120
+NASA is even inviting students in, with
+a one million dollar Moon Base Challenge.
+
+122
+00:07:17,700 --> 00:07:19,520
+A base is a long project.
+
+123
+00:07:20,060 --> 00:07:26,100
+Phase Three, in 2032 and beyond, belongs
+to people who are in school right now.
+
+124
+00:07:26,480 --> 00:07:28,200
+So let's go back to the opening.
+
+125
+00:07:28,580 --> 00:07:30,840
+Why did NASA pause its own station?
+
+126
+00:07:32,120 --> 00:07:34,320
+Because the base is not a place.
+
+127
+00:07:34,560 --> 00:07:39,480
+It is a sequence.
+Landers first, then rovers,
+
+128
+00:07:39,520 --> 00:07:41,320
+then power, then habitats.
+
+129
+00:07:41,900 --> 00:07:44,220
+Each step depends on the one before it.
+
+130
+00:07:44,540 --> 00:07:47,660
+NASA chose to spend its effort
+on that surface sequence,
+
+131
+00:07:47,700 --> 00:07:51,300
+near the ice, and Gateway
+is paused, not dead.
+
+132
+00:07:52,260 --> 00:07:56,060
+So the better question
+is not why NASA paused a station.
+
+133
+00:07:56,440 --> 00:07:58,960
+It is whether the surface
+sequence can hold,
+
+134
+00:07:59,140 --> 00:08:04,860
+step by step. Whether the first
+landers reach the surface in 2027.
+
+135
+00:08:06,280 --> 00:08:08,420
+Whether the reactor stays near 2030.
+
+136
+00:08:09,760 --> 00:08:12,760
+And whether anyone can show
+that the ice is usable,
+
+137
+00:08:13,080 --> 00:08:14,300
+and where it came from.
+
+138
+00:08:15,240 --> 00:08:17,840
+The base is still mostly on paper.
+
+139
+00:08:18,180 --> 00:08:21,280
+The next two years decide
+whether it becomes hardware.
+
+140
+00:08:22,560 --> 00:08:23,660
+And either way,
+
+141
+00:08:23,880 --> 00:08:28,020
+the south pole is where both NASA
+and China are placing their bets.
+
+142
+00:08:28,470 --> 00:08:34,220
+If you want to follow it with us,
+subscribe to Rebel Minds Cosmos.
+
+143
+00:08:35,280 --> 00:08:38,540
+Next time, we go inside
+those dark craters,
+
+144
+00:08:38,580 --> 00:08:41,240
+and ask where that ice came from.
