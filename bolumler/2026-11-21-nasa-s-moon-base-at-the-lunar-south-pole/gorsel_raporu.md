@@ -37,7 +37,6 @@ Arka plan promptu: Cinematic 16:9 view of the lunar south pole at a shadowed cra
 - Sahne 6 (4/10): PPE itme sistemi gimbal testi, PPE donanimiyla ilgili; ancak temiz oda hissi ve hazir ama kullanilmamis donanim gorunumu tam olarak yok.
 - Sahne 11 (5/10): CADRE rover'in Ay yuzeyinde cekilmis konsepti, cıplak regolit uzerinde kalmak icin uygun; kubbeli sehir yok.
 - Sahne 12 (4/10): Hot Fire robotik inis aracinin test fotografi robotik iniş aracini gosteriyor ancak Ay ovasi yerine kapali bir hangar ortaminda.
-- Sahne 18 (5/10): Pluto'nun buzlu yüzeyini gösteren tek gerçek yüzey mozaiği, ancak gri tonlu ve sahnenin kremi-mavi renk paleti yok.
 - Sahne 31 (4/10): New Glenn motorlarının ateşlendiği yakın plan, dramatik ve renkli bir kadraj sunuyor ancak patlamayı göstermiyor.
 - Sahne 32 (3/10): New Glenn roketinin kalkış görüntüsü Blue Origin'i temsil ediyor ancak 'bekleyen donanım' anlatımına uymuyor.
 - Sahne 33 (4/10): Intuitive Machines'in Nova-C inis araci modelini elinde tutan bir yetkilinin basin toplantisi gercek NASA fotografi; Odysseus'un Ay yuzeyindeki goruntusu degil, orta uyum ve dogru sirket bagini veriyor.

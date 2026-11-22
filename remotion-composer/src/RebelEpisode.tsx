@@ -66,6 +66,8 @@ export interface EpisodeScene {
   /** Schematic line graphic: full-screen (phases, slips, thermal) or an inset over the photo (thermal_inset). */
   graphic?: SchematicSpec | null;
   purpose?: string;
+  /** "contain": show the photo whole, centred on the dark ground (e.g. a planet disc). Default "cover". */
+  fit?: "cover" | "contain";
   /** Short image credit shown bottom-right (e.g. "Image: NASA/JSC"). */
   credit?: string;
   motion: string;
@@ -124,6 +126,23 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
         <Schematic spec={scene.graphic} />
       ) : scene.procedural ? (
         <ProceduralScene variant={scene.procedural} seed={scene.id} />
+      ) : scene.src && scene.fit === "contain" ? (
+        <AbsoluteFill>
+          <div
+            style={{
+              position: "absolute",
+              left: 960 - 370,
+              top: 640 - 370,
+              width: 740,
+              height: 740,
+              transform: `translate(${(t - 0.5) * -24}px, ${(t - 0.5) * -10}px) scale(${1.0 + 0.07 * t}) rotate(${(t - 0.5) * 1.2}deg)`,
+              WebkitMaskImage: "radial-gradient(circle closest-side, #000 90%, rgba(0,0,0,0) 100%)",
+              maskImage: "radial-gradient(circle closest-side, #000 90%, rgba(0,0,0,0) 100%)",
+            }}
+          >
+            <Img src={staticFile(scene.src)} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          </div>
+        </AbsoluteFill>
       ) : scene.src ? (
         <>
           {/* depth layer: blurred copy drifting against the camera */}

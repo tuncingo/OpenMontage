@@ -47,9 +47,11 @@ GRAPHIC_CREDITS = {
     17: "Crater temperature: Planetary Society",
     32: "Sources: Space.com, Aerospace America", 33: "Source: Aerospace America",
 }
-CREDIT_APPEND = {18: "Pluto: NASA New Horizons, pluto.jhuapl.edu"}
+CREDIT_APPEND = {18: "enhanced color \u00b7 Pluto: NASA New Horizons, pluto.jhuapl.edu"}
 # Photos whose source has black no-data borders: crop to a 16:9 window fully inside the content.
-CROP_BLACK = {18}
+CROP_BLACK: set[int] = set()  # (scene 18 used a Pluto mosaic strip before; it now uses a full-disc image)
+# Photos shown whole, centred on the dark ground, instead of cropped to fill the frame.
+FIT_CONTAIN = {18}
 
 # Abstract scenes drawn in code (no image model).
 PROCEDURAL = {
@@ -214,7 +216,7 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
+            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })

@@ -1,0 +1,13 @@
+{
+ "selections": [
+  {
+   "scene_id": 18,
+   "chosen": 4,
+   "fit_score": 9,
+   "reason": "Editör seçimi: New Horizons, 14 Temmuz 2015, geliştirilmiş renkli (enhanced color) yüksek çözünürlüklü Plüton diski (PIA19952). Gezegenin tamamı siyah uzay zemininde görünüyor; 'colder than Pluto' cümlesine doğrudan uyuyor.",
+   "issues": [
+    "Renkler bilimsel olarak güçlendirilmiş (enhanced color); kaynak satırında belirtilmeli"
+   ]
+  }
+ ]
+}

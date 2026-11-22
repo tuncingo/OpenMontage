@@ -472,11 +472,11 @@
       "image": {
         "file": "assets/scene_018.jpg",
         "source": "nasa",
-        "nasa_id": "PIA20201",
-        "title": "New Horizons Very Best View of Pluto Mosiac",
-        "credit": "NASA/JPL — PIA20201",
-        "fit_score": 5,
-        "reason": "Pluto'nun buzlu yüzeyini gösteren tek gerçek yüzey mozaiği, ancak gri tonlu ve sahnenin kremi-mavi renk paleti yok."
+        "nasa_id": "PIA19952",
+        "title": "The Rich Color Variations of Pluto",
+        "credit": "NASA/JPL — PIA19952",
+        "fit_score": 9,
+        "reason": "Editör seçimi: New Horizons, 14 Temmuz 2015, geliştirilmiş renkli (enhanced color) yüksek çözünürlüklü Plüton diski (PIA19952). Gezegenin tamamı siyah uzay zemininde görünüyor; 'colder than Pluto' cümlesine doğrudan uyuyor."
       },
       "ai_prompt": null,
       "overlays": [
