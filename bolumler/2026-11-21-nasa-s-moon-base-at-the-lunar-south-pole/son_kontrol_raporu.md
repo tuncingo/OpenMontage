@@ -1,0 +1,93 @@
+# Yönetmen Son Kontrol — 2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole
+
+**Karar:** 🔴 Düzeltme gerekiyor
+**Genel puan:** 6.0/10 · **Sorun:** 40
+**Türlere göre:** ilgisiz 14 · okunabilirlik 6 · tekrar 10 · tempo 6 · artefakt 3 · teknik 1
+
+## Zaman sırasıyla sorunlar
+- **00:20** [ilgisiz] Webb Cosmic Cliffs (Carina) nebula goruntusu ay ussu/konu ile ilgisiz, dolgu gibi duruyor.
+  - Çözüm: Ay yuzeyi veya Artemis ile ilgili gercek bir kare kullan ya da semati devam ettir.
+- **00:40** [okunabilirlik] Kanit izleyicisi etiketi (PAUSED, NOT CANCELLED) parlak fotografin ustunde dusuk kontrastli. Alt baslik PAUSED yari saydam gri bantla kismen yutulmus, okunmuyor ve bozuk gorunuyor.
+  - Çözüm: Fotografin ustune koyu scrim ekle, alt basligi opak koyu zemin ve en az 60 px beyaz yazi ile ver.
+- **00:55** [ilgisiz] Spitzer yildiz olusum bolgesi goruntusu (pembe/yesil) anlatimla ilgisiz; renk paleti de kanal diliyle uyumsuz.
+  - Çözüm: Anlatilan konuya uygun gercek gorsel (modul, inis alani) veya cizim semasi koy.
+- **01:00** [tekrar] Gateway tasvir gorseli cizim/render olmasina ragmen Illustration etiketi yok.
+  - Çözüm: Sag ust koseye Illustration etiketi ekle.
+- **01:15** [ilgisiz] Bilgisayar cizimi rover gorseli gercek bir gorev mi benzeri mi belli degil, Illustration etiketi yok; kaynak satiri soluyor ve zor okunuyor.
+  - Çözüm: Illustration etiketi ekle, rover'in hangi gorevi temsil ettigini dogrula.
+- **01:45** [ilgisiz] Orion nebulasi goruntusu Ay ussu konusuyla bagi olmayan dolgu.
+  - Çözüm: Guney kutbu/Artemis ile ilgili gorselle degistir.
+- **01:50** [tekrar] WHY THE SOUTH POLE? sahnesinde gunes sistemi benzeri yorunge elipsleri var, guney kutbunu anlatmiyor. Ayni gorsel 02:15 ve 02:20 (LCROSS) sahnelerinde de aynen tekrar ediyor.
+  - Çözüm: Guney kutbu icin gercek ışık/golge semasi veya NASA/JPL kutup haritasi cizimi yap, LCROSS icin farkli bir islem kullan.
+- **01:55** [tempo] Overlay olmayan statik yorunge karesi; yalnizca yavas kayma, gorsel bilgi yok.
+  - Çözüm: Sahneyi kisalt veya cizgi grafigini bu surede kendini cizen anlamli bir yapiya donustur.
+- **02:05** [artefakt] Pluto uzerindeki sicaklik paneli gezegeni sert bir kenarla ortadan ikiye bolen yari saydam bant gibi gorunuyor; kaynak satiri uzun.
+  - Çözüm: Paneli Pluto'dan ayir veya scrim'i yumusat, kaynak satirini kisalt.
+- **02:25** [okunabilirlik] 155 KG buyuk rakami ve NOT A TOTAL yazisi uzay araci cizimi ustune biniyor, scrim yok; Illustration etiketi gorselle cakisiyor.
+  - Çözüm: Rakami sol tarafa/bos alana al veya koyu scrim ekle.
+- **02:50** [ilgisiz] Anlatim ay ussu/ay tabani konusunda iken Helix Nebula, kuyruklu yildiz (180), Gunes (195) ve supernova kalintisi (200) gibi genel uzay goruntuleri art arda geliyor; konuyla baglantisi belirsiz, stok goruntu hissi veriyor.
+  - Çözüm: Anlatimin o bolumuyle dogrudan iliskili gorsel kullan (ay yuzeyi, ilgili misyon) ya da bu kareleri anlatiyi gosteren cizimle degistir.
+- **03:00** [artefakt] Kuyruklu yildiz (Rosetta/67P) goruntusu 'Image: NASA/JPL' olarak kredilendirilmis; bu goruntu ESA/Rosetta'ya ait.
+  - Çözüm: Kaynak satirini dogru kuruma (ESA/Rosetta/NAVCAM) cevir.
+- **03:35** [tekrar] 02:30'daki egimli yorunge halkalari illustrasyonu neredeyse ayni haliyle geri geliyor ve Moon Base I bolumunun ortasinda anlamsiz kaliyor.
+  - Çözüm: Farkli bir gorsel isleme kullan ya da bu karenin yerine konuyla ilgili sema koy; ayni gorsel ayni bolumde tekrar edilmesin.
+- **04:00** [okunabilirlik] 'ACCORDING TO ITS MAKER' notu soluk gri ve koyu mavi kutunun uzerinde, telefonda zor okunuyor; boyutu da 36 px altinda gorunuyor.
+  - Çözüm: Rengi acik gri/beyaza cek, boyutu en az 36 px yap, kutudan ayri bir yere koy.
+- **04:05** [okunabilirlik] Crab Nebula karesinde alt sagdaki 'Image: NASA/GSFC' kredisi parlak arka planda neredeyse gorunmuyor.
+  - Çözüm: Kredi satirina yumusak koyu scrim ekle veya gorseli degistir.
+- **04:05** [ilgisiz] Zaman cizelgeleri arasina Crab Nebula girmis; Moon Base takvimi ile iliskisi yok.
+  - Çözüm: Kareyi ay tabani/ilgili roket goruntusuyle degistir ya da cizelgenin devamini goster.
+- **04:15** [tekrar] Kanit sayaci 4 (EVIDENCE) 03:45'te gosterildi, 04:15'te yine '4' ve yazilan 'E' ile tekrar beliriyor; ayni kanit icin iki kez izleyici.
+  - Çözüm: Kanit 4 izleyicisini yalnizca bir kez goster; yeni kanit icin 5 numarasini kullan.
+- **04:20** [tekrar] VIPER gezgin goruntusu iki ardisik karede (04:20, 04:25) neredeyse ayni; hareket cok yavas, statik hissi var. 04:20 karesinde kredi yazisi okunmuyor.
+  - Çözüm: Sahneyi kisalt veya baska bir acidan goruntu ekle; kredi icin scrim ekle.
+- **04:30** [tempo] Halka dalga illustrasyonu iki kare boyunca (04:30-04:35) neredeyse hic degismiyor; hareketsiz ve sikici bir bolum.
+  - Çözüm: Cizgileri daha belirgin cizdir/sayi ekle ya da sahneyi kisalt.
+- **04:40** [okunabilirlik] Moonfall Hoppers karelerinde (04:40, 04:45) 'Image: NASA/JSC' kredisi acik gri zeminde kayboluyor; ustte ince artı isaretleri goruntuyu kirletiyor.
+  - Çözüm: Kredi satirina koyu scrim ekle; artı isaretlerini azalt.
+- **05:20** [tempo] Sadece ince çizgiler ve amber bir daire içeren soyut grafik; ne anlattığı belli değil, etiket, rakam ve kaynak satırı yok.
+  - Çözüm: Grafiğe anlatılan gerçek veriyi (ör. ışık/gölge ya da yüzey profili) etiket ve kaynak satırıyla ekle ya da sahneyi gerçek bir görselle değiştir.
+- **05:30** [okunabilirlik] Reaktör fotoğrafı üzerindeki '2030' ve '100 KW REACTOR BY' yazısı scrim olmadan, adamın yüzü ve parlak ekipmanın önünde duruyor. Açıklama satırı fotoğrafın karmaşık dokusunda zor okunuyor; 'BY' sonda kalıyor, okuma sırası bozuk.
+  - Çözüm: Metin bloğunun arkasına yumuşak koyu scrim koy, cümleyi 'REACTOR BY' yerine '100 KW REACTOR TARGET' gibi tamamlanmış hale getir.
+- **05:40** [tempo] Anlamsız daire ve yarıçap çizgilerinden oluşan 'Illustration' grafiği veri taşımıyor. Ardından gelen galaksi görselleri (05:45-05:50) ay üssü konusuyla ilgisiz.
+  - Çözüm: Anlatımla ilgili somut bir şemaya (zaman çizelgesi, güç ölçeği) çevir. Galaksi yerine ay yüzeyi/Artemis görseli kullan.
+- **05:45** [ilgisiz] Spiral galaksi fotoğrafı, ay üssü konusuyla ilgisiz dolgu görseli.
+  - Çözüm: Anlatıma uygun Ay Güney Kutbu veya Artemis görseliyle değiştir.
+- **05:55** [tekrar] Starship/Orion görselleri 05:55-06:00 ve 07:25 civarında yakın benzerlikte (aynı araç, benzer görünüm). Bölüm içinde aynı görselin tekrarı riski.
+  - Çözüm: Görsel kaynaklarını çeşitlendir, aynı render'ı iki kez kullanma.
+- **06:25** [ilgisiz] Hubble Ultra Deep Field görseli üzerinde 'PLAN OR PROMISE?' başlığı var. Görsel konuyla ilgisiz, genel bir uzay dolgusu. Başlık da fotoğraf üzerinde scrimsiz, yıldız yoğun zeminde.
+  - Çözüm: Başlık için sade koyu zemin kullan ya da ay planıyla ilgili bir görsel seç.
+- **06:30** [tekrar] Kanıt 8 (CHANG'E-7 DELAY) için soyut daireler grafiği gösteriliyor. Gecikmeyi anlatan tarih, çizelge ya da rakam yok. 06:35-06:40 aynı çizgi/amber daire grafiği 05:20'deki sahneyle neredeyse aynı (tekrar). Art arda 4 soyut grafik (06:30-06:50) görsel olarak monoton.
+  - Çözüm: Chang'e-7 için planlanan ve güncel tarihi gösteren bir zaman çizelgesi çiz (kaynaklı). Tekrarlanan çizgi grafiğini farklı bir işlemle değiştir. Soyut grafikleri gerçek görsellerle araya serpiştir.
+- **06:45** [tempo] Yörünge halkaları grafiği (06:45-06:50) iki karede neredeyse aynı, yalnızca hafif zoom var. Etiket, sayı ya da kaynak yok; ne anlattığı belirsiz.
+  - Çözüm: Halkaları anlatılan olguya bağla (etiket, değer aralığı, kaynak satırı) ya da kısalt.
+- **06:55** [ilgisiz] Turuncu nebula ve 07:00 Satürn fotoğrafı ay üssü konusuyla ilgisiz. 07:00'de nebula ile Satürn çapraz geçişte üst üste biniyor ve halkalar nebulanın içinde bozuk, yarı saydam görünüyor (artefakt gibi).
+  - Çözüm: Konuyla ilgili görsel kullan. Çapraz geçişi kısalt ya da sert kesmeyle yap.
+- **07:00** [artefakt] Nebula ile Satürn bindirmesi: saydam halka parçaları ve kopuk şekiller var, yıldızlar gezegenin üzerinden geçiyor.
+  - Çözüm: Geçiş süresini kısalt veya Satürn sahnesini tamamen çıkar.
+- **07:10** [tekrar] Öğrenci rover yarışması fotoğrafı (07:10-07:15) açık hava, ağaçlı gündüz görüntüsü; paletin koyu uzay tonundan kopuk. İki karede neredeyse aynı, sadece hafif zoom.
+  - Çözüm: Sahneyi kısalt veya Ay rover'ı ile ilgili bir görselle değiştir. Gerekirse renk uyumu için koyu ton ekle.
+- **07:20** [ilgisiz] Etkileşen galaksiler fotoğrafı (NASA/JPL) konuyla ilgisiz dolgu.
+  - Çözüm: Anlatımla ilgili bir ay görseline çevir.
+- **07:30** [tekrar] Ayak izi fotografi iki karede (07:30-07:35) neredeyse ayni, sadece hafif kayma var; ayrica kaynak satiri yok.
+  - Çözüm: Plani kisaltin veya farkli bir gorselle bolun; sag alta 'Image: NASA/JSC' kaynak satiri ekleyin.
+- **07:40** [ilgisiz] Jupiter ve uzay araci kolaji; ay ussu konusuyla dogrudan ilgisi yok ve cizim/kolaj olmasina ragmen 'Illustration' etiketi yok.
+  - Çözüm: Anlatimla eslesen gercek bir gorsel kullanin veya 'Illustration' etiketi ekleyin.
+- **07:55** [ilgisiz] Westerlund 2 nebulasi parlak, doygun renkli; Ay ussu konusuyla bagi zayif ve kanalin sakin, siyah zemin gorunumunden kopuk.
+  - Çözüm: Konuyla ilgili gorsel veya cizim semasi kullanin; gerekirse koyu karartma uygulayin.
+- **08:10** [ilgisiz] Europa yuzey dokusu (NASA/JPL) Ay ussu anlatimiyla eslesmiyor gibi; gri, detayli, sikici doku.
+  - Çözüm: Anlatim Europa'dan bahsetmiyorsa Ay kutup bolgesi gorseliyle degistirin.
+- **08:15** [tekrar] Ay yuzeyi ayak izleri karesi (08:15-08:20) ve baslangictaki ayak izi ayni tur Apollo gorseli; yakin tekrar hissi.
+  - Çözüm: Farkli bir gorsel veya semaya gecin; hareket (pan/push-in) artirin.
+- **08:25** [ilgisiz] Eta Carinae gorseli Ay ussu konusuyla ilgisiz.
+  - Çözüm: Konuyla alakali gorsel secin veya kapanis temasina uygun bir sema cizin.
+- **08:30** [tempo] SUBSCRIBE kutusu galaktik merkez gorseli uzerinde; kutu okunakli ama arka plan cok parlak/renkli, kanalin sakin stilinden farkli.
+  - Çözüm: Arka plani karartin (scrim) ve kanal paletine uyarlayin.
+- **08:40** [teknik] Kapanista tamamen siyah kare; gezegen yorungeleri semasi (08:35) kaynak satirsiz ve cok sade.
+  - Çözüm: Siyah kareyi kisaltin veya son kart/yazi ekleyin; semaya kaynak satiri ekleyin.
+
+## Bölüm bölüm notlar
+- 00:00-02:25 (6/10): Zaman cizelgesi, 3 fazli plan ve sicaklik olcegi grafikleri temiz, okunur ve guvenli kenar bosluklari icinde. Ana sorun: 3 farkli sahnede ayni yorunge semasinin tekrar kullanilmasi ve 3 jenerik nebula dolgu gorseli (Carina, Serpens, Orion). Ilk 10 saniyede ay dogusu kareleri sakin ama konu gucu iyi. Cizim goruntulerde Illustration etiketi tutarsiz.
+- 02:30-04:55 (6/10): Genel olarak stil rehberine uygun: koyu zemin, ince teal/amber cizgiler, guvenli kenar boslugu icinde yazilar, Moon Base zaman cizelgeleri net ve okunakli. Ana sorunlar: konuyla ilgisiz genel nebula/Gunes goruntuleri (02:50-03:25), tekrar eden illustrasyonlar (02:30 ve 03:35), parlak zeminde okunmayan kaynak satirlari, tekrarlanan kanit sayaci 4 ve soluk 'according to its maker' notu.
+- 05:00-07:25 (6/10): Bölümün bu kısmında NASA görselleri (JAXA rover, astronot, Starship, Apollo kayası) konuya uygun ve kaynak satırları var. Kanıt 7 ve 8 izleyicileri ve alt başlıklar genel olarak 36 px üstünde ve güvenli alanda. Ana sorunlar: ay üssüyle ilgisiz galaksi, nebula, Satürn ve Hubble dolgu görselleri, anlam taşımayan soyut grafikler (çizgiler, daireler, yörüngeler) ve bunların tekrarı, Satürn geçişindeki bozuk bindirme, reaktör sahnesinde scrimsiz metin. Kanıt 8 grafiği veri göstermiyor; stil rehberindeki 'şema veri taşımalı' kuralına uymuyor.
+- 07:30-08:40 (6/10): Gorseller genelde temiz ve yapay zeka artefakti yok. Metinler (SUBSCRIBE, kaynak satirlari) guvenli kenar boslugu icinde. Sorun: konudan kopuk gorseller (Jupiter, nebula, Eta Carinae, Europa) ve iki kez tekrarlanan ayak izi imgesi. Kapanista siyah kare var.
