@@ -1,0 +1,12 @@
+{"batch_score": 6, "range": "07:30-08:40",
+ "problems": [
+ {"time": "07:30", "type": "tekrar", "detail": "Ayak izi fotografi iki karede (07:30-07:35) neredeyse ayni, sadece hafif kayma var; ayrica kaynak satiri yok.", "fix": "Plani kisaltin veya farkli bir gorselle bolun; sag alta 'Image: NASA/JSC' kaynak satiri ekleyin."},
+ {"time": "07:40", "type": "ilgisiz", "detail": "Jupiter ve uzay araci kolaji; ay ussu konusuyla dogrudan ilgisi yok ve cizim/kolaj olmasina ragmen 'Illustration' etiketi yok.", "fix": "Anlatimla eslesen gercek bir gorsel kullanin veya 'Illustration' etiketi ekleyin."},
+ {"time": "07:55", "type": "ilgisiz", "detail": "Westerlund 2 nebulasi parlak, doygun renkli; Ay ussu konusuyla bagi zayif ve kanalin sakin, siyah zemin gorunumunden kopuk.", "fix": "Konuyla ilgili gorsel veya cizim semasi kullanin; gerekirse koyu karartma uygulayin."},
+ {"time": "08:10", "type": "ilgisiz", "detail": "Europa yuzey dokusu (NASA/JPL) Ay ussu anlatimiyla eslesmiyor gibi; gri, detayli, sikici doku.", "fix": "Anlatim Europa'dan bahsetmiyorsa Ay kutup bolgesi gorseliyle degistirin."},
+ {"time": "08:15", "type": "tekrar", "detail": "Ay yuzeyi ayak izleri karesi (08:15-08:20) ve baslangictaki ayak izi ayni tur Apollo gorseli; yakin tekrar hissi.", "fix": "Farkli bir gorsel veya semaya gecin; hareket (pan/push-in) artirin."},
+ {"time": "08:25", "type": "ilgisiz", "detail": "Eta Carinae gorseli Ay ussu konusuyla ilgisiz.", "fix": "Konuyla alakali gorsel secin veya kapanis temasina uygun bir sema cizin."},
+ {"time": "08:30", "type": "tempo", "detail": "SUBSCRIBE kutusu galaktik merkez gorseli uzerinde; kutu okunakli ama arka plan cok parlak/renkli, kanalin sakin stilinden farkli.", "fix": "Arka plani karartin (scrim) ve kanal paletine uyarlayin."},
+ {"time": "08:40", "type": "teknik", "detail": "Kapanista tamamen siyah kare; gezegen yorungeleri semasi (08:35) kaynak satirsiz ve cok sade.", "fix": "Siyah kareyi kisaltin veya son kart/yazi ekleyin; semaya kaynak satiri ekleyin."}
+ ],
+ "notes": "Gorseller genelde temiz ve yapay zeka artefakti yok. Metinler (SUBSCRIBE, kaynak satirlari) guvenli kenar boslugu icinde. Sorun: konudan kopuk gorseller (Jupiter, nebula, Eta Carinae, Europa) ve iki kez tekrarlanan ayak izi imgesi. Kapanista siyah kare var."}
