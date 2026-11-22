@@ -1,73 +1,74 @@
 {
-  "scene_id": 66,
-  "narration": "The base is still mostly on paper. The next two years decide whether it becomes hardware.",
-  "visual_brief": "Barren lunar surface with a single landed lander in the distance.",
-  "purpose": "cutaway",
-  "nasa_query": "Apollo 15 lunar surface",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_0.jpg",
-      "nasa_id": "S71-38188",
-      "title": "Artists concept of Apollo 15 crewmen performing deployment of LRV",
-      "center": "JSC",
-      "date": "1971-06-26",
-      "description": "S71-38188 (26 June 1971) --- An artist's concept showing the Apollo 15 mission commander and the lunar module pilot performing deployment of the Lunar Roving Vehicle (LRV) on the lunar surface. The figure on the left represents astronaut James B. Irwin, lunar module pilot, who here is maintaining a ",
-      "links": [
-        "https://images-assets.nasa.gov/image/S71-38188/S71-38188~medium.jpg",
-        "https://images-assets.nasa.gov/image/S71-38188/S71-38188~small.jpg",
-        "https://images-assets.nasa.gov/image/S71-38188/S71-38188~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S71-38188/S71-38188~large.jpg",
-        "https://images-assets.nasa.gov/image/S71-38188/S71-38188~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_1.jpg",
-      "nasa_id": "S71-38189",
-      "title": "Artists concept of Apollo 15 crewmen performing deployment of LRV",
-      "center": "JSC",
-      "date": "1971-06-26",
-      "description": "S71-38189 (26 June 1971) --- An artist's concept showing the final steps of readying the Apollo 15 Lunar Roving Vehicle (LRV) or Rover 1 for mobility on the lunar surface. Performing the last few LRV deployment tasks here are, left to right, astronauts James B. Irwin, lunar module pilot, and David R",
-      "links": [
-        "https://images-assets.nasa.gov/image/S71-38189/S71-38189~medium.jpg",
-        "https://images-assets.nasa.gov/image/S71-38189/S71-38189~small.jpg",
-        "https://images-assets.nasa.gov/image/S71-38189/S71-38189~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S71-38189/S71-38189~large.jpg",
-        "https://images-assets.nasa.gov/image/S71-38189/S71-38189~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_2.jpg",
-      "nasa_id": "as15-87-11849",
-      "title": "View of Mount Hadley as photographed by Apollo 15 during EVA",
-      "center": "JSC",
-      "date": "1971-07-31",
-      "description": "AS15-87-11849 (31 July-2 Aug. 1971) --- An excellent view of Mount Hadley, fully lighted, showing abundant linear features, as photographed during the Apollo 15 lunar surface extravehicular activity (EVA). This view is looking north from the Apollo Lunar Surface Experiments Package (ALSEP) site. Mou",
-      "links": [
-        "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~medium.jpg",
-        "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~small.jpg",
-        "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~large.jpg",
-        "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_3.jpg",
-      "nasa_id": "as15-97-13168",
-      "title": "View of crater Tsiolkovsky in highlands on lunar farside as seen by Apollo 15",
-      "center": "JSC",
-      "date": "1971-08-01",
-      "description": "AS15-97-13168 (31 July-2 Aug. 1971) --- A view of the flow structure on the rim and edge of the crater Tsiolkovsky in the highlands of the lunar farside, as photographed from lunar orbit by astronaut Alfred M. Worden in the Apollo 15 Command and Service Module (CSM). Note the scarp at the edge of th",
-      "links": [
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~medium.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~small.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~large.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 66,
+ "narration": "The base is still mostly on paper. The next two years decide whether it becomes hardware.",
+ "visual_brief": "Barren lunar surface with a single landed lander in the distance.",
+ "purpose": "cutaway",
+ "nasa_query": "Apollo 15 lunar surface",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_0.jpg",
+   "nasa_id": "S71-38188",
+   "title": "Artists concept of Apollo 15 crewmen performing deployment of LRV",
+   "center": "JSC",
+   "date": "1971-06-26",
+   "description": "S71-38188 (26 June 1971) --- An artist's concept showing the Apollo 15 mission commander and the lunar module pilot performing deployment of the Lunar Roving Vehicle (LRV) on the lunar surface. The figure on the left represents astronaut James B. Irwin, lunar module pilot, who here is maintaining a ",
+   "links": [
+    "https://images-assets.nasa.gov/image/S71-38188/S71-38188~medium.jpg",
+    "https://images-assets.nasa.gov/image/S71-38188/S71-38188~small.jpg",
+    "https://images-assets.nasa.gov/image/S71-38188/S71-38188~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S71-38188/S71-38188~large.jpg",
+    "https://images-assets.nasa.gov/image/S71-38188/S71-38188~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_1.jpg",
+   "nasa_id": "S71-38189",
+   "title": "Artists concept of Apollo 15 crewmen performing deployment of LRV",
+   "center": "JSC",
+   "date": "1971-06-26",
+   "description": "S71-38189 (26 June 1971) --- An artist's concept showing the final steps of readying the Apollo 15 Lunar Roving Vehicle (LRV) or Rover 1 for mobility on the lunar surface. Performing the last few LRV deployment tasks here are, left to right, astronauts James B. Irwin, lunar module pilot, and David R",
+   "links": [
+    "https://images-assets.nasa.gov/image/S71-38189/S71-38189~medium.jpg",
+    "https://images-assets.nasa.gov/image/S71-38189/S71-38189~small.jpg",
+    "https://images-assets.nasa.gov/image/S71-38189/S71-38189~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S71-38189/S71-38189~large.jpg",
+    "https://images-assets.nasa.gov/image/S71-38189/S71-38189~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_2.jpg",
+   "nasa_id": "as15-87-11849",
+   "title": "View of Mount Hadley as photographed by Apollo 15 during EVA",
+   "center": "JSC",
+   "date": "1971-07-31",
+   "description": "AS15-87-11849 (31 July-2 Aug. 1971) --- An excellent view of Mount Hadley, fully lighted, showing abundant linear features, as photographed during the Apollo 15 lunar surface extravehicular activity (EVA). This view is looking north from the Apollo Lunar Surface Experiments Package (ALSEP) site. Mou",
+   "links": [
+    "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~medium.jpg",
+    "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~small.jpg",
+    "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~large.jpg",
+    "https://images-assets.nasa.gov/image/as15-87-11849/as15-87-11849~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_066/aday_3.jpg",
+   "nasa_id": "as15-97-13168",
+   "title": "View of crater Tsiolkovsky in highlands on lunar farside as seen by Apollo 15",
+   "center": "JSC",
+   "date": "1971-08-01",
+   "description": "AS15-97-13168 (31 July-2 Aug. 1971) --- A view of the flow structure on the rim and edge of the crater Tsiolkovsky in the highlands of the lunar farside, as photographed from lunar orbit by astronaut Alfred M. Worden in the Apollo 15 Command and Service Module (CSM). Note the scarp at the edge of th",
+   "links": [
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~medium.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~small.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~large.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~orig.jpg"
+   ]
+  }
+ ]
 }

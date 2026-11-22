@@ -1,63 +1,64 @@
 {
-  "scene_id": 65,
-  "narration": "And whether anyone can show that the ice is usable, and where it came from.",
-  "visual_brief": "Icy moon surface with cracks, cold blue and white.",
-  "purpose": "cutaway",
-  "nasa_query": "Europa Galileo ice",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_0.jpg",
-      "nasa_id": "PIA00291",
-      "title": "Europa Broken Ice",
-      "center": "JPL",
-      "date": "1997-09-07",
-      "description": "Jupiter moon Europa, as seen in this image taken June 27, 1996 by NASA Galileo spacecraft, displays features in some areas resembling ice floes seen in Earth polar seas. http://photojournal.jpl.nasa.gov/catalog/PIA00291",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA00291/PIA00291~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA00291/PIA00291~orig.tif"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_1.jpg",
-      "nasa_id": "PIA02529",
-      "title": "Europa: Sea Salts or Battery Acid",
-      "center": "JPL",
-      "date": "2000-04-19",
-      "description": "This composite image of the Jupiter-facing hemisphere of Europa was obtained on Nov. 25, 1999 by NASA Galileo spacecraft. Blue areas show cleanest, brightest icy surfaces, while the red areas have the highest concentrations of darker, non-ice materials.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA02529/PIA02529~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA02529/PIA02529~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_2.jpg",
-      "nasa_id": "PIA00502",
-      "title": "Natural and False Color Views of Europa",
-      "center": "JPL",
-      "date": "1997-11-18",
-      "description": "This image, taken on September 7, 1996 by NASA Galileo orbiter, shows two views of the trailing hemisphere of Jupiter ice-covered satellite, Europa. The left image shows the approximate natural color appearance of Europa. The image on the right is a false-color composite version combining violet, gr",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA00502/PIA00502~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA00502/PIA00502~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA00502/PIA00502~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_3.jpg",
-      "nasa_id": "PIA26104",
-      "title": "Map of Water Signatures at Europa's Manannán Crater",
-      "center": "JPL",
-      "date": "2024-10-11",
-      "description": " Colors were mapped onto infrared data from NASA's Galileo mission in this image revealing locations around a crater on the Jovian moon Europa called Manannán where there are signatures of water. Manannán was created when a comet or asteroid hit the surface of Europa. The blue colors in this image i",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA26104/PIA26104~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA26104/PIA26104~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA26104/PIA26104~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 65,
+ "narration": "And whether anyone can show that the ice is usable, and where it came from.",
+ "visual_brief": "Icy moon surface with cracks, cold blue and white.",
+ "purpose": "cutaway",
+ "nasa_query": "Europa Galileo ice",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_0.jpg",
+   "nasa_id": "PIA00291",
+   "title": "Europa Broken Ice",
+   "center": "JPL",
+   "date": "1997-09-07",
+   "description": "Jupiter moon Europa, as seen in this image taken June 27, 1996 by NASA Galileo spacecraft, displays features in some areas resembling ice floes seen in Earth polar seas. http://photojournal.jpl.nasa.gov/catalog/PIA00291",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA00291/PIA00291~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA00291/PIA00291~orig.tif"
+   ],
+   "credit_line": "NASA/JPL"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_1.jpg",
+   "nasa_id": "PIA02529",
+   "title": "Europa: Sea Salts or Battery Acid",
+   "center": "JPL",
+   "date": "2000-04-19",
+   "description": "This composite image of the Jupiter-facing hemisphere of Europa was obtained on Nov. 25, 1999 by NASA Galileo spacecraft. Blue areas show cleanest, brightest icy surfaces, while the red areas have the highest concentrations of darker, non-ice materials.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA02529/PIA02529~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA02529/PIA02529~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_2.jpg",
+   "nasa_id": "PIA00502",
+   "title": "Natural and False Color Views of Europa",
+   "center": "JPL",
+   "date": "1997-11-18",
+   "description": "This image, taken on September 7, 1996 by NASA Galileo orbiter, shows two views of the trailing hemisphere of Jupiter ice-covered satellite, Europa. The left image shows the approximate natural color appearance of Europa. The image on the right is a false-color composite version combining violet, gr",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA00502/PIA00502~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA00502/PIA00502~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA00502/PIA00502~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_065/aday_3.jpg",
+   "nasa_id": "PIA26104",
+   "title": "Map of Water Signatures at Europa's Manannán Crater",
+   "center": "JPL",
+   "date": "2024-10-11",
+   "description": " Colors were mapped onto infrared data from NASA's Galileo mission in this image revealing locations around a crater on the Jovian moon Europa called Manannán where there are signatures of water. Manannán was created when a comet or asteroid hit the surface of Europa. The blue colors in this image i",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA26104/PIA26104~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA26104/PIA26104~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA26104/PIA26104~orig.jpg"
+   ]
+  }
+ ]
 }

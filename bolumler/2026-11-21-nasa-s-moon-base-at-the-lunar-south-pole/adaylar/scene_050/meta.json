@@ -1,73 +1,74 @@
 {
-  "scene_id": 50,
-  "narration": "The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining.",
-  "visual_brief": "Astronaut footprints and dust on a steep lunar slope.",
-  "purpose": "explain",
-  "nasa_query": "Moon dust Apollo",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_0.jpg",
-      "nasa_id": "as14-68-9414",
-      "title": "Astronaut Alan Shepard stands beside large boulder found by Apollo 14 crew",
-      "center": "JSC",
-      "date": "1971-02-06",
-      "description": "AS14-68-9414 (6 Feb. 1971) --- Astronaut Alan B. Shepard Jr., Apollo 14 commander, stands beside a large boulder on the lunar surface during the mission's second extravehicular activity (EVA), on Feb. 6, 1971. Note the lunar dust clinging to Shepard's space suit. Astronauts Shepard and Edgar D. Mitc",
-      "links": [
-        "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~medium.jpg",
-        "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~small.jpg",
-        "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~large.jpg",
-        "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_1.jpg",
-      "nasa_id": "KSC-2012-3091",
-      "title": "KSC-2012-3091",
-      "center": "KSC",
-      "date": "2012-05-26",
-      "description": "CAPE CANAVERAL, Fla. - Teams taking part in NASA's Lunabotics Mining Competition gather inside the Apollo/Saturn V Center at Kennedy Space Center Visitor Complex in Florida for the awards ceremony at the end of the event. They are seated beneath the first stage of the Saturn V rocket that carried as",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_2.jpg",
-      "nasa_id": "s69-40054",
-      "title": "Lunar Receiving Laboratory (LRL) - Slezak, Terry - Moon Dust - MSC",
-      "center": "JSC",
-      "date": "1969-07-25",
-      "description": "The first direct exposure to Lunar material for Crew Reception Personnel probably happened late Friday, 07/25/1969. Terry Slezak (displaying Moon dust on his left hand fingers), MSC photographic technician, was removing film magazines from the first of two (2) containers when the incident occurred. ",
-      "links": [
-        "https://images-assets.nasa.gov/image/s69-40054/s69-40054~medium.jpg",
-        "https://images-assets.nasa.gov/image/s69-40054/s69-40054~small.jpg",
-        "https://images-assets.nasa.gov/image/s69-40054/s69-40054~thumb.jpg",
-        "https://images-assets.nasa.gov/image/s69-40054/s69-40054~large.jpg",
-        "https://images-assets.nasa.gov/image/s69-40054/s69-40054~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_3.jpg",
-      "nasa_id": "S72-35010",
-      "title": "S72-35010",
-      "center": "JSC",
-      "date": "1972-04-12",
-      "description": "S72-35010 (April 1972) --- The Apollo Program's final manned landing on the moon will explore a site designated Taurus-Littrow on the southeastern rim of the Sea of Serenity. This photograph from the Apollo 15 Metric Camera gives a vertical view of the Apollo 17 landing site at 20 degrees north lati",
-      "links": [
-        "https://images-assets.nasa.gov/image/S72-35010/S72-35010~medium.jpg",
-        "https://images-assets.nasa.gov/image/S72-35010/S72-35010~small.jpg",
-        "https://images-assets.nasa.gov/image/S72-35010/S72-35010~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S72-35010/S72-35010~large.jpg",
-        "https://images-assets.nasa.gov/image/S72-35010/S72-35010~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 50,
+ "narration": "The pole has steep slopes, ridges and deep craters. Add dust and extreme cold. Even a perfect landing is not yet mining.",
+ "visual_brief": "Astronaut footprints and dust on a steep lunar slope.",
+ "purpose": "explain",
+ "nasa_query": "Moon dust Apollo",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_0.jpg",
+   "nasa_id": "as14-68-9414",
+   "title": "Astronaut Alan Shepard stands beside large boulder found by Apollo 14 crew",
+   "center": "JSC",
+   "date": "1971-02-06",
+   "description": "AS14-68-9414 (6 Feb. 1971) --- Astronaut Alan B. Shepard Jr., Apollo 14 commander, stands beside a large boulder on the lunar surface during the mission's second extravehicular activity (EVA), on Feb. 6, 1971. Note the lunar dust clinging to Shepard's space suit. Astronauts Shepard and Edgar D. Mitc",
+   "links": [
+    "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~medium.jpg",
+    "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~small.jpg",
+    "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~large.jpg",
+    "https://images-assets.nasa.gov/image/as14-68-9414/as14-68-9414~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_1.jpg",
+   "nasa_id": "KSC-2012-3091",
+   "title": "KSC-2012-3091",
+   "center": "KSC",
+   "date": "2012-05-26",
+   "description": "CAPE CANAVERAL, Fla. - Teams taking part in NASA's Lunabotics Mining Competition gather inside the Apollo/Saturn V Center at Kennedy Space Center Visitor Complex in Florida for the awards ceremony at the end of the event. They are seated beneath the first stage of the Saturn V rocket that carried as",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2012-3091/KSC-2012-3091~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_2.jpg",
+   "nasa_id": "s69-40054",
+   "title": "Lunar Receiving Laboratory (LRL) - Slezak, Terry - Moon Dust - MSC",
+   "center": "JSC",
+   "date": "1969-07-25",
+   "description": "The first direct exposure to Lunar material for Crew Reception Personnel probably happened late Friday, 07/25/1969. Terry Slezak (displaying Moon dust on his left hand fingers), MSC photographic technician, was removing film magazines from the first of two (2) containers when the incident occurred. ",
+   "links": [
+    "https://images-assets.nasa.gov/image/s69-40054/s69-40054~medium.jpg",
+    "https://images-assets.nasa.gov/image/s69-40054/s69-40054~small.jpg",
+    "https://images-assets.nasa.gov/image/s69-40054/s69-40054~thumb.jpg",
+    "https://images-assets.nasa.gov/image/s69-40054/s69-40054~large.jpg",
+    "https://images-assets.nasa.gov/image/s69-40054/s69-40054~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_050/aday_3.jpg",
+   "nasa_id": "S72-35010",
+   "title": "S72-35010",
+   "center": "JSC",
+   "date": "1972-04-12",
+   "description": "S72-35010 (April 1972) --- The Apollo Program's final manned landing on the moon will explore a site designated Taurus-Littrow on the southeastern rim of the Sea of Serenity. This photograph from the Apollo 15 Metric Camera gives a vertical view of the Apollo 17 landing site at 20 degrees north lati",
+   "links": [
+    "https://images-assets.nasa.gov/image/S72-35010/S72-35010~medium.jpg",
+    "https://images-assets.nasa.gov/image/S72-35010/S72-35010~small.jpg",
+    "https://images-assets.nasa.gov/image/S72-35010/S72-35010~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S72-35010/S72-35010~large.jpg",
+    "https://images-assets.nasa.gov/image/S72-35010/S72-35010~orig.jpg"
+   ]
+  }
+ ]
 }

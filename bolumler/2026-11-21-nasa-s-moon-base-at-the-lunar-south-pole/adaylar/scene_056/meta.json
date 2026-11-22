@@ -1,67 +1,68 @@
 {
-  "scene_id": 56,
-  "narration": "Two programs, both with slipping calendars, both eyeing the Shackleton area. That is a reason for speed, and a reason for caution.",
-  "visual_brief": "Saturn and its rings, two paths diverging, majesty.",
-  "purpose": "cutaway",
-  "nasa_query": "Saturn Cassini rings",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_0.jpg",
-      "nasa_id": "PIA17199",
-      "title": "The Edge of the Night",
-      "center": "JPL",
-      "date": "2018-03-19",
-      "description": "Saturn's shadow sweeps across the rings in a view captured on Nov. 5, 2006 by NASA's Cassini spacecraft. In the bottom half of the image, the countless icy particles that make up the rings bask in full daylight. In the top half, they move through Saturn's shadow. On the right side of the image, the ",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA17199/PIA17199~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA17199/PIA17199~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA17199/PIA17199~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_1.jpg",
-      "nasa_id": "PIA21894",
-      "title": "Lone Propeller",
-      "center": "JPL",
-      "date": "2017-09-15",
-      "description": "This view of Saturn's A ring features a lone \"propeller\" -- one of many such features created by small moonlets embedded in the rings as they attempt, unsuccessfully, to open gaps in the ring material. The image was taken by NASA's Cassini spacecraft on Sept. 13, 2017. It is among the last images Ca",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA21894/PIA21894~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA21894/PIA21894~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA21894/PIA21894~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_2.jpg",
-      "nasa_id": "PIA21901",
-      "title": "Veil of Ice",
-      "center": "JPL",
-      "date": "2018-01-08",
-      "description": "Saturn's rings, made of countless icy particles, form a translucent veil in this view from NASA's Cassini spacecraft. Saturn's tiny moon Pan, about 17 miles (28 kilometers) across, orbits within the Encke Gap in the A ring. Beyond, we can see the arc of Saturn itself, its cloud tops streaked with da",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA21901/PIA21901~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA21901/PIA21901~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA21901/PIA21901~orig.tif"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_3.jpg",
-      "nasa_id": "PIA06193",
-      "title": "The Greatest Saturn Portrait ...Yet",
-      "center": "JPL",
-      "date": "2005-02-24",
-      "description": "While cruising around Saturn in early October 2004, Cassini captured a series of images that have been composed into the largest, most detailed, global natural color view of Saturn and its rings ever made. This grand mosaic consists of 126 images acquired in a tile-like fashion, covering one end of ",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA06193/PIA06193~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA06193/PIA06193~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA06193/PIA06193~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA06193/PIA06193~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA06193/PIA06193~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 56,
+ "narration": "Two programs, both with slipping calendars, both eyeing the Shackleton area. That is a reason for speed, and a reason for caution.",
+ "visual_brief": "Saturn and its rings, two paths diverging, majesty.",
+ "purpose": "cutaway",
+ "nasa_query": "Saturn Cassini rings",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_0.jpg",
+   "nasa_id": "PIA17199",
+   "title": "The Edge of the Night",
+   "center": "JPL",
+   "date": "2018-03-19",
+   "description": "Saturn's shadow sweeps across the rings in a view captured on Nov. 5, 2006 by NASA's Cassini spacecraft. In the bottom half of the image, the countless icy particles that make up the rings bask in full daylight. In the top half, they move through Saturn's shadow. On the right side of the image, the ",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA17199/PIA17199~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA17199/PIA17199~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA17199/PIA17199~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_1.jpg",
+   "nasa_id": "PIA21894",
+   "title": "Lone Propeller",
+   "center": "JPL",
+   "date": "2017-09-15",
+   "description": "This view of Saturn's A ring features a lone \"propeller\" -- one of many such features created by small moonlets embedded in the rings as they attempt, unsuccessfully, to open gaps in the ring material. The image was taken by NASA's Cassini spacecraft on Sept. 13, 2017. It is among the last images Ca",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA21894/PIA21894~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA21894/PIA21894~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA21894/PIA21894~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_2.jpg",
+   "nasa_id": "PIA21901",
+   "title": "Veil of Ice",
+   "center": "JPL",
+   "date": "2018-01-08",
+   "description": "Saturn's rings, made of countless icy particles, form a translucent veil in this view from NASA's Cassini spacecraft. Saturn's tiny moon Pan, about 17 miles (28 kilometers) across, orbits within the Encke Gap in the A ring. Beyond, we can see the arc of Saturn itself, its cloud tops streaked with da",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA21901/PIA21901~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA21901/PIA21901~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA21901/PIA21901~orig.tif"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_056/aday_3.jpg",
+   "nasa_id": "PIA06193",
+   "title": "The Greatest Saturn Portrait ...Yet",
+   "center": "JPL",
+   "date": "2005-02-24",
+   "description": "While cruising around Saturn in early October 2004, Cassini captured a series of images that have been composed into the largest, most detailed, global natural color view of Saturn and its rings ever made. This grand mosaic consists of 126 images acquired in a tile-like fashion, covering one end of ",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA06193/PIA06193~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA06193/PIA06193~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA06193/PIA06193~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA06193/PIA06193~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA06193/PIA06193~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL/Space Science Institute"
+  }
+ ]
 }

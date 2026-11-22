@@ -1,71 +1,72 @@
 {
-  "scene_id": 34,
-  "narration": "What comes after the landers? Two strange machines.",
-  "visual_brief": "Crab Nebula pulsing filaments, anticipation.",
-  "purpose": "cutaway",
-  "nasa_query": "Crab Nebula Hubble",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_0.jpg",
-      "nasa_id": "PIA03606",
-      "title": "Most Detailed Image of the Crab Nebula",
-      "center": "JPL",
-      "date": "2005-12-01",
-      "description": "The Crab Nebula is one of the most intricately structured and highly dynamical objects ever observed. The new Hubble image of the Crab was assembled from 24 individual exposures taken with the NASA/ESA Hubble Space Telescope",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_1.jpg",
-      "nasa_id": "PIA17563",
-      "title": "Crab Nebula, as Seen by Herschel and Hubble",
-      "center": "JPL",
-      "date": "2013-12-12",
-      "description": "This image shows a composite view of the Crab nebula, an iconic supernova remnant in our Milky Way galaxy, as viewed by the Herschel Space Observatory and the Hubble Space Telescope.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000273",
-      "title": "NASA's Hubble Captures the Beating Heart of the Crab Nebula",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Peering deep into the core of the Crab Nebula, this close-up image reveals the beating heart of one of the most historic and intensively studied remnants of a supernova, an exploding star. The inner region sends out clock-like pulses of radiation and tsunamis of charged particles embedded in magneti",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_3.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e002159",
-      "title": "Crab Nebula",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "The Crab Nebula is a supernova remnant, all that remains of a tremendous stellar explosion. Observers in China and Japan recorded the supernova nearly 1,000 years ago, in 1054. Credit: NASA, ESA, J. Hester and A. Loll (Arizona State University) The Hubble Space Telescope is a project of internationa",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 34,
+ "narration": "What comes after the landers? Two strange machines.",
+ "visual_brief": "Crab Nebula pulsing filaments, anticipation.",
+ "purpose": "cutaway",
+ "nasa_query": "Crab Nebula Hubble",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_0.jpg",
+   "nasa_id": "PIA03606",
+   "title": "Most Detailed Image of the Crab Nebula",
+   "center": "JPL",
+   "date": "2005-12-01",
+   "description": "The Crab Nebula is one of the most intricately structured and highly dynamical objects ever observed. The new Hubble image of the Crab was assembled from 24 individual exposures taken with the NASA/ESA Hubble Space Telescope",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA03606/PIA03606~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA03606/PIA03606~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA03606/PIA03606~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA03606/PIA03606~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_1.jpg",
+   "nasa_id": "PIA17563",
+   "title": "Crab Nebula, as Seen by Herschel and Hubble",
+   "center": "JPL",
+   "date": "2013-12-12",
+   "description": "This image shows a composite view of the Crab nebula, an iconic supernova remnant in our Milky Way galaxy, as viewed by the Herschel Space Observatory and the Hubble Space Telescope.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA17563/PIA17563~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA17563/PIA17563~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA17563/PIA17563~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA17563/PIA17563~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA17563/PIA17563~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_2.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000273",
+   "title": "NASA's Hubble Captures the Beating Heart of the Crab Nebula",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Peering deep into the core of the Crab Nebula, this close-up image reveals the beating heart of one of the most historic and intensively studied remnants of a supernova, an exploding star. The inner region sends out clock-like pulses of radiation and tsunamis of charged particles embedded in magneti",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000273/GSFC_20171208_Archive_e000273~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_034/aday_3.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e002159",
+   "title": "Crab Nebula",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "The Crab Nebula is a supernova remnant, all that remains of a tremendous stellar explosion. Observers in China and Japan recorded the supernova nearly 1,000 years ago, in 1054. Credit: NASA, ESA, J. Hester and A. Loll (Arizona State University) The Hubble Space Telescope is a project of internationa",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~medium.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~large.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002159/GSFC_20171208_Archive_e002159~orig.jpg"
+   ]
+  }
+ ]
 }

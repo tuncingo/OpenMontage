@@ -281,7 +281,7 @@ const Slips: React.FC<{ which: string }> = ({ which }) => {
         </g>
       ) : null}
       {which === "III" ? (
-        <Txt x={(monthX(12) + monthX(15)) / 2} y={AXY + 126} anchor="middle" fill={GREY} tracking={3} opacity={prog(frame, 90, 20)}>
+        <Txt x={(monthX(12) + monthX(15)) / 2} y={AXY + 126} anchor="middle" fill="#D5DBE9" tracking={3} opacity={prog(frame, 90, 20)}>
           ACCORDING TO ITS MAKER
         </Txt>
       ) : null}

@@ -1,89 +1,106 @@
 {
-  "scene_id": 54,
-  "narration": "China plans a crewed landing by around 2030. It is also planning a lunar research station with Russia, with construction from about 2031.",
-  "visual_brief": "Lunar lander and research station concept, Chinese programme.",
-  "purpose": "explain",
-  "nasa_query": "Artemis lunar lander Starship HLS | Artemis base camp Moon surface",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_0.jpg",
-      "nasa_id": "11 03 24 artemis 3 on surface",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS on the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV as part of the agency’s Artemis campaign. At about 165 feet (5",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~small.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~large.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_1.jpg",
-      "nasa_id": "09 24 24 First steps Axiom suits",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS on the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV as part of the agency’s Artemis campaign. At about 165 feet (5",
-      "links": [
-        "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~medium.jpg",
-        "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~small.jpg",
-        "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~thumb.jpg",
-        "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~large.jpg",
-        "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_2.jpg",
-      "nasa_id": "11 04 24 hls 2 raptors",
-      "title": "Artist’s Concept Portrays SpaceX’s Starship HLS with Raptor Engines for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "This artist’s concept portrays SpaceX’s Starship Human Landing System (HLS) with two Raptor engines lit, performing a braking burn prior to its Moon landing. The burn will occur after Starship HLS departs low lunar orbit to reduce the lander’s velocity prior to final descent to the lunar surface. NA",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~small.jpg",
-        "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~large.jpg",
-        "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_3.jpg",
-      "nasa_id": "11 14 24 fuel depot",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_4.jpg",
-      "nasa_id": "11 03 24  orion transfer",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 54,
+ "narration": "China plans a crewed landing by around 2030. It is also planning a lunar research station with Russia, with construction from about 2031.",
+ "visual_brief": "Lunar lander and research station concept, Chinese programme.",
+ "purpose": "explain",
+ "nasa_query": "Artemis lunar lander Starship HLS | Artemis base camp Moon surface",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_0.jpg",
+   "nasa_id": "11 03 24 artemis 3 on surface",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS on the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV as part of the agency’s Artemis campaign. At about 165 feet (5",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~small.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~large.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24 artemis 3 on surface/11 03 24 artemis 3 on surface~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_1.jpg",
+   "nasa_id": "09 24 24 First steps Axiom suits",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS on the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV as part of the agency’s Artemis campaign. At about 165 feet (5",
+   "links": [
+    "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~medium.jpg",
+    "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~small.jpg",
+    "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~thumb.jpg",
+    "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~large.jpg",
+    "https://images-assets.nasa.gov/image/09 24 24 First steps Axiom suits/09 24 24 First steps Axiom suits~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_2.jpg",
+   "nasa_id": "11 04 24 hls 2 raptors",
+   "title": "Artist’s Concept Portrays SpaceX’s Starship HLS with Raptor Engines for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "This artist’s concept portrays SpaceX’s Starship Human Landing System (HLS) with two Raptor engines lit, performing a braking burn prior to its Moon landing. The burn will occur after Starship HLS departs low lunar orbit to reduce the lander’s velocity prior to final descent to the lunar surface. NA",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~small.jpg",
+    "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~large.jpg",
+    "https://images-assets.nasa.gov/image/11 04 24 hls 2 raptors/11 04 24 hls 2 raptors~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_3.jpg",
+   "nasa_id": "11 14 24 fuel depot",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_4.jpg",
+   "nasa_id": "11 03 24  orion transfer",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_054/aday_5.jpg",
+   "nasa_id": "PIA25433",
+   "title": "The Eagle Nebula Observed by WISE",
+   "center": "JPL",
+   "date": "2022-11-11",
+   "description": "The dusty face of the Eagle Nebula and its surroundings are revealed in this image based on data from NASA's Wide Field Survey Explorer (WISE). WISE detects infrared light, or a range of wavelengths longer than what the human eye can see. This large star forming region is about 5,700 light years awa",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA25433/PIA25433~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA25433/PIA25433~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA25433/PIA25433~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA25433/PIA25433~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA25433/PIA25433~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL-Caltech"
+  }
+ ]
 }

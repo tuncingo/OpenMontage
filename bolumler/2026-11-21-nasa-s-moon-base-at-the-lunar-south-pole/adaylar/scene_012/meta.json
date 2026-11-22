@@ -1,73 +1,74 @@
 {
-  "scene_id": 12,
-  "narration": "There are three phases. Phase One, now to 2029, is robots, tech demos and scouting.",
-  "visual_brief": "Robotic lander and rover scouting a lunar plain at the Artemis base camp concept.",
-  "purpose": "evidence",
-  "nasa_query": "Artemis Base Camp",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_0.jpg",
-      "nasa_id": "1100167",
-      "title": "1100167",
-      "center": "MSFC",
-      "date": "2011-03-03",
-      "description": "THE FIRST STAP DOWN TEST OF THE HOT FIRE ROBOTIC LANDER",
-      "links": [
-        "https://images-assets.nasa.gov/image/1100167/1100167~medium.jpg",
-        "https://images-assets.nasa.gov/image/1100167/1100167~small.jpg",
-        "https://images-assets.nasa.gov/image/1100167/1100167~thumb.jpg",
-        "https://images-assets.nasa.gov/image/1100167/1100167~large.jpg",
-        "https://images-assets.nasa.gov/image/1100167/1100167~orig.tif"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_1.jpg",
-      "nasa_id": "1100020",
-      "title": "1100020",
-      "center": "MSFC",
-      "date": "2011-01-20",
-      "description": "THE HOT FIRE ROBOTIC LANDER PROTOTYPE AT TELEDYNE BROWN ENGINEERING.",
-      "links": [
-        "https://images-assets.nasa.gov/image/1100020/1100020~medium.jpg",
-        "https://images-assets.nasa.gov/image/1100020/1100020~small.jpg",
-        "https://images-assets.nasa.gov/image/1100020/1100020~thumb.jpg",
-        "https://images-assets.nasa.gov/image/1100020/1100020~large.jpg",
-        "https://images-assets.nasa.gov/image/1100020/1100020~orig.tif"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_2.jpg",
-      "nasa_id": "1100133",
-      "title": "1100133",
-      "center": "MSFC",
-      "date": "2011-02-23",
-      "description": "MSFC'S JOSH MOORE AND SCOTT GILLEY CONTINUE WORK TO PREPARE THE HOT FIRE ROBOTIC LANDER FOR TESTING ON THE ARMY'S TEST RANGE",
-      "links": [
-        "https://images-assets.nasa.gov/image/1100133/1100133~medium.jpg",
-        "https://images-assets.nasa.gov/image/1100133/1100133~small.jpg",
-        "https://images-assets.nasa.gov/image/1100133/1100133~thumb.jpg",
-        "https://images-assets.nasa.gov/image/1100133/1100133~large.jpg",
-        "https://images-assets.nasa.gov/image/1100133/1100133~orig.tif"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_3.jpg",
-      "nasa_id": "PIA23495",
-      "title": "Robotic Arm Transferring Tubes From Fetch Rover to Lander (Artist's Concept)",
-      "center": "JPL",
-      "date": "2020-02-10",
-      "description": "In this illustration of a Mars sample return mission concept, a robotic arm transfers samples of Martian rock and soil from a fetch rover onto a lander. NASA and the European Space Agency are solidifying concepts for a Mars sample return mission after NASA's Mars 2020 rover collects rock and soil sa",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA23495/PIA23495~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA23495/PIA23495~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA23495/PIA23495~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA23495/PIA23495~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA23495/PIA23495~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 12,
+ "narration": "There are three phases. Phase One, now to 2029, is robots, tech demos and scouting.",
+ "visual_brief": "Robotic lander and rover scouting a lunar plain at the Artemis base camp concept.",
+ "purpose": "evidence",
+ "nasa_query": "Artemis Base Camp",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_0.jpg",
+   "nasa_id": "1100167",
+   "title": "1100167",
+   "center": "MSFC",
+   "date": "2011-03-03",
+   "description": "THE FIRST STAP DOWN TEST OF THE HOT FIRE ROBOTIC LANDER",
+   "links": [
+    "https://images-assets.nasa.gov/image/1100167/1100167~medium.jpg",
+    "https://images-assets.nasa.gov/image/1100167/1100167~small.jpg",
+    "https://images-assets.nasa.gov/image/1100167/1100167~thumb.jpg",
+    "https://images-assets.nasa.gov/image/1100167/1100167~large.jpg",
+    "https://images-assets.nasa.gov/image/1100167/1100167~orig.tif"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_1.jpg",
+   "nasa_id": "1100020",
+   "title": "1100020",
+   "center": "MSFC",
+   "date": "2011-01-20",
+   "description": "THE HOT FIRE ROBOTIC LANDER PROTOTYPE AT TELEDYNE BROWN ENGINEERING.",
+   "links": [
+    "https://images-assets.nasa.gov/image/1100020/1100020~medium.jpg",
+    "https://images-assets.nasa.gov/image/1100020/1100020~small.jpg",
+    "https://images-assets.nasa.gov/image/1100020/1100020~thumb.jpg",
+    "https://images-assets.nasa.gov/image/1100020/1100020~large.jpg",
+    "https://images-assets.nasa.gov/image/1100020/1100020~orig.tif"
+   ],
+   "credit_line": "NASA/MSFC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_2.jpg",
+   "nasa_id": "1100133",
+   "title": "1100133",
+   "center": "MSFC",
+   "date": "2011-02-23",
+   "description": "MSFC'S JOSH MOORE AND SCOTT GILLEY CONTINUE WORK TO PREPARE THE HOT FIRE ROBOTIC LANDER FOR TESTING ON THE ARMY'S TEST RANGE",
+   "links": [
+    "https://images-assets.nasa.gov/image/1100133/1100133~medium.jpg",
+    "https://images-assets.nasa.gov/image/1100133/1100133~small.jpg",
+    "https://images-assets.nasa.gov/image/1100133/1100133~thumb.jpg",
+    "https://images-assets.nasa.gov/image/1100133/1100133~large.jpg",
+    "https://images-assets.nasa.gov/image/1100133/1100133~orig.tif"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_012/aday_3.jpg",
+   "nasa_id": "PIA23495",
+   "title": "Robotic Arm Transferring Tubes From Fetch Rover to Lander (Artist's Concept)",
+   "center": "JPL",
+   "date": "2020-02-10",
+   "description": "In this illustration of a Mars sample return mission concept, a robotic arm transfers samples of Martian rock and soil from a fetch rover onto a lander. NASA and the European Space Agency are solidifying concepts for a Mars sample return mission after NASA's Mars 2020 rover collects rock and soil sa",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA23495/PIA23495~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA23495/PIA23495~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA23495/PIA23495~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA23495/PIA23495~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA23495/PIA23495~orig.jpg"
+   ]
+  }
+ ]
 }

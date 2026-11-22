@@ -1,0 +1,76 @@
+{
+ "selections": [
+  {
+   "scene_id": 16,
+   "chosen": 0,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). Hubble reveals the Ring Nebula’s true shape.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 21,
+   "chosen": 6,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). The Tarantula Nebula.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 29,
+   "chosen": 6,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). Hubble reveals heart of Lagoon Nebula.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 43,
+   "chosen": 4,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). Young Stars in Their Baby Blanket of Dust.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 46,
+   "chosen": 5,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). NASA Hubble Sees Sparring Antennae Galaxies.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 52,
+   "chosen": 6,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). An Audience Favorite Nebula.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 54,
+   "chosen": 5,
+   "fit_score": 6,
+   "reason": "Editör kararı (düzeltme turu): genel cümlelerde renkli kozmik ara plan kullanılır (stil rehberi). The Eagle Nebula Observed by WISE.",
+   "issues": [
+    "Gerçek bir görev/araç gösterimi değil; kozmik ara plan"
+   ]
+  },
+  {
+   "scene_id": 69,
+   "chosen": 1,
+   "fit_score": 6,
+   "reason": "Editör kararı: kapanışta siyaha yakın kare yerine renkli kozmik görsel (Horsehead Nebula).",
+   "issues": [
+    "Kozmik ara plan"
+   ]
+  }
+ ]
+}

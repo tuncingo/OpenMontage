@@ -1,57 +1,58 @@
 {
-  "scene_id": 3,
-  "narration": "So why did NASA pause Gateway? And what is real here, and what is still on paper?",
-  "visual_brief": "Colourful nebula pillars, a question-mark mood of mystery and depth.",
-  "purpose": "cutaway",
-  "nasa_query": "Carina Nebula Webb",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_0.jpg",
-      "nasa_id": "carina_nebula",
-      "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
-      "center": "STScI (Webb)",
-      "date": "2022-07-12",
-      "description": "What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, this image reveals previously obscured areas of",
-      "links": [
-        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~medium.jpg",
-        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg",
-        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~thumb.jpg",
-        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~large.jpg",
-        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~orig.png"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_1.jpg",
-      "nasa_id": "NHQ202207120010",
-      "title": "JWST’s First Full-Color Images",
-      "center": "HQ",
-      "date": "2022-07-12",
-      "description": "The image captured by NASA’s James Webb Space Telescope of the star-forming region called NGC 3324 in the Carina Nebula is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Space Telescope, Tuesday, July 12, 2022, at ",
-      "links": [
-        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_2.jpg",
-      "nasa_id": "NHQ202207120021",
-      "title": "JWST’s First Full-Color Images",
-      "center": "HQ",
-      "date": "2022-07-12",
-      "description": "NASA James Webb Space Telescope Deputy Project Scientist for Communications Amber Straughn speaks about the infrared image of the star-forming region called NGC 3324 in the Carina Nebula as it is shown on a screen during a broadcast releasing the telescope’s first full-color images, Tuesday, July 12",
-      "links": [
-        "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 3,
+ "narration": "So why did NASA pause Gateway? And what is real here, and what is still on paper?",
+ "visual_brief": "Colourful nebula pillars, a question-mark mood of mystery and depth.",
+ "purpose": "cutaway",
+ "nasa_query": "Carina Nebula Webb",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_0.jpg",
+   "nasa_id": "carina_nebula",
+   "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+   "center": "STScI (Webb)",
+   "date": "2022-07-12",
+   "description": "What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, this image reveals previously obscured areas of",
+   "links": [
+    "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~medium.jpg",
+    "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg",
+    "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~thumb.jpg",
+    "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~large.jpg",
+    "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~orig.png"
+   ],
+   "credit_line": "NASA/STScI (Webb)"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_1.jpg",
+   "nasa_id": "NHQ202207120010",
+   "title": "JWST’s First Full-Color Images",
+   "center": "HQ",
+   "date": "2022-07-12",
+   "description": "The image captured by NASA’s James Webb Space Telescope of the star-forming region called NGC 3324 in the Carina Nebula is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Space Telescope, Tuesday, July 12, 2022, at ",
+   "links": [
+    "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~medium.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~small.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~large.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_003/aday_2.jpg",
+   "nasa_id": "NHQ202207120021",
+   "title": "JWST’s First Full-Color Images",
+   "center": "HQ",
+   "date": "2022-07-12",
+   "description": "NASA James Webb Space Telescope Deputy Project Scientist for Communications Amber Straughn speaks about the infrared image of the star-forming region called NGC 3324 in the Carina Nebula as it is shown on a screen during a broadcast releasing the telescope’s first full-color images, Tuesday, July 12",
+   "links": [
+    "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~medium.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~small.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~large.jpg",
+    "https://images-assets.nasa.gov/image/NHQ202207120021/NHQ202207120021~orig.jpg"
+   ]
+  }
+ ]
 }

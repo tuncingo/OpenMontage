@@ -1,72 +1,73 @@
 {
-  "scene_id": 28,
-  "narration": "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge.",
-  "visual_brief": "Blue Origin Blue Moon lander on the lunar surface.",
-  "purpose": "evidence",
-  "nasa_query": "Blue Moon lander",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_0.jpg",
-      "nasa_id": "MK2_EOR_ArtemisIII_Dock",
-      "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
-      "center": "MSFC",
-      "date": "2026-07-16",
-      "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
-      "links": [
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_1.jpg",
-      "nasa_id": "Artemis IV Blue Origin Concept of Operations",
-      "title": "Artemis IV Blue Origin Concept of Operations",
-      "center": "KSC",
-      "date": "2026-10-14",
-      "description": "This graphic shows the concept of operations for an Artemis IV mission with Blue Origin’s Blue Moon Mark 2 lander",
-      "links": [
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~large.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~medium.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~small.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~thumb.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_2.jpg",
-      "nasa_id": "IMG_4939",
-      "title": "NASA CLPS Payload Aims to Probe the Moon",
-      "center": "MSFC",
-      "date": "2024-12-18",
-      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could help improve our understanding of the Moon. The Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity, or LISTER, is one of 10 payloads set to be carried to the ",
-      "links": [
-        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~medium.jpg",
-        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~small.jpg",
-        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~thumb.jpg",
-        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~large.jpg",
-        "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~orig.jpeg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_3.jpg",
-      "nasa_id": "NGLR Payload EDIT",
-      "title": "NASA Anticipates Lunar Findings from Artemis Retroreflector",
-      "center": "MSFC",
-      "date": "2025-01-02",
-      "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is expected to significantly expand our knowledge of the Moon. Next Generation Lunar Retroreflector, or NGLR-1, is one of 10 payloads set to be carried to the Moon by the Blue Ghost 1 ",
-      "links": [
-        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~medium.jpg",
-        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~small.jpg",
-        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~orig.png"
-      ]
-    }
-  ]
+ "scene_id": 28,
+ "narration": "Moon Base One is a Blue Origin lander aimed at the Shackleton Connecting Ridge.",
+ "visual_brief": "Blue Origin Blue Moon lander on the lunar surface.",
+ "purpose": "evidence",
+ "nasa_query": "Blue Moon lander",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_0.jpg",
+   "nasa_id": "MK2_EOR_ArtemisIII_Dock",
+   "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
+   "center": "MSFC",
+   "date": "2026-07-16",
+   "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
+   "links": [
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
+   ],
+   "credit_line": "Blue Origin"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_1.jpg",
+   "nasa_id": "Artemis IV Blue Origin Concept of Operations",
+   "title": "Artemis IV Blue Origin Concept of Operations",
+   "center": "KSC",
+   "date": "2026-10-14",
+   "description": "This graphic shows the concept of operations for an Artemis IV mission with Blue Origin’s Blue Moon Mark 2 lander",
+   "links": [
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~large.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~medium.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~small.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~thumb.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_2.jpg",
+   "nasa_id": "IMG_4939",
+   "title": "NASA CLPS Payload Aims to Probe the Moon",
+   "center": "MSFC",
+   "date": "2024-12-18",
+   "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could help improve our understanding of the Moon. The Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity, or LISTER, is one of 10 payloads set to be carried to the ",
+   "links": [
+    "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~medium.jpg",
+    "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~small.jpg",
+    "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~thumb.jpg",
+    "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~large.jpg",
+    "https://images-assets.nasa.gov/image/IMG_4939/IMG_4939~orig.jpeg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_028/aday_3.jpg",
+   "nasa_id": "NGLR Payload EDIT",
+   "title": "NASA Anticipates Lunar Findings from Artemis Retroreflector",
+   "center": "MSFC",
+   "date": "2025-01-02",
+   "description": "A science instrument flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative is expected to significantly expand our knowledge of the Moon. Next Generation Lunar Retroreflector, or NGLR-1, is one of 10 payloads set to be carried to the Moon by the Blue Ghost 1 ",
+   "links": [
+    "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~medium.jpg",
+    "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~small.jpg",
+    "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NGLR Payload EDIT/NGLR Payload EDIT~orig.png"
+   ]
+  }
+ ]
 }

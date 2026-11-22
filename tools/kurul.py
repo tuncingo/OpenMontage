@@ -401,7 +401,7 @@ def cmd_paketle(kod):
             meta = oku_json(os.path.join(d, "adaylar", f"scene_{sid:03d}", "meta.json"))
             c = next((x for x in meta["candidates"] if x["index"] == int(sc["chosen"])), {})
             gorsel = {"file": os.path.relpath(asset, d), "source": "nasa", "nasa_id": c.get("nasa_id"),
-                      "title": c.get("title"), "credit": f"NASA/{c.get('center', 'NASA')} — {c.get('nasa_id')}",
+                      "title": c.get("title"), "credit": f"{c.get('credit_line') or 'NASA/' + str(c.get('center', 'NASA'))} — {c.get('nasa_id')}",
                       "fit_score": sc.get("fit_score"), "reason": sc.get("reason")}
             kredi.add(gorsel["credit"])
             if (sc.get("fit_score") or 0) < 6:

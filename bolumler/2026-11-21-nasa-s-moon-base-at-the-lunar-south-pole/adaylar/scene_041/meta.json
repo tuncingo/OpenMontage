@@ -1,73 +1,74 @@
 {
-  "scene_id": 41,
-  "narration": "A mobile lab where crews work without spacesuits, on missions of up to twenty eight days. Which brings us to power.",
-  "visual_brief": "Astronaut in a suit, then interior of a lab.",
-  "purpose": "explain",
-  "nasa_query": "Artemis spacesuit xEMU",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_0.jpg",
-      "nasa_id": "jsc2025e089499",
-      "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
-      "center": "JSC",
-      "date": "2025-12-08",
-      "description": "Artemis II astronaut Reid Wiseman assesses lower-body mobility in the xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 8, 2025. (NASA/Josh Valcarcel)",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_1.jpg",
-      "nasa_id": "jsc2026e001909",
-      "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
-      "center": "JSC",
-      "date": "2026-01-13",
-      "description": "Artemis II astronaut Victor Glover, fully suited, evaluates the mobility of his xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Jan. 13, 2026. (NASA/Robert Markowitz)",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_2.jpg",
-      "nasa_id": "jsc2025e090625",
-      "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
-      "center": "JSC",
-      "date": "2025-12-12",
-      "description": "Artemis II astronaut Christina Koch climbs down the ladder of a mockup lander while wearing the xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 12, 2025. (NASA/Helen Arase Vargas)",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_3.jpg",
-      "nasa_id": "jsc2025e089526",
-      "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
-      "center": "JSC",
-      "date": "2025-12-08",
-      "description": "Artemis II astronaut Reid Wiseman is fully suited in the xEMU spacesuit prior to the Egress Fitness Task battery during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 8, 2025. (NASA/Josh Valcarcel)",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 41,
+ "narration": "A mobile lab where crews work without spacesuits, on missions of up to twenty eight days. Which brings us to power.",
+ "visual_brief": "Astronaut in a suit, then interior of a lab.",
+ "purpose": "explain",
+ "nasa_query": "Artemis spacesuit xEMU",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_0.jpg",
+   "nasa_id": "jsc2025e089499",
+   "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
+   "center": "JSC",
+   "date": "2025-12-08",
+   "description": "Artemis II astronaut Reid Wiseman assesses lower-body mobility in the xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 8, 2025. (NASA/Josh Valcarcel)",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089499/jsc2025e089499~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_1.jpg",
+   "nasa_id": "jsc2026e001909",
+   "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
+   "center": "JSC",
+   "date": "2026-01-13",
+   "description": "Artemis II astronaut Victor Glover, fully suited, evaluates the mobility of his xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Jan. 13, 2026. (NASA/Robert Markowitz)",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e001909/jsc2026e001909~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_2.jpg",
+   "nasa_id": "jsc2025e090625",
+   "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
+   "center": "JSC",
+   "date": "2025-12-12",
+   "description": "Artemis II astronaut Christina Koch climbs down the ladder of a mockup lander while wearing the xEMU spacesuit during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 12, 2025. (NASA/Helen Arase Vargas)",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e090625/jsc2025e090625~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_041/aday_3.jpg",
+   "nasa_id": "jsc2025e089526",
+   "title": "Artemis II Pre-Flight Egress Fitness Standard Measures Test",
+   "center": "JSC",
+   "date": "2025-12-08",
+   "description": "Artemis II astronaut Reid Wiseman is fully suited in the xEMU spacesuit prior to the Egress Fitness Task battery during the Artemis Spaceflight Standard Measures Test at NASA’s Johnson Space Center on Dec. 8, 2025. (NASA/Josh Valcarcel)",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e089526/jsc2025e089526~orig.jpg"
+   ]
+  }
+ ]
 }

@@ -1,73 +1,74 @@
 {
-  "scene_id": 4,
-  "narration": "In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpost in lunar orbit.",
-  "visual_brief": "Gateway outpost hardware concept in lunar orbit above the Moon.",
-  "purpose": "explain",
-  "nasa_query": "Gateway HALO module",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_0.jpg",
-      "nasa_id": "jsc2025e036492",
-      "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036492)",
-      "center": "JSC",
-      "date": "2025-04-03",
-      "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams transport Gateway’s HALO (Habitation and Logistics Outpost). HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with the Power ",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_1.jpg",
-      "nasa_id": "jsc2025e036493",
-      "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036493)",
-      "center": "JSC",
-      "date": "2025-04-03",
-      "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams transport Gateway’s HALO (Habitation and Logistics Outpost). HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with the Power ",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_2.jpg",
-      "nasa_id": "jsc2025e036494",
-      "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036494)",
-      "center": "JSC",
-      "date": "2025-04-03",
-      "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams guide Gateway’s HALO (Habitation and Logistics Outpost) down a hallway. HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_3.jpg",
-      "nasa_id": "jsc2024e025315",
-      "title": "jsc2024e025315",
-      "center": "JSC",
-      "date": "2023-10-23",
-      "description": "Gateway's HALO (Habitation and Logistics Outpost) module is one of four of Gateway's pressurized modules where international teams of astronauts will live, conduct science, and prepare for missions to the lunar South Pole region from Gateway. HALO is provided by Northrop Grumman. ",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 4,
+ "narration": "In March 2026, NASA Administrator Jared Isaacman paused Gateway, a planned outpost in lunar orbit.",
+ "visual_brief": "Gateway outpost hardware concept in lunar orbit above the Moon.",
+ "purpose": "explain",
+ "nasa_query": "Gateway HALO module",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_0.jpg",
+   "nasa_id": "jsc2025e036492",
+   "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036492)",
+   "center": "JSC",
+   "date": "2025-04-03",
+   "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams transport Gateway’s HALO (Habitation and Logistics Outpost). HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with the Power ",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036492/jsc2025e036492~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_1.jpg",
+   "nasa_id": "jsc2025e036493",
+   "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036493)",
+   "center": "JSC",
+   "date": "2025-04-03",
+   "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams transport Gateway’s HALO (Habitation and Logistics Outpost). HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with the Power ",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036493/jsc2025e036493~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_2.jpg",
+   "nasa_id": "jsc2025e036494",
+   "title": "Gateway's HALO Arrives in Arizona for Final Outfitting (jsc2025e036494)",
+   "center": "JSC",
+   "date": "2025-04-03",
+   "description": "At Northrop Grumman’s Gilbert, Arizona, facility, teams guide Gateway’s HALO (Habitation and Logistics Outpost) down a hallway. HALO arrived from Turin, Italy, where Thales Alenia Space fabricated its primary structure. The module will undergo final outfitting in Gilbert before being integrated with",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2025e036494/jsc2025e036494~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_004/aday_3.jpg",
+   "nasa_id": "jsc2024e025315",
+   "title": "jsc2024e025315",
+   "center": "JSC",
+   "date": "2023-10-23",
+   "description": "Gateway's HALO (Habitation and Logistics Outpost) module is one of four of Gateway's pressurized modules where international teams of astronauts will live, conduct science, and prepare for missions to the lunar South Pole region from Gateway. HALO is provided by Northrop Grumman. ",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e025315/jsc2024e025315~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  }
+ ]
 }

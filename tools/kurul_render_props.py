@@ -29,7 +29,7 @@ import soundfile as sf
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FPS = 30
 TAIL_PAD_S = 0.4
-END_PAD_S = 1.5
+END_PAD_S = 0.0  # no trailing black frames
 
 # Schematic line graphics (remotion-composer/src/components/Schematic.tsx). Full-screen kinds replace
 # the photo; "thermal_inset" is drawn over the photo.
@@ -53,13 +53,17 @@ CROP_BLACK: set[int] = set()  # (scene 18 used a Pluto mosaic strip before; it n
 # Photos shown whole, centred on the dark ground, instead of cropped to fill the frame.
 FIT_CONTAIN = {18}
 
+# Transition into these scenes is forced to a hard cut (a crossfade of two bright photos reads as a glitch).
+TRANSITION_OVERRIDES = {56: "cut"}
+# Extra darkening over the scene (end card).
+DIM = {68: 0.6}
+
 # Abstract scenes drawn in code (no image model).
 PROCEDURAL = {
     # abstract scenes
-    16: "crater", 17: "thermal", 22: "radar", 25: "ridge", 43: "ridge", 69: "descent",
+    22: "radar", 25: "ridge",
     # no honest real image existed: generic code-drawn Moon scenes (labelled "Illustration")
-    2: "descent", 14: "ridge", 19: "crater", 21: "descent", 29: "descent", 35: "ridge",
-    37: "thermal", 46: "radar", 52: "radar", 53: "ridge", 54: "crater",
+    19: "crater", 35: "ridge", 37: "thermal", 53: "ridge",
 }
 
 
@@ -216,7 +220,7 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
+            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "dim": DIM.get(sid, 0), "motion": s.get("motion", ""), "transition": TRANSITION_OVERRIDES.get(sid, s.get("transition", "cut")),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })

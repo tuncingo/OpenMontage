@@ -116,10 +116,20 @@ export const KineticNumber: React.FC<{ hero: string; caption?: string }> = ({ he
       <AbsoluteFill
         style={{
           opacity: scrim,
-          background: "linear-gradient(90deg, rgba(5,7,12,0.82) 0%, rgba(5,7,12,0.55) 42%, rgba(5,7,12,0) 72%)",
+          background: "linear-gradient(90deg, rgba(5,7,12,0.9) 0%, rgba(5,7,12,0.7) 48%, rgba(5,7,12,0) 80%)",
         }}
       />
-      <div style={{ position: "absolute", left: 270, top: 0, bottom: 0, display: "flex", flexDirection: "column", justifyContent: "center" }}>
+      <div style={{ position: "absolute", left: 0, top: 0, bottom: 0, display: "flex", alignItems: "center", paddingLeft: 230 }}>
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          background: `rgba(5,7,12,${0.62 * scrim})`,
+          borderRadius: 10,
+          padding: "26px 60px 32px 40px",
+        }}
+      >
         <Letters text={shown} size={size} weight={300} color={WHITE} stagger={2} tracking={-2} />
         <div
           style={{
@@ -147,6 +157,7 @@ export const KineticNumber: React.FC<{ hero: string; caption?: string }> = ({ he
             {caption}
           </div>
         ) : null}
+      </div>
       </div>
     </AbsoluteFill>
   );
@@ -181,7 +192,7 @@ export const KineticHeadline: React.FC<{
           gap: 26,
           padding: "14px 40px 14px 28px",
           borderRadius: 4,
-          background: `linear-gradient(90deg, rgba(5,7,12,${0.7 * scrimIn}), rgba(5,7,12,${0.35 * scrimIn}))`,
+          background: `linear-gradient(90deg, rgba(5,7,12,${0.84 * scrimIn}), rgba(5,7,12,${0.64 * scrimIn}))`,
         }}
       >
         <div style={{ width: 3, background: TEAL, transform: `scaleY(${Math.min(1, bar) * (1 - exit)})`, transformOrigin: "center" }} />
@@ -228,7 +239,7 @@ export const LowerThird: React.FC<{ text: string; bottom?: number }> = ({ text, 
       <div
         style={{
           clipPath: `inset(0 ${(1 - open) * 100}% 0 0)`,
-          background: "linear-gradient(90deg, rgba(5,7,12,0.82), rgba(5,7,12,0.0))",
+          background: "linear-gradient(90deg, rgba(5,7,12,0.86), rgba(5,7,12,0.58))",
           padding: "12px 90px 12px 26px",
         }}
       >
@@ -272,7 +283,7 @@ export const CornerLabel: React.FC<{ text: string; sizePx: number }> = ({ text, 
         fontSize: sizePx,
         letterSpacing: 5,
         color: "#C9D0E0",
-        background: "rgba(5,7,12,0.55)",
+        background: "rgba(5,7,12,0.72)",
         padding: "6px 16px",
         borderRadius: 4,
         textTransform: "uppercase",
@@ -304,8 +315,8 @@ export const Credit: React.FC<{ text: string }> = ({ text }) => {
         fontWeight: 400,
         fontSize: 21,
         letterSpacing: 1,
-        color: "#A9B1C4",
-        background: "rgba(5,7,12,0.5)",
+        color: "#C3CADB",
+        background: "rgba(5,7,12,0.7)",
         padding: "4px 12px",
         borderRadius: 4,
         textShadow: SOFT_SHADOW,
@@ -323,7 +334,7 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
   const { frame, fps, durationInFrames } = useEnterExit();
   const pop = spring({ frame, fps, config: { damping: 14, stiffness: 150, mass: 0.7 } });
   const unfold = spring({ frame: frame - 8, fps, config: { damping: 22, stiffness: 100 } });
-  const roll = spring({ frame: frame - 10, fps, config: { damping: 18, stiffness: 140 } });
+  const roll = spring({ frame: frame - 2, fps, config: { damping: 20, stiffness: 240 } });
   const fold = interpolate(frame, [durationInFrames - 18, durationInFrames - 4], [0, 1], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
@@ -356,7 +367,7 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
           height: 84,
           borderRadius: 42,
           border: `2px solid ${TEAL}`,
-          background: "rgba(5,7,12,0.7)",
+          background: "rgba(5,7,12,0.9)",
           overflow: "hidden",
           position: "relative",
           flexShrink: 0,
@@ -390,8 +401,9 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
           gap: 0,
           minWidth: 640,
           clipPath: `inset(0 ${(1 - reveal) * 100}% 0 0)`,
-          background: "linear-gradient(90deg, rgba(5,7,12,0.78), rgba(5,7,12,0))",
-          padding: "6px 40px 6px 4px",
+          background: "rgba(5,7,12,0.82)",
+          borderRadius: "0 10px 10px 0",
+          padding: "8px 40px 8px 12px",
         }}
       >
         <div style={{ fontFamily: "Inter, sans-serif", fontWeight: 500, fontSize: 36, letterSpacing: 7, color: AMBER }}>

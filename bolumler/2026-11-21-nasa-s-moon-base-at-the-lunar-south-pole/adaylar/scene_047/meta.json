@@ -1,67 +1,68 @@
 {
-  "scene_id": 47,
-  "narration": "And that is the honest tension at the center of this story. Can the schedule hold?",
-  "visual_brief": "Spiral galaxy, huge and slowly turning, time and scale.",
-  "purpose": "cutaway",
-  "nasa_query": "Spiral galaxy Hubble",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_0.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000158",
-      "title": "Hubble Spies Spiral Galaxy",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Spiral galaxy NGC 3274 is a relatively faint galaxy located over 20 million light-years away in the constellation of Leo (The Lion). This NASA/ESA Hubble Space Telescope image comes courtesy of Hubble's Wide Field Camera 3 (WFC3), whose multi-color vision allows astronomers to study a wide range of ",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000687",
-      "title": "Hubble peeks at a spiral galaxy",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "This little-known galaxy, officially named J04542829-6625280, but most often referred to as LEDA 89996, is a classic example of a spiral galaxy. The galaxy is much like our own galaxy, the Milky Way. The disk-shaped galaxy is seen face on, revealing the winding structure of the spiral arms. Dark pat",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001151",
-      "title": "Hubble Sees Galaxies Spiraling around Leo",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Shown here is a spiral galaxy known as NGC 3455, which lies some 65 million light-years away from us in the constellation of Leo (the Lion). Galaxies are classified into different types according to their structure and appearance. This classification system is known as the Hubble Sequence, named aft",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_3.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000877",
-      "title": "Hubble Spies Charming Spiral Galaxy Bursting with Stars",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "The NASA/ESA Hubble Space Telescope observes some of the most beautiful galaxies in our skies — spirals sparkling with bright stellar nurseries, violent duos ripping gas and stars away from one another as they tangle together, and ethereal irregular galaxies that hang like flocks of birds suspended ",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 47,
+ "narration": "And that is the honest tension at the center of this story. Can the schedule hold?",
+ "visual_brief": "Spiral galaxy, huge and slowly turning, time and scale.",
+ "purpose": "cutaway",
+ "nasa_query": "Spiral galaxy Hubble",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_0.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000158",
+   "title": "Hubble Spies Spiral Galaxy",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Spiral galaxy NGC 3274 is a relatively faint galaxy located over 20 million light-years away in the constellation of Leo (The Lion). This NASA/ESA Hubble Space Telescope image comes courtesy of Hubble's Wide Field Camera 3 (WFC3), whose multi-color vision allows astronomers to study a wide range of ",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~medium.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~large.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000158/GSFC_20171208_Archive_e000158~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_1.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000687",
+   "title": "Hubble peeks at a spiral galaxy",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "This little-known galaxy, officially named J04542829-6625280, but most often referred to as LEDA 89996, is a classic example of a spiral galaxy. The galaxy is much like our own galaxy, the Milky Way. The disk-shaped galaxy is seen face on, revealing the winding structure of the spiral arms. Dark pat",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000687/GSFC_20171208_Archive_e000687~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_2.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001151",
+   "title": "Hubble Sees Galaxies Spiraling around Leo",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Shown here is a spiral galaxy known as NGC 3455, which lies some 65 million light-years away from us in the constellation of Leo (the Lion). Galaxies are classified into different types according to their structure and appearance. This classification system is known as the Hubble Sequence, named aft",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001151/GSFC_20171208_Archive_e001151~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_047/aday_3.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000877",
+   "title": "Hubble Spies Charming Spiral Galaxy Bursting with Stars",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "The NASA/ESA Hubble Space Telescope observes some of the most beautiful galaxies in our skies — spirals sparkling with bright stellar nurseries, violent duos ripping gas and stars away from one another as they tangle together, and ethereal irregular galaxies that hang like flocks of birds suspended ",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000877/GSFC_20171208_Archive_e000877~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA"
+  }
+ ]
 }

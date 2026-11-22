@@ -1,73 +1,74 @@
 {
-  "scene_id": 13,
-  "narration": "Phase Two, 2029 to 2032, adds early power, cargo and communications.",
-  "visual_brief": "Lunar vehicle carrying cargo near solar panels.",
-  "purpose": "explain",
-  "nasa_query": "Lunar Terrain Vehicle",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_0.jpg",
-      "nasa_id": "jsc2024e069785",
-      "title": "Lunar Terrain Vehicle Testing",
-      "center": "JSC",
-      "date": "2024-10-29",
-      "description": "NASA astronaut Jessica Meir grabs a lunar geology tool from a tool rack on Lunar Outpost’s Eagle lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/James Blair",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_1.jpg",
-      "nasa_id": "jsc2024e065740",
-      "title": "Lunar Terrain Vehicle Testing",
-      "center": "JSC",
-      "date": "2024-10-03",
-      "description": "NASA astronaut Jessica Watkins picks up a lunar geology tool from a stowage drawer on Astrolab’s FLEX lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/Robert Markowitz",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_2.jpg",
-      "nasa_id": "jsc2024e069530",
-      "title": "Lunar Terrain Vehicle Testing",
-      "center": "JSC",
-      "date": "2024-10-29",
-      "description": "NASA astronaut Joe Acaba raises the solar array panel on Lunar Outpost’s Eagle lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/Robert Markowitz",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_3.jpg",
-      "nasa_id": "jsc2026e418559",
-      "title": "Crewed Lunar Terrain Vehicle Testing",
-      "center": "JSC",
-      "date": "2026-09-18",
-      "description": "Artemis EVA training lead Scott Wray (left) and NASA astronaut Anne McClain (right) sit inside Lunar Outpost’s Pegasus lunar terrain vehicle prototype during human-in-the-loop testing at NASA’s Johnson Space Center where they evaluated the design, usability, and crew comfort of Lunar Outpost’s lunar",
-      "links": [
-        "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~large.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~medium.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~small.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~orig.jpeg"
-      ]
-    }
-  ]
+ "scene_id": 13,
+ "narration": "Phase Two, 2029 to 2032, adds early power, cargo and communications.",
+ "visual_brief": "Lunar vehicle carrying cargo near solar panels.",
+ "purpose": "explain",
+ "nasa_query": "Lunar Terrain Vehicle",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_0.jpg",
+   "nasa_id": "jsc2024e069785",
+   "title": "Lunar Terrain Vehicle Testing",
+   "center": "JSC",
+   "date": "2024-10-29",
+   "description": "NASA astronaut Jessica Meir grabs a lunar geology tool from a tool rack on Lunar Outpost’s Eagle lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/James Blair",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069785/jsc2024e069785~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_1.jpg",
+   "nasa_id": "jsc2024e065740",
+   "title": "Lunar Terrain Vehicle Testing",
+   "center": "JSC",
+   "date": "2024-10-03",
+   "description": "NASA astronaut Jessica Watkins picks up a lunar geology tool from a stowage drawer on Astrolab’s FLEX lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/Robert Markowitz",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e065740/jsc2024e065740~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_2.jpg",
+   "nasa_id": "jsc2024e069530",
+   "title": "Lunar Terrain Vehicle Testing",
+   "center": "JSC",
+   "date": "2024-10-29",
+   "description": "NASA astronaut Joe Acaba raises the solar array panel on Lunar Outpost’s Eagle lunar terrain vehicle during testing at NASA’s Johnson Space Center. Image Credit: NASA/Robert Markowitz",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2024e069530/jsc2024e069530~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_013/aday_3.jpg",
+   "nasa_id": "jsc2026e418559",
+   "title": "Crewed Lunar Terrain Vehicle Testing",
+   "center": "JSC",
+   "date": "2026-09-18",
+   "description": "Artemis EVA training lead Scott Wray (left) and NASA astronaut Anne McClain (right) sit inside Lunar Outpost’s Pegasus lunar terrain vehicle prototype during human-in-the-loop testing at NASA’s Johnson Space Center where they evaluated the design, usability, and crew comfort of Lunar Outpost’s lunar",
+   "links": [
+    "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~large.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~medium.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~small.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jsc2026e418559/jsc2026e418559~orig.jpeg"
+   ]
+  }
+ ]
 }

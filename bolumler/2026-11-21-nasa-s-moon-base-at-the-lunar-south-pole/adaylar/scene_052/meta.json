@@ -1,105 +1,122 @@
 {
-  "scene_id": 52,
-  "narration": "Now the race. China is also aiming for the south pole.",
-  "visual_brief": "Chang'e-7 spacecraft concept near the lunar south pole.",
-  "purpose": "evidence",
-  "nasa_query": "lunar south pole Shackleton crater | Moon south pole exploration",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_0.jpg",
-      "nasa_id": "ACD20-0037-021",
-      "title": "NIRVSS N-213 Laboratory",
-      "center": "ARC",
-      "date": "2020-02-26",
-      "description": "Near InfraRed Volatiles Spectrometer System (NIRVSS) engineering build in Ames N-213 Laboratory with Amanda Cook. The NIRVSS will fly on the Volatiles Investigating Polar Exploration Rover, or VIPER in its search for water on the south pole of the moon.",
-      "links": [
-        "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~medium.jpg",
-        "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~small.jpg",
-        "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~thumb.jpg",
-        "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~large.jpg",
-        "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_1.jpg",
-      "nasa_id": "KSC-20261107-PH-KLS02_0143",
-      "title": "Moon Base Briefing at Max Power in KSC Studio",
-      "center": "KSC",
-      "date": "2026-11-07",
-      "description": "NASA Deputy Press Secretary George Alderman moderates an update on NASA’s Moon Base on Saturday, Nov. 7, 2026, at Kennedy Space Center in Florida. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~orig.JPG"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_2.jpg",
-      "nasa_id": "PROMISE - 7",
-      "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
-      "center": "HQ",
-      "date": "2026-11-07",
-      "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
-      "links": [
-        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~large.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~medium.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~small.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_3.jpg",
-      "nasa_id": "PROMISE - 4",
-      "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
-      "center": "HQ",
-      "date": "2026-11-07",
-      "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
-      "links": [
-        "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~large.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~medium.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~small.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_4.jpg",
-      "nasa_id": "PROMISE - 6",
-      "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
-      "center": "HQ",
-      "date": "2026-11-07",
-      "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
-      "links": [
-        "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~large.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~medium.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~small.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~orig.jpg"
-      ]
-    },
-    {
-      "index": 5,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_5.jpg",
-      "nasa_id": "PROMISE - 9",
-      "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
-      "center": "HQ",
-      "date": "2026-11-07",
-      "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
-      "links": [
-        "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~large.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~medium.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~small.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 52,
+ "narration": "Now the race. China is also aiming for the south pole.",
+ "visual_brief": "Chang'e-7 spacecraft concept near the lunar south pole.",
+ "purpose": "evidence",
+ "nasa_query": "lunar south pole Shackleton crater | Moon south pole exploration",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_0.jpg",
+   "nasa_id": "ACD20-0037-021",
+   "title": "NIRVSS N-213 Laboratory",
+   "center": "ARC",
+   "date": "2020-02-26",
+   "description": "Near InfraRed Volatiles Spectrometer System (NIRVSS) engineering build in Ames N-213 Laboratory with Amanda Cook. The NIRVSS will fly on the Volatiles Investigating Polar Exploration Rover, or VIPER in its search for water on the south pole of the moon.",
+   "links": [
+    "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~medium.jpg",
+    "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~small.jpg",
+    "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~thumb.jpg",
+    "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~large.jpg",
+    "https://images-assets.nasa.gov/image/ACD20-0037-021/ACD20-0037-021~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_1.jpg",
+   "nasa_id": "KSC-20261107-PH-KLS02_0143",
+   "title": "Moon Base Briefing at Max Power in KSC Studio",
+   "center": "KSC",
+   "date": "2026-11-07",
+   "description": "NASA Deputy Press Secretary George Alderman moderates an update on NASA’s Moon Base on Saturday, Nov. 7, 2026, at Kennedy Space Center in Florida. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~orig.JPG"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_2.jpg",
+   "nasa_id": "PROMISE - 7",
+   "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
+   "center": "HQ",
+   "date": "2026-11-07",
+   "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
+   "links": [
+    "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~large.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~medium.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~small.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_3.jpg",
+   "nasa_id": "PROMISE - 4",
+   "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
+   "center": "HQ",
+   "date": "2026-11-07",
+   "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
+   "links": [
+    "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~large.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~medium.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~small.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 4/PROMISE - 4~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_4.jpg",
+   "nasa_id": "PROMISE - 6",
+   "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
+   "center": "HQ",
+   "date": "2026-11-07",
+   "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
+   "links": [
+    "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~large.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~medium.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~small.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 6/PROMISE - 6~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_5.jpg",
+   "nasa_id": "PROMISE - 9",
+   "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
+   "center": "HQ",
+   "date": "2026-11-07",
+   "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
+   "links": [
+    "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~large.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~medium.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~small.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PROMISE - 9/PROMISE - 9~orig.jpg"
+   ]
+  },
+  {
+   "index": 6,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_052/aday_6.jpg",
+   "nasa_id": "PIA15413",
+   "title": "An Audience Favorite Nebula",
+   "center": "JPL",
+   "date": "2012-03-08",
+   "description": "This nebula, which is in the constellation of Scutum, has no common name since it is hidden behind dust clouds. It takes an infrared telescope like NASA Spitzer to see through this dark veil and reveal this spectacular hidden nebula.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA15413/PIA15413~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA15413/PIA15413~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA15413/PIA15413~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA15413/PIA15413~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA15413/PIA15413~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL-Caltech/University of Wisconsin"
+  }
+ ]
 }

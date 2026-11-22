@@ -68,6 +68,8 @@ export interface EpisodeScene {
   purpose?: string;
   /** "contain": show the photo whole, centred on the dark ground (e.g. a planet disc). Default "cover". */
   fit?: "cover" | "contain";
+  /** 0..1: extra dark layer over the visual (e.g. behind an end card). */
+  dim?: number;
   /** Short image credit shown bottom-right (e.g. "Image: NASA/JSC"). */
   credit?: string;
   motion: string;
@@ -166,6 +168,7 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
           </AbsoluteFill>
         </>
       ) : null}
+      {scene.dim ? <AbsoluteFill style={{ backgroundColor: `rgba(5,7,12,${scene.dim})` }} /> : null}
       {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicOverlay spec={scene.graphic} /> : null}
       <StarDust seed={scene.id} count={cosmic ? 120 : 50} opacity={cosmic ? 0.9 : 0.5} />
     </AbsoluteFill>

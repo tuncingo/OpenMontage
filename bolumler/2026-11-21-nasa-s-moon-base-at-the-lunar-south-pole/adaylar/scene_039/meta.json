@@ -1,57 +1,58 @@
 {
-  "scene_id": 39,
-  "narration": "Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days.",
-  "visual_brief": "Lunar regolith footprints and terrain being mapped.",
-  "purpose": "explain",
-  "nasa_query": "Apollo 11 bootprint lunar soil | lunar regolith close-up",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_0.jpg",
-      "nasa_id": "as11-40-5880",
-      "title": "Close-up view of astronauts foot and footprint in lunar soil",
-      "center": "JSC",
-      "date": "1969-07-20",
-      "description": "AS11-40-5880 (20 July 1969) --- A close-up view of an astronaut's boot and bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 lunar surface extravehicular activity (EVA). While astronauts Neil A. Armstrong, commander, and Edwin A. Aldrin Jr., lunar module",
-      "links": [
-        "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~medium.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~small.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~large.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_1.jpg",
-      "nasa_id": "as11-40-5878",
-      "title": "Close-up view of astronauts footprint in lunar soil",
-      "center": "JSC",
-      "date": "1969-07-20",
-      "description": "AS11-40-5878 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
-      "links": [
-        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~medium.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~small.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~large.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_2.jpg",
-      "nasa_id": "as11-40-5877",
-      "title": "Apollo 11 Mission image - Astronaut bootprint on the lunar surface",
-      "center": "JSC",
-      "date": "2009-01-29",
-      "description": "AS11-40-5877 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
-      "links": [
-        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~medium.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~small.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~large.jpg",
-        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 39,
+ "narration": "Not wheels. Hops. Their job is to map landing sites, flying across a lunar day of about fourteen Earth days.",
+ "visual_brief": "Lunar regolith footprints and terrain being mapped.",
+ "purpose": "explain",
+ "nasa_query": "Apollo 11 bootprint lunar soil | lunar regolith close-up",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_0.jpg",
+   "nasa_id": "as11-40-5880",
+   "title": "Close-up view of astronauts foot and footprint in lunar soil",
+   "center": "JSC",
+   "date": "1969-07-20",
+   "description": "AS11-40-5880 (20 July 1969) --- A close-up view of an astronaut's boot and bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 lunar surface extravehicular activity (EVA). While astronauts Neil A. Armstrong, commander, and Edwin A. Aldrin Jr., lunar module",
+   "links": [
+    "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~medium.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~small.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~large.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5880/as11-40-5880~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_1.jpg",
+   "nasa_id": "as11-40-5878",
+   "title": "Close-up view of astronauts footprint in lunar soil",
+   "center": "JSC",
+   "date": "1969-07-20",
+   "description": "AS11-40-5878 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
+   "links": [
+    "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~medium.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~small.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~large.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_039/aday_2.jpg",
+   "nasa_id": "as11-40-5877",
+   "title": "Apollo 11 Mission image - Astronaut bootprint on the lunar surface",
+   "center": "JSC",
+   "date": "2009-01-29",
+   "description": "AS11-40-5877 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
+   "links": [
+    "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~medium.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~small.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~large.jpg",
+    "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~orig.jpg"
+   ]
+  }
+ ]
 }

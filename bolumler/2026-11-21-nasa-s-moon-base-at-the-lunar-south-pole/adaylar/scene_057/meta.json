@@ -1,72 +1,73 @@
 {
-  "scene_id": 57,
-  "narration": "NASA is even inviting students in, with a one million dollar Moon Base Challenge.",
-  "visual_brief": "Students building a small rover in a workshop.",
-  "purpose": "evidence",
-  "nasa_query": "NASA Student Challenge",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_0.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000274",
-      "title": "OPTIMUS PRIME Challenge Brings Winning Students to NASA Goddard",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "From June 28 through 30, 2016, the OPTIMUS PRIME Spinoff Promotion and Research Challenge (OPSPARC) gave the contest’s winning students the opportunity to explore NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Three teams of students from elementary, middle and high school won the contes",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_1.jpg",
-      "nasa_id": "NASA_KenHall_1672",
-      "title": "2025 Human Exploration Rover Challenge",
-      "center": "MSFC",
-      "date": "2025-04-11",
-      "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
-      "links": [
-        "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~medium.jpg",
-        "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~small.jpg",
-        "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~large.jpg",
-        "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~orig.JPG"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_2.jpg",
-      "nasa_id": "USSRC_EmilyRiddle_364039",
-      "title": "2025 Human Exploration Rover Challenge",
-      "center": "MSFC",
-      "date": "2025-04-11",
-      "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
-      "links": [
-        "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~medium.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~small.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~thumb.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~large.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_3.jpg",
-      "nasa_id": "USSRC_EmilyPritchett_03635",
-      "title": "2025 Human Exploration Rover Challenge",
-      "center": "MSFC",
-      "date": "2025-04-11",
-      "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
-      "links": [
-        "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~medium.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~small.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~thumb.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~large.jpg",
-        "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 57,
+ "narration": "NASA is even inviting students in, with a one million dollar Moon Base Challenge.",
+ "visual_brief": "Students building a small rover in a workshop.",
+ "purpose": "evidence",
+ "nasa_query": "NASA Student Challenge",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_0.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000274",
+   "title": "OPTIMUS PRIME Challenge Brings Winning Students to NASA Goddard",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "From June 28 through 30, 2016, the OPTIMUS PRIME Spinoff Promotion and Research Challenge (OPSPARC) gave the contest’s winning students the opportunity to explore NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Three teams of students from elementary, middle and high school won the contes",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~medium.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000274/GSFC_20171208_Archive_e000274~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_1.jpg",
+   "nasa_id": "NASA_KenHall_1672",
+   "title": "2025 Human Exploration Rover Challenge",
+   "center": "MSFC",
+   "date": "2025-04-11",
+   "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
+   "links": [
+    "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~medium.jpg",
+    "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~small.jpg",
+    "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~large.jpg",
+    "https://images-assets.nasa.gov/image/NASA_KenHall_1672/NASA_KenHall_1672~orig.JPG"
+   ],
+   "credit_line": "NASA/MSFC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_2.jpg",
+   "nasa_id": "USSRC_EmilyRiddle_364039",
+   "title": "2025 Human Exploration Rover Challenge",
+   "center": "MSFC",
+   "date": "2025-04-11",
+   "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
+   "links": [
+    "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~medium.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~small.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~thumb.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~large.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyRiddle_364039/USSRC_EmilyRiddle_364039~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_057/aday_3.jpg",
+   "nasa_id": "USSRC_EmilyPritchett_03635",
+   "title": "2025 Human Exploration Rover Challenge",
+   "center": "MSFC",
+   "date": "2025-04-11",
+   "description": "More than 500 students with 75 teams from around the world participated in the 31st year of NASA’s Human Exploration Rover Challenge (HERC) on April 11 and April 12, 2025, near NASA’s Marshall Space Flight Center in Huntsville, Alabama. Participating teams represented 35 colleges and universities, 3",
+   "links": [
+    "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~medium.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~small.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~thumb.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~large.jpg",
+    "https://images-assets.nasa.gov/image/USSRC_EmilyPritchett_03635/USSRC_EmilyPritchett_03635~orig.jpg"
+   ]
+  }
+ ]
 }

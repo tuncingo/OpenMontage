@@ -1,69 +1,70 @@
 {
-  "scene_id": 42,
-  "narration": "A lunar day is about fourteen Earth days of sunlight, then fourteen of night.",
-  "visual_brief": "Earthrise over the Moon, day and night sliding across the sphere.",
-  "purpose": "cutaway",
-  "nasa_query": "Earthrise Moon",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_0.jpg",
-      "nasa_id": "art002e016299",
-      "title": "Earthrise Captured by Orion",
-      "center": "JSC",
-      "date": "2026-04-06",
-      "description": "art002e016299 (April 6, 2026) - Earthrise captured from a camera mounted on one of the Orion spacecraft’s solar array wings at 7:22 p.m. ET during the Artemis II crew’s flyby of the Moon’s far side. Earth appears as a delicate sliver - with the portion on the left darkened by shadow and a portion on",
-      "links": [
-        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~large.jpg",
-        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~medium.jpg",
-        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~small.jpg",
-        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~thumb.jpg",
-        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000496",
-      "title": "NASA Releases New High-Resolution Earthrise Image",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "NASA's Lunar Reconnaissance Orbiter (LRO) recently captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon. &quot;The image is simply stunning,&quot; said Noah Petro, Deputy Project Scientist for LRO at NASA's Goddard Space Flight Center in Greenbelt, Maryland. &",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~orig.png"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001129",
-      "title": "Lunar Satellite Snaps Image of Earth",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "This image, captured Feb. 1, 2014, shows a colorized view of Earth from the moon-based perspective of NASA's Lunar Reconnaissance Orbiter. Credit: NASA/Goddard/Arizona State University -- NASA's Lunar Reconnaissance Orbiter (LRO) experiences 12 &quot;earthrises&quot; every day, however LROC (short f",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~orig.png"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_3.jpg",
-      "nasa_id": "as17-152-23272",
-      "title": "Apollo 17, Earthrise over Moon",
-      "center": "JSC",
-      "date": "1972-12-07",
-      "description": "AS17-152-23272 (7-19 Dec. 1972) --- The crescent Earth rises above the lunar horizon in this photograph taken from the Apollo 17 spacecraft in lunar orbit during National Aeronautics and Space Administration's (NASA) final lunar landing mission in the Apollo program. While astronauts Eugene A. Cerna",
-      "links": [
-        "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~medium.jpg",
-        "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~small.jpg",
-        "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~large.jpg",
-        "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 42,
+ "narration": "A lunar day is about fourteen Earth days of sunlight, then fourteen of night.",
+ "visual_brief": "Earthrise over the Moon, day and night sliding across the sphere.",
+ "purpose": "cutaway",
+ "nasa_query": "Earthrise Moon",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_0.jpg",
+   "nasa_id": "art002e016299",
+   "title": "Earthrise Captured by Orion",
+   "center": "JSC",
+   "date": "2026-04-06",
+   "description": "art002e016299 (April 6, 2026) - Earthrise captured from a camera mounted on one of the Orion spacecraft’s solar array wings at 7:22 p.m. ET during the Artemis II crew’s flyby of the Moon’s far side. Earth appears as a delicate sliver - with the portion on the left darkened by shadow and a portion on",
+   "links": [
+    "https://images-assets.nasa.gov/image/art002e016299/art002e016299~large.jpg",
+    "https://images-assets.nasa.gov/image/art002e016299/art002e016299~medium.jpg",
+    "https://images-assets.nasa.gov/image/art002e016299/art002e016299~small.jpg",
+    "https://images-assets.nasa.gov/image/art002e016299/art002e016299~thumb.jpg",
+    "https://images-assets.nasa.gov/image/art002e016299/art002e016299~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_1.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000496",
+   "title": "NASA Releases New High-Resolution Earthrise Image",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "NASA's Lunar Reconnaissance Orbiter (LRO) recently captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon. &quot;The image is simply stunning,&quot; said Noah Petro, Deputy Project Scientist for LRO at NASA's Goddard Space Flight Center in Greenbelt, Maryland. &",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000496/GSFC_20171208_Archive_e000496~orig.png"
+   ],
+   "credit_line": "NASA/GSFC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_2.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001129",
+   "title": "Lunar Satellite Snaps Image of Earth",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "This image, captured Feb. 1, 2014, shows a colorized view of Earth from the moon-based perspective of NASA's Lunar Reconnaissance Orbiter. Credit: NASA/Goddard/Arizona State University -- NASA's Lunar Reconnaissance Orbiter (LRO) experiences 12 &quot;earthrises&quot; every day, however LROC (short f",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001129/GSFC_20171208_Archive_e001129~orig.png"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_042/aday_3.jpg",
+   "nasa_id": "as17-152-23272",
+   "title": "Apollo 17, Earthrise over Moon",
+   "center": "JSC",
+   "date": "1972-12-07",
+   "description": "AS17-152-23272 (7-19 Dec. 1972) --- The crescent Earth rises above the lunar horizon in this photograph taken from the Apollo 17 spacecraft in lunar orbit during National Aeronautics and Space Administration's (NASA) final lunar landing mission in the Apollo program. While astronauts Eugene A. Cerna",
+   "links": [
+    "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~medium.jpg",
+    "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~small.jpg",
+    "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~large.jpg",
+    "https://images-assets.nasa.gov/image/as17-152-23272/as17-152-23272~orig.jpg"
+   ]
+  }
+ ]
 }

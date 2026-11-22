@@ -1,73 +1,74 @@
 {
-  "scene_id": 32,
-  "narration": "That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027.",
-  "visual_brief": "Blue Origin rocket and lander hardware waiting.",
-  "purpose": "explain",
-  "nasa_query": "New Glenn rocket",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_0.jpg",
-      "nasa_id": "KSC-20251113-PH-BLU01_0008",
-      "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
-      "center": "KSC",
-      "date": "2025-11-13",
-      "description": "Near Cape Canaveral Lighthouse, Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mi",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_1.jpg",
-      "nasa_id": "KSC-20251113-PH-BLU01_0001",
-      "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
-      "center": "KSC",
-      "date": "2025-11-13",
-      "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_2.jpg",
-      "nasa_id": "KSC-20251113-PH-BLU01_0005",
-      "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
-      "center": "KSC",
-      "date": "2025-11-13",
-      "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_3.jpg",
-      "nasa_id": "KSC-20251113-PH-BLU01_0010",
-      "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
-      "center": "KSC",
-      "date": "2025-11-13",
-      "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 32,
+ "narration": "That explosion pushed Moon Base One, the Blue Origin lander, to the first part of 2027.",
+ "visual_brief": "Blue Origin rocket and lander hardware waiting.",
+ "purpose": "explain",
+ "nasa_query": "New Glenn rocket",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_0.jpg",
+   "nasa_id": "KSC-20251113-PH-BLU01_0008",
+   "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+   "center": "KSC",
+   "date": "2025-11-13",
+   "description": "Near Cape Canaveral Lighthouse, Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mi",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0008/KSC-20251113-PH-BLU01_0008~orig.jpg"
+   ],
+   "credit_line": "NASA/KSC"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_1.jpg",
+   "nasa_id": "KSC-20251113-PH-BLU01_0001",
+   "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+   "center": "KSC",
+   "date": "2025-11-13",
+   "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0001/KSC-20251113-PH-BLU01_0001~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_2.jpg",
+   "nasa_id": "KSC-20251113-PH-BLU01_0005",
+   "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+   "center": "KSC",
+   "date": "2025-11-13",
+   "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0005/KSC-20251113-PH-BLU01_0005~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_032/aday_3.jpg",
+   "nasa_id": "KSC-20251113-PH-BLU01_0010",
+   "title": "NASA's ESCAPADE Launch on Blue Origin's NG-2",
+   "center": "KSC",
+   "date": "2025-11-13",
+   "description": "Blue Origin’s New Glenn rocket carrying NASA’s twin ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launches at 3:55 p.m. EST, Thursday, Nov. 13, 2025, from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. The ESCAPADE mission, built by Rocket Lab, will",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-20251113-PH-BLU01_0010/KSC-20251113-PH-BLU01_0010~orig.jpg"
+   ]
+  }
+ ]
 }

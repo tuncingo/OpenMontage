@@ -1,8 +1,24 @@
 {
-  "scene_id": 16,
-  "narration": "But why the south pole? Of all the places on the Moon? The first reason is water.",
-  "visual_brief": "Shackleton crater at the pole, deep and dark.",
-  "purpose": "transition",
-  "nasa_query": "Shackleton crater",
-  "candidates": []
+ "scene_id": 16,
+ "narration": "But why the south pole? Of all the places on the Moon? The first reason is water.",
+ "visual_brief": "Shackleton crater at the pole, deep and dark.",
+ "purpose": "transition",
+ "nasa_query": "Shackleton crater",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_016/aday_0.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001464",
+   "title": "Hubble reveals the Ring Nebula’s true shape",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Caption: In this composite image, visible-light observations by NASA’s Hubble Space Telescope are combined with infrared data from the ground-based Large Binocular Telescope in Arizona to assemble a dramatic view of the well-known Ring Nebula. Credit: NASA, ESA, C.R. Robert O’Dell (Vanderbilt Univer",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA"
+  }
+ ]
 }

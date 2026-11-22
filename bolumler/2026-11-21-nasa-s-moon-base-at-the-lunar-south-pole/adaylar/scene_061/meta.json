@@ -1,53 +1,54 @@
 {
-  "scene_id": 61,
-  "narration": "Landers first, then rovers, then power, then habitats. Each step depends on the one before it.",
-  "visual_brief": "Jupiter's bands in motion, layers stacked like steps.",
-  "purpose": "cutaway",
-  "nasa_query": "Jupiter Juno",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_0.jpg",
-      "nasa_id": "PIA21771",
-      "title": "Juno Over Jupiter's South Pole (Illustration)",
-      "center": "JPL",
-      "date": "2017-07-11",
-      "description": "This illustration depicts NASA's Juno spacecraft soaring over Jupiter's south pole. https://photojournal.jpl.nasa.gov/catalog/PIA21771",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA21771/PIA21771~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA21771/PIA21771~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA21771/PIA21771~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA21771/PIA21771~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA21771/PIA21771~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_1.jpg",
-      "nasa_id": "PIA22968",
-      "title": "Juno's SRU Captures Jupiter Lightning",
-      "center": "JPL",
-      "date": "2018-12-19",
-      "description": "Juno's Radiation Monitoring Investigation used the Stellar Reference Unit (SRU) star camera to collect this high-resolution image Jupiter's northern auroral oval on May 24, 2018 (Perijove 13). Also present in the image are several small bright dots and streaks -- signatures of high energy relativist",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA22968/PIA22968~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA22968/PIA22968~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA22968/PIA22968~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_2.jpg",
-      "nasa_id": "PIA21033",
-      "title": "Juno View of Jupiter Southern Lights",
-      "center": "JPL",
-      "date": "2016-09-02",
-      "description": "This infrared image gives an unprecedented view of the southern aurora of Jupiter, as captured by NASA's Juno spacecraft on August 27, 2016. The planet's southern aurora can hardly be seen from Earth due to our home planet's position in respect to Jupiter's south pole. Juno's unique polar orbit prov",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA21033/PIA21033~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA21033/PIA21033~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA21033/PIA21033~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 61,
+ "narration": "Landers first, then rovers, then power, then habitats. Each step depends on the one before it.",
+ "visual_brief": "Jupiter's bands in motion, layers stacked like steps.",
+ "purpose": "cutaway",
+ "nasa_query": "Jupiter Juno",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_0.jpg",
+   "nasa_id": "PIA21771",
+   "title": "Juno Over Jupiter's South Pole (Illustration)",
+   "center": "JPL",
+   "date": "2017-07-11",
+   "description": "This illustration depicts NASA's Juno spacecraft soaring over Jupiter's south pole. https://photojournal.jpl.nasa.gov/catalog/PIA21771",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA21771/PIA21771~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA21771/PIA21771~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA21771/PIA21771~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA21771/PIA21771~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA21771/PIA21771~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL-Caltech"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_1.jpg",
+   "nasa_id": "PIA22968",
+   "title": "Juno's SRU Captures Jupiter Lightning",
+   "center": "JPL",
+   "date": "2018-12-19",
+   "description": "Juno's Radiation Monitoring Investigation used the Stellar Reference Unit (SRU) star camera to collect this high-resolution image Jupiter's northern auroral oval on May 24, 2018 (Perijove 13). Also present in the image are several small bright dots and streaks -- signatures of high energy relativist",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA22968/PIA22968~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA22968/PIA22968~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA22968/PIA22968~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_061/aday_2.jpg",
+   "nasa_id": "PIA21033",
+   "title": "Juno View of Jupiter Southern Lights",
+   "center": "JPL",
+   "date": "2016-09-02",
+   "description": "This infrared image gives an unprecedented view of the southern aurora of Jupiter, as captured by NASA's Juno spacecraft on August 27, 2016. The planet's southern aurora can hardly be seen from Earth due to our home planet's position in respect to Jupiter's south pole. Juno's unique polar orbit prov",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA21033/PIA21033~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA21033/PIA21033~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA21033/PIA21033~orig.jpg"
+   ]
+  }
+ ]
 }

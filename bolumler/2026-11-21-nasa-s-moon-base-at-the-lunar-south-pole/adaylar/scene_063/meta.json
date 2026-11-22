@@ -1,37 +1,38 @@
 {
-  "scene_id": 63,
-  "narration": "So the better question is not why NASA paused a station. It is whether the surface sequence can hold, step by step.",
-  "visual_brief": "Brilliant young star cluster, steps of light.",
-  "purpose": "explain",
-  "nasa_query": "Westerlund 2 Hubble",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_063/aday_0.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000742",
-      "title": "Hubble Space Telescope Celebrates 25 Years of Unveiling the Universe",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "This visualization provides a three-dimensional perspective on Hubble's 25th anniversary image of the nebula Gum 29 with the star cluster Westerlund 2 at its core. The flight traverses the foreground stars and approaches the lower left rim of the nebula Gum 29. Passing through the wispy darker cloud",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_063/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000743",
-      "title": "NASA Unveils Celestial Fireworks as Official Image for Hubble 25th Anniversary",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "The brilliant tapestry of young stars flaring to life resemble a glittering fireworks display in the 25th anniversary NASA Hubble Space Telescope image, released to commemorate a quarter century of exploring the solar system and beyond since its launch on April 24, 1990. “Hubble has completely trans",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~orig.png"
-      ]
-    }
-  ]
+ "scene_id": 63,
+ "narration": "So the better question is not why NASA paused a station. It is whether the surface sequence can hold, step by step.",
+ "visual_brief": "Brilliant young star cluster, steps of light.",
+ "purpose": "explain",
+ "nasa_query": "Westerlund 2 Hubble",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_063/aday_0.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000742",
+   "title": "Hubble Space Telescope Celebrates 25 Years of Unveiling the Universe",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "This visualization provides a three-dimensional perspective on Hubble's 25th anniversary image of the nebula Gum 29 with the star cluster Westerlund 2 at its core. The flight traverses the foreground stars and approaches the lower left rim of the nebula Gum 29. Passing through the wispy darker cloud",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000742/GSFC_20171208_Archive_e000742~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_063/aday_1.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e000743",
+   "title": "NASA Unveils Celestial Fireworks as Official Image for Hubble 25th Anniversary",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "The brilliant tapestry of young stars flaring to life resemble a glittering fireworks display in the 25th anniversary NASA Hubble Space Telescope image, released to commemorate a quarter century of exploring the solar system and beyond since its launch on April 24, 1990. “Hubble has completely trans",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000743/GSFC_20171208_Archive_e000743~orig.png"
+   ],
+   "credit_line": "NASA, ESA"
+  }
+ ]
 }

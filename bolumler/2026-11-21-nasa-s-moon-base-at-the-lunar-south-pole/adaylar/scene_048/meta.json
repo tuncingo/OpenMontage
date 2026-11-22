@@ -1,104 +1,105 @@
 {
-  "scene_id": 48,
-  "narration": "NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028.",
-  "visual_brief": "Orion capsule in Earth orbit with Earth below.",
-  "purpose": "evidence",
-  "nasa_query": "Orion spacecraft Earth orbit | Orion capsule solar arrays",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_0.jpg",
-      "nasa_id": "11 14 24 fuel depot",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_1.jpg",
-      "nasa_id": "11 03 24  orion transfer",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_2.jpg",
-      "nasa_id": "MK2_EOR_ArtemisIII_Dock",
-      "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
-      "center": "MSFC",
-      "date": "2026-07-16",
-      "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
-      "links": [
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_3.jpg",
-      "nasa_id": "KSC-2014-4771",
-      "title": "KSC-2014-4771",
-      "center": "KSC",
-      "date": "2014-12-05",
-      "description": "SAN DIEGO, Calif. -- NASA's Orion spacecraft floats in the Pacific Ocean after splashdown from its first flight test in Earth orbit. The spacecraft completed a two-orbit, four-and-a-half-hour mission in Earth orbit. NASA, the U.S. Navy and Lockheed Martin are coordinating efforts to recover Orion, t",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_4.jpg",
-      "nasa_id": "KSC-314D-0556_0008",
-      "title": "Orion Splashdown Recovery",
-      "center": "KSC",
-      "date": "2014-12-05",
-      "description": "NASA's Orion spacecraft floats in the Pacific Ocean after splashdown from its first flight test in Earth orbit. The spacecraft completed a two-orbit, four-and-a-half-hour mission in Earth orbit. NASA, the U.S. Navy and Lockheed Martin are coordinating efforts to recover Orion, the forward bay cover ",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~orig.jpg"
-      ]
-    },
-    {
-      "index": 5,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_5.jpg",
-      "nasa_id": "07 06 26 Artemis3_02_composite",
-      "title": "07 06 26 Artemis3_02_composite",
-      "center": "MSFC",
-      "date": "2026-07-16",
-      "description": "These artist’s concepts depict NASA’s Orion spacecraft and SpaceX’s Starship human landing system test article during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American companies to develop the human la",
-      "links": [
-        "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~large.jpg",
-        "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~medium.jpg",
-        "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~small.jpg",
-        "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~thumb.jpg",
-        "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 48,
+ "narration": "NASA is targeting Artemis Three as a 2027 lander test in Earth orbit, and Artemis Four as the first crewed landing, in early 2028.",
+ "visual_brief": "Orion capsule in Earth orbit with Earth below.",
+ "purpose": "evidence",
+ "nasa_query": "Orion spacecraft Earth orbit | Orion capsule solar arrays",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_0.jpg",
+   "nasa_id": "11 14 24 fuel depot",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_1.jpg",
+   "nasa_id": "11 03 24  orion transfer",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_2.jpg",
+   "nasa_id": "MK2_EOR_ArtemisIII_Dock",
+   "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
+   "center": "MSFC",
+   "date": "2026-07-16",
+   "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
+   "links": [
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_3.jpg",
+   "nasa_id": "KSC-2014-4771",
+   "title": "KSC-2014-4771",
+   "center": "KSC",
+   "date": "2014-12-05",
+   "description": "SAN DIEGO, Calif. -- NASA's Orion spacecraft floats in the Pacific Ocean after splashdown from its first flight test in Earth orbit. The spacecraft completed a two-orbit, four-and-a-half-hour mission in Earth orbit. NASA, the U.S. Navy and Lockheed Martin are coordinating efforts to recover Orion, t",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~large.jpg",
+    "https://images-assets.nasa.gov/image/KSC-2014-4771/KSC-2014-4771~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_4.jpg",
+   "nasa_id": "KSC-314D-0556_0008",
+   "title": "Orion Splashdown Recovery",
+   "center": "KSC",
+   "date": "2014-12-05",
+   "description": "NASA's Orion spacecraft floats in the Pacific Ocean after splashdown from its first flight test in Earth orbit. The spacecraft completed a two-orbit, four-and-a-half-hour mission in Earth orbit. NASA, the U.S. Navy and Lockheed Martin are coordinating efforts to recover Orion, the forward bay cover ",
+   "links": [
+    "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~medium.jpg",
+    "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~small.jpg",
+    "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~thumb.jpg",
+    "https://images-assets.nasa.gov/image/KSC-314D-0556_0008/KSC-314D-0556_0008~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_048/aday_5.jpg",
+   "nasa_id": "07 06 26 Artemis3_02_composite",
+   "title": "07 06 26 Artemis3_02_composite",
+   "center": "MSFC",
+   "date": "2026-07-16",
+   "description": "These artist’s concepts depict NASA’s Orion spacecraft and SpaceX’s Starship human landing system test article during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American companies to develop the human la",
+   "links": [
+    "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~large.jpg",
+    "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~medium.jpg",
+    "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~small.jpg",
+    "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~thumb.jpg",
+    "https://images-assets.nasa.gov/image/07 06 26 Artemis3_02_composite/07 06 26 Artemis3_02_composite~orig.jpg"
+   ],
+   "credit_line": "SpaceX"
+  }
+ ]
 }

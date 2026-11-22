@@ -17,8 +17,13 @@ The channel's look is quiet and precise: a near-black ground, hairline line grap
 - Strokes: hairlines (1.5–3 px) in teal, with a muted amber for the thing being highlighted. Grey for axes and context.
 - Constantly moving, never a static frame: slow push-in, pull-out, pan, parallax, slow drift of lines and dust.
 - Never the same visual treatment twice in a row; never the same image twice in an episode.
-- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument. Where no honest image exists, draw a schematic instead of using a look-alike photo of a different vehicle or mission.
+- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument. Where no honest image exists, use a generic cosmic cutaway (below) instead of a look-alike photo of a different vehicle or mission; never present a stand-in as the real thing.
 - Anything drawn rather than photographed that stands in for a real mission carries a small "Illustration" label.
+
+## Cosmic cutaways
+Şematik çizgi grafikler yalnızca veri, rakam ve karşılaştırma için. Genel cümlelerde renkli, hareketli kozmik ara planlar (nebula, yıldız kümesi, gezegen) kullanılmaya devam eder; bunlar ilgisiz sayılmaz.
+(English: line schematics are only for data, numbers and comparisons. General sentences keep using colourful, moving cosmic backgrounds — nebulae, star clusters, planets — and a reviewer must not count them as irrelevant.)
+- Cutaways are real NASA/ESA/ESO images with slow Ken Burns, parallax and the drifting star/dust layer; credit them in the source line.
 
 ## Schematic graphics
 Key facts are shown as drawn line graphics that build themselves on screen (lines draw, markers slide, numerals count up):

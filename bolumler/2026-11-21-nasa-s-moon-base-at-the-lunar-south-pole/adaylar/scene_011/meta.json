@@ -1,69 +1,70 @@
 {
-  "scene_id": 11,
-  "narration": "Now, the word base. Picture a city under a dome. That is not what NASA describes, at least not yet.",
-  "visual_brief": "Stylised glowing domed city on the Moon that dissolves into bare regolith.",
-  "purpose": "cutaway",
-  "nasa_query": "Lunar base concept",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_0.jpg",
-      "nasa_id": "9902061",
-      "title": "Early Program Development",
-      "center": "MSFC",
-      "date": "1970-01-01",
-      "description": "This 1970 artist's concept shows the Nuclear Shuttle and Space Tug operating in conjunction with other spacecraft to support lunar exploration. Marshall Space Flight Center plans during the late 1960s for lunar orbital and surface bases required extensive logistics operations in lunar orbit.",
-      "links": [
-        "https://images-assets.nasa.gov/image/9902061/9902061~small.jpg",
-        "https://images-assets.nasa.gov/image/9902061/9902061~thumb.jpg",
-        "https://images-assets.nasa.gov/image/9902061/9902061~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_1.jpg",
-      "nasa_id": "0800206",
-      "title": "Advanced Concept",
-      "center": "MSFC",
-      "date": "2008-02-15",
-      "description": "THIS CONCEPT IMAGE SHOWS THE ARES V CARGO LAUNCH VEHICLE. THE HEAVY LIFTING ARES V IS NASA'S PRIMARY VEHICLE FOR SAFE AND RELIABLE DELIVERY OF LARGE SCALE HARDWARE TO SPACE. THIS INCLUDES THE LUNAR LANDER, MATERIALS FOR ESTABLISHING A PERMANENT MOON BASE, AND THE VEHICLES AND HARDWARE NEEDED TO EXTE",
-      "links": [
-        "https://images-assets.nasa.gov/image/0800206/0800206~medium.jpg",
-        "https://images-assets.nasa.gov/image/0800206/0800206~small.jpg",
-        "https://images-assets.nasa.gov/image/0800206/0800206~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0800206/0800206~large.jpg",
-        "https://images-assets.nasa.gov/image/0800206/0800206~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_2.jpg",
-      "nasa_id": "9902063",
-      "title": "Early Program Development",
-      "center": "MSFC",
-      "date": "1971-01-01",
-      "description": "In this 1971 artist's concept, the Nuclear Shuttle is shown in various space-based applications. As envisioned by Marshall Space Flight Center Program Development persornel, the Nuclear Shuttle would deliver payloads to geosychronous Earth orbits or lunar orbits then return to low Earth orbit for re",
-      "links": [
-        "https://images-assets.nasa.gov/image/9902063/9902063~small.jpg",
-        "https://images-assets.nasa.gov/image/9902063/9902063~thumb.jpg",
-        "https://images-assets.nasa.gov/image/9902063/9902063~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_3.jpg",
-      "nasa_id": "PIA26161",
-      "title": "CADRE Rover on the Moon (Artist's Concept)",
-      "center": "JPL",
-      "date": "2023-12-13",
-      "description": "This artist's concept depicts a small rover – part of NASA's CADRE (Cooperative Autonomous Distributed Robotic Exploration) technology demonstration headed for the Moon – on the lunar surface. Motiv Space Systems in Pasadena, California, created the rendering and is collaborating with NASA's Jet Pro",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA26161/PIA26161~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA26161/PIA26161~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA26161/PIA26161~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA26161/PIA26161~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA26161/PIA26161~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 11,
+ "narration": "Now, the word base. Picture a city under a dome. That is not what NASA describes, at least not yet.",
+ "visual_brief": "Stylised glowing domed city on the Moon that dissolves into bare regolith.",
+ "purpose": "cutaway",
+ "nasa_query": "Lunar base concept",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_0.jpg",
+   "nasa_id": "9902061",
+   "title": "Early Program Development",
+   "center": "MSFC",
+   "date": "1970-01-01",
+   "description": "This 1970 artist's concept shows the Nuclear Shuttle and Space Tug operating in conjunction with other spacecraft to support lunar exploration. Marshall Space Flight Center plans during the late 1960s for lunar orbital and surface bases required extensive logistics operations in lunar orbit.",
+   "links": [
+    "https://images-assets.nasa.gov/image/9902061/9902061~small.jpg",
+    "https://images-assets.nasa.gov/image/9902061/9902061~thumb.jpg",
+    "https://images-assets.nasa.gov/image/9902061/9902061~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_1.jpg",
+   "nasa_id": "0800206",
+   "title": "Advanced Concept",
+   "center": "MSFC",
+   "date": "2008-02-15",
+   "description": "THIS CONCEPT IMAGE SHOWS THE ARES V CARGO LAUNCH VEHICLE. THE HEAVY LIFTING ARES V IS NASA'S PRIMARY VEHICLE FOR SAFE AND RELIABLE DELIVERY OF LARGE SCALE HARDWARE TO SPACE. THIS INCLUDES THE LUNAR LANDER, MATERIALS FOR ESTABLISHING A PERMANENT MOON BASE, AND THE VEHICLES AND HARDWARE NEEDED TO EXTE",
+   "links": [
+    "https://images-assets.nasa.gov/image/0800206/0800206~medium.jpg",
+    "https://images-assets.nasa.gov/image/0800206/0800206~small.jpg",
+    "https://images-assets.nasa.gov/image/0800206/0800206~thumb.jpg",
+    "https://images-assets.nasa.gov/image/0800206/0800206~large.jpg",
+    "https://images-assets.nasa.gov/image/0800206/0800206~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_2.jpg",
+   "nasa_id": "9902063",
+   "title": "Early Program Development",
+   "center": "MSFC",
+   "date": "1971-01-01",
+   "description": "In this 1971 artist's concept, the Nuclear Shuttle is shown in various space-based applications. As envisioned by Marshall Space Flight Center Program Development persornel, the Nuclear Shuttle would deliver payloads to geosychronous Earth orbits or lunar orbits then return to low Earth orbit for re",
+   "links": [
+    "https://images-assets.nasa.gov/image/9902063/9902063~small.jpg",
+    "https://images-assets.nasa.gov/image/9902063/9902063~thumb.jpg",
+    "https://images-assets.nasa.gov/image/9902063/9902063~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_011/aday_3.jpg",
+   "nasa_id": "PIA26161",
+   "title": "CADRE Rover on the Moon (Artist's Concept)",
+   "center": "JPL",
+   "date": "2023-12-13",
+   "description": "This artist's concept depicts a small rover – part of NASA's CADRE (Cooperative Autonomous Distributed Robotic Exploration) technology demonstration headed for the Moon – on the lunar surface. Motiv Space Systems in Pasadena, California, created the rendering and is collaborating with NASA's Jet Pro",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA26161/PIA26161~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA26161/PIA26161~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA26161/PIA26161~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA26161/PIA26161~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA26161/PIA26161~orig.jpg"
+   ],
+   "credit_line": "Motiv Space Systems"
+  }
+ ]
 }

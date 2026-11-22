@@ -1,73 +1,74 @@
 {
-  "scene_id": 64,
-  "narration": "Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030.",
-  "visual_brief": "Rocket launch at night, anticipation of landers.",
-  "purpose": "cutaway",
-  "nasa_query": "Apollo 17 launch",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_0.jpg",
-      "nasa_id": "7004739",
-      "title": "Saturn Apollo Program",
-      "center": "MSFC",
-      "date": "1972-12-18",
-      "description": "This is a breathtaking moonlit view of Apollo 17 on the Launch Pad at Kennedy Space Flight Center (KSC). The seventh and last manned lunar landing and return to Earth mission, the Apollo 17, carrying a crew of three astronauts: Mission Commander Eugene A. Cernan, Lunar Module pilot Harrison H. Schmi",
-      "links": [
-        "https://images-assets.nasa.gov/image/7004739/7004739~medium.jpg",
-        "https://images-assets.nasa.gov/image/7004739/7004739~small.jpg",
-        "https://images-assets.nasa.gov/image/7004739/7004739~thumb.jpg",
-        "https://images-assets.nasa.gov/image/7004739/7004739~large.jpg",
-        "https://images-assets.nasa.gov/image/7004739/7004739~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_1.jpg",
-      "nasa_id": "S72-55482",
-      "title": "Launch of the Apollo 17 lunar landing mission",
-      "center": "JSC",
-      "date": "1972-12-07",
-      "description": "S72-55482 (7 Dec. 1972) --- The huge, 363-feet tall Apollo 17 (Spacecraft 114/Lunar Module 12/Saturn 512) space vehicle is launched from Pad A., Launch Complex 39, Kennedy Space Center (KSC), Florida, at 12:33 a.m. (EST), Dec. 7, 1972. Apollo 17, the final lunar landing mission in NASA's Apollo prog",
-      "links": [
-        "https://images-assets.nasa.gov/image/S72-55482/S72-55482~medium.jpg",
-        "https://images-assets.nasa.gov/image/S72-55482/S72-55482~small.jpg",
-        "https://images-assets.nasa.gov/image/S72-55482/S72-55482~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S72-55482/S72-55482~large.jpg",
-        "https://images-assets.nasa.gov/image/S72-55482/S72-55482~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_2.jpg",
-      "nasa_id": "S72-55070",
-      "title": "Launch of the Apollo 17 lunar landing mission",
-      "center": "JSC",
-      "date": "1972-09-07",
-      "description": "S72-55070 (7 Dec. 1972) --- The huge, 363-feet tall Apollo 17 (Spacecraft 114/Lunar Module 12/Saturn 512) space vehicle is launched from Pad A, Launch Complex 39, Kennedy Space Center (KSC), Florida, at 12:33 a.m. (EST), Dec. 7, 1972. Apollo 17, the final lunar landing mission in NASA's Apollo progr",
-      "links": [
-        "https://images-assets.nasa.gov/image/S72-55070/S72-55070~medium.jpg",
-        "https://images-assets.nasa.gov/image/S72-55070/S72-55070~small.jpg",
-        "https://images-assets.nasa.gov/image/S72-55070/S72-55070~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S72-55070/S72-55070~large.jpg",
-        "https://images-assets.nasa.gov/image/S72-55070/S72-55070~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_3.jpg",
-      "nasa_id": "S72-48729",
-      "title": "Apollo 17 rollout to launch pad",
-      "center": "JSC",
-      "date": "1972-08-28",
-      "description": "S72-48729 (28 Aug. 1972) --- A ground-level view of the huge Apollo 17 (Spacecraft 114/Lunar Module 12/ Saturn 512) space vehicle on its way to Pad A, Launch Complex 39, Kennedy Space Center (KSC). The Saturn V stack and its mobile launch tower are atop a mammoth crawler-transporter. The prime crew ",
-      "links": [
-        "https://images-assets.nasa.gov/image/S72-48729/S72-48729~medium.jpg",
-        "https://images-assets.nasa.gov/image/S72-48729/S72-48729~small.jpg",
-        "https://images-assets.nasa.gov/image/S72-48729/S72-48729~thumb.jpg",
-        "https://images-assets.nasa.gov/image/S72-48729/S72-48729~large.jpg",
-        "https://images-assets.nasa.gov/image/S72-48729/S72-48729~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 64,
+ "narration": "Whether the first landers reach the surface in 2027. Whether the reactor stays near 2030.",
+ "visual_brief": "Rocket launch at night, anticipation of landers.",
+ "purpose": "cutaway",
+ "nasa_query": "Apollo 17 launch",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_0.jpg",
+   "nasa_id": "7004739",
+   "title": "Saturn Apollo Program",
+   "center": "MSFC",
+   "date": "1972-12-18",
+   "description": "This is a breathtaking moonlit view of Apollo 17 on the Launch Pad at Kennedy Space Flight Center (KSC). The seventh and last manned lunar landing and return to Earth mission, the Apollo 17, carrying a crew of three astronauts: Mission Commander Eugene A. Cernan, Lunar Module pilot Harrison H. Schmi",
+   "links": [
+    "https://images-assets.nasa.gov/image/7004739/7004739~medium.jpg",
+    "https://images-assets.nasa.gov/image/7004739/7004739~small.jpg",
+    "https://images-assets.nasa.gov/image/7004739/7004739~thumb.jpg",
+    "https://images-assets.nasa.gov/image/7004739/7004739~large.jpg",
+    "https://images-assets.nasa.gov/image/7004739/7004739~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_1.jpg",
+   "nasa_id": "S72-55482",
+   "title": "Launch of the Apollo 17 lunar landing mission",
+   "center": "JSC",
+   "date": "1972-12-07",
+   "description": "S72-55482 (7 Dec. 1972) --- The huge, 363-feet tall Apollo 17 (Spacecraft 114/Lunar Module 12/Saturn 512) space vehicle is launched from Pad A., Launch Complex 39, Kennedy Space Center (KSC), Florida, at 12:33 a.m. (EST), Dec. 7, 1972. Apollo 17, the final lunar landing mission in NASA's Apollo prog",
+   "links": [
+    "https://images-assets.nasa.gov/image/S72-55482/S72-55482~medium.jpg",
+    "https://images-assets.nasa.gov/image/S72-55482/S72-55482~small.jpg",
+    "https://images-assets.nasa.gov/image/S72-55482/S72-55482~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S72-55482/S72-55482~large.jpg",
+    "https://images-assets.nasa.gov/image/S72-55482/S72-55482~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_2.jpg",
+   "nasa_id": "S72-55070",
+   "title": "Launch of the Apollo 17 lunar landing mission",
+   "center": "JSC",
+   "date": "1972-09-07",
+   "description": "S72-55070 (7 Dec. 1972) --- The huge, 363-feet tall Apollo 17 (Spacecraft 114/Lunar Module 12/Saturn 512) space vehicle is launched from Pad A, Launch Complex 39, Kennedy Space Center (KSC), Florida, at 12:33 a.m. (EST), Dec. 7, 1972. Apollo 17, the final lunar landing mission in NASA's Apollo progr",
+   "links": [
+    "https://images-assets.nasa.gov/image/S72-55070/S72-55070~medium.jpg",
+    "https://images-assets.nasa.gov/image/S72-55070/S72-55070~small.jpg",
+    "https://images-assets.nasa.gov/image/S72-55070/S72-55070~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S72-55070/S72-55070~large.jpg",
+    "https://images-assets.nasa.gov/image/S72-55070/S72-55070~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_064/aday_3.jpg",
+   "nasa_id": "S72-48729",
+   "title": "Apollo 17 rollout to launch pad",
+   "center": "JSC",
+   "date": "1972-08-28",
+   "description": "S72-48729 (28 Aug. 1972) --- A ground-level view of the huge Apollo 17 (Spacecraft 114/Lunar Module 12/ Saturn 512) space vehicle on its way to Pad A, Launch Complex 39, Kennedy Space Center (KSC). The Saturn V stack and its mobile launch tower are atop a mammoth crawler-transporter. The prime crew ",
+   "links": [
+    "https://images-assets.nasa.gov/image/S72-48729/S72-48729~medium.jpg",
+    "https://images-assets.nasa.gov/image/S72-48729/S72-48729~small.jpg",
+    "https://images-assets.nasa.gov/image/S72-48729/S72-48729~thumb.jpg",
+    "https://images-assets.nasa.gov/image/S72-48729/S72-48729~large.jpg",
+    "https://images-assets.nasa.gov/image/S72-48729/S72-48729~orig.jpg"
+   ]
+  }
+ ]
 }

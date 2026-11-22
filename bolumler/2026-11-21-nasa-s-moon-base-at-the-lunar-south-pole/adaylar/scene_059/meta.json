@@ -1,41 +1,42 @@
 {
-  "scene_id": 59,
-  "narration": "So let's go back to the opening. Why did NASA pause its own station?",
-  "visual_brief": "Return to the orbiting station concept, now seen small against the Moon.",
-  "purpose": "cutaway",
-  "nasa_query": "Gateway Artemis concept",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_059/aday_0.jpg",
-      "nasa_id": "11 14 24 fuel depot",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
-        "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_059/aday_1.jpg",
-      "nasa_id": "11 03 24  orion transfer",
-      "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
-      "center": "MSFC",
-      "date": "2024-11-20",
-      "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
-      "links": [
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
-        "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 59,
+ "narration": "So let's go back to the opening. Why did NASA pause its own station?",
+ "visual_brief": "Return to the orbiting station concept, now seen small against the Moon.",
+ "purpose": "cutaway",
+ "nasa_query": "Gateway Artemis concept",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_059/aday_0.jpg",
+   "nasa_id": "11 14 24 fuel depot",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~small.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~large.jpg",
+    "https://images-assets.nasa.gov/image/11 14 24 fuel depot/11 14 24 fuel depot~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_059/aday_1.jpg",
+   "nasa_id": "11 03 24  orion transfer",
+   "title": "Artist’s Concepts Depict SpaceX’s Starship HLS en route to the Moon for NASA Artemis",
+   "center": "MSFC",
+   "date": "2024-11-20",
+   "description": "These artist’s concepts show SpaceX’s Starship Human Landing System (HLS) in operation on its journey to the Moon. Before astronauts launch in NASA’s Orion spacecraft atop the agency’s SLS (Space Launch System) rocket, SpaceX will launch a storage depot to Earth orbit. For Artemis III and Artemis IV",
+   "links": [
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~medium.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~small.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~thumb.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~large.jpg",
+    "https://images-assets.nasa.gov/image/11 03 24  orion transfer/11 03 24  orion transfer~orig.jpg"
+   ],
+   "credit_line": "NASA/MSFC"
+  }
+ ]
 }

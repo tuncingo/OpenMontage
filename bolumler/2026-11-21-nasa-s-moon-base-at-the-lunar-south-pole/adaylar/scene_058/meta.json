@@ -1,70 +1,71 @@
 {
-  "scene_id": 58,
-  "narration": "A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now.",
-  "visual_brief": "Interacting galaxies in a slow dance, generational time.",
-  "purpose": "cutaway",
-  "nasa_query": "Stephan's Quintet Webb",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_0.jpg",
-      "nasa_id": "PIA10391",
-      "title": "Interacting Galaxies",
-      "center": "JPL",
-      "date": "2008-04-24",
-      "description": "This beautiful pair of interacting galaxies consists of NGC 5754, the large spiral on the right, and NGC 5752, the smaller companion in the bottom left corner of the image. This image is from NASA Hubble Space Telescope.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA10391/PIA10391~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA10391/PIA10391~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA10391/PIA10391~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10391/PIA10391~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA10391/PIA10391~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_1.jpg",
-      "nasa_id": "PIA07905",
-      "title": "Interacting Group of Galaxies Known as Stephan Quintet",
-      "center": "JPL",
-      "date": "2005-05-05",
-      "description": "This ultraviolet image from NASA Galaxy Evolution Explorer is of the interacting group of galaxies known as Stephan Quintet NGC 7317, NGC 7318A, NGC 7318B, NGC 7319, NGC 7320, lower left. Of the five galaxies in this tightly packed group, NGC 7320 (the large spiral in the group) is probably a foregr",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA07905/PIA07905~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA07905/PIA07905~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA07905/PIA07905~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_2.jpg",
-      "nasa_id": "PIA10389",
-      "title": "AM 1316-241",
-      "center": "JPL",
-      "date": "2008-04-24",
-      "description": "AM 1316-241 is made up of two interacting galaxies—a spiral galaxy on the left of the frame in front of an elliptical galaxy on the right of the frame. This image is part of a large collection of images of merging galaxies taken by NASA Hubble.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA10389/PIA10389~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA10389/PIA10389~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA10389/PIA10389~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10389/PIA10389~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_3.jpg",
-      "nasa_id": "PIA18902",
-      "title": "A Flood of Gas",
-      "center": "JPL",
-      "date": "2014-12-05",
-      "description": "A new feature in the evolution of galaxies has been captured in this image of galactic interactions. The two galaxies seen here -- NGC 3226 at the top, NGC 3227 at the bottom.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA18902/PIA18902~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA18902/PIA18902~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA18902/PIA18902~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18902/PIA18902~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA18902/PIA18902~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 58,
+ "narration": "A base is a long project. Phase Three, in 2032 and beyond, belongs to people who are in school right now.",
+ "visual_brief": "Interacting galaxies in a slow dance, generational time.",
+ "purpose": "cutaway",
+ "nasa_query": "Stephan's Quintet Webb",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_0.jpg",
+   "nasa_id": "PIA10391",
+   "title": "Interacting Galaxies",
+   "center": "JPL",
+   "date": "2008-04-24",
+   "description": "This beautiful pair of interacting galaxies consists of NGC 5754, the large spiral on the right, and NGC 5752, the smaller companion in the bottom left corner of the image. This image is from NASA Hubble Space Telescope.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA10391/PIA10391~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA10391/PIA10391~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA10391/PIA10391~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA10391/PIA10391~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA10391/PIA10391~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_1.jpg",
+   "nasa_id": "PIA07905",
+   "title": "Interacting Group of Galaxies Known as Stephan Quintet",
+   "center": "JPL",
+   "date": "2005-05-05",
+   "description": "This ultraviolet image from NASA Galaxy Evolution Explorer is of the interacting group of galaxies known as Stephan Quintet NGC 7317, NGC 7318A, NGC 7318B, NGC 7319, NGC 7320, lower left. Of the five galaxies in this tightly packed group, NGC 7320 (the large spiral in the group) is probably a foregr",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA07905/PIA07905~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA07905/PIA07905~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA07905/PIA07905~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_2.jpg",
+   "nasa_id": "PIA10389",
+   "title": "AM 1316-241",
+   "center": "JPL",
+   "date": "2008-04-24",
+   "description": "AM 1316-241 is made up of two interacting galaxies—a spiral galaxy on the left of the frame in front of an elliptical galaxy on the right of the frame. This image is part of a large collection of images of merging galaxies taken by NASA Hubble.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA10389/PIA10389~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA10389/PIA10389~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA10389/PIA10389~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA10389/PIA10389~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA, Hubble Heritage Team"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_058/aday_3.jpg",
+   "nasa_id": "PIA18902",
+   "title": "A Flood of Gas",
+   "center": "JPL",
+   "date": "2014-12-05",
+   "description": "A new feature in the evolution of galaxies has been captured in this image of galactic interactions. The two galaxies seen here -- NGC 3226 at the top, NGC 3227 at the bottom.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA18902/PIA18902~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA18902/PIA18902~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA18902/PIA18902~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA18902/PIA18902~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA18902/PIA18902~orig.jpg"
+   ]
+  }
+ ]
 }

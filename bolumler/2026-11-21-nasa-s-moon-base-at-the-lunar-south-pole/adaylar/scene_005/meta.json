@@ -1,68 +1,69 @@
 {
-  "scene_id": 5,
-  "narration": "The pause is indefinite. The stated goal was to focus on a base on the surface.",
-  "visual_brief": "Camera descends from orbit toward the rugged lunar south pole terrain.",
-  "purpose": "cutaway",
-  "nasa_query": "Moon south pole",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_0.jpg",
-      "nasa_id": "PIA00001",
-      "title": "South Pole Region of the Moon as Seen by Clementine",
-      "center": "JPL",
-      "date": "1996-06-03",
-      "description": "Lunar mosaic of ~1500 Clementine images of the south polar region of the moon. The projection is orthographic, centered on the south pole. The Schrodinger Basin (320 km in diameter) is located in the lower right of the mosaic. Amundsen-Ganswindt is the more subdued circular basin between Schrodinger",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA00001/PIA00001~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA00001/PIA00001~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA00001/PIA00001~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA00001/PIA00001~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA00001/PIA00001~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_1.jpg",
-      "nasa_id": "PIA12077",
-      "title": "Moon Rugged South Polar Region Composite",
-      "center": "JPL",
-      "date": "2009-06-18",
-      "description": "This composite image depicts the moon rugged south polar region in two lights. The color image is the highest resolution topography map to date of the moon south pole.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA12077/PIA12077~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA12077/PIA12077~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA12077/PIA12077~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA12077/PIA12077~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA12077/PIA12077~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_2.jpg",
-      "nasa_id": "PIA14626",
-      "title": "Above Titan South",
-      "center": "JPL",
-      "date": "2012-09-17",
-      "description": "Titan south polar vortex seems to float above the moon south pole in this Cassini spacecraft view. The vortex, which is a mass of gas swirling around the south pole high in the moon atmosphere, can be seen in the lower right of this view.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA14626/PIA14626~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA14626/PIA14626~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA14626/PIA14626~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_3.jpg",
-      "nasa_id": "PIA17184",
-      "title": "Encroaching Shadow",
-      "center": "JPL",
-      "date": "2014-07-28",
-      "description": "This image from NASA Cassini spacecraft, one of those acquired in the survey conducted by the Cassini imaging science team of the geyser basin at the south pole of Enceladus, was taken as Cassini was looking across the moon south pole.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA17184/PIA17184~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA17184/PIA17184~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 5,
+ "narration": "The pause is indefinite. The stated goal was to focus on a base on the surface.",
+ "visual_brief": "Camera descends from orbit toward the rugged lunar south pole terrain.",
+ "purpose": "cutaway",
+ "nasa_query": "Moon south pole",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_0.jpg",
+   "nasa_id": "PIA00001",
+   "title": "South Pole Region of the Moon as Seen by Clementine",
+   "center": "JPL",
+   "date": "1996-06-03",
+   "description": "Lunar mosaic of ~1500 Clementine images of the south polar region of the moon. The projection is orthographic, centered on the south pole. The Schrodinger Basin (320 km in diameter) is located in the lower right of the mosaic. Amundsen-Ganswindt is the more subdued circular basin between Schrodinger",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA00001/PIA00001~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA00001/PIA00001~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA00001/PIA00001~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA00001/PIA00001~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA00001/PIA00001~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL/USGS"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_1.jpg",
+   "nasa_id": "PIA12077",
+   "title": "Moon Rugged South Polar Region Composite",
+   "center": "JPL",
+   "date": "2009-06-18",
+   "description": "This composite image depicts the moon rugged south polar region in two lights. The color image is the highest resolution topography map to date of the moon south pole.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA12077/PIA12077~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA12077/PIA12077~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA12077/PIA12077~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA12077/PIA12077~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA12077/PIA12077~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_2.jpg",
+   "nasa_id": "PIA14626",
+   "title": "Above Titan South",
+   "center": "JPL",
+   "date": "2012-09-17",
+   "description": "Titan south polar vortex seems to float above the moon south pole in this Cassini spacecraft view. The vortex, which is a mass of gas swirling around the south pole high in the moon atmosphere, can be seen in the lower right of this view.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA14626/PIA14626~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA14626/PIA14626~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA14626/PIA14626~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_005/aday_3.jpg",
+   "nasa_id": "PIA17184",
+   "title": "Encroaching Shadow",
+   "center": "JPL",
+   "date": "2014-07-28",
+   "description": "This image from NASA Cassini spacecraft, one of those acquired in the survey conducted by the Cassini imaging science team of the geyser basin at the south pole of Enceladus, was taken as Cassini was looking across the moon south pole.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA17184/PIA17184~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA17184/PIA17184~orig.jpg"
+   ]
+  }
+ ]
 }

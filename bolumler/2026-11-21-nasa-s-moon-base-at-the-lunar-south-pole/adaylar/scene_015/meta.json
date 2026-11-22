@@ -1,69 +1,70 @@
 {
-  "scene_id": 15,
-  "narration": "So today, the Moon Base is a schedule of robotic missions. Not a building.",
-  "visual_brief": "Vivid stellar nursery to relieve the explanation, calendar feeling of time passing.",
-  "purpose": "cutaway",
-  "nasa_query": "Orion Nebula Hubble",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_0.jpg",
-      "nasa_id": "PIA04227",
-      "title": "Orion Nebula and Bow Shock",
-      "center": "JPL",
-      "date": "1999-12-02",
-      "description": "Astronomers using NASA Hubble Space Telescope have found a bow shock around a very young star in the nearby Orion nebula, an intense star-forming region of gas and dust. ",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA04227/PIA04227~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA04227/PIA04227~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA04227/PIA04227~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_1.jpg",
-      "nasa_id": "PIA22089",
-      "title": "Hubble Space Telescope,Spitzer Space Telescope",
-      "center": "JPL",
-      "date": "2018-01-11",
-      "description": "This image showcases both the visible and infrared visualizations of the Orion Nebula. This view from a movie sequence looks down the 'valley' leading to the star cluster at the far end. The left side of the image shows the visible-light visualization, which fades to the infrared-light visualization",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA22089/PIA22089~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA22089/PIA22089~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA22089/PIA22089~orig.tif"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_2.jpg",
-      "nasa_id": "PIA01322",
-      "title": "Chaos at the Heart of Orion",
-      "center": "JPL",
-      "date": "2006-11-07",
-      "description": "NASA Spitzer and Hubble Space Telescopes have teamed up to expose the chaos that baby stars are creating 1,500 light-years away in a cosmic cloud called the Orion nebula.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA01322/PIA01322~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA01322/PIA01322~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA01322/PIA01322~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA01322/PIA01322~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA01322/PIA01322~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_3.jpg",
-      "nasa_id": "0302062",
-      "title": "History of Hubble Space Telescope (HST)",
-      "center": "MSFC",
-      "date": "1995-02-01",
-      "description": "The nearby intense star-forming region known as the Great Nebula in the Orion constellation reveals a bow shock around a very young star as seen by NASA's Hubble Space Telescope (HST). Named for the crescent-shaped wave made by a ship as it moves through the water, a bow shock can be created in spac",
-      "links": [
-        "https://images-assets.nasa.gov/image/0302062/0302062~medium.jpg",
-        "https://images-assets.nasa.gov/image/0302062/0302062~small.jpg",
-        "https://images-assets.nasa.gov/image/0302062/0302062~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0302062/0302062~large.jpg",
-        "https://images-assets.nasa.gov/image/0302062/0302062~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 15,
+ "narration": "So today, the Moon Base is a schedule of robotic missions. Not a building.",
+ "visual_brief": "Vivid stellar nursery to relieve the explanation, calendar feeling of time passing.",
+ "purpose": "cutaway",
+ "nasa_query": "Orion Nebula Hubble",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_0.jpg",
+   "nasa_id": "PIA04227",
+   "title": "Orion Nebula and Bow Shock",
+   "center": "JPL",
+   "date": "1999-12-02",
+   "description": "Astronomers using NASA Hubble Space Telescope have found a bow shock around a very young star in the nearby Orion nebula, an intense star-forming region of gas and dust. ",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA04227/PIA04227~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA04227/PIA04227~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA04227/PIA04227~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_1.jpg",
+   "nasa_id": "PIA22089",
+   "title": "Hubble Space Telescope,Spitzer Space Telescope",
+   "center": "JPL",
+   "date": "2018-01-11",
+   "description": "This image showcases both the visible and infrared visualizations of the Orion Nebula. This view from a movie sequence looks down the 'valley' leading to the star cluster at the far end. The left side of the image shows the visible-light visualization, which fades to the infrared-light visualization",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA22089/PIA22089~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA22089/PIA22089~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA22089/PIA22089~orig.tif"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_2.jpg",
+   "nasa_id": "PIA01322",
+   "title": "Chaos at the Heart of Orion",
+   "center": "JPL",
+   "date": "2006-11-07",
+   "description": "NASA Spitzer and Hubble Space Telescopes have teamed up to expose the chaos that baby stars are creating 1,500 light-years away in a cosmic cloud called the Orion nebula.",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA01322/PIA01322~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA01322/PIA01322~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA01322/PIA01322~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA01322/PIA01322~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA01322/PIA01322~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL-Caltech/STScI"
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_015/aday_3.jpg",
+   "nasa_id": "0302062",
+   "title": "History of Hubble Space Telescope (HST)",
+   "center": "MSFC",
+   "date": "1995-02-01",
+   "description": "The nearby intense star-forming region known as the Great Nebula in the Orion constellation reveals a bow shock around a very young star as seen by NASA's Hubble Space Telescope (HST). Named for the crescent-shaped wave made by a ship as it moves through the water, a bow shock can be created in spac",
+   "links": [
+    "https://images-assets.nasa.gov/image/0302062/0302062~medium.jpg",
+    "https://images-assets.nasa.gov/image/0302062/0302062~small.jpg",
+    "https://images-assets.nasa.gov/image/0302062/0302062~thumb.jpg",
+    "https://images-assets.nasa.gov/image/0302062/0302062~large.jpg",
+    "https://images-assets.nasa.gov/image/0302062/0302062~orig.jpg"
+   ]
+  }
+ ]
 }

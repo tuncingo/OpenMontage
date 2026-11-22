@@ -1,84 +1,99 @@
 {
-  "scene_id": 46,
-  "narration": "Experts doubt the timeline more than the size. A working surface reactor by 2030 is a steep climb.",
-  "visual_brief": "Kilopower reactor test hardware.",
-  "purpose": "explain",
-  "nasa_query": "Kilopower fission surface power | nuclear reactor test NASA",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_0.jpg",
-      "nasa_id": "GRC-1961-C-58453",
-      "title": "Researcher Poses with a Nuclear Rocket Model",
-      "center": "GRC",
-      "date": "1961-11-23",
-      "description": "A researcher at the NASA Lewis Research Center with slide ruler poses with models of the earth and a nuclear-propelled rocket. The Nuclear Engine for Rocket Vehicle Applications (NERVA) was a joint NASA and Atomic Energy Commission (AEC) endeavor to develop a nuclear-powered rocket for both long-ran",
-      "links": [
-        "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_1.jpg",
-      "nasa_id": "GRC-1964-C-69680",
-      "title": "Technicians Manufacture a Nozzle for the Kiwi B-1-B Engine",
-      "center": "GRC",
-      "date": "1964-05-23",
-      "description": "Technicians manufacture a nozzle for the Kiwi B-1-B nuclear rocket engine in the Fabrication Shop’s vacuum oven at the National Aeronautics and Space Administration (NASA) Lewis Research Center. The Nuclear Engine for Rocket Vehicle Applications (NERVA) was a joint NASA and Atomic Energy Commission ",
-      "links": [
-        "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_2.jpg",
-      "nasa_id": "GRC-1970-C-00860",
-      "title": "Operators in the Plum Brook Reactor Facility Control Room",
-      "center": "GRC",
-      "date": "1970-03-23",
-      "description": "Donald Rhodes, left, and Clyde Greer, right, monitor the operation of the National Aeronautics and Space Administration’s (NASA) Plum Brook Reactor Facility from the control room. The 60-megawatt test reactor, NASA’s only reactor, was the eighth largest test reactor in the world. The facility was bu",
-      "links": [
-        "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_3.jpg",
-      "nasa_id": "GRC-1961-C-55851",
-      "title": "Interior of the Plum Brook Reactor Facility",
-      "center": "GRC",
-      "date": "1961-02-23",
-      "description": "A view inside the 55-foot high containment vessel of the National Aeronautics and Space Administration (NASA) Plum Brook Reactor Facility in Sandusky, Ohio. The 60-megawatt test reactor went critical for the first time in 1961 and began its full-power research operations in 1963. From 1961 to 1973, ",
-      "links": [
-        "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_4.jpg",
-      "nasa_id": "GRC-2004-C-00105",
-      "title": "Ammonia Oxidation Plant at Plum Brook Ordnance Works",
-      "center": "GRC",
-      "date": "1943-06-23",
-      "description": "An ammonia oxidation plant at the Plum Brook Ordnance Works near Sandusky, Ohio, which later became the National Aeronautics and Space Administration’s (NASA) Plum Brook Station. During World War II the ordnance works produced trinitroluene (TNT), dinitrotoluene (DNT), and pentolite which were crate",
-      "links": [
-        "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~medium.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~small.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 46,
+ "narration": "Experts doubt the timeline more than the size. A working surface reactor by 2030 is a steep climb.",
+ "visual_brief": "Kilopower reactor test hardware.",
+ "purpose": "explain",
+ "nasa_query": "Kilopower fission surface power | nuclear reactor test NASA",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_0.jpg",
+   "nasa_id": "GRC-1961-C-58453",
+   "title": "Researcher Poses with a Nuclear Rocket Model",
+   "center": "GRC",
+   "date": "1961-11-23",
+   "description": "A researcher at the NASA Lewis Research Center with slide ruler poses with models of the earth and a nuclear-propelled rocket. The Nuclear Engine for Rocket Vehicle Applications (NERVA) was a joint NASA and Atomic Energy Commission (AEC) endeavor to develop a nuclear-powered rocket for both long-ran",
+   "links": [
+    "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~medium.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~small.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-58453/GRC-1961-C-58453~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_1.jpg",
+   "nasa_id": "GRC-1964-C-69680",
+   "title": "Technicians Manufacture a Nozzle for the Kiwi B-1-B Engine",
+   "center": "GRC",
+   "date": "1964-05-23",
+   "description": "Technicians manufacture a nozzle for the Kiwi B-1-B nuclear rocket engine in the Fabrication Shop’s vacuum oven at the National Aeronautics and Space Administration (NASA) Lewis Research Center. The Nuclear Engine for Rocket Vehicle Applications (NERVA) was a joint NASA and Atomic Energy Commission ",
+   "links": [
+    "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~medium.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~small.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1964-C-69680/GRC-1964-C-69680~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_2.jpg",
+   "nasa_id": "GRC-1970-C-00860",
+   "title": "Operators in the Plum Brook Reactor Facility Control Room",
+   "center": "GRC",
+   "date": "1970-03-23",
+   "description": "Donald Rhodes, left, and Clyde Greer, right, monitor the operation of the National Aeronautics and Space Administration’s (NASA) Plum Brook Reactor Facility from the control room. The 60-megawatt test reactor, NASA’s only reactor, was the eighth largest test reactor in the world. The facility was bu",
+   "links": [
+    "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~medium.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~small.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1970-C-00860/GRC-1970-C-00860~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_3.jpg",
+   "nasa_id": "GRC-1961-C-55851",
+   "title": "Interior of the Plum Brook Reactor Facility",
+   "center": "GRC",
+   "date": "1961-02-23",
+   "description": "A view inside the 55-foot high containment vessel of the National Aeronautics and Space Administration (NASA) Plum Brook Reactor Facility in Sandusky, Ohio. The 60-megawatt test reactor went critical for the first time in 1961 and began its full-power research operations in 1963. From 1961 to 1973, ",
+   "links": [
+    "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~medium.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~small.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GRC-1961-C-55851/GRC-1961-C-55851~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_4.jpg",
+   "nasa_id": "GRC-2004-C-00105",
+   "title": "Ammonia Oxidation Plant at Plum Brook Ordnance Works",
+   "center": "GRC",
+   "date": "1943-06-23",
+   "description": "An ammonia oxidation plant at the Plum Brook Ordnance Works near Sandusky, Ohio, which later became the National Aeronautics and Space Administration’s (NASA) Plum Brook Station. During World War II the ordnance works produced trinitroluene (TNT), dinitrotoluene (DNT), and pentolite which were crate",
+   "links": [
+    "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~medium.jpg",
+    "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~small.jpg",
+    "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GRC-2004-C-00105/GRC-2004-C-00105~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_046/aday_5.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001327",
+   "title": "NASA Hubble Sees Sparring Antennae Galaxies",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "The NASA/ESA Hubble Space Telescope has snapped the best ever image of the Antennae Galaxies. Hubble has released images of these stunning galaxies twice before, once using observations from its Wide Field and Planetary Camera 2 (WFPC2) in 1997, and again in 2006 from the Advanced Camera for Surveys",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001327/GSFC_20171208_Archive_e001327~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001327/GSFC_20171208_Archive_e001327~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001327/GSFC_20171208_Archive_e001327~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA"
+  }
+ ]
 }

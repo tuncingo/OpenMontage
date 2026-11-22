@@ -1,104 +1,105 @@
 {
-  "scene_id": 38,
-  "narration": "Second, MoonFall. Four hopping drones from JPL, planned for 2028.",
-  "visual_brief": "Small hopping robot leaping over lunar terrain.",
-  "purpose": "evidence",
-  "nasa_query": "lunar surface Apollo crater | Moon crater astronaut footprint",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_0.jpg",
-      "nasa_id": "as16-116-18649",
-      "title": "Astronaut Charles Duke examines surface of boulder at North Ray crater",
-      "center": "JSC",
-      "date": "1972-04-23",
-      "description": "AS16-116-18649 (23 April 1972) --- Astronaut Charles M. Duke Jr., lunar module pilot of the Apollo 16 lunar landing mission, examines closely the surface of a large boulder at North Ray Crater during the third Apollo 16 extravehicular activity (EVA) at the Descartes landing site. This picture was ta",
-      "links": [
-        "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~medium.jpg",
-        "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~small.jpg",
-        "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~large.jpg",
-        "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_1.jpg",
-      "nasa_id": "as17-137-20989",
-      "title": "View of the orange soil which Apollo 17 crewmen found at Station 4 during EVA",
-      "center": "JSC",
-      "date": "1972-12-12",
-      "description": "AS17-137-20989 (12 Dec. 1972) --- A close-up view of the much-publicized orange soil which the Apollo 17 crewmen found at Station 4 (Shorty Crater) during the second Apollo 17 extravehicular activity (EVA) at the Taurus-Littrow landing site. The orange soil was first spotted by scientist-astronaut H",
-      "links": [
-        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~medium.jpg",
-        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~small.jpg",
-        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~large.jpg",
-        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_2.jpg",
-      "nasa_id": "as11-37-5445",
-      "title": "Apollo 11 Command/Service modules photographed from Lunar Module in orbit",
-      "center": "JSC",
-      "date": "1969-07-20",
-      "description": "AS11-37-5445 (20 July 1969) --- The Apollo 11 Command and Service Modules (CSM) are photographed from the Lunar Module (LM) in lunar orbit during the Apollo 11 lunar landing mission. The lunar surface below is in the north central Sea of Fertility. The coordinates of the center of the picture are 51",
-      "links": [
-        "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~medium.jpg",
-        "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~small.jpg",
-        "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_3.jpg",
-      "nasa_id": "as12-51-7507",
-      "title": "Apollo 12 Lunar Module, in landing configuration, photographed in lunar orbit",
-      "center": "JSC",
-      "date": "1969-11-19",
-      "description": "AS12-51-7507 (19 Nov. 1969) --- The Apollo 12 Lunar Module (LM), in a lunar landing configuration, is photographed in lunar orbit from the Command and Service Modules (CSM). The coordinates of the center of the lunar surface shown in picture are 4.5 degrees west longitude and 7 degrees south latitud",
-      "links": [
-        "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~medium.jpg",
-        "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~small.jpg",
-        "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~large.jpg",
-        "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_4.jpg",
-      "nasa_id": "as15-97-13168",
-      "title": "View of crater Tsiolkovsky in highlands on lunar farside as seen by Apollo 15",
-      "center": "JSC",
-      "date": "1971-08-01",
-      "description": "AS15-97-13168 (31 July-2 Aug. 1971) --- A view of the flow structure on the rim and edge of the crater Tsiolkovsky in the highlands of the lunar farside, as photographed from lunar orbit by astronaut Alfred M. Worden in the Apollo 15 Command and Service Module (CSM). Note the scarp at the edge of th",
-      "links": [
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~medium.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~small.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~large.jpg",
-        "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~orig.jpg"
-      ]
-    },
-    {
-      "index": 5,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_5.jpg",
-      "nasa_id": "as15-82-11082",
-      "title": "View of portion of \"relatively fresh\" crater as photographed by Apollo 15",
-      "center": "JSC",
-      "date": "1971-07-31",
-      "description": "AS15-82-11082 (2 Aug. 1971) --- A close-up view of a portion of a \"relatively fresh\" crater, looking southeast, as photographed during the third Apollo 15 lunar surface extravehicular activity (EVA), on Aug. 2, 1971, at EVA Station No. 9, near Scarp Crater. The crater pictured is unnamed. The Apenni",
-      "links": [
-        "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~medium.jpg",
-        "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~small.jpg",
-        "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~thumb.jpg",
-        "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~large.jpg",
-        "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 38,
+ "narration": "Second, MoonFall. Four hopping drones from JPL, planned for 2028.",
+ "visual_brief": "Small hopping robot leaping over lunar terrain.",
+ "purpose": "evidence",
+ "nasa_query": "lunar surface Apollo crater | Moon crater astronaut footprint",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_0.jpg",
+   "nasa_id": "as16-116-18649",
+   "title": "Astronaut Charles Duke examines surface of boulder at North Ray crater",
+   "center": "JSC",
+   "date": "1972-04-23",
+   "description": "AS16-116-18649 (23 April 1972) --- Astronaut Charles M. Duke Jr., lunar module pilot of the Apollo 16 lunar landing mission, examines closely the surface of a large boulder at North Ray Crater during the third Apollo 16 extravehicular activity (EVA) at the Descartes landing site. This picture was ta",
+   "links": [
+    "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~medium.jpg",
+    "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~small.jpg",
+    "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~large.jpg",
+    "https://images-assets.nasa.gov/image/as16-116-18649/as16-116-18649~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_1.jpg",
+   "nasa_id": "as17-137-20989",
+   "title": "View of the orange soil which Apollo 17 crewmen found at Station 4 during EVA",
+   "center": "JSC",
+   "date": "1972-12-12",
+   "description": "AS17-137-20989 (12 Dec. 1972) --- A close-up view of the much-publicized orange soil which the Apollo 17 crewmen found at Station 4 (Shorty Crater) during the second Apollo 17 extravehicular activity (EVA) at the Taurus-Littrow landing site. The orange soil was first spotted by scientist-astronaut H",
+   "links": [
+    "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~medium.jpg",
+    "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~small.jpg",
+    "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~large.jpg",
+    "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_2.jpg",
+   "nasa_id": "as11-37-5445",
+   "title": "Apollo 11 Command/Service modules photographed from Lunar Module in orbit",
+   "center": "JSC",
+   "date": "1969-07-20",
+   "description": "AS11-37-5445 (20 July 1969) --- The Apollo 11 Command and Service Modules (CSM) are photographed from the Lunar Module (LM) in lunar orbit during the Apollo 11 lunar landing mission. The lunar surface below is in the north central Sea of Fertility. The coordinates of the center of the picture are 51",
+   "links": [
+    "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~medium.jpg",
+    "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~small.jpg",
+    "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as11-37-5445/as11-37-5445~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_3.jpg",
+   "nasa_id": "as12-51-7507",
+   "title": "Apollo 12 Lunar Module, in landing configuration, photographed in lunar orbit",
+   "center": "JSC",
+   "date": "1969-11-19",
+   "description": "AS12-51-7507 (19 Nov. 1969) --- The Apollo 12 Lunar Module (LM), in a lunar landing configuration, is photographed in lunar orbit from the Command and Service Modules (CSM). The coordinates of the center of the lunar surface shown in picture are 4.5 degrees west longitude and 7 degrees south latitud",
+   "links": [
+    "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~medium.jpg",
+    "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~small.jpg",
+    "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~large.jpg",
+    "https://images-assets.nasa.gov/image/as12-51-7507/as12-51-7507~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_4.jpg",
+   "nasa_id": "as15-97-13168",
+   "title": "View of crater Tsiolkovsky in highlands on lunar farside as seen by Apollo 15",
+   "center": "JSC",
+   "date": "1971-08-01",
+   "description": "AS15-97-13168 (31 July-2 Aug. 1971) --- A view of the flow structure on the rim and edge of the crater Tsiolkovsky in the highlands of the lunar farside, as photographed from lunar orbit by astronaut Alfred M. Worden in the Apollo 15 Command and Service Module (CSM). Note the scarp at the edge of th",
+   "links": [
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~medium.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~small.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~large.jpg",
+    "https://images-assets.nasa.gov/image/as15-97-13168/as15-97-13168~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_038/aday_5.jpg",
+   "nasa_id": "as15-82-11082",
+   "title": "View of portion of \"relatively fresh\" crater as photographed by Apollo 15",
+   "center": "JSC",
+   "date": "1971-07-31",
+   "description": "AS15-82-11082 (2 Aug. 1971) --- A close-up view of a portion of a \"relatively fresh\" crater, looking southeast, as photographed during the third Apollo 15 lunar surface extravehicular activity (EVA), on Aug. 2, 1971, at EVA Station No. 9, near Scarp Crater. The crater pictured is unnamed. The Apenni",
+   "links": [
+    "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~medium.jpg",
+    "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~small.jpg",
+    "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~thumb.jpg",
+    "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~large.jpg",
+    "https://images-assets.nasa.gov/image/as15-82-11082/as15-82-11082~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  }
+ ]
 }

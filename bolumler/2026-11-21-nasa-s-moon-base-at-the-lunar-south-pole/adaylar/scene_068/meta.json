@@ -1,71 +1,72 @@
 {
-  "scene_id": 68,
-  "narration": "If you want to follow it with us, subscribe to Rebel Minds Cosmos.",
-  "visual_brief": "Milky Way core in all colours, inviting.",
-  "purpose": "outro",
-  "nasa_query": "Milky Way Chandra",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_0.jpg",
-      "nasa_id": "0401556",
-      "title": "History of Chandra X-Ray Observatory",
-      "center": "MSFC",
-      "date": "2004-08-12",
-      "description": "NASA’s Chandra X-Ray Observatory (CXO) was launched July 22, 1999 aboard the Space Shuttle Columbia, STS-93 mission. This image was produced by combining a dozen CXO observations made of a 130 light-year region in the center of the Milky Way over the last 5 years. The colors represent low (red), med",
-      "links": [
-        "https://images-assets.nasa.gov/image/0401556/0401556~medium.jpg",
-        "https://images-assets.nasa.gov/image/0401556/0401556~small.jpg",
-        "https://images-assets.nasa.gov/image/0401556/0401556~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0401556/0401556~large.jpg",
-        "https://images-assets.nasa.gov/image/0401556/0401556~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_1.jpg",
-      "nasa_id": "0200010",
-      "title": "History of Chandra X-Ray Observatory",
-      "center": "MSFC",
-      "date": "2001-07-01",
-      "description": "The Chandra X-Ray Observatory (CXO) has made a sturning, high-energy panorama of the central regions of our Milky Way galaxy. The findings are an important step toward understanding the most active area of the Milky Way as well as other galaxies throughout the universe. This 400 by 900-light-year mo",
-      "links": [
-        "https://images-assets.nasa.gov/image/0200010/0200010~small.jpg",
-        "https://images-assets.nasa.gov/image/0200010/0200010~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0200010/0200010~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_2.jpg",
-      "nasa_id": "0200205",
-      "title": "History of Chandra X-Ray Observatory",
-      "center": "MSFC",
-      "date": "2001-07-01",
-      "description": "This image shows the central region of the spiral galaxy NGC 4631 as seen edge-on from the Chandra X-Ray Observatory (CXO) and the Hubble Space Telescope (HST). The Chandra data, shown in blue and purple, provide the first unambiguous evidence for a halo of hot gas surrounding a galaxy that is very ",
-      "links": [
-        "https://images-assets.nasa.gov/image/0200205/0200205~medium.jpg",
-        "https://images-assets.nasa.gov/image/0200205/0200205~small.jpg",
-        "https://images-assets.nasa.gov/image/0200205/0200205~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0200205/0200205~large.jpg",
-        "https://images-assets.nasa.gov/image/0200205/0200205~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_3.jpg",
-      "nasa_id": "PIA12348",
-      "title": "Great Observatories Unique Views of the Milky Way",
-      "center": "JPL",
-      "date": "2009-11-10",
-      "description": "In celebration of the International Year of Astronomy 2009, NASA's Great Observatories -- the Hubble Space Telescope, the Spitzer Space Telescope, and the Chandra X-ray Observatory -- have produced a matched trio of images of the central region of our Milky Way galaxy. Each image shows the telescope",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA12348/PIA12348~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA12348/PIA12348~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA12348/PIA12348~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA12348/PIA12348~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA12348/PIA12348~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 68,
+ "narration": "If you want to follow it with us, subscribe to Rebel Minds Cosmos.",
+ "visual_brief": "Milky Way core in all colours, inviting.",
+ "purpose": "outro",
+ "nasa_query": "Milky Way Chandra",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_0.jpg",
+   "nasa_id": "0401556",
+   "title": "History of Chandra X-Ray Observatory",
+   "center": "MSFC",
+   "date": "2004-08-12",
+   "description": "NASA’s Chandra X-Ray Observatory (CXO) was launched July 22, 1999 aboard the Space Shuttle Columbia, STS-93 mission. This image was produced by combining a dozen CXO observations made of a 130 light-year region in the center of the Milky Way over the last 5 years. The colors represent low (red), med",
+   "links": [
+    "https://images-assets.nasa.gov/image/0401556/0401556~medium.jpg",
+    "https://images-assets.nasa.gov/image/0401556/0401556~small.jpg",
+    "https://images-assets.nasa.gov/image/0401556/0401556~thumb.jpg",
+    "https://images-assets.nasa.gov/image/0401556/0401556~large.jpg",
+    "https://images-assets.nasa.gov/image/0401556/0401556~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_1.jpg",
+   "nasa_id": "0200010",
+   "title": "History of Chandra X-Ray Observatory",
+   "center": "MSFC",
+   "date": "2001-07-01",
+   "description": "The Chandra X-Ray Observatory (CXO) has made a sturning, high-energy panorama of the central regions of our Milky Way galaxy. The findings are an important step toward understanding the most active area of the Milky Way as well as other galaxies throughout the universe. This 400 by 900-light-year mo",
+   "links": [
+    "https://images-assets.nasa.gov/image/0200010/0200010~small.jpg",
+    "https://images-assets.nasa.gov/image/0200010/0200010~thumb.jpg",
+    "https://images-assets.nasa.gov/image/0200010/0200010~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_2.jpg",
+   "nasa_id": "0200205",
+   "title": "History of Chandra X-Ray Observatory",
+   "center": "MSFC",
+   "date": "2001-07-01",
+   "description": "This image shows the central region of the spiral galaxy NGC 4631 as seen edge-on from the Chandra X-Ray Observatory (CXO) and the Hubble Space Telescope (HST). The Chandra data, shown in blue and purple, provide the first unambiguous evidence for a halo of hot gas surrounding a galaxy that is very ",
+   "links": [
+    "https://images-assets.nasa.gov/image/0200205/0200205~medium.jpg",
+    "https://images-assets.nasa.gov/image/0200205/0200205~small.jpg",
+    "https://images-assets.nasa.gov/image/0200205/0200205~thumb.jpg",
+    "https://images-assets.nasa.gov/image/0200205/0200205~large.jpg",
+    "https://images-assets.nasa.gov/image/0200205/0200205~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_068/aday_3.jpg",
+   "nasa_id": "PIA12348",
+   "title": "Great Observatories Unique Views of the Milky Way",
+   "center": "JPL",
+   "date": "2009-11-10",
+   "description": "In celebration of the International Year of Astronomy 2009, NASA's Great Observatories -- the Hubble Space Telescope, the Spitzer Space Telescope, and the Chandra X-ray Observatory -- have produced a matched trio of images of the central region of our Milky Way galaxy. Each image shows the telescope",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA12348/PIA12348~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA12348/PIA12348~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA12348/PIA12348~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA12348/PIA12348~large.jpg",
+    "https://images-assets.nasa.gov/image/PIA12348/PIA12348~orig.jpg"
+   ],
+   "credit_line": "NASA/JPL-Caltech/ESA/CXC/STScI"
+  }
+ ]
 }

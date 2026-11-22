@@ -1,73 +1,74 @@
 {
-  "scene_id": 40,
-  "narration": "Later comes the part that feels like a base. A pressurized rover from Japan's space agency.",
-  "visual_brief": "JAXA pressurized rover concept, a bus-sized lunar vehicle.",
-  "purpose": "explain",
-  "nasa_query": "Pressurized rover JAXA",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_0.jpg",
-      "nasa_id": "jaxa-pr-concept-1-credit-jaxa-toyota",
-      "title": "Concept image of a Pressurized Rover",
-      "center": "JSC",
-      "date": "2025-07-30",
-      "description": "A concept image of JAXA’s (Japan Aerospace Exploration Agency) pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota",
-      "links": [
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~medium.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~small.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~large.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_1.jpg",
-      "nasa_id": "20250331-02",
-      "title": "Concept image of a Pressurized Rover",
-      "center": "JSC",
-      "date": "2025-07-30",
-      "description": "A concept image of a pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota ",
-      "links": [
-        "https://images-assets.nasa.gov/image/20250331-02/20250331-02~medium.jpg",
-        "https://images-assets.nasa.gov/image/20250331-02/20250331-02~small.jpg",
-        "https://images-assets.nasa.gov/image/20250331-02/20250331-02~thumb.jpg",
-        "https://images-assets.nasa.gov/image/20250331-02/20250331-02~large.jpg",
-        "https://images-assets.nasa.gov/image/20250331-02/20250331-02~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_2.jpg",
-      "nasa_id": "20250331-01",
-      "title": "Concept image of a Pressurized Rover",
-      "center": "JSC",
-      "date": "2025-07-30",
-      "description": "A concept image of a pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota ",
-      "links": [
-        "https://images-assets.nasa.gov/image/20250331-01/20250331-01~medium.jpg",
-        "https://images-assets.nasa.gov/image/20250331-01/20250331-01~small.jpg",
-        "https://images-assets.nasa.gov/image/20250331-01/20250331-01~thumb.jpg",
-        "https://images-assets.nasa.gov/image/20250331-01/20250331-01~large.jpg",
-        "https://images-assets.nasa.gov/image/20250331-01/20250331-01~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_3.jpg",
-      "nasa_id": "jaxa-pr-concept-2-credit-jaxa-toyota",
-      "title": "Concept image of a Pressurized Rover",
-      "center": "JSC",
-      "date": "2025-07-30",
-      "description": "A concept image of JAXA’s (Japan Aerospace Exploration Agency) pressurized rover with its solar arrays deployed on the surface of the Moon. Image Credit: JAXA/Toyota",
-      "links": [
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~medium.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~small.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~thumb.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~large.jpg",
-        "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 40,
+ "narration": "Later comes the part that feels like a base. A pressurized rover from Japan's space agency.",
+ "visual_brief": "JAXA pressurized rover concept, a bus-sized lunar vehicle.",
+ "purpose": "explain",
+ "nasa_query": "Pressurized rover JAXA",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_0.jpg",
+   "nasa_id": "jaxa-pr-concept-1-credit-jaxa-toyota",
+   "title": "Concept image of a Pressurized Rover",
+   "center": "JSC",
+   "date": "2025-07-30",
+   "description": "A concept image of JAXA’s (Japan Aerospace Exploration Agency) pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota",
+   "links": [
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~medium.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~small.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~large.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-1-credit-jaxa-toyota/jaxa-pr-concept-1-credit-jaxa-toyota~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_1.jpg",
+   "nasa_id": "20250331-02",
+   "title": "Concept image of a Pressurized Rover",
+   "center": "JSC",
+   "date": "2025-07-30",
+   "description": "A concept image of a pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota ",
+   "links": [
+    "https://images-assets.nasa.gov/image/20250331-02/20250331-02~medium.jpg",
+    "https://images-assets.nasa.gov/image/20250331-02/20250331-02~small.jpg",
+    "https://images-assets.nasa.gov/image/20250331-02/20250331-02~thumb.jpg",
+    "https://images-assets.nasa.gov/image/20250331-02/20250331-02~large.jpg",
+    "https://images-assets.nasa.gov/image/20250331-02/20250331-02~orig.jpg"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_2.jpg",
+   "nasa_id": "20250331-01",
+   "title": "Concept image of a Pressurized Rover",
+   "center": "JSC",
+   "date": "2025-07-30",
+   "description": "A concept image of a pressurized rover on the surface of the Moon. Image Credit: JAXA/Toyota ",
+   "links": [
+    "https://images-assets.nasa.gov/image/20250331-01/20250331-01~medium.jpg",
+    "https://images-assets.nasa.gov/image/20250331-01/20250331-01~small.jpg",
+    "https://images-assets.nasa.gov/image/20250331-01/20250331-01~thumb.jpg",
+    "https://images-assets.nasa.gov/image/20250331-01/20250331-01~large.jpg",
+    "https://images-assets.nasa.gov/image/20250331-01/20250331-01~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_040/aday_3.jpg",
+   "nasa_id": "jaxa-pr-concept-2-credit-jaxa-toyota",
+   "title": "Concept image of a Pressurized Rover",
+   "center": "JSC",
+   "date": "2025-07-30",
+   "description": "A concept image of JAXA’s (Japan Aerospace Exploration Agency) pressurized rover with its solar arrays deployed on the surface of the Moon. Image Credit: JAXA/Toyota",
+   "links": [
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~medium.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~small.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~thumb.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~large.jpg",
+    "https://images-assets.nasa.gov/image/jaxa-pr-concept-2-credit-jaxa-toyota/jaxa-pr-concept-2-credit-jaxa-toyota~orig.jpg"
+   ]
+  }
+ ]
 }

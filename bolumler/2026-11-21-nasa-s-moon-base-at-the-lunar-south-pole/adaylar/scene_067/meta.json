@@ -1,68 +1,69 @@
 {
-  "scene_id": 67,
-  "narration": "And either way, the south pole is where both NASA and China are placing their bets.",
-  "visual_brief": "Brilliant Eta Carinae-like twin lobes, two powers one centre.",
-  "purpose": "cutaway",
-  "nasa_query": "Eta Carinae Hubble",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_0.jpg",
-      "nasa_id": "PIA20294",
-      "title": "WFPC2 Image of the Variable Star Eta Carinae",
-      "center": "JPL",
-      "date": "2016-01-06",
-      "description": "The discovery of likely Eta Carinae twins in other galaxies will help scientists better understand this brief phase in the life of a massive star with images such as this from NASA Hubble Space Telescope. Astronomers cannot yet explain what caused the titanic eruption of star Eta Carinae in the 1840",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA20294/PIA20294~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA20294/PIA20294~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA20294/PIA20294~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_1.jpg",
-      "nasa_id": "PIA20018",
-      "title": "A Full Panel of Twins",
-      "center": "JPL",
-      "date": "2016-01-06",
-      "description": "Researchers found likely twins of the giant, erupting star Eta Carinae by comparing infrared images from NASA Spitzer Space Telescope (top) and NASA Hubble Space Telescope (bottom). Astronomers cannot yet explain what caused the titanic eruption of star Eta Carinae in the 1840s. The discovery of lik",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA20018/PIA20018~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA20018/PIA20018~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA20018/PIA20018~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA20018/PIA20018~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001783",
-      "title": "Preview of a Forthcoming Supernova",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Supernova Supernovae can occur one of two ways. The first occurs when a white dwarf—the vestigial ember of a dead star—passes so close to a living star that its matter leaks into the white dwarf. This causes a catastrophic explosion. However most people understand supernovae as the death of a massiv",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_3.jpg",
-      "nasa_id": "hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o",
-      "title": "Hubble Observes One-of-a-Kind Star Nicknamed ‘Nasty’",
-      "center": "GSFC",
-      "date": "2015-03-21",
-      "description": "Astronomers using NASA’s Hubble Space Telescope have uncovered surprising new clues about a hefty, rapidly aging star whose behavior has never been seen before in our Milky Way galaxy. In fact, the star is so weird that astronomers have nicknamed it “Nasty 1,” a play on its catalog name of NaSt1. Th",
-      "links": [
-        "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~medium.jpg",
-        "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~small.jpg",
-        "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~thumb.jpg",
-        "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~large.jpg",
-        "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 67,
+ "narration": "And either way, the south pole is where both NASA and China are placing their bets.",
+ "visual_brief": "Brilliant Eta Carinae-like twin lobes, two powers one centre.",
+ "purpose": "cutaway",
+ "nasa_query": "Eta Carinae Hubble",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_0.jpg",
+   "nasa_id": "PIA20294",
+   "title": "WFPC2 Image of the Variable Star Eta Carinae",
+   "center": "JPL",
+   "date": "2016-01-06",
+   "description": "The discovery of likely Eta Carinae twins in other galaxies will help scientists better understand this brief phase in the life of a massive star with images such as this from NASA Hubble Space Telescope. Astronomers cannot yet explain what caused the titanic eruption of star Eta Carinae in the 1840",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA20294/PIA20294~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA20294/PIA20294~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA20294/PIA20294~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA and the Hubble SM4 ERO Team"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_1.jpg",
+   "nasa_id": "PIA20018",
+   "title": "A Full Panel of Twins",
+   "center": "JPL",
+   "date": "2016-01-06",
+   "description": "Researchers found likely twins of the giant, erupting star Eta Carinae by comparing infrared images from NASA Spitzer Space Telescope (top) and NASA Hubble Space Telescope (bottom). Astronomers cannot yet explain what caused the titanic eruption of star Eta Carinae in the 1840s. The discovery of lik",
+   "links": [
+    "https://images-assets.nasa.gov/image/PIA20018/PIA20018~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA20018/PIA20018~small.jpg",
+    "https://images-assets.nasa.gov/image/PIA20018/PIA20018~thumb.jpg",
+    "https://images-assets.nasa.gov/image/PIA20018/PIA20018~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_2.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001783",
+   "title": "Preview of a Forthcoming Supernova",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Supernova Supernovae can occur one of two ways. The first occurs when a white dwarf—the vestigial ember of a dead star—passes so close to a living star that its matter leaks into the white dwarf. This causes a catastrophic explosion. However most people understand supernovae as the death of a massiv",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001783/GSFC_20171208_Archive_e001783~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_067/aday_3.jpg",
+   "nasa_id": "hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o",
+   "title": "Hubble Observes One-of-a-Kind Star Nicknamed ‘Nasty’",
+   "center": "GSFC",
+   "date": "2015-03-21",
+   "description": "Astronomers using NASA’s Hubble Space Telescope have uncovered surprising new clues about a hefty, rapidly aging star whose behavior has never been seen before in our Milky Way galaxy. In fact, the star is so weird that astronomers have nicknamed it “Nasty 1,” a play on its catalog name of NaSt1. Th",
+   "links": [
+    "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~medium.jpg",
+    "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~small.jpg",
+    "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~thumb.jpg",
+    "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~large.jpg",
+    "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
+   ]
+  }
+ ]
 }

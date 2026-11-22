@@ -1,57 +1,58 @@
 {
-  "scene_id": 9,
-  "narration": "The fate of partners like Europe, Japan and Canada is still unresolved.",
-  "visual_brief": "European contribution hardware for Gateway, flags of partners implied by hardware.",
-  "purpose": "explain",
-  "nasa_query": "ESA Gateway ESPRIT",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_0.jpg",
-      "nasa_id": "Gateway Summer Req Images Rev2_15",
-      "title": "Gateway Close-up - ESPRIT Refueling Module",
-      "center": "JSC",
-      "date": "2023-08-18",
-      "description": "Gateway's ESPRIT Refueling Module, or ERM, will provide refueling capabilities for the space station, cargo storage, and windows for stunning views of the Earth, Moon and deep space. ERM will be delivered to Gateway by the crewed Orion spacecraft on the Artemis V mission after launching on an Space ",
-      "links": [
-        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~medium.jpg",
-        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~small.jpg",
-        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~thumb.jpg",
-        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~large.jpg",
-        "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~orig.png"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_1.jpg",
-      "nasa_id": "NP-2023-04-019-JSC-Gateway-Expanded-View-041423",
-      "title": "NP-2023-04-019-JSC-Gateway-Expanded-View-041423",
-      "center": "JSC",
-      "date": "2023-04-14",
-      "description": "And expanded view of the Gateway space station showing each of its elements, international partner contributions, and visiting spacecraft including Orion and the Human Landing System, with prime contractors. ",
-      "links": [
-        "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~medium.jpg",
-        "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~small.jpg",
-        "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~large.jpg",
-        "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~orig.png"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_2.jpg",
-      "nasa_id": "Gateway - Full Configuration Hero Image - 121123",
-      "title": "Gateway - Full Configuration Hero Image - 121123",
-      "center": "JSC",
-      "date": "2023-12-11",
-      "description": "The Gateway space station will be humanity's first space station around the Moon as a vital component of the Artemis missions to return humans to the lunar surface for scientific discovery and chart the path for the first human missions to Mars. Astronauts on Gateway will be the first humans to call",
-      "links": [
-        "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~medium.jpg",
-        "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~small.jpg",
-        "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~thumb.jpg",
-        "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~large.jpg",
-        "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~orig.png"
-      ]
-    }
-  ]
+ "scene_id": 9,
+ "narration": "The fate of partners like Europe, Japan and Canada is still unresolved.",
+ "visual_brief": "European contribution hardware for Gateway, flags of partners implied by hardware.",
+ "purpose": "explain",
+ "nasa_query": "ESA Gateway ESPRIT",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_0.jpg",
+   "nasa_id": "Gateway Summer Req Images Rev2_15",
+   "title": "Gateway Close-up - ESPRIT Refueling Module",
+   "center": "JSC",
+   "date": "2023-08-18",
+   "description": "Gateway's ESPRIT Refueling Module, or ERM, will provide refueling capabilities for the space station, cargo storage, and windows for stunning views of the Earth, Moon and deep space. ERM will be delivered to Gateway by the crewed Orion spacecraft on the Artemis V mission after launching on an Space ",
+   "links": [
+    "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~medium.jpg",
+    "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~small.jpg",
+    "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~thumb.jpg",
+    "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~large.jpg",
+    "https://images-assets.nasa.gov/image/Gateway Summer Req Images Rev2_15/Gateway Summer Req Images Rev2_15~orig.png"
+   ],
+   "credit_line": "NASA/JSC"
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_1.jpg",
+   "nasa_id": "NP-2023-04-019-JSC-Gateway-Expanded-View-041423",
+   "title": "NP-2023-04-019-JSC-Gateway-Expanded-View-041423",
+   "center": "JSC",
+   "date": "2023-04-14",
+   "description": "And expanded view of the Gateway space station showing each of its elements, international partner contributions, and visiting spacecraft including Orion and the Human Landing System, with prime contractors. ",
+   "links": [
+    "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~medium.jpg",
+    "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~small.jpg",
+    "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~large.jpg",
+    "https://images-assets.nasa.gov/image/NP-2023-04-019-JSC-Gateway-Expanded-View-041423/NP-2023-04-019-JSC-Gateway-Expanded-View-041423~orig.png"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_009/aday_2.jpg",
+   "nasa_id": "Gateway - Full Configuration Hero Image - 121123",
+   "title": "Gateway - Full Configuration Hero Image - 121123",
+   "center": "JSC",
+   "date": "2023-12-11",
+   "description": "The Gateway space station will be humanity's first space station around the Moon as a vital component of the Artemis missions to return humans to the lunar surface for scientific discovery and chart the path for the first human missions to Mars. Astronauts on Gateway will be the first humans to call",
+   "links": [
+    "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~medium.jpg",
+    "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~small.jpg",
+    "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~thumb.jpg",
+    "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~large.jpg",
+    "https://images-assets.nasa.gov/image/Gateway - Full Configuration Hero Image - 121123/Gateway - Full Configuration Hero Image - 121123~orig.png"
+   ]
+  }
+ ]
 }

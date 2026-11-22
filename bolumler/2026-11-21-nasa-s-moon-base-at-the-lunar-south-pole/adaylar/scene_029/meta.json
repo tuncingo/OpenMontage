@@ -1,105 +1,122 @@
 {
-  "scene_id": 29,
-  "narration": "Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander.",
-  "visual_brief": "Astrobotic Griffin lander on the surface.",
-  "purpose": "explain",
-  "nasa_query": "Blue Moon lander Blue Origin | Human Landing System lunar lander",
-  "candidates": [
-    {
-      "index": 0,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_0.jpg",
-      "nasa_id": "MK2_EOR_ArtemisIII_Dock",
-      "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
-      "center": "MSFC",
-      "date": "2026-07-16",
-      "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
-      "links": [
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
-        "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
-      ]
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_1.jpg",
-      "nasa_id": "Artemis IV Blue Origin Concept of Operations",
-      "title": "Artemis IV Blue Origin Concept of Operations",
-      "center": "KSC",
-      "date": "2026-10-14",
-      "description": "This graphic shows the concept of operations for an Artemis IV mission with Blue Origin’s Blue Moon Mark 2 lander",
-      "links": [
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~large.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~medium.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~small.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~thumb.jpg",
-        "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~orig.jpg"
-      ]
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_2.jpg",
-      "nasa_id": "NHQ20260113_admin_0007",
-      "title": "Administrator Isaacman Meets with Blue Origin",
-      "center": "KSC",
-      "date": "2026-01-22",
-      "description": "NASA Administrator Jared Isaacman views Blue Origin’s Blue Moon Mark 1 lunar lander, named “Endurance,” Tuesday, Jan. 13, 2026, at the company’s Lunar Plant 1 facility in Merritt Island, Fla., Tuesday. Photo Credit: (NASA/John Kraus)",
-      "links": [
-        "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~orig.jpg"
-      ]
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_3.jpg",
-      "nasa_id": "LPV inside sampling chamber.jpg",
-      "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
-      "center": "MSFC",
-      "date": "2025-01-08",
-      "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
-      "links": [
-        "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~medium.jpg",
-        "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~small.jpg",
-        "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~thumb.jpg",
-        "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~large.jpg",
-        "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~orig.jpg"
-      ]
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_4.jpg",
-      "nasa_id": "LPV on a lander.jpg",
-      "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
-      "center": "MSFC",
-      "date": "2025-01-08",
-      "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
-      "links": [
-        "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~medium.jpg",
-        "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~small.jpg",
-        "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~thumb.jpg",
-        "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~large.jpg",
-        "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~orig.jpg"
-      ]
-    },
-    {
-      "index": 5,
-      "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_5.jpg",
-      "nasa_id": "LPVonalandercloseup",
-      "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
-      "center": "MSFC",
-      "date": "2025-01-08",
-      "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
-      "links": [
-        "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~medium.jpg",
-        "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~small.jpg",
-        "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~thumb.jpg",
-        "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~large.jpg",
-        "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~orig.jpg"
-      ]
-    }
-  ]
+ "scene_id": 29,
+ "narration": "Moon Base Two is an Astrobotic lander, and Moon Base Three is an Intuitive Machines lander.",
+ "visual_brief": "Astrobotic Griffin lander on the surface.",
+ "purpose": "explain",
+ "nasa_query": "Blue Moon lander Blue Origin | Human Landing System lunar lander",
+ "candidates": [
+  {
+   "index": 0,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_0.jpg",
+   "nasa_id": "MK2_EOR_ArtemisIII_Dock",
+   "title": "Artist’s Concept Depicts Blue Origin’s Blue Moon Mark 2 HLS Test Article for NASA’s Artemis III Mission",
+   "center": "MSFC",
+   "date": "2026-07-16",
+   "description": "This artist’s concept depicts Blue Origin’s Blue Moon Mark 2 human landing system test article in Earth orbit with NASA’s Orion spacecraft during rendezvous and docking operations as part of NASA’s upcoming Artemis III demonstration mission in low Earth orbit. NASA is working with two American compa",
+   "links": [
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~large.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~medium.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~small.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~thumb.jpg",
+    "https://images-assets.nasa.gov/image/MK2_EOR_ArtemisIII_Dock/MK2_EOR_ArtemisIII_Dock~orig.jpg"
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_1.jpg",
+   "nasa_id": "Artemis IV Blue Origin Concept of Operations",
+   "title": "Artemis IV Blue Origin Concept of Operations",
+   "center": "KSC",
+   "date": "2026-10-14",
+   "description": "This graphic shows the concept of operations for an Artemis IV mission with Blue Origin’s Blue Moon Mark 2 lander",
+   "links": [
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~large.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~medium.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~small.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~thumb.jpg",
+    "https://images-assets.nasa.gov/image/Artemis IV Blue Origin Concept of Operations/Artemis IV Blue Origin Concept of Operations~orig.jpg"
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_2.jpg",
+   "nasa_id": "NHQ20260113_admin_0007",
+   "title": "Administrator Isaacman Meets with Blue Origin",
+   "center": "KSC",
+   "date": "2026-01-22",
+   "description": "NASA Administrator Jared Isaacman views Blue Origin’s Blue Moon Mark 1 lunar lander, named “Endurance,” Tuesday, Jan. 13, 2026, at the company’s Lunar Plant 1 facility in Merritt Island, Fla., Tuesday. Photo Credit: (NASA/John Kraus)",
+   "links": [
+    "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~large.jpg",
+    "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~medium.jpg",
+    "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~small.jpg",
+    "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~thumb.jpg",
+    "https://images-assets.nasa.gov/image/NHQ20260113_admin_0007/NHQ20260113_admin_0007~orig.jpg"
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_3.jpg",
+   "nasa_id": "LPV inside sampling chamber.jpg",
+   "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
+   "center": "MSFC",
+   "date": "2025-01-08",
+   "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
+   "links": [
+    "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~medium.jpg",
+    "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~small.jpg",
+    "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~thumb.jpg",
+    "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~large.jpg",
+    "https://images-assets.nasa.gov/image/LPV inside sampling chamber.jpg/LPV inside sampling chamber.jpg~orig.jpg"
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_4.jpg",
+   "nasa_id": "LPV on a lander.jpg",
+   "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
+   "center": "MSFC",
+   "date": "2025-01-08",
+   "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
+   "links": [
+    "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~medium.jpg",
+    "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~small.jpg",
+    "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~thumb.jpg",
+    "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~large.jpg",
+    "https://images-assets.nasa.gov/image/LPV on a lander.jpg/LPV on a lander.jpg~orig.jpg"
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_5.jpg",
+   "nasa_id": "LPVonalandercloseup",
+   "title": "NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection",
+   "center": "MSFC",
+   "date": "2025-01-08",
+   "description": "A technology demonstration flying aboard the next delivery for NASA’s CLPS (Commercial Lunar Payload Services) initiative could change how research teams collect and study soil and rock samples on other planetary bodies. Lunar PlanetVac, or LPV, is one of 10 payloads set to be carried to the Moon by",
+   "links": [
+    "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~medium.jpg",
+    "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~small.jpg",
+    "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~thumb.jpg",
+    "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~large.jpg",
+    "https://images-assets.nasa.gov/image/LPVonalandercloseup/LPVonalandercloseup~orig.jpg"
+   ]
+  },
+  {
+   "index": 6,
+   "file": "bolumler/2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole/adaylar/scene_029/aday_6.jpg",
+   "nasa_id": "GSFC_20171208_Archive_e001955",
+   "title": "Hubble reveals heart of Lagoon Nebula",
+   "center": "GSFC",
+   "date": "2017-12-08",
+   "description": "Image release date September 22, 2010 To view a video of this image go here: <a href=\"http://www.flickr.com/photos/gsfc/5014452203\">www.flickr.com/photos/gsfc/5014452203</a> Caption: A spectacular new NASA/ESA Hubble Space Telescope image reveals the heart of the Lagoon Nebula. Seen as a massive clo",
+   "links": [
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~medium.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~small.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~thumb.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~large.jpg",
+    "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001955/GSFC_20171208_Archive_e001955~orig.jpg"
+   ],
+   "credit_line": "NASA, ESA"
+  }
+ ]
 }
