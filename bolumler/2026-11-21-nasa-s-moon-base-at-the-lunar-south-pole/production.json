@@ -42,8 +42,8 @@
     "text_color": "#F2F5FF",
     "accent_color": "#FFB020"
   },
-  "design_notes": "Toplam 32 overlay: 24 ana overlay (hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold, en az 64 px, %10 guvenli kenarlarin icinde, gerektiginde yumusak koyu scrim) ve gercek bir gorevi gosteren yapay zeka sahneleri (19, 20, 29, 33, 35, 38, 52, 54) icin 8 kucuk 'Illustration' etiketi (sag ust kose, yaklasik 30 px, in 0.3 s, sahne suresi eksi 0.3 s). Faz overlay'leri artik 'PHASE 1: NOW–2029', 'PHASE 2: 2029–2032', 'PHASE 3: 2032+'. Kanit sayaci artik yalnizca gercek kanit ogelerinin oldugu 8 sahnede (6, 17, 19, 31, 35, 38, 45, 52) 1'den 8'e sayarak goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Maliyet, uc faz, Artemis tarihleri, ogrenci yarismasi ve Moon Base One sayaclari kaldirildi. Sayac ve Illustration etiketi ust koseyi paylasabilir; sayac sol ust, etiket sag ust tutulmali. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY? | Render öncesi: gerçek NASA görseli kullanılan sahnelerden (33, 38) 'Illustration' etiketi kaldırıldı; kodla çizilen veya sanatçı çizimi sahnelerde (14, 19, 20, 21, 29, 35, 37, 46, 52, 53, 54) etiket var.",
-  "style_guide": "# Rebel Minds: Cosmos — Style Guide\n\n## Voice\nCurious, slightly rebellious, evidence-driven. We question the consensus but never overclaim. We make the viewer feel smart, not lectured. No hype words (\"scientists are shocked\", \"this changes everything\", \"proves\").\n\n## Script\n- Language: English. Pace: ~140 words per minute. Default length: 10 minutes.\n- First 15 seconds: a hook built on genuine tension or a question — no false promises.\n- Short-to-medium sentences written for text-to-speech; no parentheses; numbers written the way they should be spoken.\n- Cite every factual sentence with [S1], [S2]… mapped to a `## Sources` list.\n- Put `[EVIDENCE: short label]` on its own line right before a NEW piece of evidence is introduced (drives the evidence tracker).\n- Open curiosity loops and pay them off. Reflective close, one natural call to action.\n\n## Visuals\n- Colourful, constantly moving cosmic imagery. Even general statements get cosmic cutaways (star clusters, planets, discs, nebulae) — never a static or empty frame.\n- Never the same visual style twice in a row; never the same image twice in an episode.\n- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument.\n- Every scene has motion: slow push-in, pull-out, pan, parallax, rotation.\n\n## On-screen text (must be legible on a phone)\n- Max 6 words per overlay, large bold sans-serif (min 64 px height on a 1080p frame), inside 10% safe margins, high contrast (soft dark scrim when needed).\n- Few overlays rather than many — only where they help understanding or land a key number.\n\n## Evidence tracker\nA recurring graphic that appears ONLY when a new piece of evidence is introduced (count + short label), then disappears. Never permanent clutter.\n\n## Palette & type\n- Deep space navy `#0B1026`, cosmic violet `#6C3BFF`, solar amber `#FFB020`, ice white `#F2F5FF`\n- Montserrat ExtraBold (headings/overlays), Inter (small labels)\n\n## Thumbnail\nMax 4 words, one focal subject, readable at phone size, palette colours.\n",
+  "design_notes": "Toplam 32 overlay: 24 ana overlay (hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold, en az 64 px, %10 guvenli kenarlarin icinde, gerektiginde yumusak koyu scrim) ve gercek bir gorevi gosteren yapay zeka sahneleri (19, 20, 29, 33, 35, 38, 52, 54) icin 8 kucuk 'Illustration' etiketi (sag ust kose, yaklasik 30 px, in 0.3 s, sahne suresi eksi 0.3 s). Faz overlay'leri artik 'PHASE 1: NOW–2029', 'PHASE 2: 2029–2032', 'PHASE 3: 2032+'. Kanit sayaci artik yalnizca gercek kanit ogelerinin oldugu 8 sahnede (6, 17, 19, 31, 35, 38, 45, 52) 1'den 8'e sayarak goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Maliyet, uc faz, Artemis tarihleri, ogrenci yarismasi ve Moon Base One sayaclari kaldirildi. Sayac ve Illustration etiketi ust koseyi paylasabilir; sayac sol ust, etiket sag ust tutulmali. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY? | Render öncesi: gerçek NASA görseli kullanılan sahnelerden (33, 38) 'Illustration' etiketi kaldırıldı; kodla çizilen veya sanatçı çizimi sahnelerde (14, 19, 20, 21, 29, 35, 37, 46, 52, 53, 54) etiket var. | Şematik grafikler: sahne 2/12-14/17/18/32-33. Etiketler en az 36 px; 'Illustration' 36 px. Sahne 17'de büyük -250 sayacı grafiğin içinde (hero overlay kaldırıldı), sahne 33 başlığı grafikte. | Sahne 2: büyük '2027' sayısı şematik grafiğin içinde (hero overlay kaldırıldı).",
+  "style_guide": "# Rebel Minds: Cosmos — Style Guide\n\n## Voice\nCurious, slightly rebellious, evidence-driven. We question the consensus but never overclaim. We make the viewer feel smart, not lectured. No hype words (\"scientists are shocked\", \"this changes everything\", \"proves\").\n\n## Script\n- Language: English. Pace: ~140 words per minute. Default length: 10 minutes.\n- First 15 seconds: a hook built on genuine tension or a question — no false promises.\n- Short-to-medium sentences written for text-to-speech; no parentheses; numbers written the way they should be spoken.\n- Cite every factual sentence with [S1], [S2]… mapped to a `## Sources` list.\n- Put `[EVIDENCE: short label]` on its own line right before a NEW piece of evidence is introduced (drives the evidence tracker).\n- Open curiosity loops and pay them off. Reflective close, one natural call to action.\n\n## Look\nThe channel's look is quiet and precise: a near-black ground, hairline line graphics, thin numerals, small restrained colour. Think scientific figure, not poster.\n- Ground: `#05070C` (near-black), with a light drifting star/dust layer. No bright gradients behind graphics.\n- Strokes: hairlines (1.5–3 px) in teal, with a muted amber for the thing being highlighted. Grey for axes and context.\n- Constantly moving, never a static frame: slow push-in, pull-out, pan, parallax, slow drift of lines and dust.\n- Never the same visual treatment twice in a row; never the same image twice in an episode.\n- Prefer real imagery (NASA/ESA/ESO) when the narration refers to a real mission, object or instrument. Where no honest image exists, draw a schematic instead of using a look-alike photo of a different vehicle or mission.\n- Anything drawn rather than photographed that stands in for a real mission carries a small \"Illustration\" label.\n\n## Schematic graphics\nKey facts are shown as drawn line graphics that build themselves on screen (lines draw, markers slide, numerals count up):\n- Timelines for plans and schedule slips (planned vs. now), scales for comparisons (e.g. temperature), orbits and lattices for physical ideas.\n- Axes and ticks in grey, the subject in teal, the change or the warning in muted amber.\n- Every graphic names its source in the bottom-right source line.\n- Draw only numbers that are in the script and its sources. Do not invent positions or dates; if an exact value is unknown, use a bracket or range, not a point.\n\n## On-screen text (must be legible on a phone)\n- Big numbers: Inter Light, very large, with a hairline rule underneath and a one-line explanation in Inter Regular. They enter with a rise and un-blur (counting up where it makes sense) and leave the same way.\n- Labels, kickers and captions: Inter Medium, letter-spaced capitals, **at least 36 px on a 1080p frame**. Nothing smaller except the source line.\n- Headlines and lower thirds: Inter Medium, at least 60 px, a thin teal bar at the left; max 6 words.\n- Everything stays inside 10% safe margins; use a soft dark scrim only when the background is a photograph.\n- Few overlays rather than many — only where they help understanding or land a key number.\n\n## Source line\nEvery scene with a photo or a graphic shows a small, pale-grey source or image credit at the bottom right (for example \"Image: NASA/JSC\" or \"Source: SpacePolicyOnline, Nov 2026\"). It fades in a moment after the scene starts and out before it ends.\n\n## Evidence tracker\nA recurring graphic at the top left that appears ONLY when a new piece of evidence is introduced, then disappears: an outlined counter circle (the number rolls up), a hairline that draws out, \"EVIDENCE\" and a short label (36 px) typed in. It folds away after a few seconds. Never permanent clutter.\n\n## Palette & type\n- Ground `#05070C`, ice white `#F2F5FF`, teal `#62C2CF` (accent), muted amber `#D9A25B` (highlight), grey `#8A93A6` (axes, context), dim grey `#5E6678`.\n- Inter only: Light for big numerals, Regular for explanations, Medium for labels, headlines and tracker.\n- Fonts are bundled in the renderer (SIL OFL); do not depend on a network font service.\n\n## Thumbnail\nMax 4 words, one focal subject, readable at phone size, built from the palette above (near-black ground, teal and amber accents).\n",
   "scenes": [
     {
       "id": 1,
@@ -85,18 +85,7 @@
       "transition": "crossfade",
       "image": null,
       "ai_prompt": "Cinematic 16:9 render of a small modular space station in orbit around the Moon, Earth in the distance, lights dimming, cool navy and amber palette, no text",
-      "overlays": [
-        {
-          "scene_id": 2,
-          "text": "SLIPPED TO 2027",
-          "position": "bottom",
-          "style": "number",
-          "in_s": 1.0,
-          "out_s": 5.0,
-          "hero": "2027",
-          "caption": "SLIPPED TO"
-        }
-      ],
+      "overlays": [],
       "evidence_tracker": null
     },
     {
@@ -403,15 +392,6 @@
       "overlays": [
         {
           "scene_id": 14,
-          "text": "Illustration",
-          "position": "top-right",
-          "style": "label",
-          "size_px": 30,
-          "in_s": 0.3,
-          "out_s": 4.7
-        },
-        {
-          "scene_id": 14,
           "text": "PHASE 3: 2032+",
           "position": "lower-third",
           "style": "label",
@@ -474,18 +454,7 @@
       "transition": "cut",
       "image": null,
       "ai_prompt": "Scientific false-colour thermal map of lunar south pole craters, deep blue and violet cold pockets, glowing edges, 16:9, no text",
-      "overlays": [
-        {
-          "scene_id": 17,
-          "text": "MINUS 250 C",
-          "position": "center",
-          "style": "number",
-          "in_s": 2.5,
-          "out_s": 7.0,
-          "hero": "−250°C",
-          "caption": "PERMANENTLY SHADOWED"
-        }
-      ],
+      "overlays": [],
       "evidence_tracker": {
         "scene_id": 17,
         "count": 2,
@@ -538,7 +507,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 7.7
         },
@@ -581,7 +550,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 8.7
         },
@@ -614,7 +583,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 8.7
         }
@@ -786,7 +755,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 5.7
         }
@@ -888,16 +857,7 @@
         "reason": "Intuitive Machines'in Nova-C inis araci modelini elinde tutan bir yetkilinin basin toplantisi gercek NASA fotografi; Odysseus'un Ay yuzeyindeki goruntusu degil, orta uyum ve dogru sirket bagini veriyor."
       },
       "ai_prompt": null,
-      "overlays": [
-        {
-          "scene_id": 33,
-          "text": "MOON BASE III: Q1 2027",
-          "position": "lower-third",
-          "style": "label",
-          "in_s": 0.5,
-          "out_s": 5.0
-        }
-      ],
+      "overlays": [],
       "evidence_tracker": null
     },
     {
@@ -937,7 +897,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 4.7
         }
@@ -985,7 +945,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 9.7
         }
@@ -1187,7 +1147,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 6.7
         }
@@ -1333,7 +1293,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 4.7
         }
@@ -1360,7 +1320,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 6.7
         }
@@ -1383,7 +1343,7 @@
           "text": "Illustration",
           "position": "top-right",
           "style": "label",
-          "size_px": 30,
+          "size_px": 36,
           "in_s": 0.3,
           "out_s": 8.7
         }

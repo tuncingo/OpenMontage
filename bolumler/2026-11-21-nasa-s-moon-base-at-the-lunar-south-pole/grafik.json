@@ -9,16 +9,6 @@
    "out_s": 7.5
   },
   {
-   "scene_id": 2,
-   "text": "SLIPPED TO 2027",
-   "position": "bottom",
-   "style": "number",
-   "in_s": 1.0,
-   "out_s": 5.0,
-   "hero": "2027",
-   "caption": "SLIPPED TO"
-  },
-  {
    "scene_id": 4,
    "text": "MARCH 2026",
    "position": "lower-third",
@@ -70,15 +60,6 @@
   },
   {
    "scene_id": 14,
-   "text": "Illustration",
-   "position": "top-right",
-   "style": "label",
-   "size_px": 30,
-   "in_s": 0.3,
-   "out_s": 4.7
-  },
-  {
-   "scene_id": 14,
    "text": "PHASE 3: 2032+",
    "position": "lower-third",
    "style": "label",
@@ -94,16 +75,6 @@
    "out_s": 4.0
   },
   {
-   "scene_id": 17,
-   "text": "MINUS 250 C",
-   "position": "center",
-   "style": "number",
-   "in_s": 2.5,
-   "out_s": 7.0,
-   "hero": "−250°C",
-   "caption": "PERMANENTLY SHADOWED"
-  },
-  {
    "scene_id": 18,
    "text": "COLDER THAN PLUTO",
    "position": "bottom",
@@ -116,7 +87,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 7.7
   },
@@ -133,7 +104,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 8.7
   },
@@ -152,7 +123,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 8.7
   },
@@ -177,7 +148,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 5.7
   },
@@ -191,19 +162,11 @@
    "hero": "MAY 28, 2026"
   },
   {
-   "scene_id": 33,
-   "text": "MOON BASE III: Q1 2027",
-   "position": "lower-third",
-   "style": "label",
-   "in_s": 0.5,
-   "out_s": 5.0
-  },
-  {
    "scene_id": 35,
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 4.7
   },
@@ -212,7 +175,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 9.7
   },
@@ -231,7 +194,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 6.7
   },
@@ -256,7 +219,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 4.7
   },
@@ -265,7 +228,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 6.7
   },
@@ -274,7 +237,7 @@
    "text": "Illustration",
    "position": "top-right",
    "style": "label",
-   "size_px": 30,
+   "size_px": 36,
    "in_s": 0.3,
    "out_s": 8.7
   },
@@ -352,5 +315,5 @@
   "text_color": "#F2F5FF",
   "accent_color": "#FFB020"
  },
- "design_notes": "Toplam 32 overlay: 24 ana overlay (hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold, en az 64 px, %10 guvenli kenarlarin icinde, gerektiginde yumusak koyu scrim) ve gercek bir gorevi gosteren yapay zeka sahneleri (19, 20, 29, 33, 35, 38, 52, 54) icin 8 kucuk 'Illustration' etiketi (sag ust kose, yaklasik 30 px, in 0.3 s, sahne suresi eksi 0.3 s). Faz overlay'leri artik 'PHASE 1: NOW–2029', 'PHASE 2: 2029–2032', 'PHASE 3: 2032+'. Kanit sayaci artik yalnizca gercek kanit ogelerinin oldugu 8 sahnede (6, 17, 19, 31, 35, 38, 45, 52) 1'den 8'e sayarak goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Maliyet, uc faz, Artemis tarihleri, ogrenci yarismasi ve Moon Base One sayaclari kaldirildi. Sayac ve Illustration etiketi ust koseyi paylasabilir; sayac sol ust, etiket sag ust tutulmali. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY? | Render öncesi: gerçek NASA görseli kullanılan sahnelerden (33, 38) 'Illustration' etiketi kaldırıldı; kodla çizilen veya sanatçı çizimi sahnelerde (14, 19, 20, 21, 29, 35, 37, 46, 52, 53, 54) etiket var."
+ "design_notes": "Toplam 32 overlay: 24 ana overlay (hepsi 6 kelime veya altinda, buyuk Montserrat ExtraBold, en az 64 px, %10 guvenli kenarlarin icinde, gerektiginde yumusak koyu scrim) ve gercek bir gorevi gosteren yapay zeka sahneleri (19, 20, 29, 33, 35, 38, 52, 54) icin 8 kucuk 'Illustration' etiketi (sag ust kose, yaklasik 30 px, in 0.3 s, sahne suresi eksi 0.3 s). Faz overlay'leri artik 'PHASE 1: NOW–2029', 'PHASE 2: 2029–2032', 'PHASE 3: 2032+'. Kanit sayaci artik yalnizca gercek kanit ogelerinin oldugu 8 sahnede (6, 17, 19, 31, 35, 38, 45, 52) 1'den 8'e sayarak goruluyor: ust kosede sayi ve kisa etiket, sonra kayboluyor. Maliyet, uc faz, Artemis tarihleri, ogrenci yarismasi ve Moon Base One sayaclari kaldirildi. Sayac ve Illustration etiketi ust koseyi paylasabilir; sayac sol ust, etiket sag ust tutulmali. Palet: lacivert #0B1026, mor #6C3BFF, kehribar #FFB020, buz beyazi #F2F5FF; kucuk etiketlerde Inter. Kucuk resimde en fazla dort kelime: GATEWAY PAUSED. WHY? | Render öncesi: gerçek NASA görseli kullanılan sahnelerden (33, 38) 'Illustration' etiketi kaldırıldı; kodla çizilen veya sanatçı çizimi sahnelerde (14, 19, 20, 21, 29, 35, 37, 46, 52, 53, 54) etiket var. | Şematik grafikler: sahne 2/12-14/17/18/32-33. Etiketler en az 36 px; 'Illustration' 36 px. Sahne 17'de büyük -250 sayacı grafiğin içinde (hero overlay kaldırıldı), sahne 33 başlığı grafikte. | Sahne 2: büyük '2027' sayısı şematik grafiğin içinde (hero overlay kaldırıldı)."
 }

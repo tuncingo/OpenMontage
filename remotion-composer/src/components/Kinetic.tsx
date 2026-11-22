@@ -304,7 +304,10 @@ export const Credit: React.FC<{ text: string }> = ({ text }) => {
         fontWeight: 400,
         fontSize: 21,
         letterSpacing: 1,
-        color: "#9AA3B8",
+        color: "#A9B1C4",
+        background: "rgba(5,7,12,0.5)",
+        padding: "4px 12px",
+        borderRadius: 4,
         textShadow: SOFT_SHADOW,
       }}
     >
@@ -349,9 +352,9 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
     >
       <div
         style={{
-          width: 64,
-          height: 64,
-          borderRadius: 32,
+          width: 84,
+          height: 84,
+          borderRadius: 42,
           border: `2px solid ${TEAL}`,
           background: "rgba(5,7,12,0.7)",
           overflow: "hidden",
@@ -370,9 +373,9 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
               justifyContent: "center",
               fontFamily: "Inter, sans-serif",
               fontWeight: 500,
-              fontSize: 30,
+              fontSize: 40,
               color: WHITE,
-              transform: `translateY(${k === 0 ? -roll * 64 : (1 - roll) * 64}px)`,
+              transform: `translateY(${k === 0 ? -roll * 84 : (1 - roll) * 84}px)`,
             }}
           >
             {n}
@@ -384,17 +387,17 @@ export const EvidenceTracker: React.FC<{ count: number; label: string }> = ({ co
         style={{
           display: "flex",
           flexDirection: "column",
-          gap: 4,
-          minWidth: 360,
+          gap: 0,
+          minWidth: 640,
           clipPath: `inset(0 ${(1 - reveal) * 100}% 0 0)`,
           background: "linear-gradient(90deg, rgba(5,7,12,0.78), rgba(5,7,12,0))",
           padding: "6px 40px 6px 4px",
         }}
       >
-        <div style={{ fontFamily: "Inter, sans-serif", fontWeight: 500, fontSize: 17, letterSpacing: 6, color: AMBER }}>
+        <div style={{ fontFamily: "Inter, sans-serif", fontWeight: 500, fontSize: 36, letterSpacing: 7, color: AMBER }}>
           EVIDENCE
         </div>
-        <div style={{ fontFamily: "Inter, sans-serif", fontWeight: 500, fontSize: 28, letterSpacing: 3, color: WHITE, whiteSpace: "nowrap" }}>
+        <div style={{ fontFamily: "Inter, sans-serif", fontWeight: 500, fontSize: 36, letterSpacing: 3, color: WHITE, whiteSpace: "nowrap" }}>
           {chars.slice(0, typed).join("")}
         </div>
       </div>

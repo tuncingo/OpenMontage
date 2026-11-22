@@ -13,6 +13,7 @@ import { TransitionSeries, linearTiming } from "@remotion/transitions";
 import { loadInterFamily } from "./lib/localFonts";
 import { presentationFor, transitionFrames } from "./lib/episodeTransitions";
 import { ProceduralScene, ProceduralVariant } from "./components/ProceduralScene";
+import { Schematic, SchematicOverlay, SchematicSpec } from "./components/Schematic";
 import {
   CornerLabel,
   Credit,
@@ -62,6 +63,8 @@ export interface EpisodeScene {
   /** Path under the public dir (images/..), or null for procedural scenes. */
   src: string | null;
   procedural?: ProceduralVariant | null;
+  /** Schematic line graphic: full-screen (phases, slips, thermal) or an inset over the photo (thermal_inset). */
+  graphic?: SchematicSpec | null;
   purpose?: string;
   /** Short image credit shown bottom-right (e.g. "Image: NASA/JSC"). */
   credit?: string;
@@ -114,10 +117,12 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
     extrapolateRight: "clamp",
   });
   const cam = cameraFor(scene.motion, t, scene.id);
-  const cosmic = scene.purpose === "cutaway" || !!scene.procedural;
+  const cosmic = scene.purpose === "cutaway" || !!scene.procedural || !!scene.graphic;
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY }}>
-      {scene.procedural ? (
+      {scene.graphic && scene.graphic.kind !== "thermal_inset" ? (
+        <Schematic spec={scene.graphic} />
+      ) : scene.procedural ? (
         <ProceduralScene variant={scene.procedural} seed={scene.id} />
       ) : scene.src ? (
         <>
@@ -142,7 +147,8 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
           </AbsoluteFill>
         </>
       ) : null}
-      <StarDust seed={scene.id} count={cosmic ? 130 : 55} opacity={cosmic ? 1 : 0.55} />
+      {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicOverlay spec={scene.graphic} /> : null}
+      <StarDust seed={scene.id} count={cosmic ? 120 : 50} opacity={cosmic ? 0.9 : 0.5} />
     </AbsoluteFill>
   );
 };

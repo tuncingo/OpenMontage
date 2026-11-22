@@ -31,6 +31,26 @@ FPS = 30
 TAIL_PAD_S = 0.4
 END_PAD_S = 1.5
 
+# Schematic line graphics (remotion-composer/src/components/Schematic.tsx). Full-screen kinds replace
+# the photo; "thermal_inset" is drawn over the photo.
+GRAPHICS = {
+    2: {"kind": "slips", "which": "three"},
+    12: {"kind": "phases", "step": 1}, 13: {"kind": "phases", "step": 2}, 14: {"kind": "phases", "step": 3},
+    17: {"kind": "thermal"},
+    18: {"kind": "thermal_inset"},
+    32: {"kind": "slips", "which": "I"}, 33: {"kind": "slips", "which": "III"},
+}
+# Source lines for graphic scenes (bottom-right). Scene 18 appends to the photo credit.
+GRAPHIC_CREDITS = {
+    2: "Source: SpacePolicyOnline, Nov 2026",
+    12: "Source: NASA Moon Base", 13: "Source: NASA Moon Base", 14: "Source: NASA Moon Base",
+    17: "Crater temperature: Planetary Society",
+    32: "Sources: Space.com, Aerospace America", 33: "Source: Aerospace America",
+}
+CREDIT_APPEND = {18: "Pluto: NASA New Horizons, pluto.jhuapl.edu"}
+# Photos whose source has black no-data borders: crop to a 16:9 window fully inside the content.
+CROP_BLACK = {18}
+
 # Abstract scenes drawn in code (no image model).
 PROCEDURAL = {
     # abstract scenes
@@ -41,12 +61,37 @@ PROCEDURAL = {
 }
 
 
+def crop_inside_content(src: str, dst: str, thresh: int = 14) -> None:
+    """Crop to the largest 16:9 window with no black pixels; among equal-size windows keep the most detailed."""
+    from PIL import Image
+
+    im = Image.open(src).convert("RGB")
+    g = np.asarray(im.convert("L")).astype(np.float32)
+    fct = 3
+    m = (g > thresh)[::fct, ::fct].astype(np.int32)
+    sat = np.pad(m.cumsum(0).cumsum(1), ((1, 0), (1, 0)))
+    H, W = m.shape
+
+    def full(x, y, w, h):
+        return sat[y + h, x + w] - sat[y, x + w] - sat[y + h, x] + sat[y, x] == w * h
+
+    for w in range(W, 150, -4):
+        h = int(w * 9 / 16)
+        cands = [(x, y) for y in range(0, H - h, 4) for x in range(0, W - w, 4) if full(x, y, w, h)]
+        if cands:
+            x, y = max(cands, key=lambda c: float(g[c[1] * fct:(c[1] + h) * fct:4, c[0] * fct:(c[0] + w) * fct:4].std()))
+            im.crop((x * fct, y * fct, (x + w) * fct, (y + h) * fct)).save(dst, quality=95)
+            return
+    im.save(dst, quality=95)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("kod")
     ap.add_argument("--max-seconds", type=float, default=None, help="preview: keep only the first N seconds")
     ap.add_argument("--lufs", type=float, default=-14.0)
     ap.add_argument("--tp", type=float, default=-1.5, help="true-peak ceiling for loudnorm (headroom for AAC)")
+    ap.add_argument("--scenes", default=None, help="only these scene ids, e.g. 1-4,12-14,17-18 (times re-based back to back)")
     ap.add_argument("--from-seconds", type=float, default=0.0, help="start the clip at this time (clip is re-based to 0)")
     ap.add_argument("--suffix", default="", help="output name suffix, e.g. _preview")
     a = ap.parse_args()
@@ -74,6 +119,17 @@ def main() -> None:
         t += dur
     total_full = t
 
+    if a.scenes:
+        want = set()
+        for part in a.scenes.split(","):
+            lo, _, hi = part.partition("-")
+            want.update(range(int(lo), int(hi or lo) + 1))
+        timeline = [x for x in timeline if int(x["scene"]["id"]) in want]
+        t = 0.0
+        for x in timeline:
+            x["start"] = t
+            t += x["dur"]
+        total_full = t
     if a.from_seconds:
         timeline = [x for x in timeline if x["start"] >= a.from_seconds - 1e-6]
         off = timeline[0]["start"]
@@ -128,17 +184,26 @@ def main() -> None:
         s = x["scene"]
         sid = int(s["id"])
         src = None
-        if s.get("image") and s["image"].get("file"):
+        gfx = GRAPHICS.get(sid)
+        full_gfx = bool(gfx and gfx["kind"] != "thermal_inset")
+        if not full_gfx and s.get("image") and s["image"].get("file"):
             f = os.path.join(ep, s["image"]["file"].split(" (")[0])
             ext = os.path.splitext(f)[1].lower() or ".jpg"
             dst = os.path.join(pub, "images", f"scene_{sid:03d}{ext}")
-            shutil.copy(f, dst)
+            if sid in CROP_BLACK:
+                crop_inside_content(f, dst)
+            else:
+                shutil.copy(f, dst)
             src = f"images/scene_{sid:03d}{ext}"
-        proc = PROCEDURAL.get(sid) if not src else None
+        proc = PROCEDURAL.get(sid) if (not src and not full_gfx) else None
         credit = ""
         if src and s["image"].get("credit"):
             credit = "Image: " + s["image"]["credit"].split(" \u2014 ")[0].strip()
-        if not src and not proc:
+        if sid in GRAPHIC_CREDITS:
+            credit = GRAPHIC_CREDITS[sid]
+        if sid in CREDIT_APPEND:
+            credit = (credit + " \u00b7 " if credit else "") + CREDIT_APPEND[sid]
+        if not src and not proc and not full_gfx:
             missing.append(sid)
         overlays = []
         for o in s.get("overlays", []):
@@ -149,7 +214,7 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
+            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "motion": s.get("motion", ""), "transition": s.get("transition", "cut"),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })
