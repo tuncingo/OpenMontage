@@ -12,7 +12,7 @@ Her Short için:
   3. Remotion `RebelShort` kompozisyonu, 1080x1920 dikey olarak doğrudan sahnelerin assets/ görsel ve kliplerinden
      render edilir (cover + odak noktasını izleyen yatay pan; bulanık bant/16:9 kutu yok). Kurallar: kanal/stil_rehberi.md → "Shorts"
 
-Kullanım: python tools/kurul_shorts.py <kod> [--only N] [--props-only] [--concurrency 2]
+Kullanım: python tools/kurul_shorts.py <kod> [--only N] [--props-only] [--concurrency 2] [--narration-file final.mp4]
 Proje .venv'i ile çalıştır (numpy + soundfile gerekir). Chromium yolu gerekirse REMOTION_BROWSER_EXECUTABLE ile verilir.
 """
 from __future__ import annotations
@@ -123,13 +123,15 @@ def sahne_metninden(props, prod):
     return cues
 
 
-def cmd(kod, n, sh, prod, ar, props_only, concurrency):
+def cmd(kod, n, sh, prod, ar, props_only, concurrency, narration_file=None):
     ilk, son = ar
     ek = os.path.join(ROOT, "projects", kod)
     suffix = f"_short{n}"
-    r = subprocess.run([sys.executable, os.path.join(TOOLS, "kurul_render_props.py"), kod, "--scenes", f"{ilk}-{son}",
-                        "--suffix", suffix, "--music-fade-in", str(SHORT_FADE_IN), "--music-fade-out", str(SHORT_FADE_OUT)],
-                       capture_output=True, text=True)
+    komut_p = [sys.executable, os.path.join(TOOLS, "kurul_render_props.py"), kod, "--scenes", f"{ilk}-{son}",
+               "--suffix", suffix, "--music-fade-in", str(SHORT_FADE_IN), "--music-fade-out", str(SHORT_FADE_OUT)]
+    if narration_file:
+        komut_p += ["--narration-file", narration_file]
+    r = subprocess.run(komut_p, capture_output=True, text=True)
     if r.returncode != 0:
         sys.exit(f"HATA: Short {n} props üretilemedi:\n{r.stdout}\n{r.stderr}")
     props_path = os.path.join(ek, f"render_props{suffix}.json")
@@ -172,6 +174,8 @@ def main():
     ap.add_argument("--only", type=int, default=None, help="yalnızca bu Short")
     ap.add_argument("--props-only", action="store_true", help="render etme, yalnızca props üret")
     ap.add_argument("--concurrency", type=int, default=2)
+    ap.add_argument("--narration-file", default=None,
+                    help="anlatı sesi için bu dosyanın (ör. final.mp4) sesini kullan; sahne wav'ları gerekmez")
     a = ap.parse_args()
     ep = os.path.join(ROOT, "bolumler", a.kod)
     sp = oku(os.path.join(ep, "shorts_plani.json"))
@@ -186,7 +190,7 @@ def main():
             ar = (int(lo), int(hi))
         else:
             ar = (int(sc[0]), int(sc[1]))
-        cmd(a.kod, n, sh, prod, ar, a.props_only, a.concurrency)
+        cmd(a.kod, n, sh, prod, ar, a.props_only, a.concurrency, a.narration_file)
 
 
 if __name__ == "__main__":

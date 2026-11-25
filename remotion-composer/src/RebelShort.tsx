@@ -108,6 +108,25 @@ const VStarDust: React.FC<{ seed: number; count: number; opacity: number }> = ({
   );
 };
 
+/** Darkened (~25 % brightness), slowly moving photo or clip filling the frame behind schematic / code-drawn scenes. */
+const Backdrop: React.FC<{ b: NonNullable<EpisodeScene["backdrop"]>; t: number; id: number }> = ({ b, t, id }) => {
+  const { fps } = useVideoConfig();
+  const box = coverBox(b.w ?? 1920, b.h ?? 1080, b.focus_x ?? 0.5, t, id + 7);
+  return (
+    <AbsoluteFill style={{ filter: "brightness(0.25)" }}>
+      <div style={{ position: "absolute", ...box }}>
+        {b.video ? (
+          <Loop durationInFrames={Math.max(1, Math.floor(b.video.clip_s * fps) - 1)}>
+            <OffthreadVideo src={staticFile(b.video.src)} muted style={{ width: "100%", height: "100%", objectFit: "fill" }} />
+          </Loop>
+        ) : b.src ? (
+          <Img src={staticFile(b.src)} style={{ width: "100%", height: "100%" }} />
+        ) : null}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> = ({ scene, durationInFrames }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -117,16 +136,26 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
   const w = scene.w ?? 1920;
   const h = scene.h ?? 1080;
   const full = scene.graphic && scene.graphic.kind !== "thermal_inset";
+  const inset = scene.graphic?.kind === "thermal_inset";
+  const backdrop = scene.backdrop ? <Backdrop b={scene.backdrop} t={t} id={scene.id} /> : null;
   let body: React.ReactNode = null;
   if (full) {
-    body = <SchematicVertical spec={scene.graphic!} />;
+    body = (
+      <>
+        {backdrop}
+        <SchematicVertical spec={scene.graphic!} />
+      </>
+    );
   } else if (scene.procedural) {
     // code-drawn 16:9 scene, scaled to fill the height; the abstract line art loses nothing at the sides
     const S = H / 1080;
     body = (
-      <div style={{ position: "absolute", left: (W - 1920 * S) / 2, top: 0, width: 1920, height: 1080, transformOrigin: "0 0", transform: `scale(${S})` }}>
-        <ProceduralScene variant={scene.procedural} seed={scene.id} />
-      </div>
+      <>
+        {backdrop}
+        <div style={{ position: "absolute", left: (W - 1920 * S) / 2, top: 0, width: 1920, height: 1080, transformOrigin: "0 0", transform: `scale(${S})`, mixBlendMode: backdrop ? "screen" : "normal" }}>
+          <ProceduralScene variant={scene.procedural} seed={scene.id} />
+        </div>
+      </>
     );
   } else if (scene.video) {
     const b = coverBox(w, h, focus, t, scene.id);
@@ -137,7 +166,7 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
         </Loop>
       </div>
     );
-  } else if (scene.src && scene.fit === "contain") {
+  } else if (scene.src && scene.fit === "contain" && !inset) {
     body = (
       <div
         style={{
@@ -156,7 +185,8 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
     );
   } else if (scene.src) {
     const b = coverBox(w, h, focus, t, scene.id);
-    body = <Img src={staticFile(scene.src)} style={{ position: "absolute", ...b }} />;
+    // under the temperature scale the photo fills the screen, darkened, with no mask
+    body = <Img src={staticFile(scene.src)} style={{ position: "absolute", ...b, ...(inset ? { filter: "brightness(0.3)" } : {}) }} />;
   }
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY, overflow: "hidden" }}>
@@ -202,7 +232,7 @@ const SAFE_W = 840; // x 60..900
 
 const VNumber: React.FC<{ hero: string; caption?: string; dur: number }> = ({ hero, caption, dur }) => {
   const { i, a } = useFade(dur);
-  const size = Math.min(230, Math.floor(SAFE_W / (hero.length * 0.56)));
+  const size = Math.min(299, Math.floor(SAFE_W / (hero.length * 0.56))); // 1.3x the 16:9 size, width-limited
   return (
     <div style={{ position: "absolute", left: SAFE_L, width: SAFE_W, top: 430, textAlign: "center", opacity: a, transform: `translateY(${(1 - i) * 30}px)`, fontFamily: "Inter, sans-serif" }}>
       <div style={{ display: "inline-block", padding: "18px 34px 26px", borderRadius: 12, background: SCRIM }}>
@@ -323,7 +353,7 @@ const EndCard: React.FC<{ text: string; durationInFrames: number }> = ({ text, d
 
 /** Source credit: small grey line just above the caption zone (nothing sits below y 1320). */
 const CreditLine: React.FC<{ text: string }> = ({ text }) => (
-  <div style={{ position: "absolute", left: SAFE_L, top: 1120, fontFamily: "Inter, sans-serif", fontWeight: 400, fontSize: 24, color: GREY, textShadow: "0 1px 8px rgba(5,7,12,0.95)" }}>{text}</div>
+  <div style={{ position: "absolute", left: SAFE_L, top: 1158, fontFamily: "Inter, sans-serif", fontWeight: 400, fontSize: 24, color: GREY, textShadow: "0 1px 8px rgba(5,7,12,0.95)" }}>{text}</div>
 );
 
 export const RebelShort: React.FC<ShortProps> = ({ fps, scenes, narration, hook, captions, endCard = "Full episode on the channel", hookSeconds = 2, endSeconds = 2 }) => {

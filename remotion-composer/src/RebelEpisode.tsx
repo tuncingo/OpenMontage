@@ -75,6 +75,8 @@ export interface EpisodeScene {
   w?: number;
   h?: number;
   focus_x?: number;
+  /** Vertical Shorts: darkened full-screen photo/clip behind schematic and code-drawn scenes. */
+  backdrop?: { src: string | null; video?: { src: string; clip_s: number } | null; w?: number | null; h?: number | null; focus_x?: number } | null;
   /** "contain": show the photo whole, centred on the dark ground (e.g. a planet disc). Default "cover". */
   fit?: "cover" | "contain";
   /** 0..1: extra dark layer over the visual (e.g. behind an end card). */
