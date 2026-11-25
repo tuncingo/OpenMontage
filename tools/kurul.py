@@ -645,6 +645,10 @@ def cmd_paketle(kod):
                 sure_k, w, h = yerel_bilgi(asset)
                 gorsel.update({"media": "video", "clip_s": sure_k, "width": w, "height": h,
                                "start_s": float(sc.get("start_s") or 0), "source_clip_s": c.get("duration_s")})
+            try:
+                gorsel["focus_x"] = max(0.0, min(1.0, float(sc.get("focus_x", 0.5))))
+            except (TypeError, ValueError):
+                gorsel["focus_x"] = 0.5
             kredi.add(gorsel["credit"])
             if (sc.get("fit_score") or 0) < 6:
                 zayif.append((sid, sc))

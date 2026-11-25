@@ -7,11 +7,11 @@ import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } fr
  * Everything draws itself in; nothing is a static image.
  */
 
-const TEAL = "#62C2CF";
-const AMBER = "#D9A25B";
-const GREY = "#8A93A6";
-const WHITE = "#F2F5FF";
-const INK = "#05070C";
+export const TEAL = "#62C2CF";
+export const AMBER = "#D9A25B";
+export const GREY = "#8A93A6";
+export const WHITE = "#F2F5FF";
+export const INK = "#05070C";
 const X0 = 192;
 const X1 = 1728;
 const W = X1 - X0;
@@ -27,9 +27,9 @@ export interface SchematicSpec {
 }
 
 const ease = (t: number) => 1 - Math.pow(1 - Math.max(0, Math.min(1, t)), 3);
-const prog = (frame: number, start: number, len: number) => ease((frame - start) / len);
+export const prog = (frame: number, start: number, len: number) => ease((frame - start) / len);
 
-const font = (size: number, weight = 500, tracking = 0): React.CSSProperties => ({
+export const font = (size: number, weight = 500, tracking = 0): React.CSSProperties => ({
   fontFamily: "Inter, sans-serif",
   fontWeight: weight,
   fontSize: size,
@@ -37,7 +37,7 @@ const font = (size: number, weight = 500, tracking = 0): React.CSSProperties => 
 });
 
 /** Hairline that draws itself from (x1,y1) to (x2,y2). */
-const Draw: React.FC<{
+export const Draw: React.FC<{
   x1: number;
   y1: number;
   x2: number;
@@ -66,7 +66,7 @@ const Draw: React.FC<{
   );
 };
 
-const Txt: React.FC<{
+export const Txt: React.FC<{
   x: number;
   y: number;
   size?: number;

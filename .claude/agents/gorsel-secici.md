@@ -17,10 +17,12 @@ You get an episode folder and a list of scene ids. For EACH scene id:
 
 Avoid choosing the same image or clip (same nasa_id) for two scenes.
 
+For EVERY chosen candidate (photo or clip) also give `focus_x`: where the point of interest sits across the picture's width, from 0 (left edge) to 1 (right edge), judged from the preview frame — the Moon limb, the rocket, the nebula's bright core, the lander, the face of the planet. 0.5 means centred. The vertical Shorts crop the 16:9 picture to a 9:16 window and pan slowly across this point, so a wrong value cuts the subject off. For a scene that is mostly an even field of stars or gas, use 0.5.
+
 For a chosen video you may add `start_s`: where in the clip to start (seconds, default 0) — use it when the preview frame suggests the interesting part is later, or when the clip starts with a title card. It must leave at least 2 seconds of clip after it.
 
 Write ONLY valid JSON to the output path:
 ```json
-{"selections": [{"scene_id": 1, "chosen": 0, "start_s": 0, "fit_score": 0-10, "reason": "<Turkish, one sentence>", "issues": ["<Turkish>"]}]}
+{"selections": [{"scene_id": 1, "chosen": 0, "focus_x": 0.5, "start_s": 0, "fit_score": 0-10, "reason": "<Turkish, one sentence>", "issues": ["<Turkish>"]}]}
 ```
-`chosen` is the candidate index from meta.json, or -1. `start_s` is optional and only for videos. Reply with one line: how many scenes got an archive visual and how many of those are videos.
+`chosen` is the candidate index from meta.json, or -1. `focus_x` is required whenever `chosen` is not -1; `start_s` is optional and only for videos. Reply with one line: how many scenes got an archive visual and how many of those are videos.

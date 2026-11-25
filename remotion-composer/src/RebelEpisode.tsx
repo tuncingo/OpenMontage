@@ -71,6 +71,10 @@ export interface EpisodeScene {
   /** Schematic line graphic: full-screen (phases, slips, thermal) or an inset over the photo (thermal_inset). */
   graphic?: SchematicSpec | null;
   purpose?: string;
+  /** Pixel size of the photo / clip and the point of interest (0-1 across the width) — used by the vertical Shorts. */
+  w?: number;
+  h?: number;
+  focus_x?: number;
   /** "contain": show the photo whole, centred on the dark ground (e.g. a planet disc). Default "cover". */
   fit?: "cover" | "contain";
   /** 0..1: extra dark layer over the visual (e.g. behind an end card). */

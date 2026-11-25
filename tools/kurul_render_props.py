@@ -75,6 +75,17 @@ PROCEDURAL = {
 }
 
 
+def media_size(path: str) -> tuple[int, int] | None:
+    """(width, height) of a photo or clip via ffprobe."""
+    try:
+        r = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+                            "-of", "csv=p=0:s=x", path], capture_output=True, text=True, check=True)
+        w, h = r.stdout.strip().split("x")[:2]
+        return int(w), int(h)
+    except Exception:
+        return None
+
+
 def crop_inside_content(src: str, dst: str, thresh: int = 14) -> None:
     """Crop to the largest 16:9 window with no black pixels; among equal-size windows keep the most detailed."""
     from PIL import Image
@@ -225,6 +236,8 @@ def main() -> None:
         sid = int(s["id"])
         src = None
         video = None
+        size = None
+        focus = 0.5
         gfx = GRAPHICS.get(sid)
         full_gfx = bool(gfx and gfx["kind"] != "thermal_inset")
         if not full_gfx and s.get("image") and s["image"].get("file"):
@@ -236,6 +249,8 @@ def main() -> None:
             else:
                 shutil.copy(f, dst)
             src = f"images/scene_{sid:03d}{ext}"
+            size = media_size(dst)
+            focus = float(s["image"].get("focus_x", 0.5))
         v = s.get("video")
         if not full_gfx and v and v.get("file"):
             f = os.path.join(ep, v["file"].split(" (")[0])
@@ -243,6 +258,8 @@ def main() -> None:
             shutil.copy(f, dst)
             clip = v.get("clip_s") or kurul_audio.sure_olc(f)
             video = {"src": f"video/scene_{sid:03d}.mp4", "clip_s": round(float(clip), 3)}
+            size = media_size(dst)
+            focus = float(v.get("focus_x", 0.5))
         proc = PROCEDURAL.get(sid) if (not src and not video and not full_gfx) else None
         credit = ""
         if src and s["image"].get("credit"):
@@ -264,7 +281,8 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "video": video, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "dim": DIM.get(sid, 0), "motion": s.get("motion", ""), "transition": TRANSITION_OVERRIDES.get(sid, s.get("transition", "cut")),
+            "src": src, "video": video, "procedural": proc,
+            "w": size[0] if size else None, "h": size[1] if size else None, "focus_x": round(focus, 3), "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "dim": DIM.get(sid, 0), "motion": s.get("motion", ""), "transition": TRANSITION_OVERRIDES.get(sid, s.get("transition", "cut")),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })

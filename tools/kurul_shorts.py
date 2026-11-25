@@ -9,7 +9,8 @@ Her Short için:
      başta/sonda yumuşak geçiş — bölümle aynı kurallar, Short için kısa fade)
   2. altyazılar bölümün subtitles_en.srt dosyasından (yoksa sahne metninden) alınır, güvenli alana sığacak şekilde
      en çok 2 satıra bölünür (satır başına ≤ 20 karakter)
-  3. Remotion `RebelShort` kompozisyonu render edilir (kurallar: kanal/stil_rehberi.md → "Shorts")
+  3. Remotion `RebelShort` kompozisyonu, 1080x1920 dikey olarak doğrudan sahnelerin assets/ görsel ve kliplerinden
+     render edilir (cover + odak noktasını izleyen yatay pan; bulanık bant/16:9 kutu yok). Kurallar: kanal/stil_rehberi.md → "Shorts"
 
 Kullanım: python tools/kurul_shorts.py <kod> [--only N] [--props-only] [--concurrency 2]
 Proje .venv'i ile çalıştır (numpy + soundfile gerekir). Chromium yolu gerekirse REMOTION_BROWSER_EXECUTABLE ile verilir.
