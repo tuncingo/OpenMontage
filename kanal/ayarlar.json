@@ -5,5 +5,19 @@
   "nasa_candidates": 4,
   "frame_every_s": 5,
   "frames_per_batch": 30,
-  "scenes_per_selector_batch": 12
+  "scenes_per_selector_batch": 12,
+  "nasa_video_candidates": 3,
+  "svs_candidates": 2,
+  "video_scene_photo_fallback": 2,
+  "video_min_s": 2,
+  "default_music": "kanal/muzik/long_voyage_to_outer_space.mp3",
+  "music_db_below_narration": 20,
+  "music_fade_in_s": 2.0,
+  "music_fade_out_s": 3.0,
+  "music_loop_xfade_s": 4.0,
+  "shorts_min": 4,
+  "shorts_max": 5,
+  "short_min_s": 20,
+  "short_max_s": 59,
+  "default_music_credit": "Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)"
 }

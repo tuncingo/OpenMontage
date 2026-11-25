@@ -4,10 +4,13 @@ import {
   Audio,
   CalculateMetadataFunction,
   Img,
+  Loop,
+  OffthreadVideo,
   Sequence,
   interpolate,
   staticFile,
   useCurrentFrame,
+  useVideoConfig,
 } from "remotion";
 import { TransitionSeries, linearTiming } from "@remotion/transitions";
 import { loadInterFamily } from "./lib/localFonts";
@@ -60,8 +63,10 @@ export interface EpisodeScene {
   id: number;
   start_s: number;
   duration_s: number;
-  /** Path under the public dir (images/..), or null for procedural scenes. */
+  /** Path under the public dir (images/..), or null for video/procedural scenes. */
   src: string | null;
+  /** Selected video clip (video/scene_XXX.mp4, already cut and muted). Loops invisibly if shorter than the scene. */
+  video?: { src: string; clip_s: number } | null;
   procedural?: ProceduralVariant | null;
   /** Schematic line graphic: full-screen (phases, slips, thermal) or an inset over the photo (thermal_inset). */
   graphic?: SchematicSpec | null;
@@ -82,8 +87,10 @@ export type EpisodeProps = {
   fps: number;
   totalSeconds: number;
   scenes: EpisodeScene[];
-  /** Path under the public dir (audio/...). Omit for a silent render. */
+  /** Path under the public dir (audio/...). Narration, or the narration + music mix. Omit for a silent render. */
   narration?: string;
+  /** Seconds into the full episode where this cut starts (only set for partial renders / Shorts). */
+  sourceStartS?: number;
 };
 
 /** Slow camera move derived from the director's motion text. Deterministic. */
@@ -116,16 +123,23 @@ const cameraFor = (motion: string, t: number, id: number) => {
 
 const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> = ({ scene, durationInFrames }) => {
   const frame = useCurrentFrame();
+  const { fps: vfps } = useVideoConfig();
   const t = interpolate(frame, [0, Math.max(1, durationInFrames - 1)], [0, 1], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
   const cam = cameraFor(scene.motion, t, scene.id);
-  const cosmic = scene.purpose === "cutaway" || !!scene.procedural || !!scene.graphic;
+  const cosmic = scene.purpose === "cutaway" || !!scene.procedural || !!scene.graphic || !!scene.video;
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY }}>
       {scene.graphic && scene.graphic.kind !== "thermal_inset" ? (
         <Schematic spec={scene.graphic} />
+      ) : scene.video ? (
+        <AbsoluteFill style={{ transform: `scale(${1.0 + 0.05 * t})` }}>
+          <Loop durationInFrames={Math.max(1, Math.floor(scene.video.clip_s * vfps) - 1)}>
+            <OffthreadVideo src={staticFile(scene.video.src)} muted style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          </Loop>
+        </AbsoluteFill>
       ) : scene.procedural ? (
         <ProceduralScene variant={scene.procedural} seed={scene.id} />
       ) : scene.src && scene.fit === "contain" ? (
@@ -189,9 +203,8 @@ const OverlayItem: React.FC<{ o: EpisodeOverlay }> = ({ o }) => {
   return <KineticHeadline text={o.text} position={o.position} size={Math.max(64, o.size_px ?? 76)} />;
 };
 
-export const RebelEpisode: React.FC<EpisodeProps> = ({ fps, scenes, narration }) => {
-  loadInterFamily();
-
+/** The scene series with transitions (no overlays, no audio). Reused by the vertical Short composition. */
+export const EpisodeVisuals: React.FC<{ fps: number; scenes: EpisodeScene[] }> = ({ fps, scenes }) => {
   // Each scene is stretched by the length of the transition INTO the next scene, so every
   // cut point still lands on start_s of the next scene (the overlap is subtracted by the series).
   const items: React.ReactNode[] = [];
@@ -217,9 +230,15 @@ export const RebelEpisode: React.FC<EpisodeProps> = ({ fps, scenes, narration })
     }
   });
 
+  return <TransitionSeries>{items}</TransitionSeries>;
+};
+
+export const RebelEpisode: React.FC<EpisodeProps> = ({ fps, scenes, narration }) => {
+  loadInterFamily();
+
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY }}>
-      <TransitionSeries>{items}</TransitionSeries>
+      <EpisodeVisuals fps={fps} scenes={scenes} />
 
       {/* overlays and tracker sit above the series so transitions never smear the text */}
       {scenes.map((s) => {

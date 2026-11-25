@@ -25,6 +25,15 @@ output/
 pipeline/
 tests/qa/output/
 
+# Rendered videos and Shorts (regenerable, large)
+*.mp4
+shorts/
+renders/
+
+# ...but the channel's music tracks stay in the repo
+!kanal/muzik/
+!kanal/muzik/*.mp3
+
 # Project workspaces (generated assets, renders — all regenerable)
 projects/
 

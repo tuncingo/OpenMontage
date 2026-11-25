@@ -5,13 +5,18 @@ Reads   bolumler/<kod>/production.json  (+ bolumler/<kod>/assets/*)
         projects/<kod>/assets/audio/scenes/scene_XXX.wav   (per-scene narration)
 Writes  projects/<kod>/assets/public/            (Remotion --public-dir)
           images/scene_XXX.<ext>                 (copied scene images)
+          video/scene_XXX.mp4                    (seçilen video klipleri)
           audio/narration.wav                    (assembled, loudness-normalised only)
+          audio/mix.wav                          (narration + music bed, music ~20 dB under the narration)
         projects/<kod>/render_props.json
 
 Scene length = max(planned duration, narration length + 0.4 s), so speech is never cut.
 Narration is only loudness-normalised (mild compression + limiter to reach -14 LUFS; no EQ, no reverb).
 
-Usage: python tools/kurul_render_props.py <kod> [--max-seconds N] [--lufs -16]
+Music: bolumler/<kod>/muzik/ (if present) else kanal/muzik/long_voyage_to_outer_space.mp3, looped with an inaudible
+equal-power crossfade when shorter than the episode, with soft fade in/out (see tools/kurul_audio.py, kanal/ayarlar.json).
+
+Usage: python tools/kurul_render_props.py <kod> [--max-seconds N] [--lufs -14] [--no-music]
 Run with the project .venv (needs numpy + soundfile).
 """
 from __future__ import annotations
@@ -26,7 +31,10 @@ import sys
 import numpy as np
 import soundfile as sf
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get("KURUL_ROOT") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import kurul_audio  # noqa: E402
+
 FPS = 30
 TAIL_PAD_S = 0.4
 END_PAD_S = 0.0  # no trailing black frames
@@ -100,6 +108,9 @@ def main() -> None:
     ap.add_argument("--scenes", default=None, help="only these scene ids, e.g. 1-4,12-14,17-18 (times re-based back to back)")
     ap.add_argument("--from-seconds", type=float, default=0.0, help="start the clip at this time (clip is re-based to 0)")
     ap.add_argument("--suffix", default="", help="output name suffix, e.g. _preview")
+    ap.add_argument("--no-music", action="store_true", help="narration only")
+    ap.add_argument("--music-fade-in", type=float, default=None, help="seconds (default: kanal/ayarlar.json)")
+    ap.add_argument("--music-fade-out", type=float, default=None, help="seconds (default: kanal/ayarlar.json)")
     a = ap.parse_args()
 
     ep = os.path.join(ROOT, "bolumler", a.kod)
@@ -107,6 +118,7 @@ def main() -> None:
     pub = os.path.join(pr, "assets", "public")
     os.makedirs(os.path.join(pub, "images"), exist_ok=True)
     os.makedirs(os.path.join(pub, "audio"), exist_ok=True)
+    os.makedirs(os.path.join(pub, "video"), exist_ok=True)
 
     prod = json.load(open(os.path.join(ep, "production.json"), encoding="utf-8"))
     scenes_in = prod["scenes"]
@@ -125,12 +137,14 @@ def main() -> None:
         t += dur
     total_full = t
 
+    source_start = 0.0
     if a.scenes:
         want = set()
         for part in a.scenes.split(","):
             lo, _, hi = part.partition("-")
             want.update(range(int(lo), int(hi or lo) + 1))
         timeline = [x for x in timeline if int(x["scene"]["id"]) in want]
+        source_start = timeline[0]["start"]  # where this cut begins in the full episode timeline
         t = 0.0
         for x in timeline:
             x["start"] = t
@@ -139,6 +153,7 @@ def main() -> None:
     if a.from_seconds:
         timeline = [x for x in timeline if x["start"] >= a.from_seconds - 1e-6]
         off = timeline[0]["start"]
+        source_start += off
         for x in timeline:
             x["start"] -= off
         total_full = timeline[-1]["start"] + timeline[-1]["dur"]
@@ -183,6 +198,25 @@ def main() -> None:
         gain += a.lufs - i_meas
     print(f"SES: {i_meas:.1f} LUFS, true peak {tp_meas:.1f} dBTP (hedef {a.lufs} LUFS, tavan {a.tp} dBTP)")
 
+    # 2b) music bed under the narration (~20 dB below it), looped invisibly, soft fade in/out
+    audio_rel = f"audio/narration{a.suffix}.wav"
+    music_info = None
+    muzik = None if a.no_music else kurul_audio.muzik_sec(a.kod)
+    if muzik:
+        sure_ses = min(total, sf.info(out_audio).frames / sf.info(out_audio).samplerate)  # fade-out ends with the video
+        yatak = os.path.join(pr, "assets", "audio", f"music_bed{a.suffix}.wav")
+        music_info = kurul_audio.yatak_yap(muzik, sure_ses, yatak, anlatim_lufs=i_meas,
+                                           fade_in_s=a.music_fade_in, fade_out_s=a.music_fade_out)
+        mix = os.path.join(pub, "audio", f"mix{a.suffix}.wav")
+        mi, mtp = kurul_audio.karistir(out_audio, yatak, mix)
+        audio_rel = f"audio/mix{a.suffix}.wav"
+        music_info.pop("source", None)
+        music_info.update({"file": os.path.relpath(muzik, ROOT), "mix_lufs": round(mi, 1), "mix_true_peak": round(mtp, 1)})
+        print(f"MÜZİK: {os.path.relpath(muzik, ROOT)} · yatak {music_info['measured_lufs']} LUFS "
+              f"(anlatının {music_info['db_below_narration']:.0f} dB altı) · {music_info['copies']} kopya · karışım {mi:.1f} LUFS, {mtp:.1f} dBTP")
+    elif not a.no_music:
+        print("UYARI: müzik bulunamadı (kanal/muzik/ boş) — yalnızca anlatı")
+
     # 3) scenes + images
     scenes_out = []
     missing = []
@@ -190,6 +224,7 @@ def main() -> None:
         s = x["scene"]
         sid = int(s["id"])
         src = None
+        video = None
         gfx = GRAPHICS.get(sid)
         full_gfx = bool(gfx and gfx["kind"] != "thermal_inset")
         if not full_gfx and s.get("image") and s["image"].get("file"):
@@ -201,15 +236,24 @@ def main() -> None:
             else:
                 shutil.copy(f, dst)
             src = f"images/scene_{sid:03d}{ext}"
-        proc = PROCEDURAL.get(sid) if (not src and not full_gfx) else None
+        v = s.get("video")
+        if not full_gfx and v and v.get("file"):
+            f = os.path.join(ep, v["file"].split(" (")[0])
+            dst = os.path.join(pub, "video", f"scene_{sid:03d}.mp4")
+            shutil.copy(f, dst)
+            clip = v.get("clip_s") or kurul_audio.sure_olc(f)
+            video = {"src": f"video/scene_{sid:03d}.mp4", "clip_s": round(float(clip), 3)}
+        proc = PROCEDURAL.get(sid) if (not src and not video and not full_gfx) else None
         credit = ""
         if src and s["image"].get("credit"):
             credit = "Image: " + s["image"]["credit"].split(" \u2014 ")[0].strip()
+        elif video and v.get("credit"):
+            credit = "Video: " + v["credit"].split(" \u2014 ")[0].strip()
         if sid in GRAPHIC_CREDITS:
             credit = GRAPHIC_CREDITS[sid]
         if sid in CREDIT_APPEND:
             credit = (credit + " \u00b7 " if credit else "") + CREDIT_APPEND[sid]
-        if not src and not proc and not full_gfx:
+        if not src and not video and not proc and not full_gfx:
             missing.append(sid)
         overlays = []
         for o in s.get("overlays", []):
@@ -220,13 +264,13 @@ def main() -> None:
         tr = s.get("evidence_tracker")
         scenes_out.append({
             "id": sid, "start_s": round(x["start"], 3), "duration_s": round(x["dur"], 3),
-            "src": src, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "dim": DIM.get(sid, 0), "motion": s.get("motion", ""), "transition": TRANSITION_OVERRIDES.get(sid, s.get("transition", "cut")),
+            "src": src, "video": video, "procedural": proc, "purpose": s.get("purpose", ""), "credit": credit, "graphic": gfx, "fit": "contain" if sid in FIT_CONTAIN else "cover", "dim": DIM.get(sid, 0), "motion": s.get("motion", ""), "transition": TRANSITION_OVERRIDES.get(sid, s.get("transition", "cut")),
             "overlays": overlays,
             "evidence_tracker": {"count": tr["count"], "label": tr["label"]} if tr else None,
         })
 
     props = {"fps": FPS, "totalSeconds": round(total, 3), "scenes": scenes_out,
-             "narration": f"audio/narration{a.suffix}.wav"}
+             "narration": audio_rel, "music": music_info, "sourceStartS": round(source_start, 3)}
     out = os.path.join(pr, f"render_props{a.suffix}.json")
     json.dump(props, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     stretched = [x["scene"]["id"] for x in timeline if x["dur"] > float(x["scene"]["duration_s"]) + 0.01]

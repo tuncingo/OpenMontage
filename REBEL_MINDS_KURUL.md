@@ -4,7 +4,8 @@ This folder is the production office of the faceless YouTube channel **Rebel Min
 
 ## Commands
 - `/yeni-bolum <topic>` — script board: research → draft → 3 independent reviewers → revision (max 2 rounds) → strategist → report. Stops for Tunç's approval.
-- `/gorsel-kurul <episode-slug>` — visual board: director scene plan → free NASA candidates → image selector → graphic designer → `production.json`.
+- `/gorsel-kurul <episode-slug>` — visual board: director scene plan (each scene `photo` or `video`) → free NASA photos, NASA videos and SVS animations → image selector (looks at preview frames) → graphic designer (overlays + 3 cover concepts) → `production.json` + `yayin_paketi.md`.
+- `/shorts <episode-slug>` — 4-5 vertical Shorts (1080x1920) cut at sentence ends by the strategist, rendered with hook, safe-area captions and an end card; adds covers, titles, descriptions and pinned comments to `yayin_paketi.md`.
 - `/son-kontrol <episode-slug> [video path]` — director watches sampled frames of the rendered video and reports problems by timestamp.
 
 ## Rules for every board member
@@ -28,13 +29,24 @@ sahne_plani.json       Yönetmen
 adaylar/scene_XXX/     candidate images + meta.json (generated)
 secimler/*.json        Görsel Seçici
 grafik.json            Grafiker
-assets/                final images (generated)
+assets/                final images and cut video clips (generated)
 production.json        render package (generated)
 gorsel_raporu.md       visual report (generated)
+muzik/                 optional: this episode's own music (first track is used instead of the channel default)
+shorts_plani.json      YouTube strategist (Shorts cuts, hooks, titles, descriptions, pinned comments)
+shorts_kapak.json      Grafiker (vertical Short cover briefs)
+shorts/short_N.mp4     rendered Shorts (generated, not committed)
+yayin_paketi.md        paste-ready publishing package: 3 cover concepts + every Short (generated)
 kontrol_kareleri/      sampled frames (generated)
 kontrol/*.json         final check notes
 son_kontrol_raporu.md  final check report (generated)
 ```
+
+## Channel folder — `kanal/`
+`stil_rehberi.md` (style law, incl. Moving footage, Music, Shorts), `ayarlar.json` (thresholds, candidate counts, music levels, Shorts limits), `onceki_bolumler.md`, and `muzik/` (the channel's default music: `long_voyage_to_outer_space.mp3`; mp3 files here are committed to git).
+
+## Render tools
+`tools/kurul_render_props.py <kod>` builds the Remotion props for the episode (video clips, narration at -14 LUFS, music ~20 dB under it); `tools/kurul_shorts.py <kod>` renders the Shorts with the `RebelShort` composition. Rendered `*.mp4`, `shorts/` and `renders/` are git-ignored.
 
 ## Helper tool
 `python3 tools/kurul.py <subcommand>` (on Windows, if `python3` is not found, use `py -3` or `python` instead — same arguments) — deterministic glue (scoring, NASA search/download, packaging, frame extraction). Run `python3 tools/kurul.py -h` for help. Board thresholds live in `kanal/ayarlar.json`.

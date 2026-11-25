@@ -17,6 +17,7 @@ import { CaptionOverlay, WordCaption } from "./components/CaptionOverlay";
 import { CollageBurst, CollageBurstProps } from "./CollageBurst";
 import { LyricOverlay, LyricOverlayProps, calculateLyricOverlayMetadata } from "./LyricOverlay";
 import { RebelEpisode, EpisodeProps, calculateEpisodeMetadata } from "./RebelEpisode";
+import { RebelShort, ShortProps, calculateShortMetadata } from "./RebelShort";
 
 // ---------------------------------------------------------------------------
 // Theme System — prevents every video from looking like dark fintech
@@ -146,6 +147,16 @@ export const Root: React.FC = () => {
         height={1080}
         defaultProps={{ fps: 30, totalSeconds: 30, scenes: [] } as EpisodeProps}
         calculateMetadata={calculateEpisodeMetadata}
+      />
+      <Composition
+        id="RebelShort"
+        component={RebelShort}
+        durationInFrames={30 * 30}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ fps: 30, totalSeconds: 30, scenes: [], hook: { text: "" }, captions: [] } as ShortProps}
+        calculateMetadata={calculateShortMetadata}
       />
       <Composition
         id="Explainer"

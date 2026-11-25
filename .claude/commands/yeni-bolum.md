@@ -19,6 +19,6 @@ Run the board exactly in this order. Use the named subagents; do NOT write the r
 5. **Board decision.** Run `python3 tools/kurul.py karar <KOD> N`. If a reviewer file is missing or invalid, re-run only that reviewer, then run the decision again.
    - `KARAR: revise` → call `basyazar` again for a REVISION with: previous script `bolumler/<KOD>/script.md`, feedback `bolumler/<KOD>/hakem/geri_bildirim_turN.md`, research path, same output path. Then go back to step 4 with N+1.
    - `KARAR: approved` or `KARAR: needs_human` → continue.
-6. **Strategy.** Call `youtube-stratejisti` with: script path, output `bolumler/<KOD>/strateji.json`.
+6. **Strategy.** Call `youtube-stratejisti` with: script path, output `bolumler/<KOD>/strateji.json` (it also proposes the 3 cover concepts — number, mystery, clean — and the pinned comment; the graphic designer turns the covers into Canva briefs later in `/gorsel-kurul`).
 7. **Report.** Run `python3 tools/kurul.py rapor <KOD>`.
 8. **Stop and hand over to Tunç** (in Turkish, max ~12 lines): decision, rounds and scores per reviewer, any remaining critical/major issues, recommended title, originality risk, and the paths of `script.md` and `kurul_raporu.md`. End with: "Onaylıyorsan: `/gorsel-kurul <KOD>`". Do NOT start the visual board yourself.
