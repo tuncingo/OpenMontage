@@ -4,7 +4,7 @@ The Moon has ice. That part is settled. What nobody can say for sure is whose wa
 
 Five suspects are on the table. Comets. Asteroids. The Moon's own volcanoes. The solar wind. And, strangest of all, our own planet. [S1][S10]
 
-One measurement could settle the case, and nobody has made it yet. We will get to it. And we will look at a lander built to attempt it, whose launch was postponed this August. [S18]
+One measurement could go a long way toward settling the case, and nobody has made it yet. We will get to it. And we will look at a lander built to attempt it, which missed its launch window this year. [S18][S22]
 
 First, the scene of the crime.
 
@@ -46,7 +46,7 @@ How much would it take? According to a NASA slide deck, if only about one tenth 
 
 That is an estimate, not a measurement. But it shows the idea does not need a miracle.
 
-There is another reason this matters. The old story said the giant impact that made the Moon left it bone dry. Chang'e-5 samples suggest the interior holds more water than once thought. [S13] So the Moon may have had water of its own to give.
+There is another reason this matters. The old story said the giant impact that made the Moon left it bone dry. Volcanic glass beads brought back by Apollo, re-analysed in 2008, showed the Moon's interior held more water than once thought. [S21] So the Moon may have had water of its own to give.
 
 Suspect four. The Sun.
 
@@ -94,13 +94,11 @@ The study narrows where the ice is. It does not name the source. [S2]
 
 [EVIDENCE: ShadowCam survey]
 
-Then there is a sobering result. A University of Hawaii led team used ShadowCam, a NASA camera flying on Korea's Danuri orbiter. It found no widespread surface ice above roughly twenty to thirty percent by weight. That is its detection limit. [S5][S6]
+Then there is a sobering result. A University of Hawaii led team used ShadowCam, a NASA camera flying on Korea's Danuri orbiter. It found no large sheets of surface ice. Any widespread surface ice would be below about twenty to thirty percent by weight, which is the camera's detection limit. [S5][S6]
 
-It did see small patches, twenty to fifty metres across, many near young craters. A few showed signatures above ten percent. [S5][S6]
+But it did spot a few small patches, twenty to fifty metres across, that may hold more. Many sit near young craters. [S5][S6]
 
-You might picture a frozen lake. At least at the surface, there is none. ShadowCam sees only the top layer. The ice is probably mixed into the dust, in low amounts. Finding it below one percent will need more sensitive instruments. [S5][S6]
-
-One more complication, for dating the ice. A recent report says craters under about one hundred metres wide may lose their ice within a hundred million years. I could only verify it secondhand, so treat it as provisional. [S17]
+You might picture a frozen lake. At least at the surface, there is none. The ice is probably mixed into the dust, in low amounts. Finding it below one percent will need more sensitive instruments. [S5][S6]
 
 So who did it?
 
@@ -112,7 +110,7 @@ Remember the comet disagreement? It is still unresolved. And that is exactly why
 
 Heavy hydrogen is the fingerprint. The ratio of heavy to normal hydrogen in water would help tell comets, asteroids and the Sun apart. [S20] Solar wind hydrogen, for one, is very low in heavy hydrogen. [S13] But nobody has measured this ratio in the polar ice itself. [S1][S20]
 
-That takes a lander that can reach the ice and test it. China's Chang'e-7 is designed to look for water ice at the south pole, and it may help. Its launch was postponed in August, and Scientific American reports a delay until 2027. [S18] No new date was confirmed in the sources I found.
+That takes a lander that can reach the ice and test it. China's Chang'e-7 is designed to look for water ice at the south pole, and it may help. [S18] In August, a day before launch, China said Chang'e-7 could not fly in this year's window. It is now expected in 2027. [S18][S22]
 
 The Moon has been keeping this record for billions of years. We just have not read it yet.
 
@@ -132,17 +130,11 @@ S11. https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..26T
 S12. https://www.ssl.berkeley.edu/first-evidence-that-water-can-be-created-on-the-lunar-surface-by-earths-magnetosphere
 S13. https://pmc.ncbi.nlm.nih.gov/articles/PMC9907113
 S16. https://connectsci.au/news/news-parent/9149/Finding-water-on-the-Moon-for-astronauts-to-drink
-S17. https://www.techtimes.com/articles/330380/20261110/moons-sub-100-meter-craters-last-under-100-million-years-lunar-water-ice-inside-cannot-be-ancient.htm
 S18. https://www.scientificamerican.com/article/china-delays-ambitious-change-7-moon-mission-until-2027
 S20. https://www.airspacemag.com/daily-planet/water-from-the-sun-77291080/
+S21. https://www.nature.com/articles/nature07047 (Saal et al. 2008, Nature 454, 192-195)
+S22. https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole
 
 ## Revision notes
-- Chang'e-7: "hâlâ yerde" iddiası kaldırıldı; sadece Ağustos'ta ertelendiği ve S18'e göre 2027'ye kaydığı, yeni tarihin doğrulanmadığı söyleniyor. "Check the agency" cümlesi atıldı. Açılışta izotop vaadi ve lander kancası eklendi.
-- Beş şüpheli artık gerçekten beş bölüm: asteroitler kendi bölümünü aldı; "chondritic" yerine "asteroid-like" denildi.
-- "Same data" düzeltildi: iki farklı kanıt türü, Cabeus'un temsil gücü belirsiz. Kuyruklu yıldız çelişkisi sonuçta geri çağrıldı.
-- Güneş rüzgarı: nanometre aritmetiği çıkarıldı; sekiz ay/katman ve sıcaklık (400 K) itirazı korundu, "milyarlarca yılda birikir" notu eklendi.
-- "Ruled out" yumuşatıldı; "argue against". 3/4 yaş cümlesi silindi. Cold trap/PSR anlatımı sadeleştirildi, İsviçre karşılaştırması S16'dan ayrıldı. LCROSS öne alındı, "give or take" ifadesi sadeleştirildi.
-- Araştırmacı isimleri çıkarıldı; Dünya bölümü görselle (5 günlük kuyruk) başlatıldı; Berkeley için yüzey katmanı notu eklendi.
-- ShadowCam: sadece yüzey, %10 üstü izler, "frozen lake" kuruldu. Küçük krater notu finalden öne alındı ve bağlantısı düzeltildi.
-- D/H yumuşatıldı ("help tell apart"), Chang'e-7 için "may help"; yinelenen iki CTA tek cümleye indirildi; kapanış sade bir yansımaya çevrildi. İç mantle suyu atfı S13'e çevrildi; volkanizma "peaked early" olarak bırakıldı (S1).
-- Not: S3/S4/S8 tam okunamadı; yayın öncesi doğrulanmalı. Toplam 25 hakem maddesinin çoğu giderildi.
+- Final editör düzeltmeleri: iç su cümlesi Apollo cam boncukları/Saal 2008 (S21) ile değiştirildi; açılış "go a long way toward settling" yapıldı ve Chang'e-7 için "missed its launch window this year" denerek final cümleyle tutarlı hale getirildi; ShadowCam paragrafı sadeleştirildi (%10 ve "sadece üst katman" çıkarıldı); küçük krater paragrafı ve S17 silindi; Chang'e-7 cümlesi editörün verdiği bilgiyle (S18, S22) değiştirildi. S22 URL'si açılamadı, editör sağladı.
+- Not: S3/S4/S8 tam okunamadı; yayın öncesi doğrulanmalı.
