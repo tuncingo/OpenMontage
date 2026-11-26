@@ -1,0 +1,52 @@
+{
+  "overlays": [
+    {"scene_id": 1, "text": "21 NOVEMBER", "position": "lower-third", "style": "number", "in_s": 0.8, "out_s": 4.2},
+    {"scene_id": 4, "text": "APRIL 2027", "position": "lower-third", "style": "number", "in_s": 1.5, "out_s": 6.0},
+    {"scene_id": 9, "text": "ABOUT 400 STREAKS", "position": "lower-third", "style": "number", "in_s": 0.8, "out_s": 6.0},
+    {"scene_id": 12, "text": "93 PERCENT IN THE NORTH", "position": "lower-third", "style": "number", "in_s": 2.2, "out_s": 5.6},
+    {"scene_id": 15, "text": "Plausible. Not proven.", "position": "lower-third", "style": "headline", "in_s": 1.0, "out_s": 7.0},
+    {"scene_id": 19, "text": "STILL FORMING?", "position": "lower-third", "style": "headline", "in_s": 3.5, "out_s": 6.6},
+    {"scene_id": 25, "text": "16 KM TO 23 KM", "position": "lower-third", "style": "number", "in_s": 3.0, "out_s": 7.5},
+    {"scene_id": 31, "text": "300 MILLION YEARS OR YOUNGER", "position": "lower-third", "style": "headline", "in_s": 0.8, "out_s": 5.6},
+    {"scene_id": 39, "text": "NOT PEER REVIEWED", "position": "lower-third", "style": "label", "in_s": 0.8, "out_s": 4.0},
+    {"scene_id": 40, "text": "DEAD?", "position": "center", "style": "headline", "in_s": 1.5, "out_s": 4.6},
+    {"scene_id": 44, "text": "QUIET", "position": "center", "style": "headline", "in_s": 1.5, "out_s": 5.2},
+    {"scene_id": 62, "text": "9 TO 10 DECEMBER", "position": "lower-third", "style": "number", "in_s": 2.5, "out_s": 6.5}
+  ],
+  "evidence_tracker": [
+    {"scene_id": 3, "count": 1, "label": "Orbit arrival, 21 Nov"},
+    {"scene_id": 8, "count": 2, "label": "Bright streaks, Bern"},
+    {"scene_id": 16, "count": 3, "label": "Hollows are young"},
+    {"scene_id": 22, "count": 4, "label": "Shrinking planet"},
+    {"scene_id": 35, "count": 5, "label": "Volcanism hints"},
+    {"scene_id": 45, "count": 6, "label": "BepiColombo roadmap"}
+  ],
+  "thumbnail": {
+    "headline": "NOT DEAD?",
+    "layout": "Sol ucte buyuk Mercury (gercek NASA/MESSENGER fotografi, koyulastirilmis ground #05070C uzerine yerlestirilmis), uzerinde kodla cizilmis tek ince amber (#D9A25B) streak vurgusu. Sagda ice-white (#F2F5FF) Inter Medium 'NOT DEAD?': 'DEAD' amber, soru isareti zorunlu. Sag taraf bos ve karanlik; baslik telefonda okunur boyutta. Yuz, logo, ok, kirmizi daire yok.",
+    "image_prompt": "Real-image-based composition, no AI generation: take a real NASA/JHUAPL/MESSENGER global Mercury image (NASA Image Library, search 'Mercury MESSENGER global'), place it large on the left third over a near-black #05070C ground with a faint code-drawn star-dust layer; add one code-drawn thin muted amber #D9A25B hairline tracing a streak on the planet and one hairline teal #62C2CF orbit arc; keep the right two thirds empty and dark for the headline; no text in the base image, no logos, no spacecraft, no faces.",
+    "text_color": "#F2F5FF",
+    "accent_color": "#D9A25B"
+  },
+  "cover_concepts": [
+    {
+      "type": "mystery",
+      "headline": "NOT DEAD?",
+      "canva_brief": "Canvas 1280x720 landscape, ground near-black #05070C. Upload a real NASA/JHUAPL MESSENGER global image of Mercury (find it in the NASA Image Library by searching 'Mercury MESSENGER global'; use the real image, do not generate or paint a look-alike). Place Mercury large and sharp on the left third, slightly cropped by the left edge, with a soft dark gradient into the ground on its right side. Draw one thin muted amber #D9A25B line along a crater slope on the planet as the only highlight, plus one hairline teal #62C2CF orbit arc. Put the headline NOT DEAD? on the right in ice-white #F2F5FF, Inter Medium, very large (cap height at least 120 px) so it stays readable at phone size; colour the word DEAD in amber, and the question mark is mandatory. Mood: quiet, precise, curious, a scientific figure rather than a poster, lots of dark space around the headline. No extra text, no logos, no faces, no arrows, no red shapes, no spacecraft.",
+      "accuracy_note": "Soru isareti zorunlu: video 'olu mu?' sorusunu inceliyor, cevap 'henuz bilmiyoruz, sessiz olabilir'; kapak canli iddiasi tasimaz."
+    },
+    {
+      "type": "number",
+      "headline": "400 BRIGHT STREAKS",
+      "canva_brief": "Canvas 1280x720 landscape, ground near-black #05070C. Upload a real NASA MESSENGER image of a Mercury crater as the base (NASA Image Library, search 'Mercury crater bright streaks' or 'Mercury crater MESSENGER'; use the real image, never a generated look-alike), darkened to about 40 percent brightness and placed on the right half with a fade into the dark ground on its left. Add three or four thin muted amber #D9A25B hairline circles around streaks on the crater slope. On the left set the figure 400 very large in ice-white #F2F5FF, Inter Medium (or Light), with the words BRIGHT STREAKS beneath it at a smaller but still phone-readable size; add a tiny grey line 'about, in MESSENGER images' only if it stays legible. A thin teal #62C2CF hairline rule sits between figure and words. Mood: sober, measured, a figure from a dataset, not an alarm. No extra text, no logos, no faces. Write the number as 400 and keep 'about' in the small line, never round it up.",
+      "accuracy_note": "Rakam senaryoda 'about four hundred bright streaks' (Bern ekibi, MESSENGER goruntuleri, S4); yuvarlanmadi, 'about' kucuk satirda."
+    },
+    {
+      "type": "clean",
+      "headline": "Mercury, Revisited",
+      "canva_brief": "Canvas 1280x720 landscape, ground near-black #05070C with a very faint star-dust texture. One subject only: a small Mercury in the lower left, either a real NASA MESSENGER Mercury image (NASA Image Library, search 'Mercury MESSENGER portrait') cut cleanly onto the ground, or a plain code-drawn teal #62C2CF circle outline if no clean cut is available; never a generated look-alike. A single hairline teal orbit arc enters from the upper right and a tiny muted amber #D9A25B dot sits on it. Headline 'Mercury, Revisited' in ice-white #F2F5FF, Inter Medium, in the upper left, large enough to read on a phone. Under it a thin grey hairline, nothing else. Leave at least 60 percent of the frame empty and dark; the mood is the channel's quiet, precise look. No extra text, no logos, no faces.",
+      "accuracy_note": "Video MESSENGER'in eski verisini BepiColombo'nun yeni gelisiyle yeniden ele aliyor; kapak yalniz bu cercevede, yeni bir bulgu iddia etmez."
+    }
+  ],
+  "design_notes": "Overlay sayisi bilerek az (12): yalnizca anahtar rakam ve temkin cumleleri. Hepsi 64 px ve ustu, %10 guvenli kenar icinde, alt ucuncuda ya da merkezde; fotograf/video uzerinde yumusak koyu scrim kullanilir. Sema (cizim) sahnelerinde schematic_brief zaten ayni rakami ciziyorsa (ornegin 9, 12, 25, 31) overlay atlanir ya da cizimle cakismayacak sekilde alt ucuncuda tutulur; cizim etiketleri 36 px ustu. Delil sayaci yalniz evidence_update=true sahnelerinde (3, 8, 16, 22, 35, 45), sol ustte, birkac saniye sonra kapanir; sahne 8'de sayac ve alt ucuncu overlay cakismaz. Kapak: ana oneri NOT DEAD? (soru isareti zorunlu), alternatif 400 BRIGHT STREAKS (script'teki 'about four hundred'), yedek Mercury, Revisited. Hicbir kapak ya da gorsel AI ile uretilmez; gercek NASA/MESSENGER gorseli ya da kodla cizilmis grafik kullanilir. Sahne planinda nasa_id alani yok; sahibi NASA Image Library'de brief'teki arama ifadesiyle gercek goruntuyu secer. BepiColombo sahneleri kodla cizilen 'Illustration' etiketli semalardir."
+}
