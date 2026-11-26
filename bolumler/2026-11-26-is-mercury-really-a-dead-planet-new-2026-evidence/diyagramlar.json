@@ -205,5 +205,16 @@
   "63": {
     "layout": "planet_question",
     "label": "THE HONEST ANSWER"
+  },
+  "2": {
+    "layout": "planet_question",
+    "craters": true,
+    "mark": "DEAD?",
+    "label": "A BATTERED ROCK"
+  },
+  "37": {
+    "layout": "cone",
+    "label": "CALORIS BASIN",
+    "credit": "Source: EPSC 2026 abstracts"
   }
 }

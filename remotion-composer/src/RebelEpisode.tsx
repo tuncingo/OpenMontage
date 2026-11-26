@@ -136,6 +136,8 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
     extrapolateRight: "clamp",
   });
   const cam = cameraFor(scene.motion, t, scene.id);
+  // a small source image looks soft when pushed in hard: keep its zoom gentle
+  if (!scene.video && (scene.w ?? 9999) < 1100) cam.scale = 1 + (cam.scale - 1) * 0.3;
   const cosmic = scene.purpose === "cutaway" || !!scene.procedural || !!scene.graphic || !!scene.video;
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY }}>

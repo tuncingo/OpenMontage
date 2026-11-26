@@ -1,5 +1,1 @@
-{"batch_score": 8, "range": "07:30-07:45",
- "problems": [
-  {"time": "07:30", "type": "okunabilirlik", "detail": "Illustration sahnesinde iki uzay aracı simgesi (teal ve amber) çok küçük; telefonda ne oldukları seçilmiyor. Etiketler (THE NEXT STEP, 9 TO 10 DECEMBER) okunaklı ve güvenli alanda.", "fix": "Araç simgelerini yaklaşık 2 kat büyütün ya da kalın çizgiyle çizin."}
- ],
- "notes": "07:35 karesi Merkür ile bir bulutsunun çapraz geçişi (karışım); geçiş anı olduğu için kusur sayılmadı. 07:40 NASA/MSFC bulutsu kozmik ara planı, kredi satırı var, sorun yok. 07:45 sade metin kartı (DEAD / QUIET / UNNAMED) okunaklı ve kenar boşluklarının içinde; arka plan yalnızca yıldız tozu, kısa sürerse sorun değil."}
+{"batch_score": 9, "range": "07:30-07:45", "problems": [], "notes": "4 kare incelendi. 07:30 cizgi cizim iki uydu, 'ILLUSTRATION' etiketi ve '9 TO 10 DECEMBER' okunakli, kenar payi icinde. 07:35 ve 07:40 ayni nebula (kozmik ara plan) hem karartilmis hem tam gorunumde, ayni sahnenin devami; '?' ve 'THE HONEST ANSWER' okunakli, kaynak satiri var. 07:45 'DEAD / QUIET / UNNAMED' buyuk metin, guvenli alanda, okunakli. Gomulu baslik, kesik metin, siyah kare veya ust uste binen metin yok."}

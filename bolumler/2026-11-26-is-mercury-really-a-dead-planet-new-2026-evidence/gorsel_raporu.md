@@ -1,7 +1,7 @@
 # Görsel Kurulu Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Sahne:** 65 · **Tahmini süre:** 7 dk 10 sn
-**Görsel kaynağı:** 36 NASA/SVS arşivi (3 video klibi, 33 fotoğraf) · 29 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
+**Görsel kaynağı:** 34 NASA/SVS arşivi (3 video klibi, 31 fotoğraf) · 31 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
 **Müzik:** kanal/muzik/long_voyage_to_outer_space.mp3
 
 ## Yönetmen notu
@@ -17,6 +17,7 @@ Arka plan promptu: Real-image-based composition, no AI generation: take a real N
 
 ## Şematik grafikle çizilecek sahneler (arşivde uygun görsel yok; AI görsel YOK)
 - Sahne 1: Teal circle (Mercury) with a thin amber curved approach path ending in a closed elliptical orbit; small 'Illustration' label; label ORBIT ARRIVAL, 21 NOV. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
+- Sahne 2: Large teal outline of Mercury with scattered hairline crater circles; amber question label DEAD? fading in. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 3: ESA-only subject, so draw a trajectory diagram: teal planet circle, teal approach arc, an amber segment marking the burn that stops short, label SAFE MODE and BRAKING BURN ENDED EARLY; 'Illustration' label. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 6: Slowly rotating teal sphere with meridian hairlines and a tiny amber glint spot; no text beyond 2026. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 7: Crater outline in teal with thin amber streak lines down its slope and a question mark label UNEXPLAINED. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
@@ -32,6 +33,7 @@ Arka plan promptu: Real-image-based composition, no AI generation: take a real N
 - Sahne 32: Teal circle with inward amber arrows pulsing slowly, label STILL CONTRACTING?. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 33: ESA-only: stylised craft icon in teal beside a camera cone in amber pointing at trenches; 'Illustration'; label MAY BE REFUTED. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 36: Layered cross-section: teal surface, buried amber ash layer, small plume above bright patch; label BURIED ASH; source EPSC 2026 abstracts. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
+- Sahne 37: Big teal ring labelled CALORIS BASIN with a dashed amber cone shape inside labelled TENTATIVE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 45: ESA-only: two orbiter icons (European MPO teal, Japanese Mio amber) beside Mercury, labels EUROPEAN and JAPANESE, SECOND TO ORBIT; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 46: Timeline 2018 to 2026 in grey, teal spiral path, amber end marker; label ABOUT EIGHT YEARS; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 47: Timeline with amber range bracket around APRIL 2027 labelled DATES MAY CHANGE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.

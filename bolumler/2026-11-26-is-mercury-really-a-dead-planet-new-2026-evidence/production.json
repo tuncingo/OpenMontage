@@ -68,18 +68,9 @@
       "motion": "slow Ken Burns pan across craters, parallax dust",
       "transition": "crossfade",
       "media": "photo",
-      "image": {
-        "file": "assets/scene_002.jpg",
-        "source": "nasa",
-        "nasa_id": "PIA10177",
-        "title": "MESSENGER Reveals Mercury Geological History",
-        "credit": "NASA/JPL — PIA10177",
-        "fit_score": 8,
-        "reason": "PIA10177 gri, yogun kraterli Merkur yuzeyini gosteriyor ve 'dovulmus, kraterli kaya' anlatimina uygun.",
-        "focus_x": 0.35
-      },
+      "image": null,
       "video": null,
-      "schematic": null,
+      "schematic": "Large teal outline of Mercury with scattered hairline crater circles; amber question label DEAD? fading in. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.",
       "ai_prompt": null,
       "overlays": [],
       "evidence_tracker": null
@@ -897,18 +888,9 @@
       "motion": "slow zoom into the basin",
       "transition": "cut",
       "media": "photo",
-      "image": {
-        "file": "assets/scene_037.jpg",
-        "source": "nasa",
-        "nasa_id": "PIA10383",
-        "title": "The Great Caloris Basin on Mercury",
-        "credit": "NASA/JPL — PIA10383",
-        "fit_score": 6,
-        "reason": "Caloris havzasının tamamını gösteren JPL görüntüsü, sahnenin dev darbe havzası anlatımına doğrudan karşılık geliyor.",
-        "focus_x": 0.4
-      },
+      "image": null,
       "video": null,
-      "schematic": null,
+      "schematic": "Big teal ring labelled CALORIS BASIN with a dashed amber cone shape inside labelled TENTATIVE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.",
       "ai_prompt": null,
       "overlays": [],
       "evidence_tracker": null

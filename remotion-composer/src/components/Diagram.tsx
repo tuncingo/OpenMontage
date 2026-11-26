@@ -18,7 +18,7 @@ export type DiagramLayout =
   | "arrival" | "sphere" | "crater_streaks" | "crater_section" | "panels" | "orbits_pair" | "fault_rubble"
   | "table" | "orbiter_camera" | "layers" | "orbiters_beside" | "laser" | "outline_compare" | "tick"
   | "hollow_shift" | "orbiters_apart" | "labels3"
-  | "pie" | "growth3" | "timeline" | "trenches" | "contract" | "two_frames" | "planet_question";
+  | "pie" | "growth3" | "timeline" | "trenches" | "contract" | "two_frames" | "planet_question" | "cone";
 
 export interface DiagramSpec {
   kind: "diagram";
@@ -472,8 +472,8 @@ const Trenches: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   return (
     <>
       <rect x={X0 + 120} y={420} width={W - 240} height={420} fill="none" stroke={GREY} strokeWidth={2} opacity={0.6 * prog(f, 4, 16)} />
-      {Array.from({ length: 11 }).map((_, i) => {
-        const x = X0 + 220 + i * 120;
+      {Array.from({ length: 10 }).map((_, i) => {
+        const x = X0 + 200 + i * 112;
         const y0 = 470 + ((i * 53) % 90);
         return <line key={i} x1={x} y1={y0} x2={x + 30} y2={y0 + 250} stroke={TEAL} strokeWidth={4} strokeLinecap="round" strokeDasharray={260} strokeDashoffset={260 * (1 - prog(f, 10 + i * 5, 20))} />;
       })}
@@ -518,7 +518,24 @@ const PlanetQuestion: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   return (
     <>
       <Planet cx={960} cy={620} r={210} p={prog(f, 4, 34)} />
-      <Txt x={960} y={700} anchor="middle" fill={AMBER} weight={200} size={240} tracking={0} opacity={prog(f, 40, 24)}>?</Txt>
+      {spec.craters
+        ? [[-90, -80, 46], [70, -120, 30], [110, 20, 56], [-30, 80, 34], [-120, 60, 26], [20, -20, 22], [-10, 150, 24]].map(([dx, dy, r], i) => (
+            <circle key={i} cx={960 + dx} cy={620 + dy} r={r} fill="none" stroke={TEAL} strokeWidth={2} opacity={0.7 * prog(f, 14 + i * 4, 16)} />
+          ))
+        : null}
+      <Txt x={960} y={spec.mark ? 650 : 700} anchor="middle" fill={AMBER} weight={spec.mark ? 300 : 200} size={spec.mark ? 120 : 240} tracking={spec.mark ? 4 : 0} opacity={prog(f, 40, 24)}>{String(spec.mark ?? "?")}</Txt>
+    </>
+  );
+};
+
+// 25) ring with a tentative cone inside ----------------------------------------------
+const Cone: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  return (
+    <>
+      <Planet cx={960} cy={650} r={250} p={prog(f, 4, 36)} />
+      <path d="M 960 800 L 800 520 Q 960 440 1120 520 Z" fill={AMBER} fillOpacity={0.12 * prog(f, 40, 24)} stroke={AMBER} strokeWidth={4} strokeDasharray="14 10" opacity={prog(f, 40, 24)} />
+      <Txt x={960} y={900} anchor="middle" fill={AMBER} tracking={9} opacity={prog(f, 64, 18)}>TENTATIVE</Txt>
     </>
   );
 };
@@ -552,6 +569,7 @@ export const Diagram: React.FC<{ spec: DiagramSpec; transparent?: boolean }> = (
       {L === "contract" ? <Contract spec={spec} /> : null}
       {L === "two_frames" ? <TwoFrames spec={spec} /> : null}
       {L === "planet_question" ? <PlanetQuestion spec={spec} /> : null}
+      {L === "cone" ? <Cone spec={spec} /> : null}
     </Frame>
   );
 };

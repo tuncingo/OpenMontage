@@ -112,6 +112,24 @@
         "PIA13477 sahne 22'de kullaniliyor.",
         "GSFC_20171208_Archive_e001918 sahne 40'ta kullaniliyor."
       ]
+    },
+    {
+      "scene_id": 2,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör: fotoğraf neredeyse tamamen siyah (Merkür yalnızca sağ kenarda); diyagrama çevrildi.",
+      "issues": []
+    },
+    {
+      "scene_id": 37,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör: görselde gömülü Caloris çizimi/ölçek çubuğu var; diyagrama çevrildi.",
+      "issues": []
     }
   ]
 }
