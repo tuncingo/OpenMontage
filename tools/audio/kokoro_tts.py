@@ -25,6 +25,12 @@ _MODEL_DIR = Path(os.environ.get("KOKORO_DIR", "/home/user/kokoro-models"))
 _MODEL = Path(os.environ.get("KOKORO_MODEL", _MODEL_DIR / "kokoro-v1.0.onnx"))
 _VOICES = Path(os.environ.get("KOKORO_VOICES", _MODEL_DIR / "voices-v1.0.bin"))
 
+# Channel narrator settings (voice, speed, language, sentence/paragraph silence, loudness) live in
+# kanal/ayarlar.json under narration_*; see tools/audio/narration.py.
+from tools.audio import narration as _narration  # noqa: E402
+
+_NARR = _narration.load_settings()
+
 # Light documentary voice treatment: high-pass, low-end warmth, gentle 2.5:1
 # compression, ~10% small-room reverb, loudness normalised to -16 LUFS.
 _DOC_TREATMENT = (
@@ -87,7 +93,7 @@ class KokoroTTS(BaseTool):
     }
     best_for = [
         "free local documentary narration with a natural, full voice",
-        "consistent channel narrator across episodes (default bm_lewis, speed 0.9, en-gb; see kanal/ayarlar.json)",
+        "consistent channel narrator across episodes (defaults come from kanal/ayarlar.json narration_*; post_treatment \"narration\" adds sentence/paragraph silence and -14 LUFS / true-peak normalisation)",
     ]
     not_good_for = [
         "voice clone matching",
@@ -99,10 +105,13 @@ class KokoroTTS(BaseTool):
         "required": ["text"],
         "properties": {
             "text": {"type": "string"},
-            "voice": {"type": "string", "default": "bm_lewis"},
-            "speed": {"type": "number", "default": 0.9},
-            "lang": {"type": "string", "default": "en-gb", "description": "en-us for a*/am_* voices, en-gb for b*_ voices"},
-            "post_treatment": {"type": "string", "enum": ["none", "documentary"], "default": "none"},
+            "voice": {"type": "string", "default": _NARR["narration_voice"], "description": "default: kanal/ayarlar.json narration_voice"},
+            "speed": {"type": "number", "default": _NARR["narration_speed"], "description": "default: kanal/ayarlar.json narration_speed"},
+            "lang": {"type": "string", "default": _NARR["narration_lang"], "description": "en-us for a*/am_* voices, en-gb for b*_ voices; default: narration_lang"},
+            "post_treatment": {"type": "string", "enum": ["none", "documentary", "narration"], "default": "none",
+                               "description": "narration = channel pipeline: text is split into paragraphs (blank line) and sentences, narration_sentence_gap_s / narration_paragraph_gap_s of silence are inserted, output is normalised to narration_lufs with true peak <= narration_true_peak_db"},
+            "normalize": {"type": "boolean", "default": True, "description": "narration mode only: skip the loudness step when False (e.g. per-scene clips normalised later as one track)"},
+            "trailing_gap_s": {"type": "number", "default": 0.0, "description": "narration mode only: extra silence appended after the last sentence"},
             "output_path": {"type": "string"},
         },
     }
@@ -145,14 +154,47 @@ class KokoroTTS(BaseTool):
         import soundfile as sf
         from kokoro_onnx import Kokoro
 
-        voice = inputs.get("voice", "bm_lewis")
-        speed = float(inputs.get("speed", 0.9))
-        lang = inputs.get("lang") or ("en-gb" if voice.startswith("b") else "en-us")
+        cfg = _narration.load_settings()
+        voice = inputs.get("voice") or cfg["narration_voice"]
+        speed = float(inputs.get("speed") or cfg["narration_speed"])
+        lang = inputs.get("lang") or cfg["narration_lang"] or ("en-gb" if voice.startswith("b") else "en-us")
         treatment = inputs.get("post_treatment", "none")
         output_path = Path(inputs.get("output_path", "tts_output.wav"))
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
-        audio, sr = Kokoro(str(_MODEL), str(_VOICES)).create(inputs["text"], voice=voice, speed=speed, lang=lang)
+        kokoro = Kokoro(str(_MODEL), str(_VOICES))
+
+        if treatment == "narration":
+            import numpy as np
+
+            paragraphs = _narration.split_paragraphs(inputs["text"])
+            audio, sr = _narration.assemble(
+                paragraphs, lambda t: kokoro.create(t, voice=voice, speed=speed, lang=lang),
+                float(cfg["narration_sentence_gap_s"]), float(cfg["narration_paragraph_gap_s"]))
+            tail = float(inputs.get("trailing_gap_s") or 0.0)
+            if tail > 0:
+                audio = np.concatenate([audio, np.zeros(int(round(sr * tail)), dtype=np.float32)])
+            measured = None
+            if inputs.get("normalize", True):
+                raw = output_path.with_suffix(".raw.wav")
+                sf.write(raw, audio, sr)
+                try:
+                    measured = _narration.normalize_loudness(
+                        str(raw), str(output_path), float(cfg["narration_lufs"]), float(cfg["narration_true_peak_db"]))
+                finally:
+                    raw.unlink(missing_ok=True)
+            else:
+                sf.write(output_path, audio, sr)
+            return ToolResult(
+                success=output_path.exists(),
+                data={"provider": self.provider, "model": "kokoro-v1.0", "voice": voice, "speed": speed, "lang": lang,
+                      "post_treatment": treatment, "text_length": len(inputs["text"]), "output": str(output_path),
+                      "format": output_path.suffix.lstrip("."), "sentence_gap_s": cfg["narration_sentence_gap_s"],
+                      "paragraph_gap_s": cfg["narration_paragraph_gap_s"],
+                      "measured_lufs": measured[0] if measured else None, "measured_true_peak_db": measured[1] if measured else None},
+                artifacts=[str(output_path)], model="kokoro-v1.0")
+
+        audio, sr = kokoro.create(inputs["text"], voice=voice, speed=speed, lang=lang)
 
         if treatment == "documentary":
             raw = output_path.with_suffix(".raw.wav")

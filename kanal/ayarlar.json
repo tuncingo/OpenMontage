@@ -25,5 +25,6 @@
   "narration_lang": "en-gb",
   "narration_sentence_gap_s": 0.35,
   "narration_paragraph_gap_s": 0.7,
-  "narration_lufs": -14
+  "narration_lufs": -14,
+  "narration_true_peak_db": -1.0
 }
