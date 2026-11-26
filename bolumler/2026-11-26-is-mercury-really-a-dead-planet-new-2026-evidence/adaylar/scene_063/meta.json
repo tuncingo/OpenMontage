@@ -1,0 +1,144 @@
+{
+  "scene_id": 63,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "The honest answer today is that we do not know yet.",
+  "visual_brief": "Mercury in the dark, quiet.",
+  "purpose": "outro",
+  "nasa_query": "Mercury planet",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_0.jpg",
+      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit",
+      "title": "2016 Mercury Transit",
+      "center": "GSFC",
+      "date": "2016-06-01",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~orig.mp4"
+      ],
+      "duration_s": 84.7,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_1.jpg",
+      "nasa_id": "ksc_072004_mes",
+      "title": "KSC-04-S-00254",
+      "center": "KSC",
+      "date": "2004-07-22",
+      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+      ],
+      "duration_s": 83.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_2.jpg",
+      "nasa_id": "JPL-20210101-WHATSUf-0001-Whats-Up-January-2021",
+      "title": "What's Up: January 2021 Skywatching Tips from NASA ",
+      "center": "JPL",
+      "date": "2021-01-01",
+      "description": "What are some skywatching highlights in January 2021? Mark Earth's closest approach to the Sun for the year, called perihelion, at the start of the month, then spot a couple of elusive planets: Uranus on Jan. 20th and Mercury throughout the second half of the month.",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~orig.mp4"
+      ],
+      "duration_s": 197.9,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_3.jpg",
+      "nasa_id": "SVS-14110",
+      "title": "Global View of Mercury – Animation",
+      "center": "NASA SVS",
+      "date": "2022-02-24",
+      "description": "Global view of Mercury from NASA’s MESSENGER spacecraft. || MercuryGlobeMESSENGER.gif (1200x675) [12.7 MB] || MercuryGlobePreview_print.jpg (1024x576) [51.6 KB] || MercuryGlobePreview.jpg (3840x2160) [664.3 KB] || MercuryGlobePreview_searchweb.png (320x180) [18.5 KB] || MercuryGlobePreview_thm.png (",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/MercuryGlobePreview_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/Mercury_Globe_MESSENGER_Large.mp4",
+      "duration_s": 60.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14110/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_4.jpg",
+      "nasa_id": "PIA13477",
+      "title": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "center": "JPL",
+      "date": "2010-09-28",
+      "description": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001918",
+      "title": "From Orbit, Looking toward Mercury's Horizon",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired: March 29, 2011 MESSENGER acquired this image of Mercury's horizon as the spacecraft was moving northward along the first orbit during which MDIS was turned on. Bright rays from Hokusai can be seen running north to south in the image. MDIS frequently acquired images that containe",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

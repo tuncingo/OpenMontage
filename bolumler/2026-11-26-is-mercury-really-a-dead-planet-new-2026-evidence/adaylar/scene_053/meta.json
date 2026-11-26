@@ -1,0 +1,152 @@
+{
+  "scene_id": 53,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "The key comparison is MESSENGER, from 2011 to 2015, against BepiColombo, more than a decade later.",
+  "visual_brief": "Split timeline between two missions.",
+  "purpose": "explain",
+  "nasa_query": "MESSENGER Mercury",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_0.jpg",
+      "nasa_id": "ksc_072304_msgrinstruments",
+      "title": "KSC-04-S-00258",
+      "center": "KSC",
+      "date": "2004-07-27",
+      "description": "In just seven short years, planet Mercury will have a visitor from Earth: an advanced spacecraft called MESSENGER. The name stands for MErcury Surface, Space ENvironment, Geochemistry and Ranging, reflective of the mission's wide range of science goals. MESSENGER will use an array of seven scientifi",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~orig.mp4"
+      ],
+      "duration_s": 69.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_1.jpg",
+      "nasa_id": "ksc_072004_mes",
+      "title": "KSC-04-S-00254",
+      "center": "KSC",
+      "date": "2004-07-22",
+      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+      ],
+      "duration_s": 83.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_2.jpg",
+      "nasa_id": "ksc_070704_messprev",
+      "title": "KSC-04-S-00216",
+      "center": "KSC",
+      "date": "2004-07-08",
+      "description": "The Rovers are making unbelievable discoveries on Mars, Cassini is sending back amazing pictures from Saturn, but NASA's planetary exploration program is just getting started. On August 2nd, MESSENGER will head for Mercury. MESSENGER is very similar to the Cassini mission. The spacecraft will launch",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~orig.mp4"
+      ],
+      "duration_s": 94.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_3.jpg",
+      "nasa_id": "SVS-14261",
+      "title": "Leaders in Lidar",
+      "center": "NASA SVS",
+      "date": "2023-01-19",
+      "description": "In this series, we dive into the legacy of Goddard's lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/seriestease_thumb_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/Series_Teaser_16-9.mp4",
+      "duration_s": 77.1,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14261/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_4.jpg",
+      "nasa_id": "SVS-14123",
+      "title": "What Mercury’s Unusual Orbit Reveals About the Sun",
+      "center": "NASA SVS",
+      "date": "2022-03-24",
+      "description": "Mercury is special. As the closest planet to the Sun, it occupies a region where the Sun’s influence is changing dramatically. The Sun’s magnetic field, which dominates space close to the Sun, is rapidly waning. And Mercury’s orbit – more elliptical or “oval-shaped” than any other planet – allows it",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_YouTube.00030_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_Facebook.mp4",
+      "duration_s": 194.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14123/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_5.jpg",
+      "nasa_id": "PIA10942",
+      "title": "MESSENGER Discovers Volcanoes on Mercury",
+      "center": "JPL",
+      "date": "2008-07-11",
+      "description": "MESSENGER Discovers Volcanoes on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10942/PIA10942~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10942/PIA10942~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10942/PIA10942~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_053/aday_6.jpg",
+      "nasa_id": "PIA12264",
+      "title": "Today, MESSENGER Flies by Mercury!",
+      "center": "JPL",
+      "date": "2009-09-29",
+      "description": "Today, MESSENGER Flies by Mercury!",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12264/PIA12264~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12264/PIA12264~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12264/PIA12264~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "scene_id": 11,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "The proposed explanation is volatile loss. Gas, perhaps sulfur or other light elements, escaping from the rock and leaving streaks behind.",
+  "visual_brief": "Gas-like glowing flows, a nebula-like colourful cutaway suggesting escaping gas.",
+  "purpose": "cutaway",
+  "nasa_query": "nebula flythrough",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_011/aday_0.jpg",
+      "nasa_id": "20190530-SPITZRf-0001-Stars of Cephus",
+      "title": "Stars of Cepheus as Seen by NASA's Spitzer Space Telescope",
+      "center": "JPL",
+      "date": "2019-05-30",
+      "description": "Soar through this cosmic landscape filled with bright nebulas, as well as runaway, massive and young stars. The image comes from NASA's Spitzer Space Telescope, which sees the universe in infrared light. For more about Spitzer, visit https://www.nasa.gov/spitzer or http://www.spitzer.caltech.edu/ . ",
+      "links": [
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~mobile.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~preview.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~orig.mp4"
+      ],
+      "duration_s": 118.5,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_011/aday_1.jpg",
+      "nasa_id": "SVS-15115",
+      "title": "Giant Cosmic Cat Spotted!",
+      "center": "NASA SVS",
+      "date": "2026-10-29",
+      "description": "Pspspsp! Just in time for Halloween, NASA’s Hubble and James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7,500 light-years away from Earth.The two telescopes offer complementary views of the shadowy",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015115/15115_CAT_WIDE_PRINT.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015115/15115_CAT_WIDE_MP4.mp4",
+      "duration_s": 133.6,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15115/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_011/aday_2.jpg",
+      "nasa_id": "SVS-15015",
+      "title": "Hubble’s Highlights from its 36th Year in Orbit",
+      "center": "NASA SVS",
+      "date": "2026-05-02",
+      "description": "The Hubble Space Telescope celebrated its 36th year in orbit by premiering a stunning new Hubble image of the Trifid Nebula.Even after all these years, Hubble continues to uncover the mysteries of the universe. These are a few science achievements from Hubble’s latest year in orbit.For more informat",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015015/36th_Year_in_Review_WIDE_PRINT.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015015/36th_Year_in_Review_WIDE_MP4.mp4",
+      "duration_s": 379.3,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15015/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_011/aday_3.jpg",
+      "nasa_id": "0301103",
+      "title": "History of Chandra X-Ray Observatory",
+      "center": "MSFC",
+      "date": "1999-12-01",
+      "description": "This Chandra image shows the central regions of two colliding galaxies known collectively as the Antennae (NGC-4038/4039). The dozens of bright pointy-like sources are neutron stars or black holes pulling gas off nearby stars. The bright fuzzy patches are multimillion degree gas superbubbles, thousa",
+      "links": [
+        "https://images-assets.nasa.gov/image/0301103/0301103~medium.jpg",
+        "https://images-assets.nasa.gov/image/0301103/0301103~small.jpg",
+        "https://images-assets.nasa.gov/image/0301103/0301103~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0301103/0301103~large.jpg",
+        "https://images-assets.nasa.gov/image/0301103/0301103~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_011/aday_4.jpg",
+      "nasa_id": "0300606",
+      "title": "History of Chandra X-Ray Observatory",
+      "center": "MSFC",
+      "date": "2003-01-22",
+      "description": "This Chandra X-ray observatory image of M83 shows numerous point-like neutron stars and black hole x-ray sources scattered throughout the disk of this spiral galaxy. The bright nuclear region of the galaxy glows prominently due to a burst of star formation that is estimated to have begun about 20 mi",
+      "links": [
+        "https://images-assets.nasa.gov/image/0300606/0300606~medium.jpg",
+        "https://images-assets.nasa.gov/image/0300606/0300606~small.jpg",
+        "https://images-assets.nasa.gov/image/0300606/0300606~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0300606/0300606~large.jpg",
+        "https://images-assets.nasa.gov/image/0300606/0300606~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

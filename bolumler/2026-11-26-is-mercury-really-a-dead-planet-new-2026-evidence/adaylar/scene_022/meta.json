@@ -1,0 +1,64 @@
+{
+  "scene_id": 22,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "Now the second study. Mercury is shrinking. That part is not new.",
+  "visual_brief": "Mercury globe slowly contracting visual, lobate scarps cliffs on surface.",
+  "purpose": "evidence",
+  "nasa_query": "Mercury scarp",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_022/aday_0.jpg",
+      "nasa_id": "SVS-11544",
+      "title": "Discover Mercury",
+      "center": "NASA SVS",
+      "date": "2014-06-17",
+      "description": "The solar system’s smallest planet may look like Earth’s moon, but don’t mistake Mercury for another familiar face. Before 2008, fewer than half of the planet’s surface features had ever been seen by humans. Now, NASA’s MESSENGER spacecraft has imaged over 90 percent of the planet to help paint a co",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011500/a011544/cover-1280.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011500/a011544/MercuryTour-540-MASTER_high.mp4",
+      "duration_s": 28.3,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11544/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_022/aday_1.jpg",
+      "nasa_id": "PIA13477",
+      "title": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "center": "JPL",
+      "date": "2010-09-28",
+      "description": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_022/aday_2.jpg",
+      "nasa_id": "PIA02446",
+      "title": "Discovery Scarp",
+      "center": "JPL",
+      "date": "2000-01-18",
+      "description": "One of the most prominent lobate scarps Discovery Scarp, photographed by NASA Mariner 10 during it first encounter with Mercury, is located at the center of this image extending from the top to near bottom. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA02446/PIA02446~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA02446/PIA02446~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

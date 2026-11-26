@@ -1,0 +1,26 @@
+{
+  "scene_id": 1,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "On 21 November, a spacecraft slipped into orbit around Mercury.",
+  "visual_brief": "Mercury hanging in black space, slow approach, a small craft path curving in.",
+  "purpose": "hook",
+  "nasa_query": "Mercury orbit insertion",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_0.jpg",
+      "nasa_id": "PIA18146",
+      "title": "Mercury Orbit Insertion Artist Concept",
+      "center": "JPL",
+      "date": "2007-06-06",
+      "description": "NASA MESSENGER prepares to perform the Mercury orbit insertion burn in this animated artist concept.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

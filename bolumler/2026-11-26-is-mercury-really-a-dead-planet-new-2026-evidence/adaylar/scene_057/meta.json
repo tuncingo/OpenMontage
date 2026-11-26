@@ -1,0 +1,112 @@
+{
+  "scene_id": 57,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "But it is entirely possible we will see no change at all.",
+  "visual_brief": "Still majestic cosmic cutaway, calm star field.",
+  "purpose": "cutaway",
+  "nasa_query": "Hubble galaxy zoom",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_057/aday_0.jpg",
+      "nasa_id": "GSFC_20080520_HST_m10223_COS",
+      "title": "Cosmic Origins Spectrograph: Large Scale Structure of the Universe",
+      "center": "GSFC",
+      "date": "2008-05-20",
+      "description": "The Cosmic Origins Spectrograph (COS) instrument will be placed in the Hubble Space Telescope during Service Mission 4. It's primary science objectives are the study of the origins of large scale structure in the Universe, the formation and evolution of galaxies, the origin of stellar and planetary ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10223_COS/GSFC_20080520_HST_m10223_COS~orig.mp4"
+      ],
+      "duration_s": 193.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_057/aday_1.jpg",
+      "nasa_id": "SVS-31362",
+      "title": "Circinus Galaxy Zoom",
+      "center": "NASA SVS",
+      "date": "2026-01-22",
+      "description": "This shows the location of the Circinus galaxy on the sky. It begins with a ground-based photo of the constellation Circinus. The video closes in on the Circinus galaxy, using views from the Digitized Sky Survey and the Dark Energy Survey Camera. Continueing with an image of the galaxy from NASA’s H",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031362/Main-image-Circinus-1920.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031362/Circinus-Galaxy-Zoom_1080.mp4",
+      "duration_s": 28.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/31362/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_057/aday_2.jpg",
+      "nasa_id": "SVS-14793",
+      "title": "Black Holes Vertical Video",
+      "center": "NASA SVS",
+      "date": "2025-05-27",
+      "description": "This page collects Astrophysics vertical videos with black-hole-related content",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014793/Binary Black Hole Still.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014793/Plunge_BTS_Reel_Captions_FINAL.mp4",
+      "duration_s": 81.7,
+      "width": 1080,
+      "height": 1920,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14793/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_057/aday_3.jpg",
+      "nasa_id": "PIA17837",
+      "title": "Pushing the Limits of the Observable Universe",
+      "center": "JPL",
+      "date": "2014-02-07",
+      "description": "This image of the galaxy cluster Abell 2744 was obtained with NASA Hubble Space Telescope. The zoomed image shows the region around the galaxy Abell2744_Y1, one of the most distant galaxy candidates known.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17837/PIA17837~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17837/PIA17837~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17837/PIA17837~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_057/aday_4.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002171",
+      "title": "ESO 306-17",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "View a video clip zoom in on galaxy ESO 306-17 here: <a href=\"http://www.flickr.com/photos/gsfc/4409589832/\">www.flickr.com/photos/gsfc/4409589832/</a> This image from the Advanced Camera for Surveys aboard the NASA/ESA Hubble Space Telescope highlights the large and bright elliptical galaxy called ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

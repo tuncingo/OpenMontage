@@ -1,0 +1,81 @@
+{
+  "scene_id": 56,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "A hollow edge that moved. A streak that was not there before.",
+  "visual_brief": "Hollow edge and a streak, evidence candidates.",
+  "purpose": "explain",
+  "nasa_query": "Mercury hollows edge",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_0.jpg",
+      "nasa_id": "PIA22212",
+      "title": "Stereo View of Martian Rock Target 'Funzie'",
+      "center": "JPL",
+      "date": "2018-02-08",
+      "description": "The surface of the Martian rock target in this stereo image includes small hollows with a \"swallowtail\" shape characteristic of some gypsum crystals, most evident in the lower left quadrant. These hollows may have resulted from the original crystallizing mineral subsequently dissolving away. The vie",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002165",
+      "title": "Open-cell and closed-cell clouds off Peru",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "2010/107 - 04/17 at 21 :05 UTC. Open-cell and closed-cell clouds off Peru, Pacific Ocean Resembling a frosted window on a cold winter's day, this lacy pattern of marine clouds was captured off the coast of Peru in the Pacific Ocean by the MODIS on the Aqua satellite on April 19, 2010. The image reve",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002150",
+      "title": "Open-cell and closed-cell clouds off Peru [detail]",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "2010/107 - 04/17 at 21 :05 UTC. Open-cell and closed-cell clouds off Peru, Pacific Ocean. To view the full fame of this image to go: <a href=\"http://www.flickr.com/photos/gsfc/4557497219/\">www.flickr.com/photos/gsfc/4557497219/</a> Resembling a frosted window on a cold winter's day, this lacy patter",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_3.jpg",
+      "nasa_id": "0203048",
+      "title": "Space Science",
+      "center": "MSFC",
+      "date": "2002-08-01",
+      "description": "This sturning image, taken by the newly installed Advanced Camera for Surveys (ACS) aboard the Hubble Space Telescope (HST), is an image of the center of the Omega Nebula. It is a hotbed of newly born stars wrapped in colorful blankets of glowing gas and cradled in an enormous cold, dark hydrogen cl",
+      "links": [
+        "https://images-assets.nasa.gov/image/0203048/0203048~medium.jpg",
+        "https://images-assets.nasa.gov/image/0203048/0203048~small.jpg",
+        "https://images-assets.nasa.gov/image/0203048/0203048~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0203048/0203048~large.jpg",
+        "https://images-assets.nasa.gov/image/0203048/0203048~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

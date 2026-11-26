@@ -1,0 +1,86 @@
+{
+  "scene_id": 29,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "not how fast it shrinks now. The question of today belongs to an older study.",
+  "visual_brief": "Mercury rotation, shifting to present-day focus.",
+  "purpose": "transition",
+  "nasa_query": "Mercury MESSENGER flyby",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_029/aday_0.jpg",
+      "nasa_id": "ksc_072004_mes",
+      "title": "KSC-04-S-00254",
+      "center": "KSC",
+      "date": "2004-07-22",
+      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+      ],
+      "duration_s": 83.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_029/aday_1.jpg",
+      "nasa_id": "SVS-11232",
+      "title": "Departure",
+      "center": "NASA SVS",
+      "date": "2013-04-11",
+      "description": "On August 3, 2004, NASA's MESSENGER spacecraft launched into space, beginning an epic 4.9 billion-mile journey through the inner solar system on a mission to orbit Mercury. To conserve fuel, the spacecraft executed a gravity-assist flyby of Earth on August 2, 2005, that altered its trajectory and po",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011232/pf-1024.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011232/MESSENGERdeparture-540-MASTER_high.mp4",
+      "duration_s": 12.5,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11232/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_029/aday_2.jpg",
+      "nasa_id": "PIA11221",
+      "title": "Imaging Plans for MESSENGER Second Mercury Flyby",
+      "center": "JPL",
+      "date": "2008-09-29",
+      "description": "Imaging Plans for MESSENGER Second Mercury Flyby",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_029/aday_3.jpg",
+      "nasa_id": "PIA11372",
+      "title": "The Highest-resolution Image from MESSENGER Second Mercury Flyby",
+      "center": "JPL",
+      "date": "2008-10-21",
+      "description": "The Highest-resolution Image from MESSENGER Second Mercury Flyby",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

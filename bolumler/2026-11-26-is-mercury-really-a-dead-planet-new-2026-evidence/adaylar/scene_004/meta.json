@@ -1,0 +1,61 @@
+{
+  "scene_id": 4,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "Its science phase starts in April 2027, so every clue in this video comes from older data,",
+  "visual_brief": "A timeline gap between arrival now and science start in April 2027.",
+  "purpose": "explain",
+  "nasa_query": "Mercury MESSENGER global",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_004/aday_0.jpg",
+      "nasa_id": "KSC-04pd1531",
+      "title": "KSC-04pd1531",
+      "center": "KSC",
+      "date": "2004-07-21",
+      "description": "KENNEDY SPACE CENTER, FLA. - MESSENGER, a NASA Discovery mission. The MESSENGER (MErcury Surface, Space ENvironment, GEochemistry, and Ranging) mission is a scientific investigation of the planet Mercury. MESSENGER will be launched in the summer of 2004 and will enter Mercury orbit in March of 2011,",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-04pd1531/KSC-04pd1531~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1531/KSC-04pd1531~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1531/KSC-04pd1531~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1531/KSC-04pd1531~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1531/KSC-04pd1531~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_004/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001632",
+      "title": "NASA News Conference on Mercury's Polar Regions",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Tune in to NASA's News Conference today, November 29, 2012, at 2 p.m. EST for new findings about Mercury's polar regions. <a href=\"http://www.nasa.gov/multimedia/nasatv/index.html\" rel=\"nofollow\">www.nasa.gov/multimedia/nasatv/index.html</a> Due to its nearly vertical spin axis, Mercury's north pole",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001632/GSFC_20171208_Archive_e001632~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001632/GSFC_20171208_Archive_e001632~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001632/GSFC_20171208_Archive_e001632~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_004/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001922",
+      "title": "NASA Captures First Color Image of Mercury from Orbit",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired: March 29, 2011 The first image acquired by MESSENGER from orbit around Mercury was actually part of an eight-image sequence, for which images were acquired through eight of the WAC’s eleven filters. Here we see a color version of that first imaged terrain; in this view the image",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001922/GSFC_20171208_Archive_e001922~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001922/GSFC_20171208_Archive_e001922~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001922/GSFC_20171208_Archive_e001922~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

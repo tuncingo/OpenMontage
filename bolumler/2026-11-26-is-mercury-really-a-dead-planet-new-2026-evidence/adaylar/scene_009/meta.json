@@ -1,0 +1,27 @@
+{
+  "scene_id": 9,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "It found about four hundred bright streaks. They sit on sun facing slopes of young craters,",
+  "visual_brief": "Young crater with bright streaks on a sunlit slope.",
+  "purpose": "explain",
+  "nasa_query": "Mercury crater bright streaks",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_009/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002091",
+      "title": "Hubble Catches Jupiter's Largest Moon Going to the 'Dark Side'",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Hubble Catches Jupiter's Largest Moon Going to the 'Dark Side' HST/WFPC2 Image of Jupiter and Ganymede Taken April 9, 2007 NASA's Hubble Space Telescope has caught Jupiter's moon Ganymede playing a game of &quot;peek-a-boo.&quot; In this crisp Hubble image, Ganymede is shown just before it ducks beh",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002091/GSFC_20171208_Archive_e002091~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002091/GSFC_20171208_Archive_e002091~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002091/GSFC_20171208_Archive_e002091~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scene_id": 54,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "A second, sharper look. Comparing the two is how we can search for change.",
+  "visual_brief": "Before-and-after surface comparison.",
+  "purpose": "explain",
+  "nasa_query": "Mercury crater before after",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_054/aday_0.jpg",
+      "nasa_id": "ARC-1979-A79-7027",
+      "title": "ARC-1979-A79-7027",
+      "center": "ARC",
+      "date": "1979-02-28",
+      "description": "This photo of Callisto, outermost of Jupiter's four Galilean satellites, was taken a few minutes after midnight (PST) Feb. 25 by Voyager 1. The distance to Callisto was 8,023,000 kilometers (4.98 million miles). The hemisphere in this picture shows a fairly uniform surface dotted with brighter spots",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-1979-A79-7027/ARC-1979-A79-7027~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1979-A79-7027/ARC-1979-A79-7027~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1979-A79-7027/ARC-1979-A79-7027~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1979-A79-7027/ARC-1979-A79-7027~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1979-A79-7027/ARC-1979-A79-7027~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

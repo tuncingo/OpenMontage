@@ -1,0 +1,159 @@
+{
+  "scene_id": 58,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "If nothing changes at the camera's resolution, that would at least put limits on how active Mercury can be.",
+  "visual_brief": "Mercury surface at resolution scale, then a limit.",
+  "purpose": "explain",
+  "nasa_query": "Mercury surface close",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_0.jpg",
+      "nasa_id": "ksc_072304_msgrinstruments",
+      "title": "KSC-04-S-00258",
+      "center": "KSC",
+      "date": "2004-07-27",
+      "description": "In just seven short years, planet Mercury will have a visitor from Earth: an advanced spacecraft called MESSENGER. The name stands for MErcury Surface, Space ENvironment, Geochemistry and Ranging, reflective of the mission's wide range of science goals. MESSENGER will use an array of seven scientifi",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~orig.mp4"
+      ],
+      "duration_s": 69.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_1.jpg",
+      "nasa_id": "ksc_072004_mes",
+      "title": "KSC-04-S-00254",
+      "center": "KSC",
+      "date": "2004-07-22",
+      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+      ],
+      "duration_s": 83.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_2.jpg",
+      "nasa_id": "GSFC_20170725_m12179_EclipseJets",
+      "title": "NASA Jets Chase The Total Solar Eclipse",
+      "center": "GSFC",
+      "date": "2017-07-25",
+      "description": "For most viewers, the Aug. 21, 2017, total solar eclipse will last less than two and half minutes. But for one team of NASA-funded scientists, the eclipse will last over seven minutes. Their secret? Following the shadow of the Moon in two retrofitted WB-57F jet planes. Amir Caspi of the Southwest Re",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170725_m12179_EclipseJets/GSFC_20170725_m12179_EclipseJets~orig.mp4"
+      ],
+      "duration_s": 72.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_3.jpg",
+      "nasa_id": "SVS-14261",
+      "title": "Leaders in Lidar",
+      "center": "NASA SVS",
+      "date": "2023-01-19",
+      "description": "In this series, we dive into the legacy of Goddard's lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/seriestease_thumb_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/Series_Teaser_16-9.mp4",
+      "duration_s": 77.1,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14261/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_4.jpg",
+      "nasa_id": "SVS-14110",
+      "title": "Global View of Mercury – Animation",
+      "center": "NASA SVS",
+      "date": "2022-02-24",
+      "description": "Global view of Mercury from NASA’s MESSENGER spacecraft. || MercuryGlobeMESSENGER.gif (1200x675) [12.7 MB] || MercuryGlobePreview_print.jpg (1024x576) [51.6 KB] || MercuryGlobePreview.jpg (3840x2160) [664.3 KB] || MercuryGlobePreview_searchweb.png (320x180) [18.5 KB] || MercuryGlobePreview_thm.png (",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/MercuryGlobePreview_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/Mercury_Globe_MESSENGER_Large.mp4",
+      "duration_s": 60.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14110/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_5.jpg",
+      "nasa_id": "PIA10174",
+      "title": "Detailed Close-up of Mercury Previously Unseen Surface",
+      "center": "JPL",
+      "date": "2008-01-16",
+      "description": "Just 21 minutes after NASA MESSENGER spacecraft closest approach to Mercury, the Narrow Angle Camera NAC took this picture showing a variety of intriguing surface features, including craters as small as about 400 meters about 400 yards across.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10174/PIA10174~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10174/PIA10174~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10174/PIA10174~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_058/aday_6.jpg",
+      "nasa_id": "KSC-04pd1466",
+      "title": "KSC-04pd1466",
+      "center": "KSC",
+      "date": "2004-07-12",
+      "description": "KENNEDY SPACE CENTER, FLA. - Technicians at Astrotech Space Operations in Titusville, Fla., watch closely as the MESSENGER spacecraft is lowered toward the Payload Assist Module, the Boeing Delta II third stage, below for mating. MESSENGER (Mercury Surface, Space Environment, Geochemistry and Rangin",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-04pd1466/KSC-04pd1466~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1466/KSC-04pd1466~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1466/KSC-04pd1466~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1466/KSC-04pd1466~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd1466/KSC-04pd1466~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

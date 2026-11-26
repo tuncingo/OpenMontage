@@ -1,0 +1,116 @@
+{
+  "scene_id": 62,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "The next step is close. On 9 to 10 December, the two orbiters are due to separate.",
+  "visual_brief": "Two orbiters separating near Mercury.",
+  "purpose": "explain",
+  "nasa_query": "BepiColombo separation",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_062/aday_0.jpg",
+      "nasa_id": "ksc_092707_dawn_sep",
+      "title": "KSC-07-S-00093",
+      "center": "KSC",
+      "date": "2007-09-27",
+      "description": "With launch now behind it, Dawn separates from the Delta II Heavy launch vehicle and heads toward the asteroid belt. Dawn will be the first to orbit two planetary bodies, asteroid Vesta and dwarf planet Ceres, during a single mission. Vesta and Ceres lie in the asteroid belt between Mars and Jupiter",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~large.jpg",
+        "https://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~medium.jpg",
+        "https://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~small.mp4",
+        "http://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_092707_dawn_sep/ksc_092707_dawn_sep~orig.mp4"
+      ],
+      "duration_s": 48.3,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_062/aday_1.jpg",
+      "nasa_id": "ksc_030405_et_srb",
+      "title": "KSC-05-S-00059",
+      "center": "KSC",
+      "date": "2005-03-04",
+      "description": "What do two Space Shuttle Solid Rocket Boosters plus one External Tank equal? Enough thrust to power Space Shuttle Discovery on its Return to Flight mission to the International Space Station. Recently at NASA's Kennedy Space Center in Florida, the redesigned External Tank was joined to the twin Sol",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_030405_et_srb/ksc_030405_et_srb~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_030405_et_srb/ksc_030405_et_srb~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_030405_et_srb/ksc_030405_et_srb~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_030405_et_srb/ksc_030405_et_srb~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_030405_et_srb/ksc_030405_et_srb~orig.mp4"
+      ],
+      "duration_s": 115.0,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_062/aday_2.jpg",
+      "nasa_id": "ksc_080805_mro_zurek",
+      "title": "KSC-05-S-00249",
+      "center": "KSC",
+      "date": "2005-08-17",
+      "description": "TIFFANY NAIL: So what happens just after liftoff? Just how does the MRO spacecraft get from Earth to Mars? Dr. Richard Zurek, MRO project scientist, takes a closer look with this fascinating animation. ZUREK: This August is an opportunity to launch a spacecraft to Mars. These opportunities come ever",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~orig.mp4"
+      ],
+      "duration_s": 216.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_062/aday_3.jpg",
+      "nasa_id": "PIA22559",
+      "title": "Bi-static Radar Images of the Binary Asteroid 2017 YE5",
+      "center": "JPL",
+      "date": "2018-07-12",
+      "description": "Bi-static radar images of the binary asteroid 2017 YE5 from the Arecibo Observatory and the Green Bank Observatory on June 25. The observations show that the asteroid consists of two separate objects in orbit around each other. A movie is available at https://photojournal.jpl.nasa.gov/catalog/PIA225",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA22559/PIA22559~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22559/PIA22559~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_062/aday_4.jpg",
+      "nasa_id": "iss071e217183",
+      "title": "Spain and Morocco Separated by the Straight of Gibraltar",
+      "center": "JSC",
+      "date": "2024-06-25",
+      "description": " iss071e217183 (June 25, 2024) -- As the International Space Station orbited 263 miles above Earth, NASA astronaut Butch Wilmore captured this image of Spain and Morocco. The Strait of Gibraltar separates the two countries and connects the Atlantic Ocean to the Mediterranean Sea.",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss071e217183/iss071e217183~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss071e217183/iss071e217183~small.jpg",
+        "https://images-assets.nasa.gov/image/iss071e217183/iss071e217183~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss071e217183/iss071e217183~large.jpg",
+        "https://images-assets.nasa.gov/image/iss071e217183/iss071e217183~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "scene_id": 2,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "It arrived at a planet often thought of as a dead, battered rock. But is it?",
+  "visual_brief": "Cratered, grey Mercury surface close up, heavily battered terrain.",
+  "purpose": "hook",
+  "nasa_query": "Mercury MESSENGER mosaic",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_0.jpg",
+      "nasa_id": "PIA12842",
+      "title": "Spectacular Color . . . with Better Yet to Come",
+      "center": "JPL",
+      "date": "2010-02-17",
+      "description": "This spectacular color mosaic shows the eastern limb of Mercury as seen by NASA MESSENGER as the spacecraft departed the planet following the mission first Mercury flyby in January 2008.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_1.jpg",
+      "nasa_id": "PIA12047",
+      "title": "MESSENGER Team Presents Latest Science Results",
+      "center": "JPL",
+      "date": "2009-04-30",
+      "description": "This mosaic was assembled using NAC images acquired as the MESSENGER spacecraft approached the planet during the mission second Mercury flyby The Rembrandt impact basin is seen at the center of the mosaic.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_2.jpg",
+      "nasa_id": "PIA10176",
+      "title": "MESSENGER Views Mercury Horizon",
+      "center": "JPL",
+      "date": "2008-01-17",
+      "description": "As NASA MESSENGER spacecraft drew closer to Mercury for its historic first flyby, the spacecraft Narrow Angle Camera NAC on the Mercury Dual Imaging System MDIS acquired an image mosaic of the sunlit portion of the planet. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_3.jpg",
+      "nasa_id": "PIA10177",
+      "title": "MESSENGER Reveals Mercury Geological History",
+      "center": "JPL",
+      "date": "2008-01-17",
+      "description": "Shortly following NASA MESSENGER spacecraft closest approach to Mercury on January 14, 2008, the spacecraft Narrow Angle Camera NAC instrument acquired this image as part of a mosaic that covers much of the sunlit portion of the hemisphere.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

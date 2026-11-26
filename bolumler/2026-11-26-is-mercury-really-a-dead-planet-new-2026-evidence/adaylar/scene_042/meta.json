@@ -1,0 +1,83 @@
+{
+  "scene_id": 42,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "Nobody has seen an eruption, a new cliff, or a new streak form.",
+  "visual_brief": "Still, quiet space view of Mercury limb and horizon.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury limb",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_042/aday_0.jpg",
+      "nasa_id": "SVS-14677",
+      "title": "NASA's TESS Spots Record-breaking Stellar Triplets",
+      "center": "NASA SVS",
+      "date": "2024-10-02",
+      "description": "This artist’s concept illustrates how tightly the three stars in the system called TIC 290061484 orbit each other. If they were placed at the center of our solar system, all the stars’ orbits would be contained a space smaller than Mercury’s orbit around the Sun. The sizes of the triplet stars and t",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014677/TESS_Triple_system_beauty_noscale_searchweb.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014677/TESS_Triple_System_SideView.mp4",
+      "duration_s": 743.8,
+      "width": 3840,
+      "height": 3840,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14677/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_042/aday_1.jpg",
+      "nasa_id": "SVS-4776",
+      "title": "Ten Years of Solar Dynamics Observatory",
+      "center": "NASA SVS",
+      "date": "2020-06-24",
+      "description": "Ten years of SDO AIA 171 angstrom data with day time stamp overlay. Frames are sampled approximately one image every hour. || SDOat10_AIA171_stand.UHD2160.01500_print.jpg (1024x576) [47.4 KB] || SDOat10_AIA171_stand.UHD2160.01500_searchweb.png (320x180) [40.9 KB] || SDOat10_AIA171_stand.UHD2160.0150",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004776/SDOat10_AIA171.01500_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004776/SDOat10_AIA171.UHD2160_p30.mp4",
+      "duration_s": 2923.2,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/4776/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_042/aday_2.jpg",
+      "nasa_id": "PIA14463",
+      "title": "It All Ends at Mercury Limb",
+      "center": "JPL",
+      "date": "2011-07-14",
+      "description": "It All Ends at Mercury Limb",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA14463/PIA14463~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA14463/PIA14463~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA14463/PIA14463~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_042/aday_3.jpg",
+      "nasa_id": "PIA15051",
+      "title": "Mercury in Limb-o",
+      "center": "JPL",
+      "date": "2011-10-12",
+      "description": "Mercury in Limb-o",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15051/PIA15051~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15051/PIA15051~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15051/PIA15051~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

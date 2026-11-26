@@ -1,0 +1,74 @@
+{
+  "scene_id": 50,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "It also carries a high-resolution camera that can compare today's surface with MESSENGER's images.",
+  "visual_brief": "MESSENGER camera images of surface, ready for comparison.",
+  "purpose": "explain",
+  "nasa_query": "MESSENGER imaging system",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_050/aday_0.jpg",
+      "nasa_id": "PIA10124",
+      "title": "Approaching Venus Image #2",
+      "center": "JPL",
+      "date": "2007-06-05",
+      "description": "NASA MESSENGER spacecraft snapped a series of images as it approached Venus on June 5. The planet is enshrouded by a global layer of clouds that obscures its surface to the MESSENGER Dual Imaging System MDIS cameras.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10124/PIA10124~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10124/PIA10124~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10124/PIA10124~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_050/aday_1.jpg",
+      "nasa_id": "PIA10168",
+      "title": "MESSENGER Nears Mercury",
+      "center": "JPL",
+      "date": "2008-01-12",
+      "description": "With just two days until NASA MESSENGER spacecraft closest pass by Mercury, the Mercury Dual Imaging System MDIS is acquiring sets of images twice a day.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10168/PIA10168~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10168/PIA10168~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10168/PIA10168~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_050/aday_2.jpg",
+      "nasa_id": "PIA10169",
+      "title": "MESSENGER has Mercury in its Sights",
+      "center": "JPL",
+      "date": "2008-01-13",
+      "description": "With just one day until NASA MESSENGER spacecraft historic flyby of Mercury, MESSENGER has Mercury clearly in its sights. The Narrow Angle Camera, part of the Mercury Dual Imaging System MDIS, took this image on January 12, 2008.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10169/PIA10169~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10169/PIA10169~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10169/PIA10169~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_050/aday_3.jpg",
+      "nasa_id": "PIA10197",
+      "title": "MESSENGER Departs Mercury",
+      "center": "JPL",
+      "date": "2008-01-30",
+      "description": "After NASA MESSENGER spacecraft completed its successful flyby of Mercury, the Narrow Angle Camera NAC, part of the Mercury Dual Imaging System MDIS, took these images of the receding planet. This is a frame from an animation.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10197/PIA10197~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10197/PIA10197~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

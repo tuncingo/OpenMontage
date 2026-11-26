@@ -1,0 +1,115 @@
+{
+  "scene_id": 25,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "Earlier estimates said Mercury lost up to about sixteen kilometres of width. The new study says up to twenty three.",
+  "visual_brief": "Mercury rotating while a measurement comparison builds.",
+  "purpose": "explain",
+  "nasa_query": "Mercury globe",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_025/aday_0.jpg",
+      "nasa_id": "HD 049 Mercury_Gemini_Apollo_Resource Reel 1",
+      "title": "Mercury Gemini Apollo Resource Reel 1  SILENT",
+      "center": "HQ",
+      "date": "2019-05-20",
+      "description": "Untitled 01:00:15 – Mercury Program astronauts: Original Seven astronauts at press conference, in classroom training, in front of fighter jet and ingressing/egressing aircraft, planes taxi; desert survival training; zero-g training, MASTIF (?) trainer. 01:07:19 – Mercury Program spacecraft: workers ",
+      "links": [
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~large.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~medium.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~small.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~large.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~medium.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~mobile.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~small.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~preview.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~orig.mp4"
+      ],
+      "duration_s": 3603.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_025/aday_1.jpg",
+      "nasa_id": "SVS-13664",
+      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
+      "center": "NASA SVS",
+      "date": "2020-07-16",
+      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
+      "duration_s": 4396.7,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13664/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_025/aday_2.jpg",
+      "nasa_id": "SVS-13266",
+      "title": "TESS Discovery Leads to Surprising Find of Promising World",
+      "center": "NASA SVS",
+      "date": "2019-07-31",
+      "description": "Tour the GJ 357 system, located 31 light-years away in the constellation Hydra. Astronomers confirming a planet candidate identified by NASA’s Transiting Exoplanet Survey Satellite subsequently found two additional worlds orbiting the star. The outermost planet, GJ 357 d, is especially intriguing to",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/tess_gj357_english_thm.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/GJ357_whole_system_english_HQ.mp4",
+      "duration_s": 21.6,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13266/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_025/aday_3.jpg",
+      "nasa_id": "PIA15164",
+      "title": "Mercury Globe: South Pole",
+      "center": "JPL",
+      "date": "2011-12-02",
+      "description": "Mercury Globe: South Pole",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15164/PIA15164~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15164/PIA15164~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15164/PIA15164~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15164/PIA15164~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA15164/PIA15164~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_025/aday_4.jpg",
+      "nasa_id": "PIA15190",
+      "title": "Mercury Globe: North Pole",
+      "center": "JPL",
+      "date": "2011-12-02",
+      "description": "Mercury Globe: North Pole",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15190/PIA15190~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15190/PIA15190~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15190/PIA15190~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15190/PIA15190~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA15190/PIA15190~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

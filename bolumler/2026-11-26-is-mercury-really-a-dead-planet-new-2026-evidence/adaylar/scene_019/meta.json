@@ -1,0 +1,108 @@
+{
+  "scene_id": 19,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "The dating is uncertain, but NASA asks a bold question: may they still be forming?",
+  "visual_brief": "Slow orbit view of Mercury hemisphere in colour, hollows implied by glimmer.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury enhanced color",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_019/aday_0.jpg",
+      "nasa_id": "ksc_080805_mro_zurek",
+      "title": "KSC-05-S-00249",
+      "center": "KSC",
+      "date": "2005-08-17",
+      "description": "TIFFANY NAIL: So what happens just after liftoff? Just how does the MRO spacecraft get from Earth to Mars? Dr. Richard Zurek, MRO project scientist, takes a closer look with this fascinating animation. ZUREK: This August is an opportunity to launch a spacecraft to Mars. These opportunities come ever",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_080805_mro_zurek/ksc_080805_mro_zurek~orig.mp4"
+      ],
+      "duration_s": 216.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_019/aday_1.jpg",
+      "nasa_id": "SVS-4954",
+      "title": "Mercury Makes Waves Cruising through the Solar Wind",
+      "center": "NASA SVS",
+      "date": "2021-11-11",
+      "description": "Mercury orbits the Sun in a unique regime. The solar wind is still fresh from the Sun, and the Sun’s magnetic field strength (which drops with the square of distance) is rapidly waning. Furthermore, Mercury’s highly elliptical orbit means the planet passes through a wider range of distances from the",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004954/Messenger_All_2021-11-04_1455.00407_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004954/Messenger_All_2021-11-04_1455_2160p30.mp4",
+      "duration_s": 30.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/4954/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_019/aday_2.jpg",
+      "nasa_id": "SVS-30710",
+      "title": "Our Solar System",
+      "center": "NASA SVS",
+      "date": "2016-03-15",
+      "description": "The 8 planets plus Pluto with planetary axis tilt || planets3x3_pluto_colorMercury_axis_tilt_1080p.00001_print.jpg (1024x576) [75.1 KB] || planets3x3_pluto_colorMercury_axis_tilt_1080p.00001_searchweb.png (320x180) [49.6 KB] || planets3x3_pluto_colorMercury_axis_tilt_1080p.00001_thm.png (80x40) [5.0",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030710/planets3x3_pluto_colorMercury_axis_tilt_1080p.00001_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030710/pluto_2304p.mp4",
+      "duration_s": 24.0,
+      "width": 4096,
+      "height": 2304,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/30710/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_019/aday_3.jpg",
+      "nasa_id": "PIA12371",
+      "title": "Mercury in True and Enhanced Color",
+      "center": "JPL",
+      "date": "2009-11-17",
+      "description": "Mercury in True and Enhanced Color",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_019/aday_4.jpg",
+      "nasa_id": "PIA17386",
+      "title": "Enhanced Color Mercury Map",
+      "center": "JPL",
+      "date": "2013-07-18",
+      "description": "Enhanced Color Mercury Map",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

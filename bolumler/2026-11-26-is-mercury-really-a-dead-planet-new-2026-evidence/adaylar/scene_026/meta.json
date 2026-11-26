@@ -1,0 +1,108 @@
+{
+  "scene_id": 26,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "That is more than two Everests, not removed, but squeezed, as the crust folded over itself.",
+  "visual_brief": "Colourful folding landscape, cosmic cutaway of Mercury terrain scale.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury topography",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_026/aday_0.jpg",
+      "nasa_id": "ksc_072304_msgrinstruments",
+      "title": "KSC-04-S-00258",
+      "center": "KSC",
+      "date": "2004-07-27",
+      "description": "In just seven short years, planet Mercury will have a visitor from Earth: an advanced spacecraft called MESSENGER. The name stands for MErcury Surface, Space ENvironment, Geochemistry and Ranging, reflective of the mission's wide range of science goals. MESSENGER will use an array of seven scientifi",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~orig.mp4"
+      ],
+      "duration_s": 69.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_026/aday_1.jpg",
+      "nasa_id": "SVS-14110",
+      "title": "Global View of Mercury – Animation",
+      "center": "NASA SVS",
+      "date": "2022-02-24",
+      "description": "Global view of Mercury from NASA’s MESSENGER spacecraft. || MercuryGlobeMESSENGER.gif (1200x675) [12.7 MB] || MercuryGlobePreview_print.jpg (1024x576) [51.6 KB] || MercuryGlobePreview.jpg (3840x2160) [664.3 KB] || MercuryGlobePreview_searchweb.png (320x180) [18.5 KB] || MercuryGlobePreview_thm.png (",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/MercuryGlobePreview_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/Mercury_Globe_MESSENGER_Large.mp4",
+      "duration_s": 60.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14110/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_026/aday_2.jpg",
+      "nasa_id": "SVS-11197",
+      "title": "Hypercolor Mosaic",
+      "center": "NASA SVS",
+      "date": "2013-03-21",
+      "description": "On March 18, 2011, NASA's MESSENGER spacecraft entered orbit around Mercury, becoming the first spacecraft ever to do so. Among the many instruments on this pioneering probe is a wide-angle camera capable of generating high-resolution images of the planet's surface. By stitching thousands of these i",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/messenger_2sides_1024x576.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/MESSENGER-540-MASTER_high.mp4",
+      "duration_s": 32.3,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11197/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_026/aday_3.jpg",
+      "nasa_id": "PIA15534",
+      "title": "Perspective View of Mercury Topography",
+      "center": "JPL",
+      "date": "2012-03-22",
+      "description": "Perspective View of Mercury Topography",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15534/PIA15534~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15534/PIA15534~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15534/PIA15534~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15534/PIA15534~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA15534/PIA15534~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_026/aday_4.jpg",
+      "nasa_id": "PIA15529",
+      "title": "Mercury Topography from MLA",
+      "center": "JPL",
+      "date": "2012-03-21",
+      "description": "Mercury Topography from MLA",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15529/PIA15529~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15529/PIA15529~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15529/PIA15529~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

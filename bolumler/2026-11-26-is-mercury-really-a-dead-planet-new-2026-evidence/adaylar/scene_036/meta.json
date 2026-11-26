@@ -1,0 +1,29 @@
+{
+  "scene_id": 36,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "In September 2026, conference abstracts suggested hints of buried volcanic ash, and of explosive eruptions at bright patches on the surface.",
+  "visual_brief": "Bright patches around a vent on Mercury, pyroclastic deposits.",
+  "purpose": "explain",
+  "nasa_query": "Mercury pyroclastic vent",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_036/aday_0.jpg",
+      "nasa_id": "PIA19419",
+      "title": "Unmasking the Secrets of Mercury",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "The MASCS instrument onboard NASA MESSENGER spacecraft was designed to study both the exosphere and surface of Mercury. To learn more about the minerals and surface processes on Mercury, the Visual and Infrared Spectrometer (VIRS) portion of MASCS has been diligently collecting single tracks of spec",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

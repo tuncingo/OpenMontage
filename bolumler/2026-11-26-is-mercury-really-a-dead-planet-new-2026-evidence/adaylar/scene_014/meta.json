@@ -1,0 +1,85 @@
+{
+  "scene_id": 14,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "About ten percent are not in craters at all, so other mechanisms may be at work.",
+  "visual_brief": "Wide plains of Mercury between craters, rolling cinematic flight.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury surface flyover",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_014/aday_0.jpg",
+      "nasa_id": "SVS-11544",
+      "title": "Discover Mercury",
+      "center": "NASA SVS",
+      "date": "2014-06-17",
+      "description": "The solar system’s smallest planet may look like Earth’s moon, but don’t mistake Mercury for another familiar face. Before 2008, fewer than half of the planet’s surface features had ever been seen by humans. Now, NASA’s MESSENGER spacecraft has imaged over 90 percent of the planet to help paint a co",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011500/a011544/cover-1280.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011500/a011544/MercuryTour-540-MASTER_high.mp4",
+      "duration_s": 28.3,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11544/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_014/aday_1.jpg",
+      "nasa_id": "SVS-11197",
+      "title": "Hypercolor Mosaic",
+      "center": "NASA SVS",
+      "date": "2013-03-21",
+      "description": "On March 18, 2011, NASA's MESSENGER spacecraft entered orbit around Mercury, becoming the first spacecraft ever to do so. Among the many instruments on this pioneering probe is a wide-angle camera capable of generating high-resolution images of the planet's surface. By stitching thousands of these i",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/messenger_2sides_1024x576.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/MESSENGER-540-MASTER_high.mp4",
+      "duration_s": 32.3,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11197/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_014/aday_2.jpg",
+      "nasa_id": "PIA20828",
+      "title": "Dawn LAMO Image 128",
+      "center": "JPL",
+      "date": "2016-07-14",
+      "description": "This image shows Sekhet Crater, at right, in a shadowy scene from Ceres. Sekhet is 25 miles wide 41 kilometers wide. NASA Dawn spacecraft took this image on June 15, 2016. A smooth plain surrounds the smaller crater at left. A smooth plain surrounds the smaller crater at left. A different view of th",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA20828/PIA20828~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA20828/PIA20828~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA20828/PIA20828~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_014/aday_3.jpg",
+      "nasa_id": "iss042e049059",
+      "title": "iss042e049059",
+      "center": "JSC",
+      "date": "2014-12-17",
+      "description": "GMT351_21_50_Terry Virts_america great plains wide snow_123",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss042e049059/iss042e049059~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss042e049059/iss042e049059~small.jpg",
+        "https://images-assets.nasa.gov/image/iss042e049059/iss042e049059~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss042e049059/iss042e049059~large.jpg",
+        "https://images-assets.nasa.gov/image/iss042e049059/iss042e049059~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

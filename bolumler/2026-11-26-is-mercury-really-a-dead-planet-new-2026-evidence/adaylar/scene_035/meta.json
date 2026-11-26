@@ -1,0 +1,45 @@
+{
+  "scene_id": 35,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "The third area is volcanism. Ancient volcanism on Mercury is widely accepted. The open question is whether anything is active today.",
+  "visual_brief": "Volcanic vent regions on Mercury, smooth plains and vents.",
+  "purpose": "evidence",
+  "nasa_query": "Mercury volcanism",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_035/aday_0.jpg",
+      "nasa_id": "PIA11773",
+      "title": "Volcanism on Mercury",
+      "center": "JPL",
+      "date": "2009-01-20",
+      "description": "Volcanism on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11773/PIA11773~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA11773/PIA11773~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11773/PIA11773~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11773/PIA11773~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA11773/PIA11773~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_035/aday_1.jpg",
+      "nasa_id": "PIA12284",
+      "title": "Evidence of Volcanism on Mercury: It the Pits",
+      "center": "JPL",
+      "date": "2009-10-09",
+      "description": "Evidence of Volcanism on Mercury: It the Pits",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12284/PIA12284~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12284/PIA12284~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12284/PIA12284~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

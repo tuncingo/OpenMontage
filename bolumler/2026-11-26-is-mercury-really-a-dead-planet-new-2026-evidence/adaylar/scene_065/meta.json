@@ -1,0 +1,29 @@
+{
+  "scene_id": 65,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "Dead, quiet, or something we have not named yet? Tell me in the comments.",
+  "visual_brief": "Mercury final shot against the stars.",
+  "purpose": "outro",
+  "nasa_query": "Mercury MESSENGER portrait",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_065/aday_0.jpg",
+      "nasa_id": "PIA19439",
+      "title": "Five New Crater Names for Mercury",
+      "center": "JPL",
+      "date": "2015-04-29",
+      "description": "Five previously unnamed craters on Mercury now have names. MESSENGER's Education and Public Outreach (EPO) team led a contest that solicited naming suggestions from the public via a competition website. In total, 3,600 contest entries were received and a semi-final list of 17 names were submitted to",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19439/PIA19439~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19439/PIA19439~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19439/PIA19439~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19439/PIA19439~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19439/PIA19439~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "scene_id": 3,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "The capture did not go perfectly. A software glitch put BepiColombo into safe mode, and the braking burn ended early.",
+  "visual_brief": "Spacecraft approaching Mercury, thrust burn animation, then a halted burn.",
+  "purpose": "evidence",
+  "nasa_query": "Mercury spacecraft approach",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_003/aday_0.jpg",
+      "nasa_id": "HD 049 Mercury_Gemini_Apollo_Resource Reel 1",
+      "title": "Mercury Gemini Apollo Resource Reel 1  SILENT",
+      "center": "HQ",
+      "date": "2019-05-20",
+      "description": "Untitled 01:00:15 – Mercury Program astronauts: Original Seven astronauts at press conference, in classroom training, in front of fighter jet and ingressing/egressing aircraft, planes taxi; desert survival training; zero-g training, MASTIF (?) trainer. 01:07:19 – Mercury Program spacecraft: workers ",
+      "links": [
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~large.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~medium.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~small.jpg",
+        "https://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~large.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~medium.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~mobile.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~small.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~preview.mp4",
+        "http://images-assets.nasa.gov/video/HD 049 Mercury_Gemini_Apollo_Resource Reel 1/HD 049 Mercury_Gemini_Apollo_Resource Reel 1~orig.mp4"
+      ],
+      "duration_s": 3603.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_003/aday_1.jpg",
+      "nasa_id": "SVS-14045",
+      "title": "NASA's Parker Solar Probe Touches The Sun For The First Time",
+      "center": "NASA SVS",
+      "date": "2021-12-14",
+      "description": "For the first time in history, a spacecraft has touched the Sun. NASA’s Parker Solar Probe has now flown through the Sun’s upper atmosphere – the corona – and sampled particles and magnetic fields there. The new milestone marks one major step for Parker Solar Probe and one giant leap for solar scien",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014000/a014045/NHQ_2018_0812_Parker_Solar_Probe_Mission_Launches_to_Touch_the_Sun_-_orig.00400_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014000/a014045/YOUTUBE_4K_SwingbySunCloseupSun-4K_youtube_4k.mp4",
+      "duration_s": 10.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14045/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_003/aday_2.jpg",
+      "nasa_id": "SVS-13528",
+      "title": "Solar Orbiter Media Telecon",
+      "center": "NASA SVS",
+      "date": "2020-01-27",
+      "description": "NASA and ESA scientists will present Solar Orbiter, the ESA/NASA collaboration soon to start its journey to the Sun, during a media teleconference on Monday, Jan. 27, 2020 at 2 p.m. EST. Mission experts will discuss Solar Obiter’s uniquely tilted orbit, how the mission will capture the first images ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013500/a013528/HPD_Fleet_Charts_12.30.2019.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013500/a013528/trajectory.mp4",
+      "duration_s": 135.6,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13528/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_003/aday_3.jpg",
+      "nasa_id": "PIA10198",
+      "title": "MESSENGER Approaches Mercury",
+      "center": "JPL",
+      "date": "2008-01-30",
+      "description": "On January 13, 2008, beginning 30 hours before NASA MESSENGER spacecraft closest approach to Mercury, the Wide Angle Camera, part of the Mercury Dual Imaging System MDIS, began snapping images as it approached the planet.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10198/PIA10198~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10198/PIA10198~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_003/aday_4.jpg",
+      "nasa_id": "PIA10167",
+      "title": "MESSENGER Closes in on Mercury",
+      "center": "JPL",
+      "date": "2008-01-11",
+      "description": "NASA MESSENGER spacecraft continued to speed toward Mercury, preparing for its closest approach to the planet on Monday, January 14, 2008.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10167/PIA10167~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10167/PIA10167~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10167/PIA10167~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

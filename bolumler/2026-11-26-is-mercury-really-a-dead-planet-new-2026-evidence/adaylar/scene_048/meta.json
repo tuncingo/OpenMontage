@@ -1,0 +1,84 @@
+{
+  "scene_id": 48,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "Now think about what its tools can add. The European orbiter carries a laser altimeter,",
+  "visual_brief": "Laser altimetry, MESSENGER laser altimeter topography.",
+  "purpose": "explain",
+  "nasa_query": "MESSENGER laser altimeter",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_0.jpg",
+      "nasa_id": "SVS-14261",
+      "title": "Leaders in Lidar",
+      "center": "NASA SVS",
+      "date": "2023-01-19",
+      "description": "In this series, we dive into the legacy of Goddard's lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/seriestease_thumb_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/Series_Teaser_16-9.mp4",
+      "duration_s": 77.1,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14261/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_1.jpg",
+      "nasa_id": "SVS-4054",
+      "title": "LAMP Observes GRAIL Impact",
+      "center": "NASA SVS",
+      "date": "2013-03-19",
+      "description": "The Gravity Recovery and Interior Laboratory (GRAIL) mission comprised a pair of satellites that together measured the gravity field of the Moon. GRAIL ended its mission with a planned impact into the side of a lunar mountain on December 17, 2012. Lunar Reconnaissance Orbiter (LRO) maneuvered into a",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004054/grail.0519.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004054/lamp_grail_1080p30.mp4",
+      "duration_s": 30.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/4054/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_2.jpg",
+      "nasa_id": "PIA10183",
+      "title": "First Results from the Mercury Laser Altimeter",
+      "center": "JPL",
+      "date": "2008-01-19",
+      "description": "On January 14, 2008, NASA MESSENGER spacecraft Mercury Laser Altimeter MLA became the first instrument to measure the distance between a spacecraft and the surface of Mercury.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10183/PIA10183~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10183/PIA10183~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_3.jpg",
+      "nasa_id": "PIA10381",
+      "title": "Topographic Close-up",
+      "center": "JPL",
+      "date": "2008-01-30",
+      "description": "A close-up of the Mercury Laser Altimeter MLA profile of Mercury acquired during NASA MESSENGER spacecraft first Mercury flyby on January 14, 2008.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

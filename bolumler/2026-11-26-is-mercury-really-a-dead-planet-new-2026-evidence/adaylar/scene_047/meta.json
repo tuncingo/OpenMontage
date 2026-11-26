@@ -1,0 +1,76 @@
+{
+  "scene_id": 47,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "ESA says the science phase should start in April 2027, though dates may change.",
+  "visual_brief": "Mercury glimpsed, calendar feel.",
+  "purpose": "explain",
+  "nasa_query": "Mercury MESSENGER image",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_047/aday_0.jpg",
+      "nasa_id": "PIA11221",
+      "title": "Imaging Plans for MESSENGER Second Mercury Flyby",
+      "center": "JPL",
+      "date": "2008-09-29",
+      "description": "Imaging Plans for MESSENGER Second Mercury Flyby",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11221/PIA11221~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_047/aday_1.jpg",
+      "nasa_id": "PIA11219",
+      "title": "Exploring Mercury Surface with MESSENGER Color Images",
+      "center": "JPL",
+      "date": "2008-09-16",
+      "description": "Exploring Mercury Surface with MESSENGER Color Images",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_047/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001870",
+      "title": "Color Image of Mercury from NASA's MESSENGER Satellite",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired September 3, 2011 Dominici crater, the very bright crater to the top of this image, exhibits bright rays and contains hollows. This crater lies upon the peak ring of Homer Basin, a very degraded peak ring basin that has been filled by volcanism. This image contains several exampl",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_047/aday_3.jpg",
+      "nasa_id": "PIA11372",
+      "title": "The Highest-resolution Image from MESSENGER Second Mercury Flyby",
+      "center": "JPL",
+      "date": "2008-10-21",
+      "description": "The Highest-resolution Image from MESSENGER Second Mercury Flyby",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11372/PIA11372~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

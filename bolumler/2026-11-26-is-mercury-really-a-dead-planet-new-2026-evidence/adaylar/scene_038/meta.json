@@ -1,0 +1,74 @@
+{
+  "scene_id": 38,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "Be careful here. These deposits describe explosive volcanism in the past, not activity today, and their ages are uncertain.",
+  "visual_brief": "Quiet Mercury surface, nothing erupting.",
+  "purpose": "explain",
+  "nasa_query": "Mercury plains",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_038/aday_0.jpg",
+      "nasa_id": "PIA16532",
+      "title": "Older Smooth Plains on Mercury",
+      "center": "JPL",
+      "date": "2012-12-05",
+      "description": "Older Smooth Plains on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA16532/PIA16532~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA16532/PIA16532~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA16532/PIA16532~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_038/aday_1.jpg",
+      "nasa_id": "PIA12421",
+      "title": "Extensive Smooth Plains on Mercury",
+      "center": "JPL",
+      "date": "2010-01-13",
+      "description": "Extensive Smooth Plains on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12421/PIA12421~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12421/PIA12421~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12421/PIA12421~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_038/aday_2.jpg",
+      "nasa_id": "PIA14084",
+      "title": "Smooth Plains in Mercury North",
+      "center": "JPL",
+      "date": "2011-03-30",
+      "description": "Smooth Plains in Mercury North",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA14084/PIA14084~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA14084/PIA14084~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_038/aday_3.jpg",
+      "nasa_id": "PIA11400",
+      "title": "Volcanic Plains on Mercury",
+      "center": "JPL",
+      "date": "2008-10-27",
+      "description": "Volcanic Plains on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11400/PIA11400~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11400/PIA11400~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11400/PIA11400~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

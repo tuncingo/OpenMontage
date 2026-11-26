@@ -1,0 +1,109 @@
+{
+  "scene_id": 52,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "That is the kind of camera that could catch one changing.",
+  "visual_brief": "BepiColombo orbiting Mercury, observing.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury orbiter animation",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_0.jpg",
+      "nasa_id": "JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological",
+      "title": "NASA’s Psyche Mission Media Reel",
+      "center": "JPL",
+      "date": "2023-08-09",
+      "description": "B-roll for media. NASA's Psyche mission, scheduled to launch in October 2023, is the first to a metal-rich asteroid (also named Psyche). This reel includes animations of the Psyche spacecraft and asteroid, and footage of engineers in clean rooms at NASA’s Jet Propulsion Laboratory in Southern Califo",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~orig.mp4"
+      ],
+      "duration_s": 1266.8,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_1.jpg",
+      "nasa_id": "SVS-13664",
+      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
+      "center": "NASA SVS",
+      "date": "2020-07-16",
+      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
+      "duration_s": 4396.7,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13664/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_2.jpg",
+      "nasa_id": "SVS-20306",
+      "title": "Solar Orbiter - NASA Animations",
+      "center": "NASA SVS",
+      "date": "2020-01-27",
+      "description": "Solar Orbiter is an international cooperative mission between the European Space Agency and NASA that addresses a central question of heliophysics: How does the Sun create and control the constantly changing space environment throughout the solar system? The Sun creates what’s known as the heliosphe",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020306/sOLo_sHOT2_4K_60fps_ProRes_nFieldLine.00667_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020306/SolO_Shot1_4k_60fps_h264_nFieldLines.mp4",
+      "duration_s": 20.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/20306/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_3.jpg",
+      "nasa_id": "PIA18146",
+      "title": "Mercury Orbit Insertion Artist Concept",
+      "center": "JPL",
+      "date": "2007-06-06",
+      "description": "NASA MESSENGER prepares to perform the Mercury orbit insertion burn in this animated artist concept.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_4.jpg",
+      "nasa_id": "PIA16529",
+      "title": "How MLA Works",
+      "center": "JPL",
+      "date": "2012-12-03",
+      "description": "NASA Mercury Laser Altimeter MLA is shown ranging to Mercury surface from orbit. In this animation, yellow flashes represent near-infrared laser pulses that can reflect off terrain in shadow as well as in sunlight.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA16529/PIA16529~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA16529/PIA16529~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "scene_id": 40,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "So where does that leave the label, dead planet? Let's be exact.",
+  "visual_brief": "Mercury globe against the dark, seen from distance.",
+  "purpose": "transition",
+  "nasa_query": "Mercury from space",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_0.jpg",
+      "nasa_id": "ksc_072304_msgrinstruments",
+      "title": "KSC-04-S-00258",
+      "center": "KSC",
+      "date": "2004-07-27",
+      "description": "In just seven short years, planet Mercury will have a visitor from Earth: an advanced spacecraft called MESSENGER. The name stands for MErcury Surface, Space ENvironment, Geochemistry and Ranging, reflective of the mission's wide range of science goals. MESSENGER will use an array of seven scientifi",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072304_msgrinstruments/ksc_072304_msgrinstruments~orig.mp4"
+      ],
+      "duration_s": 69.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_1.jpg",
+      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit",
+      "title": "2016 Mercury Transit",
+      "center": "GSFC",
+      "date": "2016-06-01",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~orig.mp4"
+      ],
+      "duration_s": 84.7,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_2.jpg",
+      "nasa_id": "GSFC_20160509_Mercury_m12235_Transit2016",
+      "title": "2016 Mercury Transit Timelapse",
+      "center": "GSFC",
+      "date": "2016-05-09",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~orig.mp4"
+      ],
+      "duration_s": 124.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_3.jpg",
+      "nasa_id": "SVS-14261",
+      "title": "Leaders in Lidar",
+      "center": "NASA SVS",
+      "date": "2023-01-19",
+      "description": "In this series, we dive into the legacy of Goddard's lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/seriestease_thumb_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/Series_Teaser_16-9.mp4",
+      "duration_s": 77.1,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14261/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_4.jpg",
+      "nasa_id": "SVS-14123",
+      "title": "What Mercury’s Unusual Orbit Reveals About the Sun",
+      "center": "NASA SVS",
+      "date": "2022-03-24",
+      "description": "Mercury is special. As the closest planet to the Sun, it occupies a region where the Sun’s influence is changing dramatically. The Sun’s magnetic field, which dominates space close to the Sun, is rapidly waning. And Mercury’s orbit – more elliptical or “oval-shaped” than any other planet – allows it",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_YouTube.00030_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_Facebook.mp4",
+      "duration_s": 194.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14123/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001918",
+      "title": "From Orbit, Looking toward Mercury's Horizon",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired: March 29, 2011 MESSENGER acquired this image of Mercury's horizon as the spacecraft was moving northward along the first orbit during which MDIS was turned on. Bright rays from Hokusai can be seen running north to south in the image. MDIS frequently acquired images that containe",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_040/aday_6.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001809",
+      "title": "A Christmas Crater from Mercury",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Release Date: December 21, 2011 The crater at the center of this image is named Dickens, after Charles Dickens, the English novelist who lived from 1812 to 1870. Among Dickens' famous works is A Christmas Carol, the story of Bob Cratchit, his family, and horrible boss Mr. Scrooge. Scientists studyin",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001809/GSFC_20171208_Archive_e001809~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001809/GSFC_20171208_Archive_e001809~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001809/GSFC_20171208_Archive_e001809~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

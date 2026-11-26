@@ -1,0 +1,76 @@
+{
+  "scene_id": 10,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "and many begin at hollows, the shallow pits that dot Mercury's surface.",
+  "visual_brief": "Hollows, bright shallow pits on a crater floor.",
+  "purpose": "explain",
+  "nasa_query": "Mercury hollows",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_010/aday_0.jpg",
+      "nasa_id": "PIA15062",
+      "title": "Mercury and the Deathly Hollows",
+      "center": "JPL",
+      "date": "2011-10-27",
+      "description": "Mercury and the Deathly Hollows",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_010/aday_1.jpg",
+      "nasa_id": "PIA15064",
+      "title": "The Sleepy Hollows of Mercury",
+      "center": "JPL",
+      "date": "2011-10-31",
+      "description": "The Sleepy Hollows of Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_010/aday_2.jpg",
+      "nasa_id": "PIA19267",
+      "title": "A Field of Hollows",
+      "center": "JPL",
+      "date": "2015-04-01",
+      "description": "Mercury's hollows are among its most distinctive -- and unusual -- surface features. In this stunning view, we see a field of hollows in the western portion of the floor of Zeami impact basin. Hollows populate much of the rest of the basin's interior, with large concentrations several kilometers acr",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_010/aday_3.jpg",
+      "nasa_id": "PIA19246",
+      "title": "The Young Ones",
+      "center": "JPL",
+      "date": "2015-03-16",
+      "description": "This high-resolution view shows hollows on the southwestern peak ring of the Scarlatti basin. The hollows are the irregularly shaped, flat-floored depressions. The image is striking because it shows that there are abundant small impact craters on the surface surrounding the hollows. But there are fe",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

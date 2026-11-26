@@ -1,0 +1,45 @@
+{
+  "scene_id": 37,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "They also described a tentative, very large cone of volcanic debris inside the Caloris basin.",
+  "visual_brief": "Caloris basin, huge impact basin on Mercury.",
+  "purpose": "explain",
+  "nasa_query": "Caloris basin",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_037/aday_0.jpg",
+      "nasa_id": "PIA11077",
+      "title": "Faults in the Caloris Basin",
+      "center": "JPL",
+      "date": "2008-09-03",
+      "description": "Faults in the Caloris Basin",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11077/PIA11077~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11077/PIA11077~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11077/PIA11077~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_037/aday_1.jpg",
+      "nasa_id": "PIA10383",
+      "title": "The Great Caloris Basin on Mercury",
+      "center": "JPL",
+      "date": "2008-01-30",
+      "description": "The Great Caloris Basin on Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10383/PIA10383~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA10383/PIA10383~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10383/PIA10383~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10383/PIA10383~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA10383/PIA10383~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

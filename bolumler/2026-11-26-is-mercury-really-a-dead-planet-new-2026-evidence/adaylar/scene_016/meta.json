@@ -1,0 +1,77 @@
+{
+  "scene_id": 16,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "Those hollows are a clue in their own right, and they are not new. MESSENGER found them back in 2011.",
+  "visual_brief": "Hollows image from MESSENGER, bright blue-white pits on crater floor.",
+  "purpose": "evidence",
+  "nasa_query": "Mercury hollows MESSENGER",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_016/aday_0.jpg",
+      "nasa_id": "PIA19409",
+      "title": "A Detailed Look at Raditladi Basin",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "This MDIS mosaic from NASA MESSENGER spacecraft provides a detailed view of the features and structures associated with the peak-ring basin Raditladi. Raditladi, first imaged during MESSENGER's first Mercury flyby and named in April 2008, continues to be an intriguing region of study, with its well-",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_016/aday_1.jpg",
+      "nasa_id": "PIA19425",
+      "title": "Goodbye, Hollows",
+      "center": "JPL",
+      "date": "2015-04-21",
+      "description": "As NASA MESSENGER enters its final days, we are getting our last looks at some of our favorite features. Hollows, discovered in MDIS images during the orbital phase of the mission, are always photogenic. Three small hollows can be spotted in this scene located to the northwest of the Caloris basin n",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19425/PIA19425~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19425/PIA19425~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19425/PIA19425~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_016/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001834",
+      "title": "MESSENGER View of Mercury's Caloris Basin",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired October 28, 2011 This stunning, and as of yet unnamed, crater lies within the Caloris basin. Its floor provides another example of the beautiful &quot;hollows&quot; found on Mercury and has an etched appearance similar to that found in the crater Tyagaraja. This image was acquire",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_016/aday_3.jpg",
+      "nasa_id": "PIA18372",
+      "title": "Crater Close-up Captured! ",
+      "center": "JPL",
+      "date": "2014-05-12",
+      "description": "As MESSENGER passes progressively closer to Mercury, we see ever more resolved features in the images the spacecraft returns. Here, at a pixel scale of 9 meters, we see the eastern portion of an unnamed crater 13 km (8 mi.) in diameter. The wall of the crater is replete with smaller, superposed crat",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18372/PIA18372~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18372/PIA18372~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18372/PIA18372~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

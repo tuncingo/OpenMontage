@@ -1,0 +1,171 @@
+{
+  "scene_id": 28,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "This shrinking study is about the past. It tells us how much Mercury has shrunk over its whole history,",
+  "visual_brief": "Slow long-timescale cutaway, Mercury formation era animation.",
+  "purpose": "explain",
+  "nasa_query": "solar system formation",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_0.jpg",
+      "nasa_id": "20230823_NSL_Psyche_Ep49",
+      "title": "NASA Science Live: Psyche’s Journey to a Metal World [Episode 49]",
+      "center": "GSFC",
+      "date": "2023-08-23",
+      "description": "NASA’s Psyche mission is preparing to launch on October 5 to embark on a 2.2-billion-mile journey to a unique metal-rich asteroid that could help us understand the early formation of rocky planets in our solar system, like Earth. Join mission experts Wednesday, August 23, at 3:30 p.m. ET for an oppo",
+      "links": [
+        "https://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~large.jpg",
+        "https://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~medium.jpg",
+        "https://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~small.jpg",
+        "https://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~large.mp4",
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~medium.mp4",
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~mobile.mp4",
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~small.mp4",
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~preview.mp4",
+        "http://images-assets.nasa.gov/video/20230823_NSL_Psyche_Ep49/20230823_NSL_Psyche_Ep49~orig.mp4"
+      ],
+      "duration_s": 3253.9,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_1.jpg",
+      "nasa_id": "GSFC_20180824_M13051_orex_approach",
+      "title": "NASA's OSIRIS-REx Approaches Asteroid Bennu",
+      "center": "GSFC",
+      "date": "2018-08-24",
+      "description": "NASA's OSIRIS-REx asteroid sample return mission launched in 2016 and now (August, 2018) is entering its approach phase. OSIRIS-REx will arrive at asteroid Bennu in December, 2018. OSIRIS-REx will help unveil the mysteries of our solar system's formation. Full resolution file available at: https://s",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180824_M13051_orex_approach/GSFC_20180824_M13051_orex_approach~orig.mp4"
+      ],
+      "duration_s": 319.4,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_2.jpg",
+      "nasa_id": "298_MU69",
+      "title": "NASA ScienceCasts: Watch the History of our Solar System Fly By with MU69",
+      "center": "HQ",
+      "date": "2019-07-08",
+      "description": "Scientists are unlocking clues about the earliest formation of our solar system from a Kuiper Belt Object known as 2014 MU69.",
+      "links": [
+        "https://images-assets.nasa.gov/video/298_MU69/298_MU69~large.jpg",
+        "https://images-assets.nasa.gov/video/298_MU69/298_MU69~medium.jpg",
+        "https://images-assets.nasa.gov/video/298_MU69/298_MU69~small.jpg",
+        "https://images-assets.nasa.gov/video/298_MU69/298_MU69~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~large.mp4",
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~medium.mp4",
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~mobile.mp4",
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~small.mp4",
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~preview.mp4",
+        "http://images-assets.nasa.gov/video/298_MU69/298_MU69~orig.mp4"
+      ],
+      "duration_s": 248.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_3.jpg",
+      "nasa_id": "SVS-15104",
+      "title": "Science of Smoke Illustrated",
+      "center": "NASA SVS",
+      "date": "2026-10-07",
+      "description": "Music: \"Velvet Pulse,\" \"No Time to Breathe,\" Universal Production MusicComplete transcript available. || Smoke_Illustrated_Thumb.png (1280x720) [1013.0 KB] || Smoke_Illustrated_Thumb_print.jpg (1024x576) [157.5 KB] || Smoke_Illustrated_Thumb_searchweb.png (320x180) [94.9 KB] || Smoke_Illustrated_Thu",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015104/Smoke_Illustrated_Thumb.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015104/Smoke_Illustrated_YT.mp4",
+      "duration_s": 204.4,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15104/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_4.jpg",
+      "nasa_id": "SVS-5609",
+      "title": "Heliophysics Satellite Fleet - 2026",
+      "center": "NASA SVS",
+      "date": "2026-01-26",
+      "description": "A tour of the NASA Heliophysics fleet from near-Earth satellites out to the Voyagers beyond the heliopause.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026.03115_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026_1080p60.mp4",
+      "duration_s": 90.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5609/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_5.jpg",
+      "nasa_id": "PIA16078",
+      "title": "Mars Interior Artist Concept",
+      "center": "JPL",
+      "date": "2012-08-20",
+      "description": "Artist rendition of the formation of rocky bodies in the solar system -- how they form and differentiate and evolve into terrestrial planets. Note: After thorough examination, NASA managers have decided to suspend the planned March 2016 launch of the Interior Exploration using Seismic Investigations",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA16078/PIA16078~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA16078/PIA16078~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA16078/PIA16078~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA16078/PIA16078~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA16078/PIA16078~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_028/aday_6.jpg",
+      "nasa_id": "PIA13115",
+      "title": "WISE Catches Comet 65P/Gunn",
+      "center": "JPL",
+      "date": "2010-06-14",
+      "description": "This image from NASA Wide-field Infrared Survey Explorer features comet 65/P Gunn. Comets are balls of dust and ice left over from the formation of the solar system. The comet tail is seen here in red trailing off to the right of the comet nucleus.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13115/PIA13115~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13115/PIA13115~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13115/PIA13115~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13115/PIA13115~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA13115/PIA13115~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "scene_id": 31,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "They estimated these features to be three hundred million years old or younger,",
+  "visual_brief": "Age scale suggestion over Mercury terrain.",
+  "purpose": "explain",
+  "nasa_query": "Mercury terrain",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_031/aday_0.jpg",
+      "nasa_id": "SVS-31381",
+      "title": "NASA’S PUNCH Images Eruptions from the Sun",
+      "center": "NASA SVS",
+      "date": "2026-03-31",
+      "description": "This video shows several coronal mass ejections (CMEs) erupting from the Sun’s surface from Oct. 21 to Nov. 12, 2025.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031381/PUNCH_CME_mosaic_20251112_032829_med.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031381/PUNCH_CME_Mosiac_20251021-20251112.mp4",
+      "duration_s": 33.2,
+      "width": 2310,
+      "height": 2310,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/31381/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_031/aday_1.jpg",
+      "nasa_id": "SVS-5401",
+      "title": "Powerful Hurricane Milton forms in the Gulf of Mexico, sweeps into Florida",
+      "center": "NASA SVS",
+      "date": "2024-10-08",
+      "description": "Example composite showing how all the below animations can be combined into one long segment showing the lifecycle of Hurricane Milton through the eyes of GPM beginning October 6 ending October 9, 2024. || milton_lifecycle.00001_print.jpg (1024x576) [236.4 KB] || milton_lifecycle.mp4 (1920x1080) [28",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005401/milton_v02.04300_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005401/milton_lifecycle.mp4",
+      "duration_s": 120.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5401/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_031/aday_2.jpg",
+      "nasa_id": "PIA14081",
+      "title": "A First Look at Terrain Near Mercury North Pole",
+      "center": "JPL",
+      "date": "2011-03-30",
+      "description": "A First Look at Terrain Near Mercury North Pole",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA14081/PIA14081~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA14081/PIA14081~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_031/aday_3.jpg",
+      "nasa_id": "PIA02408",
+      "title": "Mercury Cratered Terrain",
+      "center": "JPL",
+      "date": "1999-10-08",
+      "description": "Cratered terrain very similar to that on the Moon is shown in this TV photo of Mercury taken by NASA Mariner 10. Numerous small craters and linear grooves radial to the crater can be seen.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA02408/PIA02408~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA02408/PIA02408~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

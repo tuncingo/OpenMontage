@@ -1,0 +1,29 @@
+{
+  "scene_id": 51,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "And here is the callback. Remember the hollows, young and maybe still forming?",
+  "visual_brief": "Hollows again, different crater view.",
+  "purpose": "explain",
+  "nasa_query": "Mercury hollows Raditladi",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_051/aday_0.jpg",
+      "nasa_id": "PIA19409",
+      "title": "A Detailed Look at Raditladi Basin",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "This MDIS mosaic from NASA MESSENGER spacecraft provides a detailed view of the features and structures associated with the peak-ring basin Raditladi. Raditladi, first imaged during MESSENGER's first Mercury flyby and named in April 2008, continues to be an intriguing region of study, with its well-",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19409/PIA19409~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

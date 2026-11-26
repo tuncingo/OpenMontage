@@ -1,0 +1,77 @@
+{
+  "scene_id": 41,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "Landforms. Chemistry. Counts of small features. All of it is indirect.",
+  "visual_brief": "Three evidence types: landforms, chemistry, counts.",
+  "purpose": "explain",
+  "nasa_query": "Mercury MESSENGER surface",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_041/aday_0.jpg",
+      "nasa_id": "PIA11403",
+      "title": "MESSENGER Enhanced Coverage of Mercury Surface",
+      "center": "JPL",
+      "date": "2008-10-29",
+      "description": "MESSENGER Enhanced Coverage of Mercury Surface",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11403/PIA11403~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11403/PIA11403~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11403/PIA11403~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_041/aday_1.jpg",
+      "nasa_id": "PIA11246",
+      "title": "MESSENGER Gathers Unprecedented Data about Mercury Surface",
+      "center": "JPL",
+      "date": "2008-10-07",
+      "description": "MESSENGER Gathers Unprecedented Data about Mercury Surface",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11246/PIA11246~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11246/PIA11246~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11246/PIA11246~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_041/aday_2.jpg",
+      "nasa_id": "PIA11219",
+      "title": "Exploring Mercury Surface with MESSENGER Color Images",
+      "center": "JPL",
+      "date": "2008-09-16",
+      "description": "Exploring Mercury Surface with MESSENGER Color Images",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_041/aday_3.jpg",
+      "nasa_id": "PIA18145",
+      "title": "MESSENGER at Mercury Artist Concept",
+      "center": "JPL",
+      "date": "2011-03-02",
+      "description": "Artist impression of NASA MErcury Surface, Space ENvironment, GEochemistry, and Ranging MESSENGER spacecraft in orbit at Mercury.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

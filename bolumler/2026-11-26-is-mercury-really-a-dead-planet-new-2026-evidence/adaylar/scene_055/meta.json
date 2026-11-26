@@ -1,0 +1,115 @@
+{
+  "scene_id": 55,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "My guess is that if anything changes, it will be small and slow.",
+  "visual_brief": "Slow rotation of Mercury, gentle calm pacing.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury rotation",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_0.jpg",
+      "nasa_id": "GSFC_20231116_NSL_Retrograde_Ep51",
+      "title": "NASA Science Live: The Science Behind Your Favorite Planet Being in Retrograde [Episode 51]",
+      "center": "GSFC",
+      "date": "2023-11-16",
+      "description": "Do you groan when you hear of a certain planet going into retrograde? Have you ever wondered what planets in retrograde actually means? Join planetary experts Thursday, Nov. 16, to learn about this fascinating phenomenon and other interesting facts about the orbits of planets. Submit your questions ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~orig.mp4"
+      ],
+      "duration_s": 3280.1,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_1.jpg",
+      "nasa_id": "SVS-13664",
+      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
+      "center": "NASA SVS",
+      "date": "2020-07-16",
+      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
+      "duration_s": 4396.7,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13664/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_2.jpg",
+      "nasa_id": "SVS-13266",
+      "title": "TESS Discovery Leads to Surprising Find of Promising World",
+      "center": "NASA SVS",
+      "date": "2019-07-31",
+      "description": "Tour the GJ 357 system, located 31 light-years away in the constellation Hydra. Astronomers confirming a planet candidate identified by NASA’s Transiting Exoplanet Survey Satellite subsequently found two additional worlds orbiting the star. The outermost planet, GJ 357 d, is especially intriguing to",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/tess_gj357_english_thm.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/GJ357_whole_system_english_HQ.mp4",
+      "duration_s": 21.6,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13266/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_3.jpg",
+      "nasa_id": "KSC-04pd0667",
+      "title": "KSC-04pd0667",
+      "center": "KSC",
+      "date": "2004-03-26",
+      "description": "KENNEDY SPACE CENTER, FLA. -- At Astrotech Space Operations facilities near KSC, the Mercury Surface, Space Environment, Geochemistry and Ranging (MESSENGER) spacecraft is ready for lifting. It is being moved to a turnover fixture that will rotate it for prelaunch testing. Launch is scheduled for Ma",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_4.jpg",
+      "nasa_id": "KSC-04pd0666",
+      "title": "KSC-04pd0666",
+      "center": "KSC",
+      "date": "2004-03-26",
+      "description": "KENNEDY SPACE CENTER, FLA. -- Workers at Astrotech Space Operations facilities near KSC get ready to attach an overhead crane to the Mercury Surface, Space Environment, Geochemistry and Ranging (MESSENGER) spacecraft before lifting. They are moving it to a turnover fixture that will rotate it for pr",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "scene_id": 45,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "So how do we settle it? BepiColombo is a European and Japanese mission, and only the second ever to orbit Mercury.",
+  "visual_brief": "BepiColombo stack, then Mercury orbit.",
+  "purpose": "evidence",
+  "nasa_query": "BepiColombo spacecraft",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_0.jpg",
+      "nasa_id": "PIA19497",
+      "title": "Best Determination of MESSENGER Impact Location",
+      "center": "JPL",
+      "date": "2015-06-03",
+      "description": "The day before the MESSENGER spacecraft impacted the surface of Mercury, the best prediction for the location and time of the impact was 54.4° N, 210.1° E, on 30 April 2015 at 19.26:02 UTC, as shown in the featured image of that day. In the last month since impact, MESSENGER engineers have completed",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

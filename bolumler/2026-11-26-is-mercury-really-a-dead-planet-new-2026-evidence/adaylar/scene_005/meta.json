@@ -1,0 +1,130 @@
+{
+  "scene_id": 5,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "mostly from NASA's MESSENGER, which orbited Mercury from 2011 to 2015.",
+  "visual_brief": "MESSENGER orbiting Mercury, real animation of the probe in orbit.",
+  "purpose": "explain",
+  "nasa_query": "MESSENGER Mercury orbit",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_0.jpg",
+      "nasa_id": "ksc_072004_mes",
+      "title": "KSC-04-S-00254",
+      "center": "KSC",
+      "date": "2004-07-22",
+      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+      ],
+      "duration_s": 83.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_1.jpg",
+      "nasa_id": "ksc_070704_messprev",
+      "title": "KSC-04-S-00216",
+      "center": "KSC",
+      "date": "2004-07-08",
+      "description": "The Rovers are making unbelievable discoveries on Mars, Cassini is sending back amazing pictures from Saturn, but NASA's planetary exploration program is just getting started. On August 2nd, MESSENGER will head for Mercury. MESSENGER is very similar to the Cassini mission. The spacecraft will launch",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_070704_messprev/ksc_070704_messprev~orig.mp4"
+      ],
+      "duration_s": 94.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_2.jpg",
+      "nasa_id": "SVS-14123",
+      "title": "What Mercury’s Unusual Orbit Reveals About the Sun",
+      "center": "NASA SVS",
+      "date": "2022-03-24",
+      "description": "Mercury is special. As the closest planet to the Sun, it occupies a region where the Sun’s influence is changing dramatically. The Sun’s magnetic field, which dominates space close to the Sun, is rapidly waning. And Mercury’s orbit – more elliptical or “oval-shaped” than any other planet – allows it",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_YouTube.00030_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014123/MESSENGER_ULF_waves_Facebook.mp4",
+      "duration_s": 194.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14123/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_3.jpg",
+      "nasa_id": "SVS-4954",
+      "title": "Mercury Makes Waves Cruising through the Solar Wind",
+      "center": "NASA SVS",
+      "date": "2021-11-11",
+      "description": "Mercury orbits the Sun in a unique regime. The solar wind is still fresh from the Sun, and the Sun’s magnetic field strength (which drops with the square of distance) is rapidly waning. Furthermore, Mercury’s highly elliptical orbit means the planet passes through a wider range of distances from the",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004954/Messenger_All_2021-11-04_1455.00407_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004900/a004954/Messenger_All_2021-11-04_1455_2160p30.mp4",
+      "duration_s": 30.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/4954/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_4.jpg",
+      "nasa_id": "PIA18145",
+      "title": "MESSENGER at Mercury Artist Concept",
+      "center": "JPL",
+      "date": "2011-03-02",
+      "description": "Artist impression of NASA MErcury Surface, Space ENvironment, GEochemistry, and Ranging MESSENGER spacecraft in orbit at Mercury.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18145/PIA18145~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_005/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001918",
+      "title": "From Orbit, Looking toward Mercury's Horizon",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired: March 29, 2011 MESSENGER acquired this image of Mercury's horizon as the spacecraft was moving northward along the first orbit during which MDIS was turned on. Bright rays from Hokusai can be seen running north to south in the image. MDIS frequently acquired images that containe",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

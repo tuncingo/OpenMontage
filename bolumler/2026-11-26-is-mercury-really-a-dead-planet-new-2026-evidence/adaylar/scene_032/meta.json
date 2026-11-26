@@ -1,0 +1,167 @@
+{
+  "scene_id": 32,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "and read them as a sign of contraction that is still going on.",
+  "visual_brief": "Colourful moving cosmic cutaway, slow rotating planet with sun glow.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury Sun",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_0.jpg",
+      "nasa_id": "GSFC_20160509_Mercury_m12235_Transit2016",
+      "title": "2016 Mercury Transit Timelapse",
+      "center": "GSFC",
+      "date": "2016-05-09",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~orig.mp4"
+      ],
+      "duration_s": 124.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_1.jpg",
+      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit",
+      "title": "2016 Mercury Transit",
+      "center": "GSFC",
+      "date": "2016-06-01",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~orig.mp4"
+      ],
+      "duration_s": 84.7,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_2.jpg",
+      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit_4K",
+      "title": "2016 Mercury Transit in 4K",
+      "center": "GSFC",
+      "date": "2016-06-01",
+      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~orig.mp4"
+      ],
+      "duration_s": 84.7,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_3.jpg",
+      "nasa_id": "SVS-13664",
+      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
+      "center": "NASA SVS",
+      "date": "2020-07-16",
+      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
+      "duration_s": 4396.7,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13664/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_4.jpg",
+      "nasa_id": "SVS-13266",
+      "title": "TESS Discovery Leads to Surprising Find of Promising World",
+      "center": "NASA SVS",
+      "date": "2019-07-31",
+      "description": "Tour the GJ 357 system, located 31 light-years away in the constellation Hydra. Astronomers confirming a planet candidate identified by NASA’s Transiting Exoplanet Survey Satellite subsequently found two additional worlds orbiting the star. The outermost planet, GJ 357 d, is especially intriguing to",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/tess_gj357_english_thm.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/GJ357_whole_system_english_HQ.mp4",
+      "duration_s": 21.6,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13266/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001259",
+      "title": "Strong Proton Storm on the Sun with a Mercury Fly-by",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "A solar magnetic active region containing the largest sunspot group of the last 10 years unleashed a large (X1.2) flare when it was facing right towards Earth. The flare was associated with a bright coronal mass ejection that emerges from the lower right (Jan. 7-8, 2014). A fast moving cloud of high",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_6.jpg",
+      "nasa_id": "NHQ201911110005",
+      "title": "Mercury Solar Transit",
+      "center": "HQ",
+      "date": "2019-11-11",
+      "description": "The planet Mercury is seen in silhouette as it nearly completes transiting across the face of the Sun, Monday, Nov. 11, 2019, in Arlington, Virginia. Mercury’s last transit was in 2016. the next won't happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
+      "links": [
+        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~small.jpg",
+        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

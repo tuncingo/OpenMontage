@@ -1,0 +1,168 @@
+{
+  "scene_id": 39,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "These are also conference abstracts, not peer reviewed papers. Nobody has seen an eruption happening.",
+  "visual_brief": "Solar corona colourful, cosmic cutaway.",
+  "purpose": "cutaway",
+  "nasa_query": "Sun corona",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_0.jpg",
+      "nasa_id": "GSFC_20180725_Parker_m12903_CoronalHeating_Short",
+      "title": "The Sun’s Mysteriously Hot Atmosphere",
+      "center": "GSFC",
+      "date": "2018-07-25",
+      "description": "Something mysterious is going on at the Sun. In defiance of all logic, its atmosphere gets much, much hotter the farther it stretches from the Sun’s blazing surface. Temperatures in the corona — the tenuous, outermost layer of the solar atmosphere — spike upwards of 2 million degrees Fahrenheit, whi",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating_Short/GSFC_20180725_Parker_m12903_CoronalHeating_Short~orig.mp4"
+      ],
+      "duration_s": 110.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_1.jpg",
+      "nasa_id": "GSFC_20180725_Parker_m12903_CoronalHeating",
+      "title": "Discovering the Sun’s Mysteriously Hot Atmosphere",
+      "center": "GSFC",
+      "date": "2018-07-25",
+      "description": "Something mysterious is going on at the Sun. In defiance of all logic, its atmosphere gets much, much hotter the farther it stretches from the Sun’s blazing surface. Temperatures in the corona — the tenuous, outermost layer of the solar atmosphere — spike upwards of 2 million degrees Fahrenheit, whi",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180725_Parker_m12903_CoronalHeating/GSFC_20180725_Parker_m12903_CoronalHeating~orig.mp4"
+      ],
+      "duration_s": 204.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_2.jpg",
+      "nasa_id": "GSFC_20150211_SDO_m11742_Year5",
+      "title": "SDO: Year 5",
+      "center": "GSFC",
+      "date": "2015-02-11",
+      "description": "February 11, 2015 marks five years in space for NASA's Solar Dynamics Observatory, which provides incredibly detailed images of the whole sun 24 hours a day. Capturing an image more than once per second, SDO has provided an unprecedentedly clear picture of how massive explosions on the sun grow and ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~orig.mp4"
+      ],
+      "duration_s": 276.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_3.jpg",
+      "nasa_id": "SVS-15114",
+      "title": "Star Charts for ESCAPADE’s Earth Flyby",
+      "center": "NASA SVS",
+      "date": "2026-11-02",
+      "description": "In November 2026, each of NASA’s two **ESCAPADE** (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft will perform a “powered” flyby of Earth, combining Earth’s gravity with an approximately 9-minute engine burn, to slingshot itself toward Mars.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Boulder/Boulder-star-chart-Nov7.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Berkeley/Berkeley-star-chart-Nov7-movie.mp4",
+      "duration_s": 30.0,
+      "width": 1080,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15114/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_4.jpg",
+      "nasa_id": "SVS-15075",
+      "title": "2026 Total Solar Eclipse Imagery - Science Experiments",
+      "center": "NASA SVS",
+      "date": "2026-08-12",
+      "description": "On Aug. 12, 2026, a total solar eclipse will swept across Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal.Below is a collection of imagery from the 2026 total solar eclipse. || ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015075/WB57Team1_CreditNASAAbbeyInterrante_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015075/2026Eclipse_WB57GoPro_Totality_H264-4K.mp4",
+      "duration_s": 1062.4,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15075/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001831",
+      "title": "SDO Spots Extra Energy in the Sun's Corona",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA release July 27, 2011 These jets, known as spicules, were captured in an SDO image on April 25, 2010. Combined with the energy from ripples in the magnetic field, they may contain enough energy to power the solar wind that streams from the sun toward Earth at 1.5 million miles per hour. Credit:",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_039/aday_6.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001832",
+      "title": "SDO Spots Extra Energy in the Sun's Corona [detail]",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA release July 27, 2011 These jets, known as spicules, were captured in an SDO image on April 25, 2010. Combined with the energy from ripples in the magnetic field, they may contain enough energy to power the solar wind that streams from the sun toward Earth at 1.5 million miles per hour. Credit:",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001832/GSFC_20171208_Archive_e001832~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001832/GSFC_20171208_Archive_e001832~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

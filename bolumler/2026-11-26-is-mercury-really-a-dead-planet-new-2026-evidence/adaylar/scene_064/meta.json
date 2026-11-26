@@ -1,0 +1,169 @@
+{
+  "scene_id": 64,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "If you want to follow the story as the first science images arrive, subscribe to Rebel Minds Cosmos.",
+  "visual_brief": "Colourful starfield flythrough, welcoming.",
+  "purpose": "outro",
+  "nasa_query": "Hubble star field",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_0.jpg",
+      "nasa_id": "GSFC_20190626_WFIRST_m13235_WideField",
+      "title": "WFIRST's Wide Field Instrument",
+      "center": "GSFC",
+      "date": "2019-06-26",
+      "description": "WFIRST is a next-generation space telescope that will survey the infrared universe from beyond the orbit of the Moon. The spacecraft's giant camera, the Wide Field Instrument (WFI), will be fundamental to this exploration. The WFI features the same angular resolution as Hubble but with 100 times the",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190626_WFIRST_m13235_WideField/GSFC_20190626_WFIRST_m13235_WideField~orig.mp4"
+      ],
+      "duration_s": 107.6,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_1.jpg",
+      "nasa_id": "GSFC_20080822_HST_m10233_WFC2_Fixture",
+      "title": "HST SM4 WFC3 Installation EVA Fixture",
+      "center": "GSFC",
+      "date": "2008-08-22",
+      "description": "Wide Field Camera 3 (WFC3) will have a broad range of inquiry, from early and distant galaxies beyond Hubble's current reach, to more nearby galaxies with \"stories to tell\" about their star formation histories, to the planets in our solar system. Along the way, \"dark energy\" will be seriously probed",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~orig.mp4"
+      ],
+      "duration_s": 8.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_2.jpg",
+      "nasa_id": "GSFC_20080822_HST_m10233_WFC3",
+      "title": "HST SM4 WFC3 Installation EVA",
+      "center": "GSFC",
+      "date": "2008-08-22",
+      "description": "Wide Field Camera 3 (WFC3) will have a broad range of inquiry, from early and distant galaxies beyond Hubble's current reach, to more nearby galaxies with \"stories to tell\" about their star formation histories, to the planets in our solar system. Along the way, \"dark energy\" will be seriously probed",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC3/GSFC_20080822_HST_m10233_WFC3~orig.mp4"
+      ],
+      "duration_s": 56.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_3.jpg",
+      "nasa_id": "SVS-15090",
+      "title": "Flash Talk: Roman Spacecraft Overview",
+      "center": "NASA SVS",
+      "date": "2026-09-04",
+      "description": "This presentation was orginally given by Josh Schlieder at special day-of-launch event. It was designed specifically to be followed by the Science Overview presentation.His script notes for a five-minute presentation are available with each individual graphic and also collected here . || ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015090/Launch_Flash_Talk_Spacecraft_Overview_Slide_18_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015090/Launch_Flash_Talk_Spacecraft_Overview_Slide_2-Launch.mp4",
+      "duration_s": 19.5,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15090/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_4.jpg",
+      "nasa_id": "SVS-15091",
+      "title": "Flash Talk: Roman Science Overview",
+      "center": "NASA SVS",
+      "date": "2026-09-04",
+      "description": "This presentation was orginally given by Julie McEnery at special day-of-launch event. It was designed specifically to follow the Spacecraft Overview presentation. || ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015091/Launch_Flash_Talk_Science_Overview_Slide_10.00001_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015091/Launch_Flash_Talk_Science_Overview_Slide_4.mp4",
+      "duration_s": 18.1,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15091/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_5.jpg",
+      "nasa_id": "0301627",
+      "title": "History of Hubble Space Telescope (HST)",
+      "center": "MSFC",
+      "date": "2000-07-01",
+      "description": "This is a color Hubble Space Telescope (HST) heritage image of supernova remnant N49, a neighboring galaxy, that was taken with Hubble's Wide Field Planetary Camera 2. Color filters were used to sample light emitted by sulfur, oxygen, and hydrogen. The color image was superimposed on a black and whi",
+      "links": [
+        "https://images-assets.nasa.gov/image/0301627/0301627~medium.jpg",
+        "https://images-assets.nasa.gov/image/0301627/0301627~small.jpg",
+        "https://images-assets.nasa.gov/image/0301627/0301627~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0301627/0301627~large.jpg",
+        "https://images-assets.nasa.gov/image/0301627/0301627~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_064/aday_6.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000013",
+      "title": "Hubble's Cosmic Atlas",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Morphologies, masses, and structures - oh, my! This beautiful clump of glowing gas, dark dust and glittering stars is the spiral galaxy NGC 4248, located about 24 million light-years away in the constellation of Canes Venatici (The Hunting Dogs). This image was produced by the NASA/ESA Hubble Space ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

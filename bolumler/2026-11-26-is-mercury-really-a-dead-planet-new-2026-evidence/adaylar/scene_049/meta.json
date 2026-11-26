@@ -1,0 +1,51 @@
+{
+  "scene_id": 49,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "and study author Nishiyama told the Associated Press that it should confirm the shrinking.",
+  "visual_brief": "Shrinking planet cutaway, contracting globe.",
+  "purpose": "explain",
+  "nasa_query": "Mercury shrinking cliffs",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_049/aday_0.jpg",
+      "nasa_id": "SVS-14110",
+      "title": "Global View of Mercury – Animation",
+      "center": "NASA SVS",
+      "date": "2022-02-24",
+      "description": "Global view of Mercury from NASA’s MESSENGER spacecraft. || MercuryGlobeMESSENGER.gif (1200x675) [12.7 MB] || MercuryGlobePreview_print.jpg (1024x576) [51.6 KB] || MercuryGlobePreview.jpg (3840x2160) [664.3 KB] || MercuryGlobePreview_searchweb.png (320x180) [18.5 KB] || MercuryGlobePreview_thm.png (",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/MercuryGlobePreview_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/Mercury_Globe_MESSENGER_Large.mp4",
+      "duration_s": 60.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14110/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_049/aday_1.jpg",
+      "nasa_id": "SVS-11197",
+      "title": "Hypercolor Mosaic",
+      "center": "NASA SVS",
+      "date": "2013-03-21",
+      "description": "On March 18, 2011, NASA's MESSENGER spacecraft entered orbit around Mercury, becoming the first spacecraft ever to do so. Among the many instruments on this pioneering probe is a wide-angle camera capable of generating high-resolution images of the planet's surface. By stitching thousands of these i",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/messenger_2sides_1024x576.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a011100/a011197/MESSENGER-540-MASTER_high.mp4",
+      "duration_s": 32.3,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11197/"
+    }
+  ]
+}

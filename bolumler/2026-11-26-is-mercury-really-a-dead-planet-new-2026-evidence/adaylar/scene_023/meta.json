@@ -1,0 +1,26 @@
+{
+  "scene_id": 23,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "As the planet cooled, its crust buckled into long cliffs called thrust faults. What is new is how much.",
+  "visual_brief": "Long scarp cliff crossing a crater on Mercury.",
+  "purpose": "explain",
+  "nasa_query": "Discovery Rupes Mercury",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_023/aday_0.jpg",
+      "nasa_id": "PIA02417",
+      "title": "Discovery Rupes Scarp",
+      "center": "JPL",
+      "date": "1999-10-08",
+      "description": "NASA Mariner 10 spacecraft was coaxed into a third and final encounter with Mercury in March of 1975. This is one of the highest resolution images of Mercury acquired by the spacecraft. The prominent scarp snaking up the image was named Discovery Rupes.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA02417/PIA02417~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA02417/PIA02417~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

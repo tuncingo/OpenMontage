@@ -1,0 +1,115 @@
+{
+  "scene_id": 17,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "What is newer is the question of how old they are.",
+  "visual_brief": "Cosmic cutaway, star clusters in time-lapse feel suggesting age.",
+  "purpose": "cutaway",
+  "nasa_query": "star cluster Hubble",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_017/aday_0.jpg",
+      "nasa_id": "JPL-20260930-WHATSUf-0001-Whats_Up_October_2026",
+      "title": "What's Up: October 2026 Skywatching Tips from NASA",
+      "center": "JPL",
+      "date": "2025-11-13",
+      "description": "Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. On October 4, Saturn reaches opposition, giving skywatchers one of the year's best opportunities to see the ringed planet. NASA's Hubble Space Telescope has also revealed a 10-sided atmospheric wave ",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026/JPL-20260930-WHATSUf-0001-Whats_Up_October_2026~orig.mp4"
+      ],
+      "duration_s": 162.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_017/aday_1.jpg",
+      "nasa_id": "SVS-14799",
+      "title": "Astrophysics: Observing the Universe Vertical Video",
+      "center": "NASA SVS",
+      "date": "2025-05-27",
+      "description": "This page contains vertically-formatted Astrophysics videos related to general astrophysical imagery.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014799/Fermi_Moon_still.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014799/Fermi_Vela_Pulsar_Reel_Final.mp4",
+      "duration_s": 61.7,
+      "width": 1080,
+      "height": 1920,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14799/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_017/aday_2.jpg",
+      "nasa_id": "SVS-13793",
+      "title": "Imagining A Roman Space Telescope Ultra Deep Field Image",
+      "center": "NASA SVS",
+      "date": "2021-01-11",
+      "description": "From late 2003 into 2004, Hubble captured its iconic Ultra Deep Field image. It changed our understanding of the universe. With 100 times more coverage,what could happen if the Nancy Grace Roman Space Telescope did the same?Music: \"Solaris-alternate track\" from Universal Production MusicWatch this v",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013700/a013793/Roman_Deep_Field_Compare_Still.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013700/a013793/13793_Roman_Deep_Field_Best_1080.mp4",
+      "duration_s": 89.7,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13793/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_017/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000191",
+      "title": "Hubble Admires a Youthful Globular Star Cluster",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Hubble sees an unusal global cluster that is enriching the interstellar medium with metals Globular clusters offer some of the most spectacular sights in the night sky. These ornate spheres contain hundreds of thousands of stars, and reside in the outskirts of galaxies. The Milky Way contains over 1",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000191/GSFC_20171208_Archive_e000191~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000191/GSFC_20171208_Archive_e000191~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000191/GSFC_20171208_Archive_e000191~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000191/GSFC_20171208_Archive_e000191~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_017/aday_4.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001677",
+      "title": "Hubble Watches Star Clusters on a Collision Course",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Image release August 16, 2012 Astronomers using data from NASA's Hubble Space Telescope have caught two clusters full of massive stars that may be in the early stages of merging. The 30 Doradus Nebula is 170,000 light-years from Earth. What at first was thought to be only one cluster in the core of ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001677/GSFC_20171208_Archive_e001677~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

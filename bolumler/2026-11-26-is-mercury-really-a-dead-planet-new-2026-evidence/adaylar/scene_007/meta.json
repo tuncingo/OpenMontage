@@ -1,0 +1,72 @@
+{
+  "scene_id": 7,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "One of these clues is a set of bright streaks nobody can fully explain yet. Let's start there.",
+  "visual_brief": "Crater slopes with bright streaks, close approach over Mercury terrain.",
+  "purpose": "transition",
+  "nasa_query": "Mercury flyover",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_0.jpg",
+      "nasa_id": "JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023",
+      "title": "Curiosity Rover’s Most Challenging Climb Yet (Mars Report - August 2023)",
+      "center": "JPL",
+      "date": "2023-08-03",
+      "description": "NASA’s Curiosity rover recently made its most challenging climb on Mars. Curiosity faced a steep, slippery slope on its journey up Mount Sharp, so rover drivers had to come up with a creative detour. After the detour, Curiosity stopped by a new area with intriguing impact craters to explore. This ed",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023/JPL-20230803-MARSf-0001-Mars Report Curiosity Challenging Climb August 2023~orig.mp4"
+      ],
+      "duration_s": 177.7,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_1.jpg",
+      "nasa_id": "PIA04974",
+      "title": "Exhumed Crater with Slope",
+      "center": "JPL",
+      "date": "2004-01-04",
+      "description": "Exhumed Crater with Slope",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA04974/PIA04974~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA04974/PIA04974~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA04974/PIA04974~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_2.jpg",
+      "nasa_id": "PIA13683",
+      "title": "Slope Failure near Aratus Crater",
+      "center": "JPL",
+      "date": "2010-11-16",
+      "description": "Slope Failure near Aratus Crater",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13683/PIA13683~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13683/PIA13683~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13683/PIA13683~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13683/PIA13683~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

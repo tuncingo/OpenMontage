@@ -1,0 +1,78 @@
+{
+  "scene_id": 61,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "That one small shift would turn a clue into a measurement.",
+  "visual_brief": "Mercury surface, measurement feel.",
+  "purpose": "explain",
+  "nasa_query": "Mercury MESSENGER crater",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_061/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001625",
+      "title": "Happy Little Crater on Mercury",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "It looks like even the craters on Mercury have heard of Bob Ross! The central peaks of this complex crater have formed in such a way that it resembles a smiling face. This image is oriented so north is toward the bottom. This image was acquired as a high-resolution targeted observation. Targeted obs",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001625/GSFC_20171208_Archive_e001625~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001625/GSFC_20171208_Archive_e001625~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001625/GSFC_20171208_Archive_e001625~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_061/aday_1.jpg",
+      "nasa_id": "PIA18147",
+      "title": "MESSENGER Near Hokusai Crater Artist Concept",
+      "center": "JPL",
+      "date": "2008-10-29",
+      "description": "An artist rendering of the MESSENGER spacecraft is shown passing near the crater Hokusai and its extensive system of rays. Both the monochrome and enhanced color views of Mercury were obtained during MESSENGER second Mercury flyby.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_061/aday_2.jpg",
+      "nasa_id": "PIA12157",
+      "title": "Locations of Mercury Newly Named Craters",
+      "center": "JPL",
+      "date": "2009-07-28",
+      "description": "The International Astronomical Union recently approved names for 16 impact craters on Mercury. Several of the craters are from areas seen for the first time at close range by MESSENGER during its second Mercury flyby.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12157/PIA12157~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12157/PIA12157~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12157/PIA12157~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12157/PIA12157~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA12157/PIA12157~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_061/aday_3.jpg",
+      "nasa_id": "PIA12054",
+      "title": "Using Reprojections to Examine Mercury Surface",
+      "center": "JPL",
+      "date": "2009-06-02",
+      "description": "The scarp cutting through this crater was imaged as NASA MESSENGER approached the planet during the mission second Mercury flyby.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12054/PIA12054~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12054/PIA12054~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

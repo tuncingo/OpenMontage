@@ -1,0 +1,77 @@
+{
+  "scene_id": 13,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "and the team ties that to how well MESSENGER imaged each region.",
+  "visual_brief": "MESSENGER coverage of Mercury, imaging resolution map.",
+  "purpose": "explain",
+  "nasa_query": "Mercury MESSENGER topography map",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_013/aday_0.jpg",
+      "nasa_id": "PIA19421",
+      "title": "Orange Is the New Blue",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "Measurements from NASA MESSENGER MLA instrument during the spacecraft greater than four-year orbital mission have mapped the topography of Mercury northern hemisphere in great detail. This enhanced color mosaic shows (from left to right) Munch (61 km/38 mi.), Sander (52 km/32 mi.), and Poe (81 km/50",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_013/aday_1.jpg",
+      "nasa_id": "PIA19420",
+      "title": "The Ups and Downs of Mercury Topography",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "Measurements from NASA MESSENGER MLA instrument during the spacecraft greater than four-year orbital mission have mapped the topography of Mercury northern hemisphere in great detail. The view shown here is an interpolated shaded relief map of these data. The lowest regions are shown in purple, and ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19420/PIA19420~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19420/PIA19420~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19420/PIA19420~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19420/PIA19420~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19420/PIA19420~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_013/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001693",
+      "title": "Mickey Mouse Spotted on Mercury!",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired: June 03, 2012 This scene is to the northwest of the recently named crater Magritte, in Mercury's south. The image is not map projected; the larger crater actually sits to the north of the two smaller ones. The shadowing helps define the striking &quot;Mickey Mouse&quot; resembla",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001693/GSFC_20171208_Archive_e001693~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001693/GSFC_20171208_Archive_e001693~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001693/GSFC_20171208_Archive_e001693~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_013/aday_3.jpg",
+      "nasa_id": "PIA19422",
+      "title": "A Striking Perspective",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "This image from NASA MESSENGER spacecraft provides a perspective view of the center portion of Carnegie Rupes, a large tectonic landform, which cuts through Duccio crater. The image shows the terrain (variations in topography) as measured by the MLA instrument and surface mapped by the MDIS instrume",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}
