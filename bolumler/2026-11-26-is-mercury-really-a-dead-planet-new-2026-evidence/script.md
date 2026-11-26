@@ -24,7 +24,7 @@ And nobody has watched a streak form. [S4]
 
 Those hollows are a clue in their own right, and they are not new. MESSENGER found them back in 2011. What is newer is the question of how old they are. [S10] [S11]
 
-NASA says there are almost no small craters inside the hollows. That means they are much younger than the ground around them. The dating is uncertain, but NASA asks a bold question: may they still be forming? [S10]
+NASA says there are almost no small craters inside the hollows. That means they are much younger than the ground around them. [S13] The dating is uncertain, but NASA asks a bold question: may they still be forming? [S10]
 
 A 2025 study agrees. It found most hollows are in an early stage, and likely still evolving. The authors say BepiColombo can look for change. [S11]
 
@@ -38,9 +38,9 @@ What is new is how much. In September 2026, researchers at the German Aerospace 
 
 Earlier estimates said Mercury lost up to about sixteen kilometres of width. The new study says up to twenty three. That is more than two Everests, not removed, but squeezed, as the crust folded over itself. [S6]
 
-Let me be plain about who says what. The streaks hint at gas loss today. This shrinking study is about the past. It tells us how much Mercury has shrunk over its whole history, not how fast it shrinks now. [S4] [S6]
+Let me be plain about who says what. The streaks hint at recent, and possibly ongoing, gas loss. This shrinking study is about the past. It tells us how much Mercury has shrunk over its whole history, not how fast it shrinks now. [S4] [S6]
 
-The question of today belongs to an older study. In 2023, researchers at the Open University counted seven hundred and twenty seven small trenches in the crust. [S7]
+The question of today belongs to an older study. In 2023, researchers at the Open University mapped hundreds of small trenches in the crust. [S7]
 
 They estimated these features to be three hundred million years old or younger, and read them as a sign of contraction that is still going on. [S7] [S8]
 
@@ -52,7 +52,7 @@ The third area is volcanism. Ancient volcanism on Mercury is widely accepted. Th
 
 In September 2026, conference abstracts suggested hints of buried volcanic ash, and of explosive eruptions at bright patches on the surface. They also described a tentative, very large cone of volcanic debris inside the Caloris basin. [S9]
 
-Be careful here. These are conference abstracts. They are not peer reviewed papers. And they describe deposits left behind, not eruptions seen happening. [S9]
+Be careful here. These deposits describe explosive volcanism in the past, not activity today, and their ages are uncertain. These are also conference abstracts, not peer reviewed papers. Nobody has seen an eruption happening. [S9]
 
 So where does that leave the label, dead planet?
 
@@ -66,19 +66,19 @@ So how do we settle it? BepiColombo is a European and Japanese mission, and only
 
 ESA says the science phase should start in April 2027, though dates may change. [S1]
 
-Now think about what its tools can add. The European orbiter carries a laser altimeter. It cannot watch a fault slip, because over a few years that motion would be far too small. But it can map fault cliffs in far more detail, sharpening how much Mercury has really shrunk. [S3]
+Now think about what its tools can add. The European orbiter carries a laser altimeter, and study author Nishiyama told the Associated Press that it should confirm the shrinking. [S14]
 
-It also carries a high resolution camera system. That one can look for fresh features that cut across young terrain. [S3]
+It also carries a high-resolution camera that can compare today's surface with MESSENGER's images. [S3] [S11]
 
-And here is the callback. Remember the hollows, young and maybe still forming? This is the instrument that could catch one changing. [S11]
+And here is the callback. Remember the hollows, young and maybe still forming? That is the kind of camera that could catch one changing. [S11]
 
 The key comparison is MESSENGER, from 2011 to 2015, against BepiColombo, more than a decade later. A second, sharper look. Comparing the two is how we can search for change. [S11] [S12]
 
-My guess is that if anything changes, it will be small and slow. A hollow edge that moved. A streak that was not there before. But it is entirely possible we will see no change at all. And that would also be an answer.
+My guess is that if anything changes, it will be small and slow. A hollow edge that moved. A streak that was not there before. But it is entirely possible we will see no change at all. If nothing changes at the camera's resolution, that would at least put limits on how active Mercury can be.
 
 Think about what it would mean if the edge of a single hollow had moved. Not a theory about the past, but a change we could point to, between two sets of pictures. That one small shift would turn a clue into a measurement.
 
-The next step is close. On 9 December, the two orbiters are due to separate. [S1]
+The next step is close. On 9 to 10 December, the two orbiters are due to separate. [S1]
 
 The honest answer today is that we do not know yet. If you want to follow the story as the first science images arrive, subscribe to Rebel Minds Cosmos.
 
@@ -97,16 +97,16 @@ S9. https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-486.html
 S10. https://science.nasa.gov/solar-system/planets/mercury/mercurys-strange-hollows
 S11. https://eos.org/editor-highlights/mercurys-hollows-may-be-young-and-active
 S12. https://en.wikipedia.org/wiki/MESSENGER
+S13. https://www.nasa.gov/image-article/young-ones
+S14. https://katu.com/news/nation-world/little-mercury-may-be-shrinking-faster-than-scientists-expected-09-12-2026
 
 ## Revision notes
-- Kanca "On 21 November" yapıldı; varış bölümü iki cümleye indi (yazılım hatası + safe mode tek cümle), 75/58 saat çıkarıldı, bilim fazının 2027'de başladığı ve ipuçlarının MESSENGER verisinden geldiği hemen ardından söylendi.
-- Yol haritası iki cümle; "bright streaks nobody can fully explain yet. Let's start there." ile bitiyor.
-- 112.000 yerine "about one hundred thousand" görüntü; 400 çizgi korundu.
-- Büzülme: tek kontrast (16 km vs 23 km), 20 km ve 19-23 aralığı silindi, "more than two Everests"; S6 AGU basın bültenine değişti.
-- Oyuklar: "100 bin yıl" ve yıl benzetmesi silindi; küçük krater yokluğu ve "hâlâ oluşuyor olabilir mi" sorusu eklendi.
-- 2023 çalışması: "grabens" yerine "small trenches"; hangi çalışma ne diyor, tek yerde açıkça söylendi.
-- Volkanizma: yalnızca Caloris basin adı kaldı, Glinka/Agwo/Abeeso genelleştirildi; "not peer reviewed" uyarısı duruyor.
-- Toparlama: "Landforms. Chemistry. ..." cümlesi; buz/450 derece paragrafı silindi; "quiet, not finished" yalnızca ortada.
-- Kapanışa yeni düşünce (tek oyuk kenarı değişirse) ve "On 9 December, the two orbiters are due to separate." eklendi; "heat" kaldırıldı, cümle bölündü.
-- Tek çağrı: kısa abone satırı, son sözler yorum sorusu.
-- Doğrulama notu: AGU bülteninin içeriği, oyuklarda küçük krater azlığı ve 9 Aralık ayrılma tarihi research.md'de tam doğrulanmadı (bkz. rapor).
+- Son editör düzeltmeleri: oyuk cümlesi (küçük krater yokluğu) yeni S13 (NASA "The Young Ones") kaynağına bağlandı, S10 o cümleden çıkarıldı.
+- "gas loss today" -> "recent, and possibly ongoing, gas loss".
+- 2023 çalışmasında "727" silindi, "hundreds of small trenches" yazıldı.
+- Volkanizma: depozitlerin geçmişteki patlamalı volkanizmayı anlattığı, bugünkü aktivite olmadığı ve yaşların belirsiz olduğu açıkça yazıldı; "not peer reviewed" ve Caloris korundu.
+- "No change would also be an answer" yerine istenen cümle konuldu.
+- Altimetre cümlesi AP kaynağına (S14, Nishiyama) bağlandı; kamera için genel ifade kullanıldı, BELA/SIMBIO-SYS anılmadı; fay kayması "çok küçük" iddiası kaldırıldı.
+- Ayrılma tarihi "9 to 10 December" yapıldı (S1).
+- 16/23 km rakamlarına dokunulmadı.
+- Altimetre cümlesinde "one of the Japanese researchers behind the shrinking study" ifadesi çıkarıldı; araştırma notları Nishiyama'yı GRL çalışmasının yazarı olarak verdiği için "study author Nishiyama" yazıldı.

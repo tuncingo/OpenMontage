@@ -1,3 +1,5 @@
+> **EDİTÖR KARARI: ONAYLANDI** (kurul kararı `needs_human` idi). Tur 3 sonrası editör küçük düzeltmeleri verdi, başyazar uyguladı, yeni hakem turu açılmadı. Yayın: Salı 1 Aralık 2026 21:00 TR.
+
 # Kurul Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Durum:** ⚠️ SENİN KARARIN GEREKİYOR — 2 turda eşik aşılamadı
@@ -119,59 +121,64 @@ The honest answer today is that we do not know yet."
 - Mercury May Not Be Dead. Here's What We Can Say
 - BepiColombo Arrives: Is Mercury Still Active?
 
-**Thumbnail:** "Is Mercury Dead?" — Tek odak: Mercury'nin koyu zemin (#05070C) uzerinde, solda buyuk ve keskin bir gezegen yuvarlagi; yuzeyinde ince amber (#D9A25B) tek bir parlak cizgi (streak) vurgusu. Sagda ice-white ince (Inter Light) baslik 'Is Mercury Dead?', 'Dead' kelimesi amber. Yazi telefonda okunur, baska oge yok. Sahte tehdit veya patlama yok; merak gercek acik sorudan geliyor. Gercek MESSENGER/NASA Mercury gorseli kullanilabilir; ureten gorsel kullanilirsa 'Illustration' etiketi dusunulmeli.
+**Thumbnail:** "NOT DEAD?" — Ana oneri kapak: 'NOT DEAD?' (soru isaretiyle, her zaman). Koyu zemin (#05070C) uzerinde solda buyuk ve keskin Mercury; yuzeyinde ince amber (#D9A25B) tek bir parlak cizgi (streak) vurgusu. Sagda ice-white kalin ama sade (Inter Medium) 'NOT DEAD?' baslik, 'DEAD' kelimesi amber olabilir; soru isareti ZORUNLU, cunku video sonucu iddia etmiyor, soruyu inceliyor ('quiet is not the same as finished', 'we do not know yet'). Baslik videodaki basligla birlikte okunur ('Is Mercury Really a Dead Planet?'), yani kapak tek basina bir iddia degil soru. Sahte tehdit, patlama, ok ya da kirmizi daire yok. Gercek MESSENGER/NASA Mercury gorseli kullanilabilir; uretilen gorsel kullanilirsa 'Illustration' etiketi dusunulmeli. Kanalin en iyi videolari kisa ve sert soru kaliplari (ornek: 'WHO HIT US?', su ana kadar en iyisi, 544 izlenme); bu da ayni kalip. Not: tek video, kucuk veri; bu bir varsayim, kanit degil.
 
 **Özgünlük:** 7/10 · risk: **low**
-Ep1-Ep4 (yildizlararasi nesneler, Mars biyoimza, Ay'in kokeni, Gateway) ile konu olarak ayri; Mercury ilk kez isleniyor. Konu haberlerde kalabalik: 'Mercury is not dead' cercevesi cok tekrarlandi ve bu tur haber ozetleri kitlesel uretilen uzay videolarinin tipik malzemesi. Bu bolumun ayirt edici yani: tek bir bulguyu abartmak yerine uc calismayi 'yakin zamanli aktiviteyi dogrudan ele alan mi, gecmisi mi inceliyor' diye ayirmasi, konferans ozeti ile hakemli makale farkini acikca soylemesi, hollows geri cagrisi ve MESSENGER-BepiColombo karsilastirma yol haritasi. Bu analitik cerceve YouTube'un 'inauthentic content' kuralina karsi guvenli. Dikkat: bolum yapisi (hook, EVIDENCE etiketleri, 'honest answer' kapanisi) kanal sablonu haline gelmesin; sonraki bolumlerde acilis ve kapanis bicimini degistirmek iyi olur. Not: Arama yalnizca haber ve basin bultenlerini gosterdi; YouTube icindeki video yogunlugunu dogrudan olcemedim, bu kisim tahmin.
+KONU TEKRARI KONTROLU (kanal/onceki_bolumler.md): yayinlanmis bolumler 29 Eki interstellar nesneler, 3 Kas Mars biyoimza, 7 Kas Ay'in kokeni (Who hit us), 13 Kas Ay buzu (Who left the ice), 22 Kas Gateway. Mercury ilk kez isleniyor; cekirdek soru ve hikaye tekrari YOK, DUPLICATE-TOPIC uyarisi yok. Konu haberlerde kalabalik: 'Mercury is not dead' cercevesi cok tekrarlandi ve bu tur haber ozetleri kitlesel uretilen uzay videolarinin tipik malzemesi. Ayirt edici yan: tek bir bulguyu abartmak yerine uc calismayi 'yakin zamanli aktiviteyi mi, gecmisi mi ele aliyor' diye ayirmasi (streaks = yakin zamanli, muhtemelen suren gaz kaybi; kuculme ve volkanizma = gecmis), konferans ozeti ile hakemli makale farkini acikca soylemesi, hollows geri cagrisi ve MESSENGER-BepiColombo karsilastirma yol haritasi. Bu analitik cerceve 'inauthentic content' kuralina karsi guvenli. Dikkat: bolum yapisi (hook, EVIDENCE etiketleri, 'honest answer' kapanisi, 'Tell me in the comments') kanal sablonu haline gelmesin; sonraki bolumlerde acilis ve kapanis bicimini degistirmek iyi olur. Not: Arama yalnizca haber ve basin bultenlerini gosterdi; YouTube icindeki video yogunlugunu dogrudan olcemedim, bu kisim tahmin.
 
-Benzediği: Haber/popular-science basliklari: 'Mercury is not a dead planet' (Bern basin bulteni, EarthSky, Discover, IFLScience, Universe Today), Kanalin onceki bolumleri (Ep1-Ep4) ile konu cakismasi yok
+Benzediği: Haber/popular-science basliklari: 'Mercury is not a dead planet' (Bern basin bulteni, EarthSky, Discover, IFLScience, Universe Today), Kanalin onceki bolumleri ile konu cakismasi yok
 
-**Yayın notları:** NOT: Yayin tarihi 5 Aralik'a kaydi; asagidaki Shorts takvimi ve bolum zamanlari eski tarihe gore, yeniden hesaplanmali. Bolum kisaldi (~1.060 kelime), bolum zaman damgalari (chapters) senaryo kesinlesince guncellenmeli.
+**Yayın notları:** BOLUM SURESI: Senaryo ~1.010 kelime, 140 kelime/dk ile ~7,2 dk. Chapter zamanlari bolum basina kelime sayarak hesaplandi (ana video ~7:14 civari); gercek sure ses, duraklamalar ve gorsellerle +-%10 kayabilir. Render bitince gercek zamanlari kontrol edip chapter'lari ayarlayin (acik varsayim).
+
 YAYIN ZAMANI (varsayim, olcum degil; kanalin henuz verisi yok)
-- Bugun 26 Kasim 2026 = ABD Sukran Gunu (Thanksgiving). Bugun yayinlama: aile gunu, izleme dusuk, haber akisi kalabalik. Ertesi gun Black Friday; ABD izleyicisi evde ve sosyal medyada, hafta sonu boyunca YouTube kullanimi genelde yuksek.
-- EDITOR KARARI: Cumartesi 5 Aralik 2026, 13:00 ET = 10:00 PT = 18:00 UK = 21:00 TR (ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3). Onceki oneri (27 Kasim) gecersiz. Kullanilan ofsetler: ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3 (Kasim sonu; ABD ve UK saat degisimleri farkli tarihlerde oldugu icin bu tarihe ozel). 21:00 TR sizin icin de rahat, YouTube Studio'da zamanlamaya gerek yok ama zamanlamak yine de guvenli olur (yayindan 10-15 dk once Public olacak sekilde 'Schedule').
-- Gerekce: ABD Dogu kiyisi ogle arasi, Bati kiyisi sabah; UK aksam. Hafta sonu oncesi ilk 24-48 saat sinyalini toplamak icin uygun. Sali/Persembe 14:00-16:00 ET gibi alternatifler de ayni derecede olasi; bu da bir tahmin.
-- BepiColombo varis haberi 21 Kasim'dan taze; geciktirmek konuyu eskitir, bu yuzden Cuma onerildi.
+- ANA VIDEO: Sali 1 Aralik 2026, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Kullanilan ofsetler: TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0 (ABD yaz saati 1 Kasim'da, UK ise Ekim sonunda bitti; Aralik boyunca ayni ofsetler gecerli).
+- Thanksgiving (26 Kas) ve Black Friday/Cyber Monday (27 ve 30 Kas) gecti; 1 Aralik bu yogun haber ve reklam haftasinin disinda, normal is gunu. ABD'de Dogu kiyisi ogle arasi, Bati kiyisi sabah, UK aksam: iyi bir pencere. Sali/Persembe 14:00-16:00 ET gibi alternatifler de benzer derecede olasi; bu da tahmin.
+- 21:00 TR sizin icin de rahat; yine de YouTube Studio'da 'Schedule' ile zamanlayin (kapak ve baslik hazirken 12:45 ET civari Public olacak sekilde ayarlayin; planlanan saat 13:00 ET).
+- BepiColombo varis haberi 21 Kasim'dan; 10 gun gecti ama iki orbiter'in ayrilmasi (9-10 Aralik) haberi yaklasiyor: video bu haberi onden yakalar.
 - Kanalda veri olusunca: YouTube Analytics > Audience > 'When your viewers are on YouTube' ve ulke dagilimini (ABD payi) kontrol edip saati bu verilerle degistirin; bu varsayimlari silin.
-- Paketleme: Baslik #1 onerilir (arama dostu, abartisiz). Thumbnail 'Is Mercury Dead?' ya da 'Dead or Quiet?' ile A/B test edilebilir (YouTube Test & Compare, uygunsa).
 
-SABITLENECEK YORUM (Ingilizce, yayin ile birlikte pinleyin)
+PAKETLEME ve KAPAK SIRASI
+1) Baslik: 'Is Mercury Really a Dead Planet? What 2026 Shows' (48 karakter, arama dostu, abartisiz).
+2) Kapak sirasi: (a) ANA: 'NOT DEAD?' (soru isareti zorunlu; video soruyu inceliyor, cevabi 'bilmiyoruz, sessiz olabilir'); (b) ALTERNATIF: '400 BRIGHT STREAKS' (sayi dogrulandi); (c) yedek: 'Mercury, Revisited'. A/B icin YouTube Test & Compare kullanin (uygunsa): 'NOT DEAD?' ile '400 BRIGHT STREAKS' karsilastirin. Kapak onerisi kanalin 'WHO HIT US?' (544 izlenme, en iyisi) videosundan cikan, tek video temelli bir varsayimdir; olcum degil.
+
+SABITLENECEK YORUM (Ingilizce, yayinla birlikte pinleyin)
 "If BepiColombo's images in 2027 show no change since MESSENGER, would you read that as a quiet planet, or as a limit of what we can measure? Curious how you weigh it. Every study and source mentioned in the video is linked in the description."
 
-SCRIPT'TE KAYITTAN ONCE DOGRULANACAKLAR (revizyon notundan)
-Bern tarihi/sayilari (~112.000 goruntu, ~400 cizgi, %93 kuzey, %10 krater disi), GRL/DLR rakami (yaklasik 20 km, 19-23 araligi) ve NASA'nin 100.000 yil degeri birincil kaynaktan teyit edilmeli. 'Bern' kapak konsepti (400) bu sayiya bagli.
+DOGRULAMA (senaryoda kayittan once)
+Bern rakamlari (~100.000 goruntu, ~400 cizgi, %93 kuzey, %10 krater disi), GRL/DLR rakamlari (16 km -> 23 km, S6 AGU) ve NASA'nin 'The Young Ones' (S13) ve AP/KATU (S14, Nishiyama) atiflari birincil kaynaktan teyit edilmis olmali. 400 kapak konsepti bu sayiya baglidir. Aciklama ve sabit yorumda: streaks = yakin zamanli, muhtemelen suren gaz kaybi (hipotez, kimse bir cizginin olusmasini izlemedi); volkanizma depozitleri = gecmisteki patlamali volkanizma, yaslar belirsiz; konferans ozetleri hakemsiz.
 
-SHORTS KESIM FIKIRLERI (zamanlar yaklasik, sahne planindan netlestirilir; hepsi cumle basi/sonunda baslar-biter)
-1) ~02:52-03:30: Hollows 'son birkac dakika' benzetmesi. Kanca: '100,000 years'. Gunun en guclu parcasi, ilk Short bu olsun.
-2) ~01:32-02:25: Streak calismasi ve 'plausible, not proven'; kimse bir cizgiyi olusurken izlemedi. Kanca: '400 bright streaks'.
-3) ~06:30-07:20: 'No eruption has been observed' ... 'quiet is not the same as finished'. Kanca: 'Dead? Or quiet?'.
-(Istenirse 4. Short: ~04:20-05:10, 'squeezed, not removed' / yaklasik 20 km kuculme, hizdan ayri.)
+SHORTS KESIM FIKIRLERI (zamanlar kelime sayimina gore yaklasik; kesin sahne no'lari /shorts asamasinda belirlenir; hepsi cumle basinda baslar, cumle sonunda biter)
+1) ~01:43-02:23: Hollows. 'Almost no small craters inside the hollows ... may they still be forming?' Kanca: 'Still forming?'. Not: eski taslakta '100,000 years' kancasi vardi, script'te artik yok, KULLANMAYIN. En guclu parca, ilk Short.
+2) ~00:56-01:43: 'It found about four hundred bright streaks' ... 'plausible, not proven' ... 'nobody has watched a streak form'. Kanca: '400 bright streaks'.
+3) ~04:34-05:03: 'So where does that leave the label, dead planet?' ... 'quiet is not the same as finished'. Kanca: 'Dead? Or quiet?'. (~30 sn)
+4) ~02:39-03:24: 'Earlier estimates said up to about sixteen kilometres ... twenty three ... squeezed, not removed' ve 'about the past, not how fast it shrinks now'. Kanca: 'Up to 23 km'.
 
-SHORTS TAKVIMI (hepsi ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3; Aralik'ta da ayni ofsetler gecerli)
-- Ana video: Cum 27 Kas, 12:00 ET = 09:00 PT = 17:00 UK = 20:00 TR
-- Short 1: Cmt 28 Kas, 11:00 ET = 08:00 PT = 16:00 UK = 19:00 TR
-- Short 2: Sali 1 Ara, 12:00 ET = 09:00 PT = 17:00 UK = 20:00 TR (Pazartesi 30 Kas Cyber Monday, reklam rekabeti yuksek ve haber akisi dolu; o gunu atladik)
-- Short 3: Persembe 3 Ara, 12:00 ET = 09:00 PT = 17:00 UK = 20:00 TR
-- Short 4 (varsa): Cumartesi 5 Ara, 11:00 ET = 08:00 PT = 16:00 UK = 19:00 TR
-Bu da varsayim; ilk veriler gelince Analytics'e gore ayarlayin.
+SHORTS TAKVIMI (VARSAYIM, olcum degil; hepsi TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0)
+- Ana video: Sali 1 Ara, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK
+- Short 1 (hollows): Carsamba 2 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (ana videodan ~1 gun sonra; ayni gun yayinlayip ana videoyu bolmeyin)
+- Short 2 (streaks): Cuma 4 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK
+- Short 3 (dead or quiet): Pazar 6 Ara, 19:00 TR = 11:00 ET = 08:00 PT = 16:00 UK (hafta sonu ABD ogle oncesi)
+- Short 4 (shrinking): Sali 8 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (BepiColombo ayrilma haberi 9-10 Aralik'tan hemen once; bu Short'a ya da ana videoya ayrilma haberini baglayan bir pin ekleyebilirsiniz)
+- Opsiyonel 5. Short: Persembe 10 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (orbiter ayrilma gunu; yalniz yeni bir kesit varsa).
+- Cakisma: kanalin bu tarihler icin bildigim baska bir yuklemesi yok. Sonraki uzun video bu araliga duserse o gunku Short'u bir gun kaydirin ve Short'u uzun videodan en az birkac saat once ya da sonra koyun.
+- Bu takvim varsayimdir; ilk veriler gelince Analytics'e gore ayarlayin.
 
 ### Açıklama
 
-In 2026, new studies added to a decade of hints that Mercury may not be fully dead. Only one speaks directly to recent activity. Here is what each one shows, and what it does not.
+In 2026, new studies added to a decade of hints that Mercury may not be fully dead. Bright streaks point to recent, possibly ongoing gas loss; the shrinking and volcanism studies describe Mercury's past. Here is what each one shows, and what it does not.
 BepiColombo entered orbit around Mercury on 21 November 2026. We go through bright streaks, young hollows, a shrinking crust and volcanism hints, and ask what the spacecraft can actually test.
 
 Orbit details: BepiColombo entered orbit on 21 November 2026 (from 18:24 UTC). A software glitch put the spacecraft into safe mode and cut the braking burn short, so the orbit is about 75 hours instead of the planned 58. ESA says no extra thruster burns are needed. Source (ESA): https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury
 
 Chapters
-00:00 A new spacecraft at a quiet planet
-00:41 The arrival: a capture, not a finished job
-01:32 Bright streaks and the Bern study
-02:52 The hollows: young, maybe still forming
-03:56 A shrinking planet: how much, and how fast
-05:47 Volcanism hints: abstracts, not eruptions
-06:50 So, dead or quiet?
-07:43 What BepiColombo can test
-09:47 The honest answer
+00:00 A spacecraft arrives at Mercury
+00:47 Bright streaks and the Bern study
+01:43 The hollows: young, maybe still forming
+02:28 A shrinking planet: how much, and how fast
+03:57 Volcanism hints: abstracts, not eruptions
+04:34 So, dead or quiet?
+05:03 What BepiColombo can test
+06:48 The honest answer
 
 Sources
 S1. ESA, BepiColombo arrival latest updates: https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury
@@ -179,17 +186,19 @@ S2. ESA, BepiColombo arrival media kit: https://www.esa.int/Science_Exploration/
 S3. BepiColombo, Wikipedia: https://en.wikipedia.org/wiki/BepiColombo
 S4. University of Bern, streaks on Mercury (media release, 2026): https://mediarelations.unibe.ch/media_releases/2026/media_releases_2026/streaks_mercury/index_eng.html
 S5. Eos, oozing gas could be making stripes in Mercury's craters: https://eos.org/articles/oozing-gas-could-be-making-stripes-in-mercurys-craters
-S6. Scientific American, Mercury is shrinking: https://scientificamerican.com/article/the-planet-mercury-is-shrinking-far-faster-than-we-thought
+S6. AGU press release, Mercury is shrinking more than we thought: https://news.agu.org/press-release/mercury-is-shrinking-more-than-we-thought/
 S7. Nature Geoscience (2023), recent contraction on Mercury: https://www.nature.com/articles/s41561-023-01281-5
 S8. Open University, Mercury shrinking planet is still getting smaller: https://www.open.ac.uk/blogs/news/science-mct/mercury-shrinking-planet-is-still-getting-smaller-new-research
 S9. EPSC 2026 abstract EPSC2026-486: https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-486.html
 S10. NASA, Mercury's strange hollows: https://science.nasa.gov/solar-system/planets/mercury/mercurys-strange-hollows
 S11. Eos, Mercury's hollows may be young and active: https://eos.org/editor-highlights/mercurys-hollows-may-be-young-and-active
 S12. MESSENGER, Wikipedia: https://en.wikipedia.org/wiki/MESSENGER
+S13. NASA, The Young Ones: https://www.nasa.gov/image-article/young-ones
+S14. AP/KATU, Little Mercury may be shrinking faster than scientists expected: https://katu.com/news/nation-world/little-mercury-may-be-shrinking-faster-than-scientists-expected-09-12-2026
 
 Images and video: NASA, ESA and related credits as shown on screen. Illustrations are labelled.
 Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)
 
-This video separates what is measured from what is proposed. Items from conference abstracts are not peer reviewed.
+This video separates what is measured from what is proposed. Nobody has watched a streak form or an eruption happen. The streaks are a proposal of recent, possibly ongoing gas loss; the volcanic deposits described in the conference abstracts point to explosive volcanism in the past, with uncertain ages. Items from conference abstracts are not peer reviewed.
 
 **Etiketler:** Mercury, is Mercury dead, BepiColombo, MESSENGER, Mercury hollows, Mercury bright streaks, Mercury shrinking, planetary science, ESA, NASA, solar system, space science, Rebel Minds Cosmos
