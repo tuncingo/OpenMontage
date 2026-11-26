@@ -1,7 +1,7 @@
 # Görsel Kurulu Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Sahne:** 65 · **Tahmini süre:** 7 dk 10 sn
-**Görsel kaynağı:** 44 NASA/SVS arşivi (5 video klibi, 39 fotoğraf) · 21 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
+**Görsel kaynağı:** 49 NASA/SVS arşivi (5 video klibi, 44 fotoğraf) · 16 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
 **Müzik:** kanal/muzik/long_voyage_to_outer_space.mp3
 
 ## Yönetmen notu
@@ -18,28 +18,24 @@ Arka plan promptu: Real-image-based composition, no AI generation: take a real N
 ## Şematik grafikle çizilecek sahneler (arşivde uygun görsel yok; AI görsel YOK)
 - Sahne 1: Teal circle (Mercury) with a thin amber curved approach path ending in a closed elliptical orbit; small 'Illustration' label; label ORBIT ARRIVAL, 21 NOV. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 3: ESA-only subject, so draw a trajectory diagram: teal planet circle, teal approach arc, an amber segment marking the burn that stops short, label SAFE MODE and BRAKING BURN ENDED EARLY; 'Illustration' label. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 7: Crater outline in teal with thin amber streak lines down its slope and a question mark label UNEXPLAINED. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 9: Cross-section line drawing of a crater: teal profile, sun arrow in grey from the left, amber streaks on the sunlit slope; numeral 400 STREAKS. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 14: Pie or bar in grey with a 10 percent amber wedge labelled NOT IN CRATERS. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 18: Two panels: surrounding ground with many teal crater dots, hollow with almost none, amber outline around the hollow; labels MANY CRATERS and ALMOST NONE; source NASA. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 20: Three-step growth strip in teal: small pit to larger pit, amber marker on the first stage; label EARLY STAGE; 2025 STUDY. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 21: ESA-only subject: two overlapping orbit ellipses around a teal planet with an amber small hollow marker; 'Illustration'; label COME BACK TO THEM. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 27: Two-column table: STREAKS (amber, recent, possibly ongoing gas loss) and SHRINKING (teal); first column highlighted. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 28: Long grey timeline arrow, teal shaded span covering the entire length labelled WHOLE HISTORY, 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 30: Top-down grey surface with several parallel thin teal trench lines; label HUNDREDS OF SMALL TRENCHES; 2023. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 33: ESA-only: stylised craft icon in teal beside a camera cone in amber pointing at trenches; 'Illustration'; label MAY BE REFUTED. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 36: Layered cross-section: teal surface, buried amber ash layer, small plume above bright patch; label BURIED ASH; source EPSC 2026 abstracts. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 37: Big teal ring labelled CALORIS BASIN with a dashed amber cone shape inside labelled TENTATIVE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 46: Timeline 2018 to 2026 in grey, teal spiral path, amber end marker; label ABOUT EIGHT YEARS; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 47: Timeline with amber range bracket around APRIL 2027 labelled DATES MAY CHANGE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 48: Orbiter icon in teal firing a thin amber laser line down to a teal surface profile; 'Illustration'; label LASER ALTIMETER. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 54: Two overlaid crater outlines, teal older and amber newer, tiny offset; label COMPARE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 62: ESA-only: two orbiter icons moving apart, teal and amber, with dates 9 TO 10 DECEMBER; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 63: Teal planet outline with a small amber question mark. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 65: Three labels DEAD, QUIET, UNNAMED with the last in amber. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 
 ## Zayıf eşleşmeler (uyum < 6)
 - Sahne 4 (5/10): GSFC_20171208_Archive_e001922 MESSENGER'in yorungeden aldigi ilk renkli Merkur goruntusu; 'eski veriden gelen ipuclari' ifadesine dolayli olarak uyuyor ama zaman cizelgesi brief'ini karsilamiyor.
+- Sahne 7 (5/10): PIA19412 Derain havzasinin renkli MESSENGER goruntusu, yazi ve etiket icermeyen, parlak egimli kenarli bir krater yuzeyi sunuyor.
 - Sahne 11 (5/10): Chandra X-isini goruntusu (Antennae) sicak gaz akislari ve parlak bir cekirdek iceriyor; Merkur'den kacan gaz anlatimi icin soyut bir kozmik kesit olarak uygun ve uzerinde baslik veya yazi yok.
 - Sahne 15 (5/10): Tek bir krater merkezde sakin bir kompozisyon sunuyor; tek bir çizgi (streak) yok ama dingin ve Mercury'ye ait bir MESSENGER görüntüsü.
 - Sahne 19 (5/10): Uygun Merkur video adayi yok: SVS-4954 metinli veri diyagrami, SVS-30710 birden fazla gezegeni iceren genel bir sistem animasyonu, KSC MRO klibi ise baska bir gorev oldugu icin reddedildi; renkli Merkur haritasi (PIA17386) korundu.
