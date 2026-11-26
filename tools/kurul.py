@@ -682,7 +682,8 @@ def cmd_paketle(kod):
                          "purpose": s.get("purpose"), "motion": s.get("motion"), "transition": s.get("transition"),
                          "media": "video" if video else "photo",
                          "image": None if video else gorsel, "video": gorsel if video else None,
-                         "ai_prompt": None if gorsel else s.get("ai_prompt"),
+                         "schematic": None if gorsel else (s.get("schematic_brief") or None),
+                         "ai_prompt": None if (gorsel or s.get("schematic_brief")) else s.get("ai_prompt"),
                          "overlays": ov.get(sid, []), "evidence_tracker": ev.get(sid)})
         t += dur
     with open(os.path.join(ROOT, "kanal", "stil_rehberi.md"), encoding="utf-8") as f:
@@ -703,26 +704,38 @@ def cmd_paketle(kod):
     yaz(os.path.join(d, "credits.txt"), "Image & video credits:\n" + "\n".join(sorted(kredi)) + "\n"
         + (("\n" + muzik_kredi) if muzik_kredi else ""))
     n_nasa = len(sahneler) - len(eksik)
+    n_sema = sum(1 for s in eksik if s.get("schematic_brief"))
+    bos = [s for s in eksik if not s.get("schematic_brief") and not s.get("ai_prompt")]
     n_vid = sum(1 for x in sahneler if x["media"] == "video")
     md = [f"# Görsel Kurulu Raporu — {kod}", "",
           f"**Sahne:** {len(sahneler)} · **Tahmini süre:** {int(t // 60)} dk {int(t % 60)} sn",
-          f"**Görsel kaynağı:** {n_nasa} NASA/SVS arşivi ({n_vid} video klibi, {n_nasa - n_vid} fotoğraf) · {len(eksik)} sahne AI promptuyla üretilecek",
+          f"**Görsel kaynağı:** {n_nasa} NASA/SVS arşivi ({n_vid} video klibi, {n_nasa - n_vid} fotoğraf) · {n_sema} sahne şematik grafikle çizilecek · {len(eksik) - n_sema - len(bos)} sahne AI promptlu (eski) · {len(bos)} sahne BOŞ",
           f"**Müzik:** {prod['music_file'] or 'bulunamadı'}", "",
           "## Yönetmen notu", plan.get("director_notes", ""), "", "## Grafiker notu", g.get("design_notes", ""), "",
           "## Thumbnail", f"\"{(g.get('thumbnail') or {}).get('headline', '')}\" — {(g.get('thumbnail') or {}).get('layout', '')}",
           "", f"Arka plan promptu: {(g.get('thumbnail') or {}).get('image_prompt', '')}", ""]
-    if eksik:
-        md += ["## AI ile üretilecek sahneler (arşivde uygun görsel yok)"]
-        md += [f"- Sahne {s['id']}: {s.get('ai_prompt', '')}" for s in eksik]
+    if bos:
+        md += ["## ⚠️ BOŞ KALAN SAHNELER (ne arşiv görseli ne şematik tarif var)"]
+        md += [f"- Sahne {s['id']}: {s.get('visual_brief', '')}" for s in bos]
+        md.append("")
+    sema = [s for s in eksik if s.get("schematic_brief")]
+    if sema:
+        md += ["## Şematik grafikle çizilecek sahneler (arşivde uygun görsel yok; AI görsel YOK)"]
+        md += [f"- Sahne {s['id']}: {s['schematic_brief']}" for s in sema]
+        md.append("")
+    eski = [s for s in eksik if not s.get("schematic_brief") and s.get("ai_prompt")]
+    if eski:
+        md += ["## AI promptlu sahneler (eski biçim)"]
+        md += [f"- Sahne {s['id']}: {s.get('ai_prompt', '')}" for s in eski]
         md.append("")
     if zayif:
         md += ["## Zayıf eşleşmeler (uyum < 6)"]
         md += [f"- Sahne {sid} ({sc.get('fit_score')}/10): {sc.get('reason')}" for sid, sc in zayif]
         md.append("")
-    md += ["## Render için", "`production.json` + `assets/` render hattına hazır. `ai_prompt` alanı dolu sahneler için görseli ücretsiz araçlarınla üret.",
+    md += ["## Render için", "`production.json` + `assets/` render hattına hazır. `schematic` alanı dolu sahneler kod ile çizilen şematik grafiktir (kanal stil rehberi: zemin #05070C, teal #62C2CF, amber #D9A25B, Inter, etiket ≥36px, hafif hareketli kozmik doku); `ai_prompt` alanı dolu (eski biçim) sahneler için görseli ücretsiz araçlarınla üret.",
            "Açıklamaya `credits.txt` içeriğini ekle."]
     yaz(os.path.join(d, "gorsel_raporu.md"), "\n".join(md) + "\n")
-    print(f"PAKET: {len(sahneler)} sahne, ~{mmss(t)} · {n_nasa} arşiv görseli ({n_vid} video) · {len(eksik)} AI sahnesi · {len(zayif)} zayıf eşleşme")
+    print(f"PAKET: {len(sahneler)} sahne, ~{mmss(t)} · {n_nasa} arşiv görseli ({n_vid} video) · {n_sema} şematik sahne · {len(eksik) - n_sema - len(bos)} AI (eski) · {len(bos)} BOŞ · {len(zayif)} zayıf eşleşme")
     print(f"DOSYALAR: bolumler/{kod}/production.json, gorsel_raporu.md, credits.txt")
 
 
