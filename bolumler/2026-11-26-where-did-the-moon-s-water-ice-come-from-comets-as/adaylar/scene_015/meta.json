@@ -1,0 +1,113 @@
+{
+  "scene_id": 15,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "Comets hit the Moon very fast, and a fast impact keeps less water. So the review treats comets as a minor source.",
+  "visual_brief": "Fast impact on the Moon with ejecta flying.",
+  "purpose": "explain",
+  "nasa_query": "Moon impact flash",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_015/aday_0.jpg",
+      "nasa_id": "GSFC_20150317_LRO_m11806_NewCrater",
+      "title": "New Craters on the Moon",
+      "center": "GSFC",
+      "date": "2015-03-17",
+      "description": "Planetary scientists believe that small impacts regularly bombard the Moon, but until recently, they’ve had no way to distinguish new craters from the already pockmarked lunar surface. In 2009, NASA’s Lunar Reconnaissance Orbiter (LRO) arrived at the Moon and began taking high-resolution photographs",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150317_LRO_m11806_NewCrater/GSFC_20150317_LRO_m11806_NewCrater~preview.mp4"
+      ],
+      "duration_s": 277.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_015/aday_1.jpg",
+      "nasa_id": "SVS-3731",
+      "title": "LOLA: Lunar Topography in Natural Color",
+      "center": "NASA SVS",
+      "date": "2010-06-21",
+      "description": "This animation is a brief tour of several prominent features of the Moon's terrain: Tycho crater, the south pole, and the South Pole-Aitken basin. It is match-moved to a companion piece showing the terrain elevations in false color.This is an update of animation 3594, which was produced before the l",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003731/spfly.0001.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003731/spflyvis_720p.mp4",
+      "duration_s": 100.0,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/3731/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_015/aday_2.jpg",
+      "nasa_id": "SVS-3727",
+      "title": "LOLA Lunar Topography in False Color",
+      "center": "NASA SVS",
+      "date": "2010-06-11",
+      "description": "This animation is a brief tour of several prominent features of the Moon's terrain: Tycho crater, the south pole, and the South Pole-Aitken basin. The height of the terrain is color-coded, with blues and greens representing low altitudes and reds representing high altitudes. The view is match-moved ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003727/spflycolor.0200.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003727/spflycolor_720p30.mp4",
+      "duration_s": 100.0,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/3727/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_015/aday_3.jpg",
+      "nasa_id": "art002e009575",
+      "title": "A Sunrise for Orion",
+      "center": "JSC",
+      "date": "2026-04-07",
+      "description": "art002e009575 (April 6, 2026) - The Sun is rising at the left edge of the Moon, ending a nearly one-hour total solar eclipse on April 6, 2026. While the Sun hid behind the Moon, the crew aboard the Orion spacecraft, pictured in the forefront, saw a Moon shrouded in night. This offered a perfect oppo",
+      "links": [
+        "https://images-assets.nasa.gov/image/art002e009575/art002e009575~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e009575/art002e009575~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e009575/art002e009575~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e009575/art002e009575~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e009575/art002e009575~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_015/aday_4.jpg",
+      "nasa_id": "art002e016252_impactflash_annotation_cropped",
+      "title": "Artemis II Crew Annotating Impact Flashes",
+      "center": "JSC",
+      "date": "2026-04-07",
+      "description": "art002e016252 (April 7, 2026) –A screenshot from an Artemis II crew member’s tablet shows handwritten annotations made during the lunar flyby on April 6, 2026, atop a visualization of the dark Moon eclipsing the Sun. Three crew members, who signed their first names, noted impact flashes and their lo",
+      "links": [
+        "https://images-assets.nasa.gov/image/art002e016252_impactflash_annotation_cropped/art002e016252_impactflash_annotation_cropped~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e016252_impactflash_annotation_cropped/art002e016252_impactflash_annotation_cropped~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e016252_impactflash_annotation_cropped/art002e016252_impactflash_annotation_cropped~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e016252_impactflash_annotation_cropped/art002e016252_impactflash_annotation_cropped~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e016252_impactflash_annotation_cropped/art002e016252_impactflash_annotation_cropped~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

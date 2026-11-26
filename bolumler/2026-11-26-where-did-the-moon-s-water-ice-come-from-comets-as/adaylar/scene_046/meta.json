@@ -1,0 +1,153 @@
+{
+  "scene_id": 46,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "A separate Berkeley team reported evidence that Earth's magnetosphere can create water on the lunar surface.",
+  "visual_brief": "Earth's magnetosphere shaped by the solar wind.",
+  "purpose": "cutaway",
+  "nasa_query": "Earth magnetosphere",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_0.jpg",
+      "nasa_id": "GSFC_20181022_ICON_m12902_Airglow",
+      "title": "The Secrets behind Earth’s Multi-colored Glow",
+      "center": "GSFC",
+      "date": "2018-10-22",
+      "description": "What does our planet look like from space? Most are familiar with the beloved images of the blue marble or pale blue dot — Earth from 18,000 and 3.7 billion miles away, respectively. But closer to home, within the nearest region of space, you might encounter an unfamiliar sight. If you peer down on ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~orig.mp4"
+      ],
+      "duration_s": 194.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_1.jpg",
+      "nasa_id": "GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath",
+      "title": "NASA Spacecraft Finds New Magnetic Process in Turbulent Space: Exploring Turbulent Space Around Earth",
+      "center": "GSFC",
+      "date": "2018-05-09",
+      "description": "Though close to home, the space immediately around Earth is full of hidden secrets and invisible processes. In a new discovery reported in the journal Nature, scientists working with NASA’s Magnetospheric Multiscale spacecraft — MMS — have uncovered a new type of magnetic event in our near-Earth env",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath/GSFC_20180509_MMS_m12901_Turbulent_Magnetosheath~orig.mp4"
+      ],
+      "duration_s": 10.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_2.jpg",
+      "nasa_id": "GSFC_20143101_MMS_m11308_Challenges",
+      "title": "MMS: Engineering Challenges",
+      "center": "GSFC",
+      "date": "2014-01-31",
+      "description": "It's hard enough to build one spacecraft, but the Magnetospheric Multiscale Mission (MMS) is building four. Together, the spacecraft will unlock the mysteries of magnetic reconnection, when magnetic fields explosively connect and disconnect, transferring energy.",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~orig.mp4"
+      ],
+      "duration_s": 106.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_3.jpg",
+      "nasa_id": "SVS-15114",
+      "title": "Star Charts for ESCAPADE’s Earth Flyby",
+      "center": "NASA SVS",
+      "date": "2026-11-02",
+      "description": "In November 2026, each of NASA’s two **ESCAPADE** (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft will perform a “powered” flyby of Earth, combining Earth’s gravity with an approximately 9-minute engine burn, to slingshot itself toward Mars.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Boulder/Boulder-star-chart-Nov7.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Berkeley/Berkeley-star-chart-Nov7-movie.mp4",
+      "duration_s": 30.0,
+      "width": 1080,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15114/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_4.jpg",
+      "nasa_id": "SVS-5648",
+      "title": "The Moon Passes In and Out of Earth's Magnetosphere",
+      "center": "NASA SVS",
+      "date": "2026-07-02",
+      "description": "The Moon orbits Earth at a distance of more than 200,000 miles. Earth's magnetosphere, the protective magnetic bubble that surrounds us, is shaped like a tadpole. The Sun-facing side of the magnetosphere does not reach the distance of the Moon's orbit, but the tail extends far beyond it. This visual",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005648/moonGamera_Moon_6-25-2026a_moon_wind.00600_thumb.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005648/moonGamera_Moon_6-25-2026a_moon_wind_1080p30.mp4",
+      "duration_s": 100.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5648/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_046/aday_5.jpg",
+      "nasa_id": "201408040004HQ",
+      "title": "MMS at NRL",
+      "center": "HQ",
+      "date": "2014-08-04",
+      "description": "NASA Administrator Charles Bolden listens to Magnetospheric Multiscale (MMS) Mission Project Manager Craig Tooley talk about the MMS mission outside of a Naval Research Laboratory cleanroom where one of four Magnetospheric Multiscale (MMS) spacecraft is currently undergoing testing, Monday, August 4",
+      "links": [
+        "https://images-assets.nasa.gov/image/201408040004HQ/201408040004HQ~medium.jpg",
+        "https://images-assets.nasa.gov/image/201408040004HQ/201408040004HQ~small.jpg",
+        "https://images-assets.nasa.gov/image/201408040004HQ/201408040004HQ~thumb.jpg",
+        "https://images-assets.nasa.gov/image/201408040004HQ/201408040004HQ~large.jpg",
+        "https://images-assets.nasa.gov/image/201408040004HQ/201408040004HQ~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

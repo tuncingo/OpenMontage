@@ -1,0 +1,75 @@
+{
+  "scene_id": 51,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "The oldest, darkest cold traps hold the most ice. In the most ancient ones, more than ten percent of the surface is covered.",
+  "visual_brief": "Radar ice map of the lunar pole.",
+  "purpose": "explain",
+  "nasa_query": "Mini-RF lunar ice",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_051/aday_0.jpg",
+      "nasa_id": "PIA09224",
+      "title": "Thickness of Mars South Polar Layered Deposits",
+      "center": "JPL",
+      "date": "2007-03-15",
+      "description": "This map shows the thickness of the south polar layered deposits of Mars, an ice-rich geologic unit that was probed by the Mars Advanced Radar for Subsurface and Ionospheric Sounding MARSIS",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09224/PIA09224~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA09224/PIA09224~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09224/PIA09224~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09224/PIA09224~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA09224/PIA09224~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_051/aday_1.jpg",
+      "nasa_id": "PIA10653",
+      "title": "Peeling Back Layers of a Martian Polar Ice Cap Artist Concept",
+      "center": "JPL",
+      "date": "2008-05-15",
+      "description": "This artist animation illustrates how NASA Mars Reconnaissance Orbiter used radar to map the insides of the north polar ice cap on Mars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10653/PIA10653~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10653/PIA10653~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10653/PIA10653~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_051/aday_2.jpg",
+      "nasa_id": "PIA12200",
+      "title": "Radar Mapping of Icy Layers Under Mars North Pole",
+      "center": "JPL",
+      "date": "2009-09-22",
+      "description": "This composite graphic illustrates the use of the Shallow Radar instrument on NASA Mars Reconnaissance Orbiter for mapping underground ice-rich layers of the north polar layered terrain on Mars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12200/PIA12200~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12200/PIA12200~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_051/aday_3.jpg",
+      "nasa_id": "PIA21138",
+      "title": "Location of Large Subsurface Water-Ice Deposit in Utopia Planitia, Mars",
+      "center": "JPL",
+      "date": "2016-11-22",
+      "description": "Diagonal striping on this map of a portion of the Utopia Planitia region on Mars indicates the area where a large subsurface deposit rich in water ice was assessed using the Shallow Radar (SHARAD) instrument on NASA's Mars Reconnaissance Orbiter. The area is about halfway between the planet's equato",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA21138/PIA21138~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA21138/PIA21138~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "scene_id": 36,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "Making molecular water needs about four hundred kelvin. The cold traps are far colder.",
+  "visual_brief": "Moon surface temperature swinging from day to night.",
+  "purpose": "explain",
+  "nasa_query": "Moon surface temperature",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_036/aday_0.jpg",
+      "nasa_id": "GSFC_20110617_LRO_m10794_Temp",
+      "title": "LRO's Diviner Takes the Moon's Temperature During Eclipse",
+      "center": "GSFC",
+      "date": "2011-06-17",
+      "description": "During the June 2011 lunar eclipse, scientists will be able to get a unique view of the moon. While the sun is blocked by the Earth, LRO's Diviner instrument will take the temperature on the lunar surface. Since different rock sizes cool at different rates, scientists will be able to infer the size ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Temp/GSFC_20110617_LRO_m10794_Temp~orig.mp4"
+      ],
+      "duration_s": 100.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_036/aday_1.jpg",
+      "nasa_id": "GSFC_20110617_LRO_m10794_Eclipse_closeup",
+      "title": "LRO's Diviner Takes the Moon's Temperature During Eclipse: Eclipse Closeup",
+      "center": "GSFC",
+      "date": "2011-06-17",
+      "description": "During the June 2011 lunar eclipse, scientists will be able to get a unique view of the moon. While the sun is blocked by the Earth, LRO's Diviner instrument will take the temperature on the lunar surface. Since different rock sizes cool at different rates, scientists will be able to infer the size ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_closeup/GSFC_20110617_LRO_m10794_Eclipse_closeup~orig.mp4"
+      ],
+      "duration_s": 120.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_036/aday_2.jpg",
+      "nasa_id": "GSFC_20110617_LRO_m10794_Eclipse_Diviner",
+      "title": "LRO's Diviner Takes the Moon's Temperature During Eclipse: Diviner",
+      "center": "GSFC",
+      "date": "2011-06-17",
+      "description": "During the June 2011 lunar eclipse, scientists will be able to get a unique view of the moon. While the sun is blocked by the Earth, LRO's Diviner instrument will take the temperature on the lunar surface. Since different rock sizes cool at different rates, scientists will be able to infer the size ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20110617_LRO_m10794_Eclipse_Diviner/GSFC_20110617_LRO_m10794_Eclipse_Diviner~orig.mp4"
+      ],
+      "duration_s": 15.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_036/aday_3.jpg",
+      "nasa_id": "PIA01232",
+      "title": "Temperature Map of Ganymede",
+      "center": "JPL",
+      "date": "1998-04-02",
+      "description": "This map shows the temperatures for most of the surface of Ganymede made from data taken by on Jun. 26, 1996 as NASA Galileo approached the sunlit side of the moon. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA01232/PIA01232~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA01232/PIA01232~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_036/aday_4.jpg",
+      "nasa_id": "PIA22250",
+      "title": "Mars Odyssey Observes Deimos",
+      "center": "JPL",
+      "date": "2018-02-22",
+      "description": "Colors in this image of the Martian moon Deimos indicate a range of surface temperatures detected by observing the moon on February 15, 2018, with the Thermal Emission Imaging System (THEMIS) camera on NASA's Mars Odyssey orbiter. The left edge of the small moon is in darkness, and the right edge in",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA22250/PIA22250~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22250/PIA22250~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22250/PIA22250~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22250/PIA22250~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA22250/PIA22250~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

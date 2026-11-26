@@ -1,0 +1,169 @@
+{
+  "scene_id": 1,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "The Moon has ice. That part is settled. What nobody can say for sure is whose water it is.",
+  "visual_brief": "The Moon slowly rotating in black space, south pole turning into view.",
+  "purpose": "hook",
+  "nasa_query": "Moon rotating",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_0.jpg",
+      "nasa_id": "Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023",
+      "title": "Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023",
+      "center": "HQ",
+      "date": "2023-07-28",
+      "description": "Our next space station crew rotation flight, a launch day simulation for our upcoming Moon mission, and visiting the splashdown recovery crew for Artemis II … a few of the stories to tell you about – This Week at NASA.",
+      "links": [
+        "https://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~large.jpg",
+        "https://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~medium.jpg",
+        "https://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~small.jpg",
+        "https://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~large.mp4",
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~medium.mp4",
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~small.mp4",
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~preview.mp4",
+        "http://images-assets.nasa.gov/video/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023/Our Next Space Station Crew Rotation Flight on This Week @NASA – July 28, 2023~orig.mp4"
+      ],
+      "duration_s": 147.5,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_1.jpg",
+      "nasa_id": "KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348",
+      "title": "Artemis II Stacking - Booster Segments in RPSF",
+      "center": "KSC",
+      "date": "2024-11-15",
+      "description": "Artemis II Stacking - Booster Segments in RPSF",
+      "links": [
+        "https://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~large.jpg",
+        "https://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~medium.jpg",
+        "https://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~small.jpg",
+        "https://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~large.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~medium.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~mobile.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~small.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~preview.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~orig.mp4",
+        "http://images-assets.nasa.gov/video/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348/KSC-20241115-MH-FMX01-0001-Artemis-II-Stacking_Booster_Segment_RPSF-M10348~orig.mp4"
+      ],
+      "duration_s": 536.4,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_2.jpg",
+      "nasa_id": "NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024",
+      "title": "A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024",
+      "center": "HQ",
+      "date": "2024-02-23",
+      "description": "A commercial lander touches down on the Moon, discussing the science on the space station, and preparing for the next space station crew rotation mission … a few of the stories to tell you about – This Week at NASA! Video Producer: Andre Valentine Video Editor: Andre Valentine Narrator: Emanuel Coop",
+      "links": [
+        "https://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~large.jpg",
+        "https://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~medium.jpg",
+        "https://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~small.jpg",
+        "https://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~large.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~medium.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~mobile.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~small.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~preview.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~orig.mp4",
+        "http://images-assets.nasa.gov/video/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024/NHQ_2024_0223_A Commercial Lander Touches Down on the Moon on This Week @NASA – February 23, 2024~orig.mp4"
+      ],
+      "duration_s": 157.8,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_3.jpg",
+      "nasa_id": "SVS-5692",
+      "title": "Moon Phase and Libration, 2027 South Up",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals. The orientation is south-up.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/phases_2027_fancy_s_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5692/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_4.jpg",
+      "nasa_id": "SVS-5691",
+      "title": "Moon Phase and Libration, 2027",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/phases_2027_fancy_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5691/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_5.jpg",
+      "nasa_id": "PIA14665",
+      "title": "Dusk on Dione",
+      "center": "JPL",
+      "date": "2013-06-17",
+      "description": "In this recent view of Dione, the Cassini spacecraft looks on as the moon slow rotation brings the terrain from day into night. Dione rotation period is 66 hours.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA14665/PIA14665~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA14665/PIA14665~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA14665/PIA14665~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_001/aday_6.jpg",
+      "nasa_id": "PIA17902",
+      "title": "Rotating Globe of Ganymede Geology",
+      "center": "JPL",
+      "date": "2014-02-12",
+      "description": "This is a frame from an animation of a rotating globe of Jupiter moon Ganymede, with a geologic map superimposed over a global color mosaic, incorporating the best available imagery from NASA Voyager 1 and 2 spacecraft, and Galileo spacecraft.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17902/PIA17902~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17902/PIA17902~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17902/PIA17902~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

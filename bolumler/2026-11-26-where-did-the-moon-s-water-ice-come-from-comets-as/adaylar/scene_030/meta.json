@@ -1,0 +1,83 @@
+{
+  "scene_id": 30,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "When protons strike dusty soil, they can make hydroxyl and water in the grains.",
+  "visual_brief": "Close-up of fine lunar dust and soil.",
+  "purpose": "explain",
+  "nasa_query": "Apollo lunar soil",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_030/aday_0.jpg",
+      "nasa_id": "as14-64-9127",
+      "title": "Close-up view of lunar soil and boot prints made by Apollo 14 crew",
+      "center": "JSC",
+      "date": "1971-02-06",
+      "description": "AS14-64-9127 (5-6 Feb. 1971) --- A close-up view of lunar soil, showing bootprints made by the Apollo 14 astronauts during extravehicular activity (EVA) on the lunar surface. Also visible are tracks made by the modularized equipment transporter (MET) and deployed gnomon. Astronauts Alan B. Shepard J",
+      "links": [
+        "https://images-assets.nasa.gov/image/as14-64-9127/as14-64-9127~medium.jpg",
+        "https://images-assets.nasa.gov/image/as14-64-9127/as14-64-9127~small.jpg",
+        "https://images-assets.nasa.gov/image/as14-64-9127/as14-64-9127~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as14-64-9127/as14-64-9127~large.jpg",
+        "https://images-assets.nasa.gov/image/as14-64-9127/as14-64-9127~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_030/aday_1.jpg",
+      "nasa_id": "as16-107-17561",
+      "title": "Apollo 16 astronauts take lunar soil sample from Station no.9 during EVA",
+      "center": "JSC",
+      "date": "1971-04-22",
+      "description": "AS16-107-17561 (16-27 April 1972) --- One of the Apollo 16 astronauts scoops up lunar soil at the base of a small boulder at Station No. 9 during the second Apollo 16 extravehicular activity (EVA) at the Descartes landing site. Depressions to the right of the scoop were made when a surface sample wa",
+      "links": [
+        "https://images-assets.nasa.gov/image/as16-107-17561/as16-107-17561~medium.jpg",
+        "https://images-assets.nasa.gov/image/as16-107-17561/as16-107-17561~small.jpg",
+        "https://images-assets.nasa.gov/image/as16-107-17561/as16-107-17561~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as16-107-17561/as16-107-17561~large.jpg",
+        "https://images-assets.nasa.gov/image/as16-107-17561/as16-107-17561~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_030/aday_2.jpg",
+      "nasa_id": "as17-137-20989",
+      "title": "View of the orange soil which Apollo 17 crewmen found at Station 4 during EVA",
+      "center": "JSC",
+      "date": "1972-12-12",
+      "description": "AS17-137-20989 (12 Dec. 1972) --- A close-up view of the much-publicized orange soil which the Apollo 17 crewmen found at Station 4 (Shorty Crater) during the second Apollo 17 extravehicular activity (EVA) at the Taurus-Littrow landing site. The orange soil was first spotted by scientist-astronaut H",
+      "links": [
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~medium.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~small.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~large.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_030/aday_3.jpg",
+      "nasa_id": "AS12-47-6932",
+      "title": "Close-up view of set of tongs being used to pick up lunar samples",
+      "center": "JSC",
+      "date": "1969-11-19",
+      "description": "AS12-47-6932 (19 Nov. 1969) --- Close-up view of a set of tongs, an Apollo Lunar Hand Tool, being used by astronaut Charles Conrad Jr., commander, to pick up lunar samples during the Apollo 12 extravehicular activity. This photograph shows Conrad's legs and a good view of the lunar soil.",
+      "links": [
+        "https://images-assets.nasa.gov/image/AS12-47-6932/AS12-47-6932~medium.jpg",
+        "https://images-assets.nasa.gov/image/AS12-47-6932/AS12-47-6932~small.jpg",
+        "https://images-assets.nasa.gov/image/AS12-47-6932/AS12-47-6932~thumb.jpg",
+        "https://images-assets.nasa.gov/image/AS12-47-6932/AS12-47-6932~large.jpg",
+        "https://images-assets.nasa.gov/image/AS12-47-6932/AS12-47-6932~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

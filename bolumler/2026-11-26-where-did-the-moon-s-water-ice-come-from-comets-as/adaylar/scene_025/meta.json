@@ -1,0 +1,152 @@
+{
+  "scene_id": 25,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "That is an estimate, not a measurement. But it shows the idea does not need a miracle.",
+  "visual_brief": "Colourful nebula in a slow glide, a calm pause in the argument.",
+  "purpose": "cutaway",
+  "nasa_query": "Webb Carina",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_0.jpg",
+      "nasa_id": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "title": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "center": "HQ",
+      "date": "2022-07-13",
+      "description": "Description: NASA revealed the first five full-color images and spectrographic data from the world's most powerful space telescope, the James Webb Space Telescope, a partnership with ESA (European Space Agency), and CSA (Canadian Space Agency). The world got its first look at the full capabilities o",
+      "links": [
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~mobile.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~preview.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~orig.mp4"
+      ],
+      "duration_s": 190.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_1.jpg",
+      "nasa_id": "GSFC_NSL_Webb_Images_Ep44",
+      "title": "NASA Science Live: Webb’s First Full-Color Images Explained [Episode 44]",
+      "center": "GSFC",
+      "date": "2022-07-13",
+      "description": "NASA released the first full-color images and data from the James Webb Space Telescope on July 12. These images demonstrate Webb’s capability to #UnfoldTheUniverse and provide views of the cosmos that humanity has never seen before. Join Webb experts for a conversation to learn how Webb is revealing",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~orig.mp4"
+      ],
+      "duration_s": 3540.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_2.jpg",
+      "nasa_id": "JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe",
+      "title": "NASA Telescopes Reveal an Invisible Infrared Universe",
+      "center": "JPL",
+      "date": "2023-12-22",
+      "description": "For 40 years, NASA has expanded our view of the universe with space telescopes that detect infrared light, which is invisible to the human eye. Observing the infrared realm helps us study the origins of planets, stars, galaxies, and even the universe itself. NASA’s James Webb Space Telescope is the ",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4"
+      ],
+      "duration_s": 93.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_3.jpg",
+      "nasa_id": "SVS-31348",
+      "title": "Exploring the Cosmic Cliffs in 3D",
+      "center": "NASA SVS",
+      "date": "2025-05-21",
+      "description": "In July 2022, NASA’s James Webb Space Telescope made history, revealing a breathtaking view of a region now nicknamed the Cosmic Cliffs. This glittering landscape, captured in incredible detail, is part of the nebula Gum 31 — a small piece of the vast Carina Nebula Complex",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031348/Clifs-3d-STScI_thumbnail.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031348/Clifs-3d-STSc1080.mp4",
+      "duration_s": 103.6,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/31348/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_4.jpg",
+      "nasa_id": "carina_nebula",
+      "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+      "center": "STScI (Webb)",
+      "date": "2022-07-12",
+      "description": "What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, this image reveals previously obscured areas of",
+      "links": [
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~medium.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~thumb.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~large.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_025/aday_5.jpg",
+      "nasa_id": "NHQ202207120010",
+      "title": "JWST’s First Full-Color Images",
+      "center": "HQ",
+      "date": "2022-07-12",
+      "description": "The image captured by NASA’s James Webb Space Telescope of the star-forming region called NGC 3324 in the Carina Nebula is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Space Telescope, Tuesday, July 12, 2022, at ",
+      "links": [
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~medium.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~small.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~large.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

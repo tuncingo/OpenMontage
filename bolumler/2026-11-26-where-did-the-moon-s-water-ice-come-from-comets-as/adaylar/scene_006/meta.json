@@ -1,0 +1,143 @@
+{
+  "scene_id": 6,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "The plume was roughly five percent water by mass, with a wide margin of error. Pure ice crystals were seen in the debris.",
+  "visual_brief": "The LCROSS impact plume rising from Cabeus.",
+  "purpose": "evidence",
+  "nasa_query": "LCROSS impact",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_0.jpg",
+      "nasa_id": "ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb",
+      "title": "Mission Animation: NASA’s Lunar Crater Observation and Sensing Satellite, or LCROSS",
+      "center": "ARC",
+      "date": "2019-10-07",
+      "description": "This video is an updated animation of the Lunar Crater Observation and Sensing Satellite, or LCROSS, mission. On Oct. 9, 2009, LCROSS intentionally impacted the lunar surface in Cabeus Crater at the Moon's South Pole. The data it collected confirmed the presence of useful materials in the soil at th",
+      "links": [
+        "https://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb/ARC-20191007-AAV3225-LCROSS-10thAnniv-MisisonAnimation-NASAWeb~orig.mp4"
+      ],
+      "duration_s": 87.7,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_1.jpg",
+      "nasa_id": "ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb",
+      "title": "LCROSS Mission - 10 Year Anniversary Discussion",
+      "center": "ARC",
+      "date": "2019-10-09",
+      "description": "On October 9, 2019, at NASA’s Ames Research Center in California’s Silicon Valley, LCROSS project manager Daniel Andrews and principal investigator Anthony Colaprete remember the 10-year anniversary of the mission. The Lunar Crater Observation and Sensing Satellite confirmed the presence of water ic",
+      "links": [
+        "https://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb/ARC-20191009-AAV3228-LCROSS-10thAnniv-AllHands-NASAWeb~orig.mp4"
+      ],
+      "duration_s": 4378.4,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_2.jpg",
+      "nasa_id": "SVS-3785",
+      "title": "LAMP Observes the LCROSS Impact",
+      "center": "NASA SVS",
+      "date": "2010-10-21",
+      "description": "A two-ton Atlas Centaur rocket body, part of the Lunar Crater Observation and Sensing Satellite (LCROSS), struck the floor of Cabeus crater, near the south pole of the moon, at 11:31 UT on October 9, 2009. The purpose of the crash was to create a plume of debris that could be examined for the presen",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003785/lcross_lamp_date.0512.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003785/lcross_lamp.mp4",
+      "duration_s": 30.0,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/3785/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_3.jpg",
+      "nasa_id": "SVS-3654",
+      "title": "Modeling the LCROSS Impact Site",
+      "center": "NASA SVS",
+      "date": "2009-10-09",
+      "description": "A two-ton Atlas Centaur rocket body, part of the Lunar Crater Observation and Sensing Satellite (LCROSS), struck the floor of Cabeus crater, near the south pole of the moon, at 11:31 UT on October 9, 2009. The purpose of the crash was to create a plume of debris that could be examined for the presen",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003654/lcross_composite.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+      "duration_s": 118.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/3654/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_4.jpg",
+      "nasa_id": "ARC-2009-ACD09-0220-126",
+      "title": "ARC-2009-ACD09-0220-126",
+      "center": "ARC",
+      "date": "2009-10-09",
+      "description": "LCROSS Impact Night From left to right: Khanh Trinh (Simulator Engineer), and Dan Andrews (LCROSS Project Manager) in background, John Bresina (Command Sequencing Engineer), and John Schreiner (Mission Operations Manager), shake hands after confirmation the LCROSS spacecraft successfully impacted it",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_006/aday_5.jpg",
+      "nasa_id": "ARC-2009-ACD09-0220-050",
+      "title": "ARC-2009-ACD09-0220-050",
+      "center": "ARC",
+      "date": "2009-10-08",
+      "description": "LCROSS Impact Night: Media interviews with Brian Day, Planners Collaborative, Inc. of the NASA Ames' LCROSS team.",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-050/ARC-2009-ACD09-0220-050~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-050/ARC-2009-ACD09-0220-050~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-050/ARC-2009-ACD09-0220-050~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-050/ARC-2009-ACD09-0220-050~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-050/ARC-2009-ACD09-0220-050~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

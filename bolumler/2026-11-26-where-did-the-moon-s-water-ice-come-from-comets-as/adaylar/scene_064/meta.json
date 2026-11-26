@@ -1,0 +1,148 @@
+{
+  "scene_id": 64,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "Remember the comet disagreement? It is still unresolved. And that is exactly why the isotopes matter.",
+  "visual_brief": "A bright comet racing through the stars.",
+  "purpose": "cutaway",
+  "nasa_query": "Comet NEOWISE",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_0.jpg",
+      "nasa_id": "HQ_20200715_NSL_Ep19_v3",
+      "title": "NASA Science Live: How to Spot Comet NEOWISE [Episode 19]",
+      "center": "HQ",
+      "date": "2020-07-15",
+      "description": "Have you seen Comet NEOWISE in the sky? ☄️ Visiting from the most distant parts of our solar system, it made its once-in-our-lifetimes close approach to the Sun on July 3, 2020 and will cross outside Earth’s orbit on its way back to the outer parts of the solar system by mid-August. Join experts on ",
+      "links": [
+        "https://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~large.jpg",
+        "https://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~medium.jpg",
+        "https://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~small.jpg",
+        "https://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~medium.mp4",
+        "http://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~mobile.mp4",
+        "http://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~small.mp4",
+        "http://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~preview.mp4",
+        "http://images-assets.nasa.gov/video/HQ_20200715_NSL_Ep19_v3/HQ_20200715_NSL_Ep19_v3~orig.mp4"
+      ],
+      "duration_s": 1714.3,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_1.jpg",
+      "nasa_id": "JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope",
+      "title": "Farewell to NEOWISE: NASA’s Asteroid-Hunting Telescope ",
+      "center": "JPL",
+      "date": "2024-08-09",
+      "description": "NASA's NEOWISE mission ended on Aug. 8, 2024, after more than a decade of discovering and tracking near-Earth objects — asteroids and comets that come close to Earth’s orbit. The mission team gathered at the agency’s Jet Propulsion Laboratory in Southern California as the spacecraft received its fin",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope/JPL-20240809-NEOWISf-0001-Farewell to NEOWISE NASAs Asteroid Hunting Telescope~orig.mp4"
+      ],
+      "duration_s": 127.0,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_2.jpg",
+      "nasa_id": "JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel",
+      "title": "NASA’s Asteroid-Hunting Space Telescope NEOWISE Retires, Leaves Legacy",
+      "center": "JPL",
+      "date": "2024-08-08",
+      "description": "The NEOWISE mission, NASA’s asteroid-hunting space telescope, retired in August 2024 after over a decade of discovering, tracking, and characterizing near-Earth objects (NEOs) —asteroids and comets that come close to Earth’s orbit. NEOWISE (Near-Earth Object Wide-field Infrared Survey Explorer) bega",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~orig.mp4"
+      ],
+      "duration_s": 490.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_3.jpg",
+      "nasa_id": "SVS-13661",
+      "title": "NASA Missions Spot Comet NEOWISE",
+      "center": "NASA SVS",
+      "date": "2020-07-10",
+      "description": "These images from ESA and NASA’s Solar and Heliospheric Observatory show comet NEOWISE as it approached the Sun in late June 2020. The instrument that produced this data is a coronagraph, which uses a solid disk to block out the Sun’s bright face, revealing the comparatively outer atmosphere, the co",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013661/wisprinnerneowise20200705T020949E1_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013661/wide.mp4",
+      "duration_s": 15.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13661/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_4.jpg",
+      "nasa_id": "PIA18032",
+      "title": "An Infrared portrait of Comet NEOWISE C/2014 C3",
+      "center": "JPL",
+      "date": "2014-02-27",
+      "description": "Comet NEOWISE was first observed by NASA NEOWISE spacecraft on Valentine Day, 2014. This heat-sensitive infrared image was made by combining six exposures taken by the NEOWISE mission of the newly discovered comet.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18032/PIA18032~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18032/PIA18032~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18032/PIA18032~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_064/aday_5.jpg",
+      "nasa_id": "PIA23792",
+      "title": "Comet NEOWISE Discovery Images",
+      "center": "JPL",
+      "date": "2020-07-08",
+      "description": "Comet C/2020 F3 NEOWISE appears as a string of fuzzy red dots in this composite of several heat-sensitive infrared images taken by NASA's Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE) mission on March 27, 2020. The comet was discovered using these images to track its motion across ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA23792/PIA23792~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23792/PIA23792~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23792/PIA23792~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

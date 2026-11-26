@@ -1,0 +1,82 @@
+{
+  "scene_id": 59,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "The ice is probably mixed into the dust, in low amounts. Finding it below one percent will need more sensitive instruments.",
+  "visual_brief": "Apollo bootprint in fine lunar dust.",
+  "purpose": "explain",
+  "nasa_query": "Apollo 11 bootprint",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_059/aday_0.jpg",
+      "nasa_id": "PIA24439",
+      "title": "Apollo Footprint",
+      "center": "JPL",
+      "date": "2021-04-21",
+      "description": "Buzz Aldrin took this iconic image of a bootprint on the Moon during the Apollo 11 moonwalk on July 20, 1969. https://photojournal.jpl.nasa.gov/catalog/PIA24439",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA24439/PIA24439~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA24439/PIA24439~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA24439/PIA24439~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA24439/PIA24439~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA24439/PIA24439~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_059/aday_1.jpg",
+      "nasa_id": "as11-40-5877",
+      "title": "Apollo 11 Mission image - Astronaut bootprint on the lunar surface",
+      "center": "JSC",
+      "date": "2009-01-29",
+      "description": "AS11-40-5877 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5877/as11-40-5877~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_059/aday_2.jpg",
+      "nasa_id": "as11-40-5902",
+      "title": "Astronaut Edwin Aldrin walks on lunar surface near leg of Lunar Module",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-40-5902 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, walks on the surface of the moon near a leg of the Lunar Module during the Apollo 11 extravehicular activity (EVA). Astronaut Neil A. Armstrong, Apollo 11 commander, took this photograph with a 70mm lunar surface came",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-40-5902/as11-40-5902~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5902/as11-40-5902~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5902/as11-40-5902~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5902/as11-40-5902~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_059/aday_3.jpg",
+      "nasa_id": "as11-40-5878",
+      "title": "Close-up view of astronauts footprint in lunar soil",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-40-5878 (20 July 1969) --- A close-up view of an astronaut's bootprint in the lunar soil, photographed with a 70mm lunar surface camera during the Apollo 11 extravehicular activity (EVA) on the moon. While astronauts Neil A. Armstrong, commander, and Edwin E. Aldrin Jr., lunar module pilot, des",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5878/as11-40-5878~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

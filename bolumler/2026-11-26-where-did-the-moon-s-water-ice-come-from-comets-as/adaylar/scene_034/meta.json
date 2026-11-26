@@ -1,0 +1,83 @@
+{
+  "scene_id": 34,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "If every proton became water, it would take about eight months of solar wind to lay down a single molecular layer.",
+  "visual_brief": "The Apollo solar wind composition experiment foil on the Moon.",
+  "purpose": "explain",
+  "nasa_query": "Apollo solar wind composition",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_034/aday_0.jpg",
+      "nasa_id": "as11-40-5964",
+      "title": "Astronaut Edwin Aldrin deploying Solar Wind Composition experiment",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-40-5964 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, is photographed during the Apollo 11 extravehicular activity (EVA) on the moon. He is driving one of two core tubes into the lunar soil. Astronaut Neil A. Armstrong, commander, took this picture with a 70mm lunar surf",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-40-5964/as11-40-5964~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5964/as11-40-5964~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5964/as11-40-5964~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5964/as11-40-5964~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5964/as11-40-5964~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_034/aday_1.jpg",
+      "nasa_id": "S69-32247",
+      "title": "Crew Training - Apollo XI",
+      "center": "JSC",
+      "date": "1969-04-09",
+      "description": "S69-32247 (22 April 1969) --- Astronaut Edwin E. Aldrin Jr., wearing an Extravehicular Mobility Unit (EMU), simulates deploying the Solar Wind Composition (SWC) experiment, on the surface of the moon, during a training exercise in Building 9 on April 22, 1969. The SWC is a component of the Early Apo",
+      "links": [
+        "https://images-assets.nasa.gov/image/S69-32247/S69-32247~medium.jpg",
+        "https://images-assets.nasa.gov/image/S69-32247/S69-32247~small.jpg",
+        "https://images-assets.nasa.gov/image/S69-32247/S69-32247~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S69-32247/S69-32247~large.jpg",
+        "https://images-assets.nasa.gov/image/S69-32247/S69-32247~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_034/aday_2.jpg",
+      "nasa_id": "as12-47-6898",
+      "title": "Apollo 12 Mission image - Close-up view of the Solar Wind Panel ",
+      "center": "JSC",
+      "date": "1969-11-19",
+      "description": "AS12-47-6898 (19 Nov. 1969) --- A close-up view of the Solar Wind Composition device. Astronaut Alan L. Bean, lunar module pilot, took this photograph, after having deployed the device. Astronauts Charles Conrad Jr., commander, and Bean descended in the Apollo 12 Lunar Module (LM) to explore the moo",
+      "links": [
+        "https://images-assets.nasa.gov/image/as12-47-6898/as12-47-6898~medium.jpg",
+        "https://images-assets.nasa.gov/image/as12-47-6898/as12-47-6898~small.jpg",
+        "https://images-assets.nasa.gov/image/as12-47-6898/as12-47-6898~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as12-47-6898/as12-47-6898~large.jpg",
+        "https://images-assets.nasa.gov/image/as12-47-6898/as12-47-6898~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_034/aday_3.jpg",
+      "nasa_id": "as11-40-5873",
+      "title": "Apollo 11 Mission image - Astronaut Edwin Aldrin stands beside t",
+      "center": "JSC",
+      "date": "1969-07-20",
+      "description": "AS11-40-5873 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, is photographed during the Apollo 11 extravehicular activity (EVA) on the lunar surface. In the right background is the lunar module. On Aldrin's right is the Solar Wind Composition (SWC) experiment, already deployed.",
+      "links": [
+        "https://images-assets.nasa.gov/image/as11-40-5873/as11-40-5873~medium.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5873/as11-40-5873~small.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5873/as11-40-5873~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5873/as11-40-5873~large.jpg",
+        "https://images-assets.nasa.gov/image/as11-40-5873/as11-40-5873~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

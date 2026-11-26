@@ -1,0 +1,26 @@
+{
+  "scene_id": 17,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "One is a chemical fingerprint from a single impact at a single crater. The other is impact physics applied to the whole Moon.",
+  "visual_brief": "Cabeus crater as seen from orbit.",
+  "purpose": "explain",
+  "nasa_query": "Cabeus crater",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_017/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e002006",
+      "title": "Ten Cool Things Seen in the First Year of LRO",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Mountains on the Moon On the Earth, we are taught that mountains form over millions of years, the result of gradual shifting and colliding plates. On the moon however, the situation is quite different. Even the largest lunar mountains were formed in minutes or less as asteroids and comets slammed in",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002006/GSFC_20171208_Archive_e002006~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

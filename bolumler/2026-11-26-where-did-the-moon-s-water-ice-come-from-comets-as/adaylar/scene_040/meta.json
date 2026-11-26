@@ -1,0 +1,113 @@
+{
+  "scene_id": 40,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "For about five days every month, the Moon passes through a long tail of particles streaming away from Earth.",
+  "visual_brief": "Moon crossing Earth's magnetotail.",
+  "purpose": "explain",
+  "nasa_query": "Earth magnetotail Moon",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_040/aday_0.jpg",
+      "nasa_id": "GSFC_20130926_ARTEMIS_m11309_Reconnection",
+      "title": "Several NASA Spacecraft Track Energy Through Space",
+      "center": "GSFC",
+      "date": "2013-09-26",
+      "description": "Taking advantage of an unprecedented alignment of eight satellites through the vast magnetic environment that surrounds Earth in space, including NASA's ARTEMIS and THEMIS, scientists now have comprehensive details of the energy's journey through a process that forms the aurora, called a substorm. T",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~orig.mp4"
+      ],
+      "duration_s": 136.6,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_040/aday_1.jpg",
+      "nasa_id": "SVS-5623",
+      "title": "The Moon Passes Through Earth's Magnetotail",
+      "center": "NASA SVS",
+      "date": "2026-04-30",
+      "description": "The Moon orbits the Earth 13 times a year. During a small part of that orbit, it passes through a special region called Earth's magnetotail, which stretches out on the night side of our planet. While inside the magnetotail, the Moon is protected from the Sun's radiation. But once it leaves the magne",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005623/magnetotailMoon_4-10-2026a_magnetotail_Moon.02424_thumb.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005623/magnetotailMoon_4-10-2026a_magnetotail_Moon_1080p30.mp4",
+      "duration_s": 80.6,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5623/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_040/aday_2.jpg",
+      "nasa_id": "SVS-5644",
+      "title": "The Moon Passes Through Earth's Magnetotail for Fulldome",
+      "center": "NASA SVS",
+      "date": "2026-04-30",
+      "description": "The Moon orbits the Earth 13 times a year. During a small part of that orbit, it passes through a special region called Earth's magnetotail, which stretches out on the night side of our planet. While inside the magnetotail, the Moon is protected from the Sun's radiation. But once it leaves the magne",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005644/magnetotailMoon_gridSun_4-21-2026b.02424_thumb.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005644/magnetotailMoon_gridSun_4-21-2026b_2048p30.mp4",
+      "duration_s": 80.6,
+      "width": 2048,
+      "height": 2048,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5644/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_040/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000670",
+      "title": "From a Million Miles Away, NASA Camera Shows Moon Crossing Face of Earth",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This animation still image shows the far side of the moon, illuminated by the sun, as it crosses between the DISCOVR spacecraft's Earth Polychromatic Imaging Camera (EPIC) camera and telescope, and the Earth - one million miles away. Credits: NASA/NOAA A NASA camera aboard the Deep Space Climate Obs",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000670/GSFC_20171208_Archive_e000670~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000670/GSFC_20171208_Archive_e000670~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000670/GSFC_20171208_Archive_e000670~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000670/GSFC_20171208_Archive_e000670~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000670/GSFC_20171208_Archive_e000670~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_040/aday_4.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000669",
+      "title": "From a Million Miles Away, NASA Camera Shows Moon Crossing Face of Earth",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This animation shows images of the far side of the moon, illuminated by the sun, as it crosses between the DISCOVR spacecraft's Earth Polychromatic Imaging Camera (EPIC) camera and telescope, and the Earth - one million miles away. Credits: NASA/NOAA A NASA camera aboard the Deep Space Climate Obser",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000669/GSFC_20171208_Archive_e000669~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000669/GSFC_20171208_Archive_e000669~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000669/GSFC_20171208_Archive_e000669~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

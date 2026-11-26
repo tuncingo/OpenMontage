@@ -1,0 +1,83 @@
+{
+  "scene_id": 5,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "In 2009, NASA's LCROSS probe crashed a spent rocket stage into Cabeus, a crater near the Moon's south pole.",
+  "visual_brief": "The LCROSS spacecraft with its Centaur stage.",
+  "purpose": "explain",
+  "nasa_query": "LCROSS spacecraft",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_005/aday_0.jpg",
+      "nasa_id": "ARC-2009-ACD09-0220-126",
+      "title": "ARC-2009-ACD09-0220-126",
+      "center": "ARC",
+      "date": "2009-10-09",
+      "description": "LCROSS Impact Night From left to right: Khanh Trinh (Simulator Engineer), and Dan Andrews (LCROSS Project Manager) in background, John Bresina (Command Sequencing Engineer), and John Schreiner (Mission Operations Manager), shake hands after confirmation the LCROSS spacecraft successfully impacted it",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0220-126/ARC-2009-ACD09-0220-126~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_005/aday_1.jpg",
+      "nasa_id": "ARC-2009-ACD09-0084",
+      "title": "ARC-2009-ACD09-0084",
+      "center": "ARC",
+      "date": "2009-05-14",
+      "description": "Dan Andrews, Project Manager LCROSS and Craig Tooley, Project Manager LRO (Lunar Reconnaissance Orbiter) in front of Spacecraft at the Astrotech facility titusville, FL during LRO/LCROSS media photo op event. The LCROSS mission's objective is to confirm the presence or absence of water ice in a perm",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0084/ARC-2009-ACD09-0084~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_005/aday_2.jpg",
+      "nasa_id": "ARC-2008-ACD07-0073-409",
+      "title": "ARC-2008-ACD07-0073-409",
+      "center": "ARC",
+      "date": "2008-01-09",
+      "description": "LCROSS in Ames clean room N-240- cleaning and wrapping for transfer to Northrup Grumman Redondo Beach, CA where more calibration will be done before finally being sent for mating with the LRO spacecraft (with Steve Ord, Project Management Division (l) and Tony Colaprete (r) LCROSS P.I.)",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-409/ARC-2008-ACD07-0073-409~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-409/ARC-2008-ACD07-0073-409~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-409/ARC-2008-ACD07-0073-409~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-409/ARC-2008-ACD07-0073-409~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-409/ARC-2008-ACD07-0073-409~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_005/aday_3.jpg",
+      "nasa_id": "ARC-2008-ACD07-0073-408",
+      "title": "ARC-2008-ACD07-0073-408",
+      "center": "ARC",
+      "date": "2008-01-09",
+      "description": "LCROSS in Ames clean room N-240- cleaning and wrapping for transfer to Northrup Grumman Redondo Beach, CA where more calibration will be done before finally being sent for mating with the LRO spacecraft (with Steve Ord, Project Management Division (l) and Tony Colaprete (r) LCROSS P.I.)",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-408/ARC-2008-ACD07-0073-408~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-408/ARC-2008-ACD07-0073-408~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-408/ARC-2008-ACD07-0073-408~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-408/ARC-2008-ACD07-0073-408~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-2008-ACD07-0073-408/ARC-2008-ACD07-0073-408~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

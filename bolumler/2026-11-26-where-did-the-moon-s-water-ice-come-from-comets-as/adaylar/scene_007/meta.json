@@ -1,0 +1,42 @@
+{
+  "scene_id": 7,
+  "media": "video",
+  "scene_duration_s": 10.0,
+  "narration": "Why was there ice in there at all? The Moon barely tilts on its axis. So the floors of some polar craters never see the Sun.",
+  "visual_brief": "Sunlight sweeping over polar terrain while crater floors stay in shadow.",
+  "purpose": "explain",
+  "nasa_query": "Moon polar illumination",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_007/aday_0.jpg",
+      "nasa_id": "PIA12733",
+      "title": "Highlighting Plumes",
+      "center": "JPL",
+      "date": "2010-10-01",
+      "description": "At least four distinct plumes of water ice spew out from the south polar region of Saturn moon Enceladus in this dramatically illuminated image. Light reflected off Saturn is illuminating the surface of the moon while the sun backlights the plumes.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12733/PIA12733~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12733/PIA12733~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_007/aday_1.jpg",
+      "nasa_id": "PIA18328",
+      "title": "Dark Side of the Moon: Enceladus",
+      "center": "JPL",
+      "date": "2015-08-24",
+      "description": "Enceladus looks as though it is half lit by sunlight in this view from NASA's Cassini spacecraft, but looks can be deceiving. The area on the right, where surface features can be made out, are actually illuminated by light reflected off of Saturn. A sliver of surface illuminated by direct sunlight i",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18328/PIA18328~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18328/PIA18328~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18328/PIA18328~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

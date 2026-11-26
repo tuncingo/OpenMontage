@@ -1,0 +1,71 @@
+{
+  "scene_id": 50,
+  "media": "photo",
+  "scene_duration_s": 6.0,
+  "narration": "Their models argue against a single giant event, such as one huge comet.",
+  "visual_brief": "Comet Tempel 1 during the Deep Impact encounter.",
+  "purpose": "explain",
+  "nasa_query": "Tempel 1 Deep Impact",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_050/aday_0.jpg",
+      "nasa_id": "PIA03298",
+      "title": "Deep Impact View of Tempel 1",
+      "center": "JPL",
+      "date": "2005-06-17",
+      "description": "This image of Tempel 1 is a compilation of nine images that were taken on June 15, 2005 by NASA Deep Impact spacecraft.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA03298/PIA03298~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03298/PIA03298~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_050/aday_1.jpg",
+      "nasa_id": "PIA03297",
+      "title": "Deep Impact View of Tempel 1",
+      "center": "JPL",
+      "date": "2005-06-17",
+      "description": "This image of Tempel 1 is a compilation of nine images that were taken on June 15, 2005 by NASA Deep Impact spacecraft.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA03297/PIA03297~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03297/PIA03297~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_050/aday_2.jpg",
+      "nasa_id": "PIA07998",
+      "title": "Deep Impact View of Tempel 1",
+      "center": "JPL",
+      "date": "2005-06-16",
+      "description": "This image is a compilation of four images that were taken on June 13, 2005 by NASA Deep Impact. The spacecraft is 18,675,137.9 kilometers 11,604,190 miles away from comet Tempel 1.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA07998/PIA07998~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA07998/PIA07998~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_050/aday_3.jpg",
+      "nasa_id": "PIA02119",
+      "title": "Tempel 1 Nucleus",
+      "center": "JPL",
+      "date": "2005-07-04",
+      "description": "This image from NASA TV shows the nucleus of comet Tempel 1 from Deep Impact flyby high-resolution imager.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA02119/PIA02119~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA02119/PIA02119~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

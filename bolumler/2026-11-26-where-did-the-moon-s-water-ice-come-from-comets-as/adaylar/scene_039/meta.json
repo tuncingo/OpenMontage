@@ -1,0 +1,168 @@
+{
+  "scene_id": 39,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "Suspect five. Earth. This one sounds like science fiction. It is a real hypothesis.",
+  "visual_brief": "Earth rotating in space.",
+  "purpose": "transition",
+  "nasa_query": "Earth rotating",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_0.jpg",
+      "nasa_id": "GSFC_20150729_Yarkovsky_m11964_Effect",
+      "title": "How Sunlight Pushes Asteroids",
+      "center": "GSFC",
+      "date": "2015-07-29",
+      "description": "Near-Earth asteroids like Bennu pose a potential danger to our planet, so it's important to predict their orbits with great accuracy. Unfortunately, a phenomenon called the Yarkovsky effect can make these predictions difficult over long time periods. How does this effect work? When sunlight strikes ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150729_Yarkovsky_m11964_Effect/GSFC_20150729_Yarkovsky_m11964_Effect~preview.mp4"
+      ],
+      "duration_s": 123.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_1.jpg",
+      "nasa_id": "art002m1200920011_Apogee_Raise_Burn",
+      "title": "Orion Camera Views of Artemis II Apogee Raise Burn",
+      "center": "JSC",
+      "date": "2026-04-01",
+      "description": "A view from cameras on the exterior of the Orion spacecraft before, during, and after the apogee raise burn performed one hour and 46 minutes after launch on April 1, 2026. This 18-minute engine firing was performed by the upper stage of the SLS (Space Launch System) rocket before it was jettisoned,",
+      "links": [
+        "https://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~large.jpg",
+        "https://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~medium.jpg",
+        "https://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~small.jpg",
+        "https://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~medium.mp4",
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~mobile.mp4",
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~small.mp4",
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~preview.mp4",
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~orig.mp4",
+        "http://images-assets.nasa.gov/video/art002m1200920011_Apogee_Raise_Burn/art002m1200920011_Apogee_Raise_Burn~orig.mp4"
+      ],
+      "duration_s": 2014.0,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_2.jpg",
+      "nasa_id": "NASA Minute Oct. 2, 2026",
+      "title": "NASA Minute: Oct. 2, 2026",
+      "center": "HQ",
+      "date": "2026-10-02",
+      "description": "NASA’s work in low Earth orbit took center stage. From crew rotations to spacecraft development, here’s what’s new in this week's NASA Minute. ",
+      "links": [
+        "https://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~large.jpg",
+        "https://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~medium.jpg",
+        "https://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~small.jpg",
+        "https://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~large.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~medium.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~mobile.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~small.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~preview.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~orig.mp4",
+        "http://images-assets.nasa.gov/video/NASA Minute Oct. 2, 2026/NASA Minute Oct. 2, 2026~orig.mp4"
+      ],
+      "duration_s": 136.7,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_3.jpg",
+      "nasa_id": "SVS-5692",
+      "title": "Moon Phase and Libration, 2027 South Up",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals. The orientation is south-up.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/phases_2027_fancy_s_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5692/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_4.jpg",
+      "nasa_id": "SVS-5656",
+      "title": "Animations of the August 12, 2026, Total Solar Eclipse",
+      "center": "NASA SVS",
+      "date": "2026-07-13",
+      "description": "On Wednesday, August 12, 2026, the Moon passes in front of the Sun, casting its shadow across a broad swath of Earth's northern hemisphere. Totality is visible in Spain and Iceland, while the rest of Europe and parts of North America and Africa experience a partial eclipse.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005656/global_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005656/eclipse_202608_global_720p30.mp4",
+      "duration_s": 52.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5656/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_5.jpg",
+      "nasa_id": "PIA11177",
+      "title": "Returning Coronal Hole",
+      "center": "JPL",
+      "date": "2017-02-06",
+      "description": "A substantial coronal hole rotated across the face of the sun this past week and is again streaming solar wind towards Earth (Jan. 30 - Feb. 2, 2017). This same coronal hole was facing Earth about a month ago and has rotated into a similar position again. Coronal holes are areas of open magnetic fie",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11177/PIA11177~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA11177/PIA11177~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11177/PIA11177~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11177/PIA11177~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_039/aday_6.jpg",
+      "nasa_id": "PIA18845",
+      "title": "Beacons of X-ray Light Animation",
+      "center": "JPL",
+      "date": "2014-10-08",
+      "description": "This image shows a neutron star -- the core of a star that exploded in a massive supernova. This particular neutron star is known as a pulsar because it sends out rotating beams of X-rays that sweep past Earth like lighthouse beacons.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18845/PIA18845~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18845/PIA18845~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18845/PIA18845~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18845/PIA18845~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

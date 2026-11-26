@@ -1,0 +1,67 @@
+{
+  "scene_id": 60,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "So who did it? Here is my honest reading. The evidence does not support a single culprit.",
+  "visual_brief": "Glowing planetary nebula, a slow pause before the verdict.",
+  "purpose": "transition",
+  "nasa_query": "Helix Nebula",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_060/aday_0.jpg",
+      "nasa_id": "SVS-31363",
+      "title": "Observatory Comparison (Hubble/Spitzer/Webb)",
+      "center": "NASA SVS",
+      "date": "2026-02-09",
+      "description": "This video compares images of the Helix Nebula from three NASA observatories: Hubble’s image in visible light, Spitzer’s infrared view, and Webb’s high-resolution near-infrared look.No description available. more info: https://science.nasa.gov/asset/webb/observatory-comparison-hubble-spitzer-webb/",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031363/poster-frame.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031363/STScI-01K633WVF75PYZ63PHKYWPPM1J_1920.mp4",
+      "duration_s": 14.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/31363/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_060/aday_1.jpg",
+      "nasa_id": "PIA15658",
+      "title": "NGC 7293, the Helix Nebula",
+      "center": "JPL",
+      "date": "2012-05-16",
+      "description": "NGC 7293, better known as the Helix nebula, displays its ultraviolet glow courtesy of NASA GALEX. The Helix is the nearest example of a planetary nebula, which is the eventual fate of a star, like our own Sun, as it approaches the end of its life.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_060/aday_2.jpg",
+      "nasa_id": "PIA09178",
+      "title": "Comets Kick up Dust in Helix Nebula",
+      "center": "JPL",
+      "date": "2007-02-12",
+      "description": "This infrared image from NASA Spitzer Space Telescope shows the Helix nebula, a cosmic starlet often photographed by amateur astronomers for its vivid colors and eerie resemblance to a giant eye.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09178/PIA09178~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA09178/PIA09178~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09178/PIA09178~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09178/PIA09178~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA09178/PIA09178~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

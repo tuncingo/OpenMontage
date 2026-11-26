@@ -1,0 +1,113 @@
+{
+  "scene_id": 2,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "Five suspects are on the table. Comets. Asteroids. The Moon's own volcanoes. The solar wind. And, strangest of all, our own planet.",
+  "visual_brief": "A comet streaming its tail across space, hinting at a lineup of suspects.",
+  "purpose": "cutaway",
+  "nasa_query": "comet flyby",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_002/aday_0.jpg",
+      "nasa_id": "ksc_121304_di_comet_madeof",
+      "title": "KSC-04-S-00391",
+      "center": "KSC",
+      "date": "2004-12-14",
+      "description": "NASA's Deep Impact spacecraft will blast into space on a precisely navigated collision course for impact on July 4, 2005 with Comet Tempel 1. The two-part spacecraft will launch from Cape Canaveral Air Force Station mated to a Boeing Delta II rocket. One part of the Deep Impact spacecraft is a flyby",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~orig.mp4"
+      ],
+      "duration_s": 108.3,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_002/aday_1.jpg",
+      "nasa_id": "GSFC_20141017_MAVEN_m11714_Comet_SidingSpring",
+      "title": "Observing Comet Siding Spring at Mars",
+      "center": "GSFC",
+      "date": "2014-10-17",
+      "description": "On October 19, Comet Siding Spring will pass within 88,000 miles of Mars – just one third of the distance from the Earth to the Moon! Traveling at 33 miles per second and weighing as much as a small mountain, the comet hails from the outer fringes of our solar system, originating in a region of icy ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring/GSFC_20141017_MAVEN_m11714_Comet_SidingSpring~preview.mp4"
+      ],
+      "duration_s": 157.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_002/aday_2.jpg",
+      "nasa_id": "SVS-11754",
+      "title": "Epic Descents",
+      "center": "NASA SVS",
+      "date": "2015-03-12",
+      "description": "A brief history of asteroid and comet landings. || cf-1280.jpg (1280x720) [136.4 KB] || cf-1024.jpg (1024x576) [104.0 KB] || cf-1920.jpg (1920x1080) [220.2 KB] || cf-1024_print.jpg (1024x576) [103.8 KB] || cf-1024_searchweb.png (320x180) [48.9 KB] || cf-1024_print_thm.png (80x40) [19.0 KB] || ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011700/a011754/cf-1024_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+      "duration_s": 118.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11754/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_002/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000940",
+      "title": "Comet Siding Spring Mars Flyby",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "On October 19, Comet Siding Spring will pass within 88,000 miles of Mars – just one third of the distance from the Earth to the Moon! Traveling at 33 miles per second and weighing as much as a small mountain, the comet hails from the outer fringes of our solar system, originating in a region of icy ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000940/GSFC_20171208_Archive_e000940~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000940/GSFC_20171208_Archive_e000940~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000940/GSFC_20171208_Archive_e000940~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_002/aday_4.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001975",
+      "title": "Hubble Probes Comet 103P/Hartley 2 in Preparation for DIXI flyby",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image release October 5, 2010 Hubble Space Telescope observations of comet 103P/Hartley 2, taken on September 25, are helping in the planning for a November 4 flyby of the comet by NASA's Deep Impact eXtended Investigation (DIXI) spacecraft. Analysis of the new Hubble data shows that the nucleu",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001975/GSFC_20171208_Archive_e001975~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001975/GSFC_20171208_Archive_e001975~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001975/GSFC_20171208_Archive_e001975~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "scene_id": 43,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "Hydrogen and oxygen that escaped from Earth could land on the Moon in those days, and could form water.",
+  "visual_brief": "Atmospheric escape streaming from Earth toward the Moon.",
+  "purpose": "explain",
+  "nasa_query": "Earth atmospheric escape",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_0.jpg",
+      "nasa_id": "GSFC_20161025_STEREO_m12393_10th_3D_4K",
+      "title": "3D 4k for STEREO's 10th Anniversary",
+      "center": "GSFC",
+      "date": "2016-10-25",
+      "description": "This 3-D video can be seen with red and cyan 3-D paper glasses. Launched ten years ago, on Oct. 25, 2006, the twin spacecraft of NASA’s STEREO mission – short for Solar and Terrestrial Relations Observatory – have given us unprecedented views of the sun. In 2007, STEREO provided the first multi-view",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20161025_STEREO_m12393_10th_3D_4K/GSFC_20161025_STEREO_m12393_10th_3D_4K~preview.mp4"
+      ],
+      "duration_s": 557.9,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_1.jpg",
+      "nasa_id": "GSFC_20100917_Firefly_m10652_Lines",
+      "title": "Firefly Sees Electrons Populate the Radiation Belts",
+      "center": "GSFC",
+      "date": "2010-09-17",
+      "description": "The small satellite, with a big mission, is appropriately named \"Firefly.\" Sponsored by the National Science Foundation (NSF), the pint-sized satellite will study the most powerful natural particle accelerator on Earth - lightning - when it launches from the Marshall Islands aboard an Air Force Falc",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20100917_Firefly_m10652_Lines/GSFC_20100917_Firefly_m10652_Lines~orig.mp4"
+      ],
+      "duration_s": 13.3,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_2.jpg",
+      "nasa_id": "GSFC_20150211_SDO_m11742_Year5",
+      "title": "SDO: Year 5",
+      "center": "GSFC",
+      "date": "2015-02-11",
+      "description": "February 11, 2015 marks five years in space for NASA's Solar Dynamics Observatory, which provides incredibly detailed images of the whole sun 24 hours a day. Capturing an image more than once per second, SDO has provided an unprecedentedly clear picture of how massive explosions on the sun grow and ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~orig.mp4"
+      ],
+      "duration_s": 276.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_3.jpg",
+      "nasa_id": "SVS-15113",
+      "title": "ESCAPADE Trans-Mars Injection Imagery",
+      "center": "NASA SVS",
+      "date": "2026-11-12",
+      "description": "NASA’s **[ESCAPADE](https://science.nasa.gov/mission/escapade) (Escape and Plasma Acceleration and Dynamics Explorers)** mission is sending two identical spacecraft to Mars to study how a million-mile-per-hour stream of material flowing from the Sun, known as the solar wind, interacts with the Marti",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015113/15113_ESCAPADE_TMI_RocketLab_Thumbnail.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015113/15113_ESCAPADE_TMI_RocketLab_1080_YouTube.mp4",
+      "duration_s": 158.8,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15113/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_4.jpg",
+      "nasa_id": "SVS-15114",
+      "title": "Star Charts for ESCAPADE’s Earth Flyby",
+      "center": "NASA SVS",
+      "date": "2026-11-02",
+      "description": "In November 2026, each of NASA’s two **ESCAPADE** (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft will perform a “powered” flyby of Earth, combining Earth’s gravity with an approximately 9-minute engine burn, to slingshot itself toward Mars.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Boulder/Boulder-star-chart-Nov7.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015114/Berkeley/Berkeley-star-chart-Nov7-movie.mp4",
+      "duration_s": 30.0,
+      "width": 1080,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15114/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000197",
+      "title": "NASA’s MAVEN Mission Observes Ups and Downs of Water Escape from Mars",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "After investigating the upper atmosphere of the Red Planet for a full Martian year, NASA’s MAVEN mission has determined that the escaping water does not always go gently into space. Sophisticated measurements made by a suite of instruments on the Mars Atmosphere and Volatile Evolution, or MAVEN, spa",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000197/GSFC_20171208_Archive_e000197~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000197/GSFC_20171208_Archive_e000197~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000197/GSFC_20171208_Archive_e000197~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_043/aday_6.jpg",
+      "nasa_id": "0300805",
+      "title": "Space Science",
+      "center": "MSFC",
+      "date": "2001-09-30",
+      "description": "Absorption of solar energy heats up our planet's surface and atmosphere making life for us possible. But the energy carnot stay bound up in the Earth's environment forever. If it did, the Earth would be as hot as the sun. Instead, as the surface and atmosphere warm, they emit thermal long wave radia",
+      "links": [
+        "https://images-assets.nasa.gov/image/0300805/0300805~medium.jpg",
+        "https://images-assets.nasa.gov/image/0300805/0300805~small.jpg",
+        "https://images-assets.nasa.gov/image/0300805/0300805~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0300805/0300805~large.jpg",
+        "https://images-assets.nasa.gov/image/0300805/0300805~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

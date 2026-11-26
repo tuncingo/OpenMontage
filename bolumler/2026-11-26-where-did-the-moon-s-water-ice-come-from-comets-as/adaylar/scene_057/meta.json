@@ -1,0 +1,80 @@
+{
+  "scene_id": 57,
+  "media": "photo",
+  "scene_duration_s": 10.0,
+  "narration": "which is the camera's detection limit. But it did spot a few small patches, twenty to fifty metres across, that may hold more.",
+  "visual_brief": "Young small craters with bright patches.",
+  "purpose": "explain",
+  "nasa_query": "young lunar crater",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_057/aday_0.jpg",
+      "nasa_id": "PIA12932",
+      "title": "Impact Melt Flows on Giordano Bruno",
+      "center": "JPL",
+      "date": "2009-12-15",
+      "description": "Frozen impact melt flows on the ejecta blanket of the young impact crater Giordano Bruno in this image from NASA Lunar Reconnaissance Orbiter.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12932/PIA12932~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12932/PIA12932~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12932/PIA12932~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_057/aday_1.jpg",
+      "nasa_id": "PIA12901",
+      "title": "Recent Impact",
+      "center": "JPL",
+      "date": "2009-08-31",
+      "description": "This is a view from NASA Lunar Reconnaissance Orbiter of a very young impact crater in Balmer basin. The dark streamers are impact melt splashes thrown out during the crater formation.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12901/PIA12901~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12901/PIA12901~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12901/PIA12901~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12901/PIA12901~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_057/aday_2.jpg",
+      "nasa_id": "as16-116-18599",
+      "title": "View of lunar surface at Apollo 16 station 11",
+      "center": "JSC",
+      "date": "1972-04-21",
+      "description": "AS16-116-18599 (21 April 1972) --- A close-up view of Buster Crater, which was visited by the two moon-exploring crew men of the Apollo 16 lunar landing mission, during the first extravehicular activity (EVA), April 21, 1972. Astronaut Charles M. Duke Jr. said the crater appeared to be larger than 5",
+      "links": [
+        "https://images-assets.nasa.gov/image/as16-116-18599/as16-116-18599~medium.jpg",
+        "https://images-assets.nasa.gov/image/as16-116-18599/as16-116-18599~small.jpg",
+        "https://images-assets.nasa.gov/image/as16-116-18599/as16-116-18599~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as16-116-18599/as16-116-18599~large.jpg",
+        "https://images-assets.nasa.gov/image/as16-116-18599/as16-116-18599~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_057/aday_3.jpg",
+      "nasa_id": "as16-121-19407",
+      "title": "Oblique view of rim of Guyot crater on lunar farside as seen by Apollo 16",
+      "center": "JSC",
+      "date": "1972-04-18",
+      "description": "AS16-121-19407 (April 1972) --- An oblique view of a rim of Guyot Crater on the lunar farside, as photographed from the Apollo 16 spacecraft in lunar orbit. The coordinates of the center of Guyot Crater are 116.5 degrees east longitude and 10.5 degrees north latitude. Note the black coloration which",
+      "links": [
+        "https://images-assets.nasa.gov/image/as16-121-19407/as16-121-19407~medium.jpg",
+        "https://images-assets.nasa.gov/image/as16-121-19407/as16-121-19407~small.jpg",
+        "https://images-assets.nasa.gov/image/as16-121-19407/as16-121-19407~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as16-121-19407/as16-121-19407~large.jpg",
+        "https://images-assets.nasa.gov/image/as16-121-19407/as16-121-19407~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

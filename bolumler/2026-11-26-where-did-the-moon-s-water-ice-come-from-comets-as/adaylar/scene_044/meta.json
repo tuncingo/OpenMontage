@@ -1,0 +1,79 @@
+{
+  "scene_id": 44,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "How much? Their upper estimate was thirty five hundred cubic kilometres or more of polar permafrost or subsurface water.",
+  "visual_brief": "Polar terrain from the Lunar Reconnaissance Orbiter.",
+  "purpose": "explain",
+  "nasa_query": "Lunar Reconnaissance Orbiter",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_044/aday_0.jpg",
+      "nasa_id": "PIA12088",
+      "title": "Diviner Following Integration to the Lunar Reconnaissance Orbiter LRO",
+      "center": "JPL",
+      "date": "2009-07-07",
+      "description": "The Diviner instrument following integration to NASA Lunar Reconnaissance Orbiter. Diviner is one of seven instruments aboard the Lunar Reconnaissance Orbiter.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_044/aday_1.jpg",
+      "nasa_id": "PIA18163",
+      "title": "Lunar Reconnaissance Orbiter Artist Concept",
+      "center": "JPL",
+      "date": "2008-07-24",
+      "description": "Artist rendering of the Lunar Reconnaissance Orbiter LRO, above the moon. LRO carries seven instruments that make comprehensive remote sensing observations of the moon and measurements of the lunar radiation environment. The LRO mission is managed by NASA Goddard for the Science Mission Directorate ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_044/aday_2.jpg",
+      "nasa_id": "PIA12072",
+      "title": "Lunar Reconnaissance Orbiter LRO Artist Concept",
+      "center": "JPL",
+      "date": "2009-06-18",
+      "description": "NASA is scheduled to launch the Lunar Reconnaissance Orbiter, an unmanned mission to comprehensively map the entire moon, on June 18, 2009.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12072/PIA12072~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12072/PIA12072~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12072/PIA12072~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12072/PIA12072~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA12072/PIA12072~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_044/aday_3.jpg",
+      "nasa_id": "PIA12086",
+      "title": "Loading Lunar Reconnaissance Orbiter LRO in the Thermal Vacuum Chamber",
+      "center": "JPL",
+      "date": "2009-07-07",
+      "description": "Loading the Lunar Reconnaissance Orbiter into the thermal vacuum chamber at Goddard Space Flight Center. Diviner is one of seven instruments aboard NASA LRO Mission.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12086/PIA12086~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12086/PIA12086~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

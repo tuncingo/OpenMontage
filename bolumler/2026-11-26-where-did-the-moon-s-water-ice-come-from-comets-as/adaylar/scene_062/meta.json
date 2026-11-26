@@ -1,0 +1,81 @@
+{
+  "scene_id": 62,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "The Sun waters the surface but probably not the traps. Earth may add a little, or a lot, or nothing.",
+  "visual_brief": "The Sun in ultraviolet, the second suspect Earth below.",
+  "purpose": "explain",
+  "nasa_query": "Sun SDO ultraviolet",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_062/aday_0.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000009",
+      "title": "SDO Sees Solar Eclipse",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Image of the Moon transiting across the Sun, taken by SDO in 304 angstrom extreme ultraviolet light on August 21, 2017. Credit: NASA/SDO",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_062/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000010",
+      "title": "SDO Sees Solar Eclipse",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Image of the Moon transiting across the Sun, taken by SDO in 171 angstrom extreme ultraviolet light on August 21, 2017. Credit: NASA/SDO",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_062/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000264",
+      "title": "NASA’s SDO Watches Bursts of Solar Material",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Solar material repeatedly bursts from the sun in this close-up captured on July 9-10, 2016, by NASA’s Solar Dynamics Observatory, or SDO. The sun is composed of plasma, a gas in which the negative electrons move freely around the positive ions, forming a powerful mix of charged particles. Each burst",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_062/aday_3.jpg",
+      "nasa_id": "PIA25628",
+      "title": "Three-Telescope View of the Sun",
+      "center": "JPL",
+      "date": "2023-02-09",
+      "description": "This composite image of the Sun includes high-energy X-ray data from NASA's Nuclear Spectroscopic Telescope Array (NuSTAR) shown in blue; lower energy X-ray data from the X-ray Telescope (XRT) on the Japanese Aerospace Exploration Agency's Hinode mission shown in green; and ultraviolet light detecte",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

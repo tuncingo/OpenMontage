@@ -1,0 +1,171 @@
+{
+  "scene_id": 3,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "One measurement could go a long way toward settling the case, and nobody has made it yet. We will get to it.",
+  "visual_brief": "Flight over the rugged lunar south polar region.",
+  "purpose": "cutaway",
+  "nasa_query": "Lunar south pole",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_0.jpg",
+      "nasa_id": "Moon_Base_Trailer-4K",
+      "title": "Moon Base: Humanity's First Outpost on the Lunar Surface (Official NASA Trailer)",
+      "center": "JSC",
+      "date": "2026-05-26",
+      "description": "We're building a Moon Base at the lunar South Pole — a hub for science, technology demonstrations, and sustained exploration. Beginning with robotic systems and evolving toward continuous human operations, humanity's first outpost on the Moon will support new discoveries and prepare us for our first",
+      "links": [
+        "https://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~large.jpg",
+        "https://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~medium.jpg",
+        "https://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~small.jpg",
+        "https://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~large.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~medium.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~small.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~preview.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~orig.mp4",
+        "http://images-assets.nasa.gov/video/Moon_Base_Trailer-4K/Moon_Base_Trailer-4K~orig.mp4"
+      ],
+      "duration_s": 79.0,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_1.jpg",
+      "nasa_id": "JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD",
+      "title": "NASA’s Lunar Flashlight (Mission Animations)",
+      "center": "JPL",
+      "date": "2022-11-17",
+      "description": "Animations for media and public use. These animation sequences show NASA’s Lunar Flashlight SmallSat deploying in space, journeying to the Moon, and swooping low over the lunar South Pole gathering data from orbit. NASA is sending Lunar Flashlight, a small satellite (or SmallSat) no larger than a br",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD/JPL-20221116-TECHf-0001-Lunar Flashlight Animations Media Reel UHD~orig.mp4"
+      ],
+      "duration_s": 163.8,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_2.jpg",
+      "nasa_id": "ARC-20230215-AAV3458-VIPER-MonsMouton-1080",
+      "title": "Moon Mountain Name Honors NASA Mathematician Melba Mouton",
+      "center": "ARC",
+      "date": "2023-02-15",
+      "description": "Scientists recently named a mesa-like lunar mountain that towers above the landscape carved by craters near the Moon’s South Pole. This unique feature will now be referred to as “Mons Mouton,” after NASA mathematician and computer programmer Melba Roy Mouton. The video is narrated by actor, director",
+      "links": [
+        "https://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20230215-AAV3458-VIPER-MonsMouton-1080/ARC-20230215-AAV3458-VIPER-MonsMouton-1080~orig.mp4"
+      ],
+      "duration_s": 106.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_3.jpg",
+      "nasa_id": "SVS-5692",
+      "title": "Moon Phase and Libration, 2027 South Up",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals. The orientation is south-up.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/phases_2027_fancy_s_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5692/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_4.jpg",
+      "nasa_id": "SVS-5691",
+      "title": "Moon Phase and Libration, 2027",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/phases_2027_fancy_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5691/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_5.jpg",
+      "nasa_id": "PIA13523",
+      "title": "The Lunar South Pole",
+      "center": "JPL",
+      "date": "2010-09-27",
+      "description": "The Lunar South Pole",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13523/PIA13523~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13523/PIA13523~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13523/PIA13523~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13523/PIA13523~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_003/aday_6.jpg",
+      "nasa_id": "KSC-20261107-PH-KLS02_0143",
+      "title": "Moon Base Briefing at Max Power in KSC Studio",
+      "center": "KSC",
+      "date": "2026-11-07",
+      "description": "NASA Deputy Press Secretary George Alderman moderates an update on NASA’s Moon Base on Saturday, Nov. 7, 2026, at Kennedy Space Center in Florida. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20261107-PH-KLS02_0143/KSC-20261107-PH-KLS02_0143~orig.JPG"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

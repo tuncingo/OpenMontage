@@ -1,0 +1,111 @@
+{
+  "scene_id": 22,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "Eruptions vented gas, and some of it was water. The review calls outgassing and impacts the largest sources of polar ice.",
+  "visual_brief": "A volcanic eruption plume on another world, evoking ancient outgassing.",
+  "purpose": "cutaway",
+  "nasa_query": "Io volcano",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_022/aday_0.jpg",
+      "nasa_id": "GSFC_20230307_NSL_Juno_Ep54",
+      "title": "NASA Science Live: Juno Spacecraft Makes Historic Flybys of Jupiter’s Moons [Episode 54]",
+      "center": "GSFC",
+      "date": "2024-03-07",
+      "description": " NASA’s Juno spacecraft recently made close flybys of two of Jupiter’s moons - Io and Europa. These two worlds are vastly different and active and can provide Io is caught in a tug-of-war between Juipter’s powerful gravity and the smaller pull from two neighboring moons, churning its insides and mak",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~orig.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20230307_NSL_Juno_Ep54/GSFC_20230307_NSL_Juno_Ep54~orig.mp4"
+      ],
+      "duration_s": 3579.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_022/aday_1.jpg",
+      "nasa_id": "SVS-12542",
+      "title": "CATS Eyes on the Atmosphere",
+      "center": "NASA SVS",
+      "date": "2018-01-08",
+      "description": "See the atmosphere through CATS's eyes. || CATS_calbuco_09.3535_1024x576.jpg (1024x576) [67.5 KB] || CATS_calbuco_09.3535_print.jpg (1024x576) [74.0 KB] || CATS_calbuco_09.3535_searchweb.png (320x180) [40.5 KB] || CATS_calbuco_09.3535_thm.png (80x40) [3.4 KB] || CATS_calbuco_09.3535.tif (3840x2160) ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a012500/a012542/CATS_calbuco_09.3535_1024x576.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a012500/a012542/4542_cats_calbuco_1080p_high.mp4",
+      "duration_s": 61.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/12542/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_022/aday_2.jpg",
+      "nasa_id": "SVS-12246",
+      "title": "Tracking Volcanic Ash",
+      "center": "NASA SVS",
+      "date": "2016-05-19",
+      "description": "NASA satellite data could help reduce flights sidelined by volcanic eruptions. || c-1024.jpg (1024x576) [93.6 KB] || c-1280.jpg (1280x720) [126.2 KB] || c-1920.jpg (1920x1080) [192.8 KB] || c-1024_print.jpg (1024x576) [95.2 KB] || c-1024_searchweb.png (320x180) [50.6 KB] || c-1024_web.png (320x180) ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a012200/a012246/c-1024_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a012200/a012246/12221-1920viz4-MASTER_high.mp4",
+      "duration_s": 86.4,
+      "width": 960,
+      "height": 540,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/12246/"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_022/aday_3.jpg",
+      "nasa_id": "PIA00495",
+      "title": "Changing volcanoes on Io",
+      "center": "JPL",
+      "date": "1997-11-18",
+      "description": "Changing volcanoes on Io",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA00495/PIA00495~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA00495/PIA00495~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA00495/PIA00495~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_022/aday_4.jpg",
+      "nasa_id": "PIA00738",
+      "title": "Topography and Volcanoes on Io color",
+      "center": "JPL",
+      "date": "1998-03-26",
+      "description": "Topography and Volcanoes on Io color",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA00738/PIA00738~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA00738/PIA00738~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

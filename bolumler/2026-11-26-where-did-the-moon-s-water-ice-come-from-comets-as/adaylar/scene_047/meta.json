@@ -1,0 +1,74 @@
+{
+  "scene_id": 47,
+  "media": "photo",
+  "scene_duration_s": 10.0,
+  "narration": "But that is about a thin hydrated surface layer, not the polar ice itself. Before we name a culprit, two new studies change the timeline.",
+  "visual_brief": "Hydration map of the lunar surface from Moon Mineralogy Mapper.",
+  "purpose": "explain",
+  "nasa_query": "Moon Mineralogy Mapper",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_047/aday_0.jpg",
+      "nasa_id": "PIA12232",
+      "title": "Dispersing Light through the Moon Mineralogy Mapper",
+      "center": "JPL",
+      "date": "2009-09-24",
+      "description": "Dispersing Light through the Moon Mineralogy Mapper",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12232/PIA12232~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12232/PIA12232~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_047/aday_1.jpg",
+      "nasa_id": "PIA12231",
+      "title": "Building the Moon Mineralogy Mapper",
+      "center": "JPL",
+      "date": "2009-09-24",
+      "description": "The Moon Mineralogy Mapper imaging spectrometer, an instrument on India’s Chandrayaan-1, during development at NASA’s Jet Propulsion Laboratory.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12231/PIA12231~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12231/PIA12231~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_047/aday_2.jpg",
+      "nasa_id": "PIA11727",
+      "title": "NASA Moon Mineralogy Mapper",
+      "center": "JPL",
+      "date": "2008-12-17",
+      "description": "Different wavelengths of light provide new information about the Orientale Basin region of the moon in a composite image taken by NASA Moon Mineralogy Mapper, a guest instrument aboard the Indian Space Research Organization Chandrayaan-1 spacecraft.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11727/PIA11727~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11727/PIA11727~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_047/aday_3.jpg",
+      "nasa_id": "PIA12237",
+      "title": "Water Detected at High Latitudes",
+      "center": "JPL",
+      "date": "2009-09-24",
+      "description": "This image of the moon is from NASA Moon Mineralogy Mapper on the Indian Space Research Organization Chandrayaan-1 mission. It is a three-color composite of reflected near-infrared radiation from the sun.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12237/PIA12237~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12237/PIA12237~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12237/PIA12237~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12237/PIA12237~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA12237/PIA12237~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

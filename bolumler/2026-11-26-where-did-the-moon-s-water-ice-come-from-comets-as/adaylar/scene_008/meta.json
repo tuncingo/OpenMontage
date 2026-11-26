@@ -1,0 +1,78 @@
+{
+  "scene_id": 8,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "Many of these shadows are cold enough to trap ice, at about one hundred and ten kelvin or colder.",
+  "visual_brief": "A permanently shadowed crater floor, dark and cold.",
+  "purpose": "explain",
+  "nasa_query": "permanently shadowed crater",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_008/aday_0.jpg",
+      "nasa_id": "PIA12899",
+      "title": "Eternal Darkness Near the North Pole",
+      "center": "JPL",
+      "date": "2009-08-24",
+      "description": "NASA Lunar Reconnaissance Orbiter shows a small portion of the rim of Erlanger crater. Much of its floor remains in permanent shadow due to its location near the north pole.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12899/PIA12899~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12899/PIA12899~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12899/PIA12899~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12899/PIA12899~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_008/aday_1.jpg",
+      "nasa_id": "PIA21918",
+      "title": "Juling Crater",
+      "center": "JPL",
+      "date": "2018-03-14",
+      "description": "This view from NASA's Dawn mission shows where ice has been detected in the northern wall of Ceres' Juling Crater, which is in almost permanent shadow. Dawn acquired the picture with its framing camera on Aug. 30, 2016, and it was processed with the help of NASA Ames Stereo Pipeline (ASP), to estima",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA21918/PIA21918~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA21918/PIA21918~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA21918/PIA21918~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA21918/PIA21918~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_008/aday_2.jpg",
+      "nasa_id": "PIA20696",
+      "title": "Shadowed Craters on Ceres",
+      "center": "JPL",
+      "date": "2016-07-08",
+      "description": "At the poles of Ceres, scientists have found craters that are permanently in shadow (indicated by blue markings). Such craters are called \"cold traps\" if they remain below about minus 240 degrees Fahrenheit (minus 151 degrees Celsius). These shadowed craters may have been collecting ice for billions",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA20696/PIA20696~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA20696/PIA20696~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA20696/PIA20696~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_008/aday_3.jpg",
+      "nasa_id": "PIA19247",
+      "title": "Hot and Cold",
+      "center": "JPL",
+      "date": "2015-03-16",
+      "description": "This view shows Mercury's north polar region, colored by the maximum biannual surface temperature, which ranges from >400 K (red) to 50 K (purple). As expected for the Solar System's innermost planet, areas of Mercury's surface that are sunlit reach high temperatures, and hence most of this image is",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "scene_id": 33,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "But does it fill the polar traps? The review says probably not.",
+  "visual_brief": "Aurora seen from orbit, colourful and moving.",
+  "purpose": "cutaway",
+  "nasa_query": "aurora ISS",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_033/aday_0.jpg",
+      "nasa_id": "Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022",
+      "title": "Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022",
+      "center": "HQ",
+      "date": "2022-08-26",
+      "description": "Our Artemis I flight test is “go for launch,” the first deep-space long-duration biology test, and the Webb Space Telescope captures new images of Jupiter … a few of the stories to tell you about – This Week at NASA!",
+      "links": [
+        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~large.jpg",
+        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~medium.jpg",
+        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~small.jpg",
+        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~large.mp4",
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~medium.mp4",
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~small.mp4",
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~preview.mp4",
+        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~orig.mp4"
+      ],
+      "duration_s": 211.5,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_033/aday_1.jpg",
+      "nasa_id": "SVS-31383",
+      "title": "Water Droplet Science with Astronaut Don Pettit on the ISS",
+      "center": "NASA SVS",
+      "date": "2026-04-01",
+      "description": "NASA astronaut Don Pettit demonstrates electrostatic forces using charged water droplets and a knitting needle made of Teflon.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031383/pettit-electrostatic-displays-00094.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031383/pettit-electrostatic-displays-1080pa.mp4",
+      "duration_s": 41.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/31383/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_033/aday_2.jpg",
+      "nasa_id": "0300803",
+      "title": "Space Science",
+      "center": "MSFC",
+      "date": "2001-10-01",
+      "description": "Auroras are caused when high-energy electrons pour down from the Earth's magnetosphere and collide with atoms. Red aurora, as captured here by a still digital camera aboard the International Space Station (ISS), occurs from 200 km to as high as 500 km altitude and is caused by the emission of 6300 A",
+      "links": [
+        "https://images-assets.nasa.gov/image/0300803/0300803~medium.jpg",
+        "https://images-assets.nasa.gov/image/0300803/0300803~small.jpg",
+        "https://images-assets.nasa.gov/image/0300803/0300803~thumb.jpg",
+        "https://images-assets.nasa.gov/image/0300803/0300803~large.jpg",
+        "https://images-assets.nasa.gov/image/0300803/0300803~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_033/aday_3.jpg",
+      "nasa_id": "iss039e009160",
+      "title": "Earth Observations taken by the Expedition 39 Crew",
+      "center": "JSC",
+      "date": "2014-04-02",
+      "description": "ISS039-E-009160 (2 April 2014) --- This nighttime view featuring the aurora borealis, the moon and Moscow was photographed by an Expedition 39 crew member on the International Space Station. A thin green line of the aurora borealis crosses the top of this image. The moon appears as a white disc just",
+      "links": [
+        "https://images-assets.nasa.gov/image/iss039e009160/iss039e009160~medium.jpg",
+        "https://images-assets.nasa.gov/image/iss039e009160/iss039e009160~small.jpg",
+        "https://images-assets.nasa.gov/image/iss039e009160/iss039e009160~thumb.jpg",
+        "https://images-assets.nasa.gov/image/iss039e009160/iss039e009160~large.jpg",
+        "https://images-assets.nasa.gov/image/iss039e009160/iss039e009160~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

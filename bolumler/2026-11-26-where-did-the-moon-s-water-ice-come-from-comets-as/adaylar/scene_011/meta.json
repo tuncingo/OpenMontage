@@ -1,0 +1,165 @@
+{
+  "scene_id": 11,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "So the ice is real. The question is how it got there. Suspect one. Comets.",
+  "visual_brief": "A comet nucleus and tail sweeping through space.",
+  "purpose": "cutaway",
+  "nasa_query": "comet tail",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_0.jpg",
+      "nasa_id": "GSFC_20181102_Comet_m12900_Tails",
+      "title": "Insights on Comet Tails Are Blowing in the Solar Wind",
+      "center": "GSFC",
+      "date": "2018-11-02",
+      "description": "Oliver Price, a planetary science PhD student at University College London’s Mullard Space Science Laboratory in the United Kingdom, has developed a new image-processing technique to mine through the wealth of data about comet tails. Price’s findings offer the first observations of striations formin",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20181102_Comet_m12900_Tails/GSFC_20181102_Comet_m12900_Tails~orig.mp4"
+      ],
+      "duration_s": 129.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_1.jpg",
+      "nasa_id": "GSFC_20131121_ISON_m11384_Comet",
+      "title": "How to Cook a Comet",
+      "center": "GSFC",
+      "date": "2013-11-21",
+      "description": "A comet's journey through the solar syste is perilous and violent. Before it reaches Mars - at some 230 million miles away from the sun - the radiation of the sun begins to cook off the frozen water ice directly into gas. This is called sublimation. It is the first step toward breaking the comet apa",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20131121_ISON_m11384_Comet/GSFC_20131121_ISON_m11384_Comet~orig.mp4"
+      ],
+      "duration_s": 122.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_2.jpg",
+      "nasa_id": "ksc_122104_telescope_program",
+      "title": "KSC-05-S-00005",
+      "center": "KSC",
+      "date": "2005-01-10",
+      "description": "When Deep Impact strikes comet Tempel 1, it will unleash a storm of dust and debris never before seen by astronomers. Scientists are hoping to catch as much of the 11-month show as possible. The problem is there aren't nearly enough large telescopes on Earth to keep an eye on the comet for that long",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_122104_telescope_program/ksc_122104_telescope_program~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_122104_telescope_program/ksc_122104_telescope_program~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_122104_telescope_program/ksc_122104_telescope_program~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_122104_telescope_program/ksc_122104_telescope_program~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_122104_telescope_program/ksc_122104_telescope_program~orig.mp4"
+      ],
+      "duration_s": 106.4,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_3.jpg",
+      "nasa_id": "SVS-13661",
+      "title": "NASA Missions Spot Comet NEOWISE",
+      "center": "NASA SVS",
+      "date": "2020-07-10",
+      "description": "These images from ESA and NASA’s Solar and Heliospheric Observatory show comet NEOWISE as it approached the Sun in late June 2020. The instrument that produced this data is a coronagraph, which uses a solid disk to block out the Sun’s bright face, revealing the comparatively outer atmosphere, the co",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013661/wisprinnerneowise20200705T020949E1_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013661/wide.mp4",
+      "duration_s": 15.0,
+      "width": 3840,
+      "height": 2160,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13661/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_4.jpg",
+      "nasa_id": "SVS-4343",
+      "title": "Lots of Comets - Long trail version",
+      "center": "NASA SVS",
+      "date": "2015-09-15",
+      "description": "This visualization presents 14 years of comets seen by SOHO from the perspective of an observer orbiting a fixed point above the ecliptic plane with the Sun at the center.This video is also available on our YouTube channel. || LotsaComets-orbit.slate_HAEmove.HD1080i.1000_print.jpg (1024x576) [110.2 ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a004300/a004343/LotsaComets-orbit.slate_HAEmove.HD1080i.1000_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004300/a004343/LotsaComets-orbit_1080p30.mp4",
+      "duration_s": 175.2,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/4343/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001341",
+      "title": "NASA's Hubble Sees Asteroid Spout Six Comet-like Tails",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This NASA Hubble Space Telescope set of images reveals a never-before-seen set of six comet-like tails radiating from a body in the asteroid belt, designated P/2013 P5. The asteroid was discovered as an unusually fuzzy-looking object with the Panoramic Survey Telescope and Rapid Response System (Pan",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001341/GSFC_20171208_Archive_e001341~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001341/GSFC_20171208_Archive_e001341~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001341/GSFC_20171208_Archive_e001341~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001341/GSFC_20171208_Archive_e001341~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001341/GSFC_20171208_Archive_e001341~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_011/aday_6.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001339",
+      "title": "NASA's Hubble Sees Asteroid Spout Six Comet-like Tails",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "P/2013 P5 on September 23, 2013. --- This NASA Hubble Space Telescope set of images reveals a never-before-seen set of six comet-like tails radiating from a body in the asteroid belt, designated P/2013 P5. The asteroid was discovered as an unusually fuzzy-looking object with the Panoramic Survey Tel",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001339/GSFC_20171208_Archive_e001339~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001339/GSFC_20171208_Archive_e001339~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001339/GSFC_20171208_Archive_e001339~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001339/GSFC_20171208_Archive_e001339~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

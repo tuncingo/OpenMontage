@@ -1,0 +1,166 @@
+{
+  "scene_id": 29,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "The solar wind is a constant stream of protons. At the Moon, about two trillion hit each square metre every second.",
+  "visual_brief": "Solar wind streaming outward from the Sun past planets.",
+  "purpose": "explain",
+  "nasa_query": "solar wind",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_0.jpg",
+      "nasa_id": "305_EffectsOfTheSolarWind",
+      "title": "NASA ScienceCasts: Effects of the Solar Wind",
+      "center": "HQ",
+      "date": "2019-11-24",
+      "description": "The continuously expanding solar wind begins in our Sun and doesn’t stop until after it reaches the edge of the heliosphere.",
+      "links": [
+        "https://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~large.jpg",
+        "https://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~medium.jpg",
+        "https://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~small.jpg",
+        "https://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~large.mp4",
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~medium.mp4",
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~mobile.mp4",
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~small.mp4",
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~preview.mp4",
+        "http://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~orig.mp4"
+      ],
+      "duration_s": 225.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_1.jpg",
+      "nasa_id": "GSFC_20160901_STEREO_m12329_SolarWind",
+      "title": "Snapshots from the Edge of the Sun",
+      "center": "GSFC",
+      "date": "2016-09-01",
+      "description": "For the first time, using NASA’s Solar Terrestrial Relations Observatory, or STEREO, scientists have imaged the edge of the sun and described that transition – from which the solar wind blows. Defining the details of this boundary helps us learn more about our solar neighborhood, which is bathed thr",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160901_STEREO_m12329_SolarWind/GSFC_20160901_STEREO_m12329_SolarWind~orig.mp4"
+      ],
+      "duration_s": 131.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_2.jpg",
+      "nasa_id": "GSFC_20130226_SDO_m11179_Vocab",
+      "title": "Space Weather Vocabulary",
+      "center": "GSFC",
+      "date": "2013-02-26",
+      "description": "We are all familiar with weather on Earth, but how much do you know about weather in space? Suitable for all ages, this introduction to space weather covers vocabulary like coronal mass ejection (CME), solar wind, and solar flare. It also outlines potential effects of solar storms on our planet.",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130226_SDO_m11179_Vocab/GSFC_20130226_SDO_m11179_Vocab~orig.mp4"
+      ],
+      "duration_s": 83.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_3.jpg",
+      "nasa_id": "SVS-5622",
+      "title": "Artemis II: Sending Humans Beyond the Magnetosphere",
+      "center": "NASA SVS",
+      "date": "2026-03-05",
+      "description": "Artemis II will be the first time in over 50 years that humans venture beyond Earth's protective magnetic shield, called the magnetosphere. This visualization captures the spacecraft's journey as the Orion spacecraft leaves the safety of the magnetosphere (shown here in green) and travels into open ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005622/moonGamera_velHighRes_HD.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005622/moonGamera_4-15-2026c_artemisII_wind_1080p30.mp4",
+      "duration_s": 100.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5622/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_4.jpg",
+      "nasa_id": "SVS-5567",
+      "title": "New Missions to L1",
+      "center": "NASA SVS",
+      "date": "2025-07-21",
+      "description": "Three missions, Carruthers, IMAP and SWFO-L1 will be launched to the Sun-Earth Lagrange Point, L1.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005567/Geospace2025.New2L1.GSE.RE.clockSlate_CRTT.HD1080.00900.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005567/Geospace2025.New2L1.GSE.RE.clockSlate_CRTT.HD1080_p30.mp4",
+      "duration_s": 40.9,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5567/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_5.jpg",
+      "nasa_id": "PIA00948",
+      "title": "Mars and the Solar Wind",
+      "center": "JPL",
+      "date": "1997-10-13",
+      "description": "Mars and the Solar Wind",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA00948/PIA00948~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA00948/PIA00948~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA00948/PIA00948~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_029/aday_6.jpg",
+      "nasa_id": "PIA11150",
+      "title": "Solar Panel Buffeted by Wind at Phoenix Site",
+      "center": "JPL",
+      "date": "2008-09-14",
+      "description": "Solar Panel Buffeted by Wind at Phoenix Site",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11150/PIA11150~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11150/PIA11150~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11150/PIA11150~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

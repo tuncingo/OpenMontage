@@ -1,0 +1,76 @@
+{
+  "scene_id": 12,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "A comet is a dirty snowball. It looks like the obvious answer. And in 2022, a team analysed the chemical fingerprint of the LCROSS plume.",
+  "visual_brief": "Close view of a real comet nucleus, rough and dusty.",
+  "purpose": "explain",
+  "nasa_query": "Comet 67P nucleus",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_012/aday_0.jpg",
+      "nasa_id": "PIA18596",
+      "title": "Comet Surface Variations",
+      "center": "JPL",
+      "date": "2014-08-14",
+      "description": "This image from ESA Rosetta spacecraft is of 67P/Churyumov-Gerasimenko shows the diversity of surface structures on the comet nucleus.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18596/PIA18596~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18596/PIA18596~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18596/PIA18596~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18596/PIA18596~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18596/PIA18596~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_012/aday_1.jpg",
+      "nasa_id": "PIA18867",
+      "title": "Jagged Horizon on Rosetta Destination Comet",
+      "center": "JPL",
+      "date": "2014-11-11",
+      "description": "A jagged horizon of the nucleus of comet 67P/Churyumov-Gerasimenko appears in this image taken by the navigation camera on the ESA Rosetta spacecraft during the second half of October 2014.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18867/PIA18867~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18867/PIA18867~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18867/PIA18867~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_012/aday_2.jpg",
+      "nasa_id": "PIA18423",
+      "title": "Comet 67P from 1,200 Miles Away",
+      "center": "JPL",
+      "date": "2014-07-31",
+      "description": "This view from the OSIRIS instrument onboard ESA Rosetta spacecraft shows the nucleus of comet 67P/Churyumov-Gerasimernko from a distance of 1,210 miles 1950 kilometers.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18423/PIA18423~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18423/PIA18423~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_012/aday_3.jpg",
+      "nasa_id": "PIA19096",
+      "title": "Philae Lander Setting on Comet Surface",
+      "center": "JPL",
+      "date": "2014-12-17",
+      "description": "This graphic depicts the position of the Philae lander of the European Space Agency Rosetta mission in the context of topographic modeling of the surface of comet 67P/Churyumov-Gerasimenko nucleus.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19096/PIA19096~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19096/PIA19096~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19096/PIA19096~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

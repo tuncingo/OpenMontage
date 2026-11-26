@@ -1,0 +1,85 @@
+{
+  "scene_id": 71,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "Tell me in the comments which suspect you would bet on, and subscribe to Rebel Minds: Cosmos for more open cases.",
+  "visual_brief": "Andromeda galaxy slowly receding, calm closing shot.",
+  "purpose": "outro",
+  "nasa_query": "Andromeda Galaxy Hubble",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_071/aday_0.jpg",
+      "nasa_id": "ksc_082604_chandra",
+      "title": "KSC-04-S-00307",
+      "center": "KSC",
+      "date": "2004-08-27",
+      "description": "A new era in stellar astronomy began five years ago when the Chandra X-ray Observatory first opened its sunshade to focus on former supernova Cassiopeia A. Sensitive to invisible x-ray light, Chandra can see the heat given off by massive stellar objects regardless of their distance. This ability to ",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_082604_chandra/ksc_082604_chandra~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_082604_chandra/ksc_082604_chandra~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_082604_chandra/ksc_082604_chandra~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_082604_chandra/ksc_082604_chandra~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_082604_chandra/ksc_082604_chandra~orig.mp4"
+      ],
+      "duration_s": 118.9,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_071/aday_1.jpg",
+      "nasa_id": "SVS-14172",
+      "title": "Dominic Benford 2022 AAS Roman Hyperwall Talk",
+      "center": "NASA SVS",
+      "date": "2022-07-05",
+      "description": "Static title card.Credit: NASA's Goddard Space Flight Center || dominic_benford_roman_title_slide_print.jpg (1024x576) [262.4 KB] || dominic_benford_roman_title_slide.png (3840x2160) [10.2 MB] || dominic_benford_roman_title_slide_searchweb.png (320x180) [113.1 KB] || dominic_benford_roman_title_slid",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014172/dominic_benford_roman_title_slide_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014172/RomanBeautyShotCombo_1080p29.97.mp4",
+      "duration_s": 22.4,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14172/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_071/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000833",
+      "title": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Zoom into the Andromeda galaxy. The largest NASA Hubble Space Telescope image ever assembled, this sweeping view of a portion of the Andromeda galaxy (M31) is the sharpest large composite image ever taken of our galactic neighbor. Though the galaxy is over 2 million light-years away, the Hubble tele",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_071/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000839",
+      "title": "Hubble’s High-Definition Panoramic View of the Andromeda Galaxy",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "The largest NASA Hubble Space Telescope image ever assembled, this sweeping bird’s-eye view of a portion of the Andromeda galaxy (M31) is the sharpest large composite image ever taken of our galactic next-door neighbor. Though the galaxy is over 2 million light-years away, The Hubble Space Telescope",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000839/GSFC_20171208_Archive_e000839~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000839/GSFC_20171208_Archive_e000839~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

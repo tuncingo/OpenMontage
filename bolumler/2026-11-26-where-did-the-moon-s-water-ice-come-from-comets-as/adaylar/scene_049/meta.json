@@ -1,0 +1,143 @@
+{
+  "scene_id": 49,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "The ice built up slowly, over about three to three point five billion years.",
+  "visual_brief": "Deep field of galaxies, an image of deep time.",
+  "purpose": "cutaway",
+  "nasa_query": "Hubble Ultra Deep Field",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_0.jpg",
+      "nasa_id": "GSFC_20080520_HST_m10225_ACS_Power_Flow",
+      "title": "HST Advance Camera For Surveys Power Flow",
+      "center": "GSFC",
+      "date": "2008-05-20",
+      "description": "Hubble's Advanced Camera for Surveys (ACS) was responsible for many of Hubble's most impressive images of deep space. In January 2007, ACS experienced an electrical short that put two of its three cameras out of commission. ACS contains a trio of cameras: the wide field camera, the high-resolution c",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080520_HST_m10225_ACS_Power_Flow/GSFC_20080520_HST_m10225_ACS_Power_Flow~orig.mp4"
+      ],
+      "duration_s": 34.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_1.jpg",
+      "nasa_id": "ksc_112904_di_arrives",
+      "title": "KSC-04-S-00377",
+      "center": "KSC",
+      "date": "2004-11-11",
+      "description": "The Deep Impact spacecraft took the first step toward its journey to comet Tempel 1 when it arrived in Florida in October. It was shipped by truck from Ball Aerospace and Technologies in Boulder, Colorado, to the Astrotech Space Operations facility near the Kennedy Space Center. After removing it fr",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~orig.mp4"
+      ],
+      "duration_s": 108.3,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_2.jpg",
+      "nasa_id": "jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403",
+      "title": "Artemis II Crew Announcement April 3, 2023 ",
+      "center": "JSC",
+      "date": "2023-04-03",
+      "description": "NASA and CSA (Canadian Space Agency) announced, during an event on Monday, April 3, from NASA Johnson Space Center’s Ellington Field in Houston, the four astronauts who will venture around the Moon on the Artemis II mission. The crew, comprised of NASA astronaut Reid Wiseman(Commander), NASA astrona",
+      "links": [
+        "https://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~large.jpg",
+        "https://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~medium.jpg",
+        "https://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~small.jpg",
+        "https://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~large.mp4",
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~medium.mp4",
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~mobile.mp4",
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~small.mp4",
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~preview.mp4",
+        "http://images-assets.nasa.gov/video/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403/jsc2023m000097_Artemis_II_Crew_Announcement_NTV_230403~orig.mp4"
+      ],
+      "duration_s": 3319.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_3.jpg",
+      "nasa_id": "SVS-14363",
+      "title": "Hubble Science: Expansion Rate: The Hubble Tension",
+      "center": "NASA SVS",
+      "date": "2023-09-12",
+      "description": "When the Hubble Space Telescope launched, one of its main goals was to measure the rate at which our universe is expanding. That rate is called the “Hubble Constant” – named after the astronomer Edwin Hubble, who contributed to the discovery of the universe’s expansion. However, the expected value o",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014363/14636_TENSION_WIDE_PRINT.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014300/a014363/14636_TENSION_WIDE_MP4.mp4",
+      "duration_s": 300.6,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14363/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_4.jpg",
+      "nasa_id": "hubble-sees-a-legion-of-galaxies_25608651281_o",
+      "title": "Swimming in Sculptor",
+      "center": "GSFC",
+      "date": "2016-03-07",
+      "description": "Peering deep into the early Universe, this picturesque parallel field observation from the NASA/ESA Hubble Space Telescope reveals thousands of colourful galaxies swimming in the inky blackness of space. A few foreground stars from our own galaxy, the Milky Way, are also visible. In October 2013 Hub",
+      "links": [
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~small.jpg",
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~thumb.jpg",
+        "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_049/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001651",
+      "title": "Hubble Goes to the eXtreme to Assemble Farthest-Ever View of the Universe",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image release September 25, 2012 Like photographers assembling a portfolio of best shots, astronomers have assembled a new, improved portrait of mankind's deepest-ever view of the universe. Called the eXtreme Deep Field, or XDF, the photo was assembled by combining 10 years of NASA Hubble Space",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001651/GSFC_20171208_Archive_e001651~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

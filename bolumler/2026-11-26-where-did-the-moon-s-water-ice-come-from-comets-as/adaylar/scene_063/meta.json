@@ -1,0 +1,132 @@
+{
+  "scene_id": 63,
+  "media": "video",
+  "scene_duration_s": 6.0,
+  "narration": "A mixed supply is likely. Different sources, in different eras, in different craters.",
+  "visual_brief": "Colourful layers of a planetary nebula, many sources blending.",
+  "purpose": "cutaway",
+  "nasa_query": "Webb Southern Ring Nebula",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_063/aday_0.jpg",
+      "nasa_id": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "title": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "center": "HQ",
+      "date": "2022-07-13",
+      "description": "Description: NASA revealed the first five full-color images and spectrographic data from the world's most powerful space telescope, the James Webb Space Telescope, a partnership with ESA (European Space Agency), and CSA (Canadian Space Agency). The world got its first look at the full capabilities o",
+      "links": [
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~mobile.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~preview.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~orig.mp4"
+      ],
+      "duration_s": 190.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_063/aday_1.jpg",
+      "nasa_id": "GSFC_NSL_Webb_Images_Ep44",
+      "title": "NASA Science Live: Webb’s First Full-Color Images Explained [Episode 44]",
+      "center": "GSFC",
+      "date": "2022-07-13",
+      "description": "NASA released the first full-color images and data from the James Webb Space Telescope on July 12. These images demonstrate Webb’s capability to #UnfoldTheUniverse and provide views of the cosmos that humanity has never seen before. Join Webb experts for a conversation to learn how Webb is revealing",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~orig.mp4"
+      ],
+      "duration_s": 3540.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_063/aday_2.jpg",
+      "nasa_id": "JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe",
+      "title": "NASA Telescopes Reveal an Invisible Infrared Universe",
+      "center": "JPL",
+      "date": "2023-12-22",
+      "description": "For 40 years, NASA has expanded our view of the universe with space telescopes that detect infrared light, which is invisible to the human eye. Observing the infrared realm helps us study the origins of planets, stars, galaxies, and even the universe itself. NASA’s James Webb Space Telescope is the ",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4"
+      ],
+      "duration_s": 93.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_063/aday_3.jpg",
+      "nasa_id": "NHQ202207120012",
+      "title": "JWST’s First Full-Color Images",
+      "center": "HQ",
+      "date": "2022-07-12",
+      "description": "One of the images captured by NASA’s James Webb Space Telescope of the planetary nebula cataloged as NGC 3132, and known informally as the Southern Ring Nebula, is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Spa",
+      "links": [
+        "https://images-assets.nasa.gov/image/NHQ202207120012/NHQ202207120012~medium.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120012/NHQ202207120012~small.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120012/NHQ202207120012~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120012/NHQ202207120012~large.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120012/NHQ202207120012~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_063/aday_4.jpg",
+      "nasa_id": "southern_ring_nebula",
+      "title": "James Webb Space Telescope Southern Ring Nebula (NIRCam and MIRI Images Side by Side)",
+      "center": "STScI",
+      "date": "2022-07-12",
+      "description": "This side-by-side comparison shows observations of the Southern Ring Nebula in near-infrared light, at left, and mid-infrared light, at right, from NASA’s Webb Telescope. This scene was created by a white dwarf star – the remains of a star like our Sun after it shed its outer layers and stopped burn",
+      "links": [
+        "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~medium.jpg",
+        "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~small.jpg",
+        "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~thumb.jpg",
+        "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~large.jpg",
+        "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

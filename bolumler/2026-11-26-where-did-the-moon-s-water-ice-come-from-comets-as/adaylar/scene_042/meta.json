@@ -1,0 +1,82 @@
+{
+  "scene_id": 42,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "The authors concluded that oxygen from Earth's upper atmosphere is blown to the Moon. A University of Alaska team went further.",
+  "visual_brief": "Earth's thin upper atmosphere seen edge-on from orbit.",
+  "purpose": "explain",
+  "nasa_query": "Earth limb atmosphere",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_042/aday_0.jpg",
+      "nasa_id": "sts052-15-007",
+      "title": "Sunset",
+      "center": "JSC",
+      "date": "1992-11-01",
+      "description": "This cross section of the Earth's atmosphere at sunset and earth limb (24.5S, 43.5E) displays an unusual layering believed to be caused by temperature inversions which effectively concentrate smoke, dust and aerosols into narrow layers. the top of the stratosphere can be seen as the top of the white",
+      "links": [
+        "https://images-assets.nasa.gov/image/sts052-15-007/sts052-15-007~medium.jpg",
+        "https://images-assets.nasa.gov/image/sts052-15-007/sts052-15-007~small.jpg",
+        "https://images-assets.nasa.gov/image/sts052-15-007/sts052-15-007~thumb.jpg",
+        "https://images-assets.nasa.gov/image/sts052-15-007/sts052-15-007~large.jpg",
+        "https://images-assets.nasa.gov/image/sts052-15-007/sts052-15-007~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_042/aday_1.jpg",
+      "nasa_id": "STS052-23-022",
+      "title": "Sunrise, Earth Limb",
+      "center": "JSC",
+      "date": "1992-11-01",
+      "description": "STS052-23-022 (22 Oct.-1 Nov. 1992) --- As the Space Shuttle Columbia orbited Earth in an easterly direction over the Indian Ocean, moonrise was followed quickly by sunrise. The photograph was taken from an altitude of 285 kilometers (154 nautical miles), over Lake Tanganyika in central Africa. The ",
+      "links": [
+        "https://images-assets.nasa.gov/image/STS052-23-022/STS052-23-022~medium.jpg",
+        "https://images-assets.nasa.gov/image/STS052-23-022/STS052-23-022~small.jpg",
+        "https://images-assets.nasa.gov/image/STS052-23-022/STS052-23-022~thumb.jpg",
+        "https://images-assets.nasa.gov/image/STS052-23-022/STS052-23-022~large.jpg",
+        "https://images-assets.nasa.gov/image/STS052-23-022/STS052-23-022~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_042/aday_2.jpg",
+      "nasa_id": "PIA01052",
+      "title": "Microwave Limb Sounder/El Niño Watch - Water Vapor Measurement, October, 1997",
+      "center": "JPL",
+      "date": "1997-10-30",
+      "description": "This image shows atmospheric water vapor in Earth upper troposphere, about 10 kilometers 6 miles above the surface, as measured by NASA Microwave Limb Sounder MLS instrument flying aboard the Upper Atmosphere Research Satellite.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA01052/PIA01052~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA01052/PIA01052~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA01052/PIA01052~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA01052/PIA01052~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_042/aday_3.jpg",
+      "nasa_id": "sts080-759-038",
+      "title": "Earth observations taken from Space Shuttle Columbia during STS-80 mission",
+      "center": "JSC",
+      "date": "1996-11-24",
+      "description": "STS080-759-038 (19 Nov.-7 Dec. 1996) --- As photographed by the crewmembers aboard the space shuttle Columbia, a full moon is about to set beyond the limb of Earth. A full moon should be round but when it is near the limb, or edge of Earth, the atmosphere tends to distort the shape. The atmosphere, ",
+      "links": [
+        "https://images-assets.nasa.gov/image/sts080-759-038/sts080-759-038~medium.jpg",
+        "https://images-assets.nasa.gov/image/sts080-759-038/sts080-759-038~small.jpg",
+        "https://images-assets.nasa.gov/image/sts080-759-038/sts080-759-038~thumb.jpg",
+        "https://images-assets.nasa.gov/image/sts080-759-038/sts080-759-038~large.jpg",
+        "https://images-assets.nasa.gov/image/sts080-759-038/sts080-759-038~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

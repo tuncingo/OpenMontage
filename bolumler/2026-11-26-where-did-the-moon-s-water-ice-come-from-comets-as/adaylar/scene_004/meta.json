@@ -1,0 +1,168 @@
+{
+  "scene_id": 4,
+  "media": "video",
+  "scene_duration_s": 10.0,
+  "narration": "And we will look at a lander built to attempt it, which missed its launch window this year. First, the scene of the crime.",
+  "visual_brief": "Orbiter-view tour of the Moon's cratered surface, setting the scene.",
+  "purpose": "cutaway",
+  "nasa_query": "Lunar Reconnaissance Orbiter",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_0.jpg",
+      "nasa_id": "GSFC_20080611_LRO_m10257_Return_short",
+      "title": "Return with LRO short",
+      "center": "GSFC",
+      "date": "2008-06-11",
+      "description": "The Deputy Project Manager for the Lunar Reconnaissance Orbiter (LRO) program, Cathy Peddie, expresses her personal and professional thoughts on the upcoming LRO mission.",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return_short/GSFC_20080611_LRO_m10257_Return_short~orig.mp4"
+      ],
+      "duration_s": 171.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_1.jpg",
+      "nasa_id": "GSFC_20080611_LRO_m10257_Return",
+      "title": "Return with LRO",
+      "center": "GSFC",
+      "date": "2008-06-11",
+      "description": "The Deputy Project Manager for the Lunar Reconnaissance Orbiter (LRO) program, Cathy Peddie, expresses her personal and professional thoughts on the upcoming LRO mission.",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20080611_LRO_m10257_Return/GSFC_20080611_LRO_m10257_Return~orig.mp4"
+      ],
+      "duration_s": 202.3,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_2.jpg",
+      "nasa_id": "GSFC_20190618_LRO_m13229_10Years",
+      "title": "10 Years at the Moon",
+      "center": "GSFC",
+      "date": "2019-06-18",
+      "description": "NASA’s Lunar Reconnaissance Orbiter mission now celebrates its 10-year anniversary of being at the Moon. After launching on June 18, 2009 and entering lunar orbit on June 23rd, the spacecraft continues to collect vast amounts of data vital to our understanding of the lunar landscape and environment,",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190618_LRO_m13229_10Years/GSFC_20190618_LRO_m13229_10Years~orig.mp4"
+      ],
+      "duration_s": 111.9,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_3.jpg",
+      "nasa_id": "SVS-5609",
+      "title": "Heliophysics Satellite Fleet - 2026",
+      "center": "NASA SVS",
+      "date": "2026-01-26",
+      "description": "A tour of the NASA Heliophysics fleet from near-Earth satellites out to the Voyagers beyond the heliopause.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026.03115_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026_1080p60.mp4",
+      "duration_s": 90.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5609/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_4.jpg",
+      "nasa_id": "SVS-5571",
+      "title": "NASA's Fleet of Active Satellites (July 2025)",
+      "center": "NASA SVS",
+      "date": "2025-07-22",
+      "description": "This visualization shows the orbits of NASA satellites considered operational as of July 2025. It includes both NASA-managed missions and those operated by partner organizations.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005571/nasa_full_fleet_July2025_still.06620_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005571/nasa_full_fleet_July2025_1080p60.mp4",
+      "duration_s": 205.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5571/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_5.jpg",
+      "nasa_id": "PIA12088",
+      "title": "Diviner Following Integration to the Lunar Reconnaissance Orbiter LRO",
+      "center": "JPL",
+      "date": "2009-07-07",
+      "description": "The Diviner instrument following integration to NASA Lunar Reconnaissance Orbiter. Diviner is one of seven instruments aboard the Lunar Reconnaissance Orbiter.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA12088/PIA12088~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_004/aday_6.jpg",
+      "nasa_id": "PIA18163",
+      "title": "Lunar Reconnaissance Orbiter Artist Concept",
+      "center": "JPL",
+      "date": "2008-07-24",
+      "description": "Artist rendering of the Lunar Reconnaissance Orbiter LRO, above the moon. LRO carries seven instruments that make comprehensive remote sensing observations of the moon and measurements of the lunar radiation environment. The LRO mission is managed by NASA Goddard for the Science Mission Directorate ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18163/PIA18163~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

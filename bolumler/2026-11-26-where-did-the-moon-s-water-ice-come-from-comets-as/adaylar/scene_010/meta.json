@@ -1,0 +1,165 @@
+{
+  "scene_id": 10,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "One estimate puts them at about forty thousand square kilometres. That is a bit less than Switzerland.",
+  "visual_brief": "Map view of polar shadowed regions across the pole.",
+  "purpose": "explain",
+  "nasa_query": "permanently shadowed regions",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_0.jpg",
+      "nasa_id": "GSFC_20130306_Moons_m11218_Shadowed",
+      "title": "The Moon's Permanently Shadowed Regions",
+      "center": "GSFC",
+      "date": "2013-03-06",
+      "description": "As you watch the Moon over the course of a month, you'll notice that different features are illuminated by the Sun at different times. However, there are some parts of the Moon that never see sunlight. These areas are called permanently shadowed regions, and they appear dark because unlike on the Ea",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~preview.mp4"
+      ],
+      "duration_s": 117.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_1.jpg",
+      "nasa_id": "ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p",
+      "title": "NASA is sending a rover to hunt for water on the Moon (Raw Animations)",
+      "center": "ARC",
+      "date": "2019-10-25",
+      "description": "Silent animations of the VIPER rover for use by the media and others. About the size of a golf cart, the Volatiles Investigating Polar Exploration Rover, or VIPER, will roam several miles, using its four science instruments — including a 1-meter drill — to sample various soil environments. Planned f",
+      "links": [
+        "https://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p/ARC-20191025-AAV3232-VIPER-Animation-NASAWeb1080p~orig.mp4"
+      ],
+      "duration_s": 88.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_2.jpg",
+      "nasa_id": "GSFC_20130603_LEND_m11292_Water",
+      "title": "Water on the Moon",
+      "center": "GSFC",
+      "date": "2013-06-03",
+      "description": "Since the 1960’s, scientists have suspected that frozen water could survive in cold, dark craters at the Moon’s poles. While previous lunar missions have detected hints of water on the Moon, new data from the Lunar Reconnaissance Orbiter (LRO) pinpoints areas near the south pole where water is likel",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130603_LEND_m11292_Water/GSFC_20130603_LEND_m11292_Water~preview.mp4"
+      ],
+      "duration_s": 114.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_3.jpg",
+      "nasa_id": "SVS-5692",
+      "title": "Moon Phase and Libration, 2027 South Up",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals. The orientation is south-up.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/phases_2027_fancy_s_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5692/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_4.jpg",
+      "nasa_id": "SVS-5691",
+      "title": "Moon Phase and Libration, 2027",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/phases_2027_fancy_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5691/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_5.jpg",
+      "nasa_id": "PIA24161",
+      "title": "Lunar Trailblazer to Support NASA's Artemis Program",
+      "center": "JPL",
+      "date": "2020-12-02",
+      "description": "Peering into the Moon's permanently shadowed regions, Lunar Trailblazer will detect signatures of water ice in reflected light, and it will pinpoint the locations of micro-cold traps less than a football field in size. The small satellite will collect measurements at multiple times of day over sunli",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA24161/PIA24161~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA24161/PIA24161~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA24161/PIA24161~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_010/aday_6.jpg",
+      "nasa_id": "PROMISE - 7",
+      "title": "Artist’s Rendering of NASA’s PROMISE Lunar Rover",
+      "center": "HQ",
+      "date": "2026-11-07",
+      "description": "Artist’s rendering of NASA’s Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) on the lunar surface. The nuclear-powered rover is being developed to explore the Moon’s South Pole region, where it will investigate the lunar surface and subsurface, assess potential resources, and",
+      "links": [
+        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~large.jpg",
+        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~medium.jpg",
+        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~small.jpg",
+        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PROMISE - 7/PROMISE - 7~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

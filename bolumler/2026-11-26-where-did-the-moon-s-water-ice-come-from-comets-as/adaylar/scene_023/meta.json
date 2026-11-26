@@ -1,0 +1,27 @@
+{
+  "scene_id": 23,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "How much would it take? According to a NASA slide deck, if only about one tenth of one percent of the water",
+  "visual_brief": "A lunar pit or volcanic feature in orbital imagery.",
+  "purpose": "evidence",
+  "nasa_query": "Marius Hills pit",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_023/aday_0.jpg",
+      "nasa_id": "PIA12954",
+      "title": "Marius Hills Pit -- Lava Tube Skylight?",
+      "center": "JPL",
+      "date": "2010-03-01",
+      "description": "The Marius Hills pit is a possible skylight in a lava tube in an ancient volcanic region of the Moon called the Marius Hills. This image was taken by NASA Lunar Reconnaissance Orbiter.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12954/PIA12954~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12954/PIA12954~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12954/PIA12954~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

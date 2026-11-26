@@ -1,0 +1,150 @@
+{
+  "scene_id": 45,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "I want to be careful here. That is a ceiling, not a forecast. The mainstream view still favours other sources.",
+  "visual_brief": "Earthrise over the lunar horizon, calm and quiet.",
+  "purpose": "cutaway",
+  "nasa_query": "Earthrise",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_0.jpg",
+      "nasa_id": "Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)",
+      "title": "Earthrise: A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)",
+      "center": "HQ",
+      "date": "2023-04-21",
+      "description": "On Dec. 24, 1968, Apollo 8 astronauts Frank Borman, Jim Lovell, and Bill Anders became the first humans to orbit the Moon, and the first to witness the magnificent sight called \"Earthrise.\" NASA’s Chief Scientist and Senior Climate Advisor Dr. Katherine Calvin sat down with Bill Anders to discuss th",
+      "links": [
+        "https://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~large.jpg",
+        "https://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~medium.jpg",
+        "https://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~small.jpg",
+        "https://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~large.mp4",
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~medium.mp4",
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~small.mp4",
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~preview.mp4",
+        "http://images-assets.nasa.gov/video/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)/Earthrise - A Conversation with Apollo 8 Astronaut Bill Anders (Official NASA Video)~orig.mp4"
+      ],
+      "duration_s": 374.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_1.jpg",
+      "nasa_id": "ART-CMA1_2022_325_1250_SHARED_art001m1203251250",
+      "title": "Earthrise after Orion Executes Outbound Powered Flyby",
+      "center": "JSC",
+      "date": "2022-11-21",
+      "description": "art001m1203251250 (Nov. 21, 2022) - The Earth is seen rising from behind the shadowed surface of the Moon in this video taken on the sixth day of the Artemis I mission by a camera on the tip of one of Orion’s solar arrays. The spacecraft had just successfully executed the Outbound Powered Flyby mane",
+      "links": [
+        "https://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~large.jpg",
+        "https://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~medium.jpg",
+        "https://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~small.jpg",
+        "https://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~medium.mp4",
+        "http://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~small.mp4",
+        "http://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~preview.mp4",
+        "http://images-assets.nasa.gov/video/ART-CMA1_2022_325_1250_SHARED_art001m1203251250/ART-CMA1_2022_325_1250_SHARED_art001m1203251250~orig.mp4"
+      ],
+      "duration_s": 457.0,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_2.jpg",
+      "nasa_id": "Highlights From the First 13 Days of NASA's Artemis I Moon Mission",
+      "title": "Highlights From the First 13 Days of NASA's Artemis I Moon Mission",
+      "center": "HQ",
+      "date": "2022-11-28",
+      "description": "On Monday, Nov. 28, 2022, Artemis I reached the halfway point of its 26-day mission around the Moon, flying roughly 270,000 miles (434,000 km) from the Earth—farther from our home planet than any spacecraft designed to send humans to space and back has gone before. From Artemis I's launch at NASA's ",
+      "links": [
+        "https://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~large.jpg",
+        "https://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~medium.jpg",
+        "https://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~small.jpg",
+        "https://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~large.mp4",
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~medium.mp4",
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~small.mp4",
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~preview.mp4",
+        "http://images-assets.nasa.gov/video/Highlights From the First 13 Days of NASA's Artemis I Moon Mission/Highlights From the First 13 Days of NASA's Artemis I Moon Mission~orig.mp4"
+      ],
+      "duration_s": 71.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_3.jpg",
+      "nasa_id": "SVS-14831",
+      "title": "Seeing Earth as Only NASA Can",
+      "center": "NASA SVS",
+      "date": "2025-04-29",
+      "description": "NASA's first image of Earth was taken by Explorer 6 in 1959. It was a grainy, black-and-white photo captured from 17,000 miles above the planet's surface and depicted little more than a sliver of cloud cover over the Pacific Ocean. Nearly 70 years later, NASA's vantage point of Earth has advanced dr",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014831/thumbnail-square.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014831/1080-Earthday.mp4",
+      "duration_s": 83.3,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14831/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_4.jpg",
+      "nasa_id": "art002e009280b",
+      "title": "Artemis Era Earthrise",
+      "center": "JSC",
+      "date": "2026-04-06",
+      "description": "art002e009280 (April 6, 2026) – Earthrise captured through the Orion spacecraft window at 7:22 p.m. ET during the Artemis II crew’s flyby of the Moon’s far side. Earth appears as a delicate crescent, with only its right edge illuminated. The planet’s soft blue hue and scattered white cloud systems s",
+      "links": [
+        "https://images-assets.nasa.gov/image/art002e009280b/art002e009280b~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e009280b/art002e009280b~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e009280b/art002e009280b~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e009280b/art002e009280b~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e009280b/art002e009280b~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_045/aday_5.jpg",
+      "nasa_id": "art002e016299",
+      "title": "Earthrise Captured by Orion",
+      "center": "JSC",
+      "date": "2026-04-06",
+      "description": "art002e016299 (April 6, 2026) - Earthrise captured from a camera mounted on one of the Orion spacecraft’s solar array wings at 7:22 p.m. ET during the Artemis II crew’s flyby of the Moon’s far side. Earth appears as a delicate sliver - with the portion on the left darkened by shadow and a portion on",
+      "links": [
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~large.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~medium.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~small.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~thumb.jpg",
+        "https://images-assets.nasa.gov/image/art002e016299/art002e016299~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

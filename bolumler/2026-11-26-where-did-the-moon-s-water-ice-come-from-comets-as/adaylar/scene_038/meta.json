@@ -1,0 +1,82 @@
+{
+  "scene_id": 38,
+  "media": "photo",
+  "scene_duration_s": 5.0,
+  "narration": "Hydrogen from the wind might still migrate to the poles. That is debated.",
+  "visual_brief": "The Lunar Prospector spacecraft that mapped polar hydrogen.",
+  "purpose": "explain",
+  "nasa_query": "Lunar Prospector",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_038/aday_0.jpg",
+      "nasa_id": "PIA18162",
+      "title": "Lunar Prospector Artist Concept",
+      "center": "JPL",
+      "date": "1998-01-08",
+      "description": "This artist concept of the Lunar Prospector shows the spacecraft in lunar orbit. Instrument masts are fully deployed. http://photojournal.jpl.nasa.gov/catalog/PIA18162",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18162/PIA18162~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18162/PIA18162~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18162/PIA18162~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18162/PIA18162~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_038/aday_1.jpg",
+      "nasa_id": "ARC-1996-AC96-0196-13",
+      "title": "ARC-1996-AC96-0196-13",
+      "center": "ARC",
+      "date": "1996-05-29",
+      "description": "N-244 Lunar Prospector Model",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-13/ARC-1996-AC96-0196-13~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-13/ARC-1996-AC96-0196-13~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-13/ARC-1996-AC96-0196-13~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-13/ARC-1996-AC96-0196-13~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-13/ARC-1996-AC96-0196-13~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_038/aday_2.jpg",
+      "nasa_id": "ARC-1996-AC96-0196-4",
+      "title": "ARC-1996-AC96-0196-4",
+      "center": "ARC",
+      "date": "1996-05-29",
+      "description": "N-244 Lunar Prospector Model",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-4/ARC-1996-AC96-0196-4~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-4/ARC-1996-AC96-0196-4~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-4/ARC-1996-AC96-0196-4~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-4/ARC-1996-AC96-0196-4~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-4/ARC-1996-AC96-0196-4~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_038/aday_3.jpg",
+      "nasa_id": "ARC-1996-AC96-0196-12",
+      "title": "ARC-1996-AC96-0196-12",
+      "center": "ARC",
+      "date": "1996-05-29",
+      "description": "N-244 Lunar Prospector Model",
+      "links": [
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-12/ARC-1996-AC96-0196-12~medium.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-12/ARC-1996-AC96-0196-12~small.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-12/ARC-1996-AC96-0196-12~thumb.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-12/ARC-1996-AC96-0196-12~large.jpg",
+        "https://images-assets.nasa.gov/image/ARC-1996-AC96-0196-12/ARC-1996-AC96-0196-12~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

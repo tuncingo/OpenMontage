@@ -1,0 +1,95 @@
+{
+  "scene_id": 37,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "The review judges the solar wind a negligible source of polar ice. That is a judgment, not a settled fact.",
+  "visual_brief": "Crab Nebula's glowing filaments.",
+  "purpose": "cutaway",
+  "nasa_query": "Crab Nebula Hubble",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_037/aday_0.jpg",
+      "nasa_id": "GSFC_20190424_HST_m13189_Hubble29",
+      "title": "Hubble's 29th Anniversary",
+      "center": "GSFC",
+      "date": "2019-04-24",
+      "description": "On April 24, 2019, the Hubble Space Telescope celebrated its 29th year in orbit by premiering a never-before-seen view of the Southern Crab Nebula. Even after all these years, Hubble continues to uncover the mysteries of the universe. These are a few science achievements from Hubble’s latest year in",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~orig.mp4"
+      ],
+      "duration_s": 182.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_037/aday_1.jpg",
+      "nasa_id": "SVS-14287",
+      "title": "Hubble’s Inside The Image: Crab Nebula",
+      "center": "NASA SVS",
+      "date": "2023-03-16",
+      "description": "The Hubble Space Telescope has taken over 1.5 million observations over the years. One of them is the breathtaking Crab Nebula.With an apparent magnitude of 8.4 and located 6,500 light-years from Earth in the constellation Taurus, the Crab Nebula can be spotted with a small telescope and is best obs",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014287/14287_CRAB_WIDE_PRINT.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014287/14287_CRAB_WIDE_MP4.mp4",
+      "duration_s": 161.5,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14287/"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_037/aday_2.jpg",
+      "nasa_id": "PIA03606",
+      "title": "Most Detailed Image of the Crab Nebula",
+      "center": "JPL",
+      "date": "2005-12-01",
+      "description": "The Crab Nebula is one of the most intricately structured and highly dynamical objects ever observed. The new Hubble image of the Crab was assembled from 24 individual exposures taken with the NASA/ESA Hubble Space Telescope",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA03606/PIA03606~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_037/aday_3.jpg",
+      "nasa_id": "PIA17563",
+      "title": "Crab Nebula, as Seen by Herschel and Hubble",
+      "center": "JPL",
+      "date": "2013-12-12",
+      "description": "This image shows a composite view of the Crab nebula, an iconic supernova remnant in our Milky Way galaxy, as viewed by the Herschel Space Observatory and the Hubble Space Telescope.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA17563/PIA17563~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

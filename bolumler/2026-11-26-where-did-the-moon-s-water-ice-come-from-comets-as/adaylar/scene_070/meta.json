@@ -1,0 +1,151 @@
+{
+  "scene_id": 70,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "The Moon has been keeping this record for billions of years. We just have not read it yet.",
+  "visual_brief": "Milky Way sweeping over a quiet Moon.",
+  "purpose": "outro",
+  "nasa_query": "Milky Way",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_0.jpg",
+      "nasa_id": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
+      "title": "SOFIA Reveals New View of Milky Way’s Center",
+      "center": "ARC",
+      "date": "2020-01-03",
+      "description": "NASA’s flying telescope SOFIA captured a crisp infrared image of the center of our Milky Way galaxy. Spanning more than 600 light-years, the panorama reveals details within the dense swirls of gas and dust, opening the door to future research into how massive stars are forming and what’s feeding the",
+      "links": [
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~orig.mp4"
+      ],
+      "duration_s": 85.1,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_1.jpg",
+      "nasa_id": "sonify_galactic_all",
+      "title": "Sounds from Around the Milky Way",
+      "center": "MSFC",
+      "date": "2020-09-22",
+      "description": "A new project using sonification turns astronomical images from NASA's Chandra X-Ray Observatory and other telescopes into sound. This allows users to \"listen\" to the center of the Milky Way as observed in X-ray, optical, and infrared light. As the cursor moves across the image, sounds represent the",
+      "links": [
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~mobile.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~preview.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4"
+      ],
+      "duration_s": 64.0,
+      "width": 2269,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_2.jpg",
+      "nasa_id": "JPL-20210701-WHATSUf-0001-Whats-Up-July-2021",
+      "title": "What's Up: July 2021 Skywatching Tips from NASA ",
+      "center": "JPL",
+      "date": "2021-07-01",
+      "description": "What are some skywatching highlights in July 2021? Venus blazes as the \"Evening Star\" following sunset, with a much fainter planet Mars nearby. Catch their super close pairing on July 12. Plus, if you can find your way to dark skies, this is the best time of year to enjoy the magic of the Milky Way.",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~orig.mp4"
+      ],
+      "duration_s": 202.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_3.jpg",
+      "nasa_id": "SVS-15101",
+      "title": "NASA’s OSIRIS-APEX Mission Will Explore Asteroid Apophis",
+      "center": "NASA SVS",
+      "date": "2026-09-23",
+      "description": "NASA’s OSIRIS-APEX mission will rendezvous with Apophis in mid-2029, following the asteroid’s historically close flyby of Earth.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015101/OSIRIS-APEX-Teaser-2026-Thumbnail-V3.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a015100/a015101/15101_OSIRIS-APEX_Teaser_2026_1080.mp4",
+      "duration_s": 90.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/15101/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_4.jpg",
+      "nasa_id": "PIA18913",
+      "title": "Milky Way Untangled",
+      "center": "JPL",
+      "date": "2015-02-05",
+      "description": "A new, dynamic portrait of our Milky Way galaxy shows a frenzy of gas, charged particles and dust as seen by the European Space Agency Planck mission.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_070/aday_5.jpg",
+      "nasa_id": "PIA24576",
+      "title": "A Break in the Milky Way's Sagittarius Arm",
+      "center": "JPL",
+      "date": "2021-08-17",
+      "description": "A contingent of young stars and star-forming gas clouds is sticking out of one of the Milky Way's spiral arms like a splinter protruding from a plank of wood. Stretching some 3,000 light-years, this is the first major structure identified with such a dramatically different orientation relative to th",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

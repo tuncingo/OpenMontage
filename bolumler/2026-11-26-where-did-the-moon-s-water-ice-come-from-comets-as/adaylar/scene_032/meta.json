@@ -1,0 +1,169 @@
+{
+  "scene_id": 32,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "The signature points strongly to the solar wind. So the Sun waters the Moon's skin.",
+  "visual_brief": "The Sun seen by a solar observatory in extreme ultraviolet.",
+  "purpose": "cutaway",
+  "nasa_query": "Solar Dynamics Observatory",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_0.jpg",
+      "nasa_id": "GSFC_20170211_SDO_m12500_Year7",
+      "title": "SDO: Year 7",
+      "center": "GSFC",
+      "date": "2017-02-11",
+      "description": "Our sun is ever-changing, and the Solar Dynamics Observatory has a front-row seat. On Feb. 11, 2010, NASA launched the Solar Dynamics Observatory, also known as SDO. SDO keeps a constant eye on the sun, helping us track everything from sunspots to solar flares to other types of space weather that ca",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170211_SDO_m12500_Year7/GSFC_20170211_SDO_m12500_Year7~orig.mp4"
+      ],
+      "duration_s": 201.8,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_1.jpg",
+      "nasa_id": "GSFC_20140404_SDO_m11517_Flare",
+      "title": "Graceful Eruption",
+      "center": "GSFC",
+      "date": "2014-04-04",
+      "description": "On April 2, 2014, the sun emitted a mid-level solar flare, peaking at 10:05 a.m. EDT, and NASA's Solar Dynamics Observatory captured imagery of the event. Solar flares are powerful bursts of radiation. Harmful radiation from a flare cannot pass through Earth's atmosphere to physically affect humans ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~orig.mp4"
+      ],
+      "duration_s": 70.1,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_2.jpg",
+      "nasa_id": "GSFC_20160426_SDO_m12224_SolarFlare",
+      "title": "NASA’s SDO Captures Stunning View of April 17 Solar Flare",
+      "center": "GSFC",
+      "date": "2016-04-26",
+      "description": "On April 17, 2016, an active region on the sun’s right side released a mid-level solar flare, captured here by NASA’s Solar Dynamics Observatory. This solar flare caused moderate radio blackouts, according to NOAA’s Space Weather Prediction Center. Scientists study active regions – which are areas o",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~orig.mp4"
+      ],
+      "duration_s": 79.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_3.jpg",
+      "nasa_id": "SVS-5649",
+      "title": "Four Days of Solar Dynamics in 16 Minutes",
+      "center": "NASA SVS",
+      "date": "2026-06-10",
+      "description": "The Solar Dynamics Observatory (SDO) is a satellite that orbits Earth and always looks directly at the Sun. It observes the Sun in many wavelengths, which are all helpful in studying different aspects of solar science. In this 16-minute video, we watch the Sun evolve from midnight of February 1, 202",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005649/304A_thumb_001.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005649/NOVA20260201_AIA.0304A_PSF_stamped_1024p30.mp4",
+      "duration_s": 958.6,
+      "width": 1024,
+      "height": 1024,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5649/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_4.jpg",
+      "nasa_id": "SVS-5593",
+      "title": "Tracking Weather Extremes: May 2025 Tornadoes and Flooding Across the Continental United States",
+      "center": "NASA SVS",
+      "date": "2025-12-29",
+      "description": "Created with NASA's GEOS-FP 2km replay model, this visualization tracks May 2025's severe weather across the continental US. The visualization maps tornado paths and 24-hour precipitation data, revealing how tornadic activity and heavy rainfall combined to create compound disasters affecting communi",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005593/USTornadoes_May2025_1920x1080.png"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005593/us_tornadoes_sw-2025-002.nasa.gmao.geos-fp.conus_2km_replay.202505.1080p.mp4",
+      "duration_s": 90.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5593/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_5.jpg",
+      "nasa_id": "PIA26681",
+      "title": " Image of Sun From NASA's Solar Dynamics Observatory",
+      "center": "JPL",
+      "date": "2025-09-15",
+      "description": " On Sept. 10, 2025, NASA's Solar Dynamics Observatory captured this image of the Sun. SDO is managed by NASA's Goddard Space Flight Center, Greenbelt, Maryland, for NASA's Science Mission Directorate in Washington. Its Atmosphere Imaging Assembly was built by the Lockheed Martin Solar Astrophysics L",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA26681/PIA26681~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_032/aday_6.jpg",
+      "nasa_id": "PIA18169",
+      "title": "Solar Dynamics Observatory Artist Concept",
+      "center": "JPL",
+      "date": "2010-02-11",
+      "description": "The Solar Dynamics Observatory SDO spacecraft, shown above the Earth as it faces toward the Sun. SDO is designed to study the influence of the Sun on the Earth and the inner solar system by studying the solar atmosphere. http://photojournal.jpl.nasa.gov/catalog/PIA18169",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18169/PIA18169~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18169/PIA18169~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18169/PIA18169~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

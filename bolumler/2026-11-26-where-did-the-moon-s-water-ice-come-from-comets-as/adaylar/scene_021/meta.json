@@ -1,0 +1,78 @@
+{
+  "scene_id": 21,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "Suspect three. The Moon itself. Volcanism on the Moon peaked early, roughly four to two billion years ago.",
+  "visual_brief": "Dark volcanic plains of the lunar maria.",
+  "purpose": "explain",
+  "nasa_query": "lunar mare basalt",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_021/aday_0.jpg",
+      "nasa_id": "PIA12940",
+      "title": "Aitken Crater",
+      "center": "JPL",
+      "date": "2010-01-12",
+      "description": "NASA Lunar Reconnaissance Orbiter shows a lobate scarp in the mare basalts of Aitken crater on the lunar farside arrows.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12940/PIA12940~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12940/PIA12940~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12940/PIA12940~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_021/aday_1.jpg",
+      "nasa_id": "PIA12984",
+      "title": "Luna 16",
+      "center": "JPL",
+      "date": "2010-03-25",
+      "description": "Luna 16 was the first robotic mission to land on the Moon on basaltic plains of Mare Fecunditatis and return a sample to the Earth. It was launched by the Soviet Union on 12 September 1970. This image was taken by NASA Lunar Reconnaissance Orbiter.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12984/PIA12984~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12984/PIA12984~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12984/PIA12984~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_021/aday_2.jpg",
+      "nasa_id": "S90-55757",
+      "title": "Western hemisphere of the Moon taken by Galileo spacecraft",
+      "center": "JSC",
+      "date": "1990-12-09",
+      "description": "Galileo spacecraft image of the Moon recorded at 9:35 am Pacific Standard Time (PST), 12-09-90, after completing its first Earth Gravity Assist. Western hemisphere of the Moon was taken through a green filter at a range of about 350,000 miles. In the center is Orientale Basin, 600 miles in diameter,",
+      "links": [
+        "https://images-assets.nasa.gov/image/S90-55757/S90-55757~medium.jpg",
+        "https://images-assets.nasa.gov/image/S90-55757/S90-55757~small.jpg",
+        "https://images-assets.nasa.gov/image/S90-55757/S90-55757~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S90-55757/S90-55757~large.jpg",
+        "https://images-assets.nasa.gov/image/S90-55757/S90-55757~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_021/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001939",
+      "title": "The Far Side of the Moon -- And All the Way Around",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image release March 11, 2011 Caption: The lunar farside as never seen before! LROC WAC orthographic projection centered at 180° longitude, 0° latitude. Credit: NASA/Goddard/Arizona State University. Because the moon is tidally locked (meaning the same side always faces Earth), it was not until ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001939/GSFC_20171208_Archive_e001939~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001939/GSFC_20171208_Archive_e001939~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001939/GSFC_20171208_Archive_e001939~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001939/GSFC_20171208_Archive_e001939~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

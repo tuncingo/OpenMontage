@@ -1,0 +1,82 @@
+{
+  "scene_id": 31,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "China's Chang'e-5 brought back samples that show it. The grains hold roughly eleven hundred to twenty five hundred parts per million hydrogen.",
+  "visual_brief": "Chang'e-5 lunar sample or its return capsule.",
+  "purpose": "evidence",
+  "nasa_query": "Chang'e-5 lunar samples",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_031/aday_0.jpg",
+      "nasa_id": "S111E5226",
+      "title": "Chang-Diaz translates Endeavour's port sill during STS-111 UF-2 EVA 2",
+      "center": "JSC",
+      "date": "2002-06-12",
+      "description": "STS111-E-5226 (11 June 2002) --- Astronaut Franklin R. Chang-Diaz, STS-111 mission specialist, participates in the second scheduled session of extravehicular activity (EVA) for the STS-111 mission. During the 5-hour spacewalk, Chang-Diaz and Perrin completed installation of the Mobile Remote Service",
+      "links": [
+        "https://images-assets.nasa.gov/image/S111E5226/S111E5226~medium.jpg",
+        "https://images-assets.nasa.gov/image/S111E5226/S111E5226~small.jpg",
+        "https://images-assets.nasa.gov/image/S111E5226/S111E5226~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S111E5226/S111E5226~large.jpg",
+        "https://images-assets.nasa.gov/image/S111E5226/S111E5226~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_031/aday_1.jpg",
+      "nasa_id": "8909663",
+      "title": "Space Shuttle Projects",
+      "center": "MSFC",
+      "date": "1989-08-14",
+      "description": "The STS-34 crew portrait includes 5 astronauts. Pictured left to right are Shannon W. Lucid, mission specialist; Donald E. Williams, commander; Franklin R. Chang-Diaz, mission specialist; Michael J. McCulley, pilot; and Ellen S. Baker, mission secialist. The crew of 5 launched aboard the Space Shutt",
+      "links": [
+        "https://images-assets.nasa.gov/image/8909663/8909663~medium.jpg",
+        "https://images-assets.nasa.gov/image/8909663/8909663~small.jpg",
+        "https://images-assets.nasa.gov/image/8909663/8909663~thumb.jpg",
+        "https://images-assets.nasa.gov/image/8909663/8909663~large.jpg",
+        "https://images-assets.nasa.gov/image/8909663/8909663~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_031/aday_2.jpg",
+      "nasa_id": "sts073-335-009",
+      "title": "Mission Specialist Michael Lopez-Alegria changes out film in camera",
+      "center": "JSC",
+      "date": "1995-11-05",
+      "description": "STS073-335-009 (20 October-5 November 1995) --- Astronaut Michael E. Lopez-Alegria, STS-73 mission specialist, changes the film in a 35mm camera on the flight deck of the Earth-orbiting Space Shuttle Columbia. Alegria joined four other NASA astronauts and two guest researchers for almost 16-days of ",
+      "links": [
+        "https://images-assets.nasa.gov/image/sts073-335-009/sts073-335-009~medium.jpg",
+        "https://images-assets.nasa.gov/image/sts073-335-009/sts073-335-009~small.jpg",
+        "https://images-assets.nasa.gov/image/sts073-335-009/sts073-335-009~thumb.jpg",
+        "https://images-assets.nasa.gov/image/sts073-335-009/sts073-335-009~large.jpg",
+        "https://images-assets.nasa.gov/image/sts073-335-009/sts073-335-009~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_031/aday_3.jpg",
+      "nasa_id": "2012040450004HQ",
+      "title": "T-38 Aircraft Fly Over Washington",
+      "center": "HQ",
+      "date": "2012-04-05",
+      "description": "Two NASA T-38 training jets are seen as they fly over the U.S. Capitol, Thursday, April 5, 2012, in Washington. NASA, in cooperation with the Federal Aviation Administration, conducted training and photographic flights over the DC metropolitan area. T-38 aircraft have been used for astronaut trainin",
+      "links": [
+        "https://images-assets.nasa.gov/image/201204050004HQ/201204050004HQ~medium.jpg",
+        "https://images-assets.nasa.gov/image/201204050004HQ/201204050004HQ~small.jpg",
+        "https://images-assets.nasa.gov/image/201204050004HQ/201204050004HQ~thumb.jpg",
+        "https://images-assets.nasa.gov/image/201204050004HQ/201204050004HQ~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

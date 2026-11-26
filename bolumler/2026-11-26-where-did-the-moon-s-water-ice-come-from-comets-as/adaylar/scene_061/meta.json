@@ -1,0 +1,149 @@
+{
+  "scene_id": 61,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "Comets may have supplied what we saw at Cabeus. Asteroids and volcanoes may have supplied much of the rest, early on.",
+  "visual_brief": "Comet, asteroid and volcanic plain shown in turn.",
+  "purpose": "explain",
+  "nasa_query": "Rosetta comet",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_0.jpg",
+      "nasa_id": "Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos",
+      "title": "Media Briefing: Preview of DART Mission's Impact with Asteroid Dimorphos",
+      "center": "HQ",
+      "date": "2022-09-22",
+      "description": "From NASA Headquarters in Washington, senior leaders from NASA and the Johns Hopkins Applied Physics Laboratory preview the final activities of the Double Asteroid Redirection Test (DART) spacecraft before its impact with its target asteroid, Dimorphos—which poses no threat to Earth. DART, the world",
+      "links": [
+        "https://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~large.jpg",
+        "https://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~medium.jpg",
+        "https://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~small.jpg",
+        "https://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~large.mp4",
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~medium.mp4",
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~mobile.mp4",
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~small.mp4",
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~preview.mp4",
+        "http://images-assets.nasa.gov/video/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos/Media Briefing Preview of DART Missio's Impact with Asteroid Dimorphos~orig.mp4"
+      ],
+      "duration_s": 4304.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_1.jpg",
+      "nasa_id": "JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel",
+      "title": "NASA’s Asteroid-Hunting Space Telescope NEOWISE Retires, Leaves Legacy",
+      "center": "JPL",
+      "date": "2024-08-08",
+      "description": "The NEOWISE mission, NASA’s asteroid-hunting space telescope, retired in August 2024 after over a decade of discovering, tracking, and characterizing near-Earth objects (NEOs) —asteroids and comets that come close to Earth’s orbit. NEOWISE (Near-Earth Object Wide-field Infrared Survey Explorer) bega",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel/JPL-20240808-NEOWISf-0001-NEOWISE End of Mission Media Reel~orig.mp4"
+      ],
+      "duration_s": 490.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_2.jpg",
+      "nasa_id": "JPL-20190501-WHATSUf-0001-Whats Up May 2019",
+      "title": "What's Up: May 2019 Skywatching Tips from NASA",
+      "center": "JPL",
+      "date": "2019-05-01",
+      "description": "What's up in the May sky? A meteor shower produced by debris from Halley's Comet, asteroids named after dinosaurs and a \"blue moon\" on May 18th. Additional information about topics covered in this episode of What's Up, along with still images from the video and the video transcript are available at ",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20190501-WHATSUf-0001-Whats Up May 2019/JPL-20190501-WHATSUf-0001-Whats Up May 2019~orig.mp4"
+      ],
+      "duration_s": 172.9,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_3.jpg",
+      "nasa_id": "SVS-11754",
+      "title": "Epic Descents",
+      "center": "NASA SVS",
+      "date": "2015-03-12",
+      "description": "A brief history of asteroid and comet landings. || cf-1280.jpg (1280x720) [136.4 KB] || cf-1024.jpg (1024x576) [104.0 KB] || cf-1920.jpg (1920x1080) [220.2 KB] || cf-1024_print.jpg (1024x576) [103.8 KB] || cf-1024_searchweb.png (320x180) [48.9 KB] || cf-1024_print_thm.png (80x40) [19.0 KB] || ",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a011700/a011754/cf-1024_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+      "duration_s": 118.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/11754/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_4.jpg",
+      "nasa_id": "PIA17666",
+      "title": "Rosetta at Comet",
+      "center": "JPL",
+      "date": "2014-01-24",
+      "description": "Artist impression of the Rosetta orbiter at comet 67P/Churyumova-Gerasimenko. The image is not to scale.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17666/PIA17666~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_061/aday_5.jpg",
+      "nasa_id": "PIA18899",
+      "title": "Rosetta Comet",
+      "center": "JPL",
+      "date": "2014-12-10",
+      "description": "This composite is a mosaic comprising four individual Rosetta NAVCAM images taken from 19 miles 31 kilometers from the center of comet 67P/Churyumov-Gerasimenko on Nov. 20, 2014.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18899/PIA18899~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18899/PIA18899~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18899/PIA18899~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18899/PIA18899~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

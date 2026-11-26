@@ -1,0 +1,67 @@
+{
+  "scene_id": 35,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "That sounds slow, but over billions of years it adds up. The real objection is temperature.",
+  "visual_brief": "Towering gas pillars of a nebula, evoking deep time.",
+  "purpose": "cutaway",
+  "nasa_query": "Pillars of Creation Hubble",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_035/aday_0.jpg",
+      "nasa_id": "SVS-14493",
+      "title": "Hubble’s Inside The Image: The Eagle Nebula",
+      "center": "NASA SVS",
+      "date": "2024-01-05",
+      "description": "The Hubble Space Telescope has taken over 1.5 million observations over the years. One of them is the incredible image of The Pillars of Creation.The Pillars of Creation in the Eagle Nebula, situated in the Serpens constellation, stand as celestial marvels. Composed of interstellar gas and dust, the",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014493/14493_PILLAR_WIDE_PRINT.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+      "duration_s": 118.8,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/14493/"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_035/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000842",
+      "title": "Hubble Goes High Def to Revisit the Iconic 'Pillars of Creation'",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This NASA Hubble Space Telescope image, taken in near-infrared light, transforms the pillars into eerie, wispy silhouettes, which are seen against a background of myriad stars. The near-infrared light can penetrate much of the gas and dust, revealing stars behind the nebula as well as hidden away in",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_035/aday_2.jpg",
+      "nasa_id": "PIA03096",
+      "title": "Towering Infernos",
+      "center": "JPL",
+      "date": "2005-11-09",
+      "description": "This majestic false-color image from NASA's Spitzer Space Telescope shows the \"mountains\" where stars are born. Dubbed \"Mountains of Creation\" by Spitzer scientists, these towering pillars of cool gas and dust are illuminated at their tips with light from warm embryonic stars. The new infrared pictu",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA03096/PIA03096~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA03096/PIA03096~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA03096/PIA03096~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03096/PIA03096~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA03096/PIA03096~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

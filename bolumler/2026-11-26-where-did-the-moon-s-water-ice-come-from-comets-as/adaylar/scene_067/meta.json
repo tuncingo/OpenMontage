@@ -1,0 +1,168 @@
+{
+  "scene_id": 67,
+  "media": "video",
+  "scene_duration_s": 5.0,
+  "narration": "That takes a lander that can reach the ice and test it.",
+  "visual_brief": "Polar orbit of the Moon toward the pole.",
+  "purpose": "explain",
+  "nasa_query": "Moon polar orbit",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_0.jpg",
+      "nasa_id": "NRHO visualization with low-lunar orbit",
+      "title": "Gateway's Polar Orbit",
+      "center": "JSC",
+      "date": "2018-10-08",
+      "description": "This animation shows the Gateway space station's polar orbit, a unique, highly elongated near-rectilinear halo orbit (NRHO) represented by the blue line that steadily covers every part of the Moon, permitting access to the entire surface. A precisely polar low lunar orbit is represented by the orang",
+      "links": [
+        "https://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~large.jpg",
+        "https://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~medium.jpg",
+        "https://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~small.jpg",
+        "https://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~large.mp4",
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~medium.mp4",
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~mobile.mp4",
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~small.mp4",
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~preview.mp4",
+        "http://images-assets.nasa.gov/video/NRHO visualization with low-lunar orbit/NRHO visualization with low-lunar orbit~orig.mp4"
+      ],
+      "duration_s": 25.3,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_1.jpg",
+      "nasa_id": "The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022",
+      "title": "The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022",
+      "center": "HQ",
+      "date": "2022-11-11",
+      "description": "The move to the launch pad for Artemis I, a visual treat in the sky, and a NASA tech demo hitches a ride to space … a few of the stories to tell you about – This Week at NASA!",
+      "links": [
+        "https://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~large.jpg",
+        "https://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~medium.jpg",
+        "https://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~small.jpg",
+        "https://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~large.mp4",
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~medium.mp4",
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~mobile.mp4",
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~small.mp4",
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~preview.mp4",
+        "http://images-assets.nasa.gov/video/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022/The Move to the Launch Pad for Artemis I on This Week @NASA – November 11, 2022~orig.mp4"
+      ],
+      "duration_s": 97.9,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_2.jpg",
+      "nasa_id": "The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022",
+      "title": "The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022",
+      "center": "HQ",
+      "date": "2022-06-17",
+      "description": "The next prelaunch rehearsal before launch of our Artemis I Moon mission, news about some NASA astronomy missions, and a critical milestone for an Earth-observing satellite … a few of the stories to tell you about – This Week at NASA!",
+      "links": [
+        "https://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~large.jpg",
+        "https://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~medium.jpg",
+        "https://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~small.jpg",
+        "https://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~large.mp4",
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~medium.mp4",
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~mobile.mp4",
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~small.mp4",
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~preview.mp4",
+        "http://images-assets.nasa.gov/video/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022/The Next Prelaunch Rehearsal Before Our Artemis I Moon Mission on This Week @NASA June 17, 2022~orig.mp4"
+      ],
+      "duration_s": 200.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_3.jpg",
+      "nasa_id": "SVS-5616",
+      "title": "Global Views of ICESat-2 Data",
+      "center": "NASA SVS",
+      "date": "2026-03-09",
+      "description": "ICESat-2 data products on a rotating Earth. Together they illustrate the satellite’s measurements of Earth’s land, ice, oceans, forests, and atmosphere.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005616/icesat2_global_data.04340_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005616/icesat2_global_data_1080p60.mp4",
+      "duration_s": 70.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5616/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_4.jpg",
+      "nasa_id": "SVS-5571",
+      "title": "NASA's Fleet of Active Satellites (July 2025)",
+      "center": "NASA SVS",
+      "date": "2025-07-22",
+      "description": "This visualization shows the orbits of NASA satellites considered operational as of July 2025. It includes both NASA-managed missions and those operated by partner organizations.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005571/nasa_full_fleet_July2025_still.06620_preview.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005571/nasa_full_fleet_July2025_1080p60.mp4",
+      "duration_s": 205.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5571/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_5.jpg",
+      "nasa_id": "PIA18138",
+      "title": "NASA Releases First Interactive Mosaic of Lunar North Pole",
+      "center": "JPL",
+      "date": "2014-03-18",
+      "description": "Scientists, using cameras aboard NASA Lunar Reconnaissance Orbiter LRO, have created the largest high resolution mosaic of our moon north polar region.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA18138/PIA18138~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18138/PIA18138~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18138/PIA18138~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18138/PIA18138~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_067/aday_6.jpg",
+      "nasa_id": "PIA17187",
+      "title": "Enceladus Plume Brightness Variations",
+      "center": "JPL",
+      "date": "2014-07-28",
+      "description": "This plot shows the variation in brightness of the plume of material, composed of all the geysers erupting from the south polar terrain of Saturn moon Enceladus, as a function of the moon orbital position around Saturn.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17187/PIA17187~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17187/PIA17187~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17187/PIA17187~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

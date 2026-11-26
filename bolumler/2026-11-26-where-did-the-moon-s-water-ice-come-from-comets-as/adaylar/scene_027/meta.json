@@ -1,0 +1,83 @@
+{
+  "scene_id": 27,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "Volcanic glass beads brought back by Apollo, re-analysed in 2008, showed the Moon's interior held more water than once thought.",
+  "visual_brief": "Apollo 17 orange volcanic soil.",
+  "purpose": "explain",
+  "nasa_query": "Apollo 17 orange soil",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_027/aday_0.jpg",
+      "nasa_id": "S73-15171",
+      "title": "PHOTOMICROGRAPH  - SPHERE FRAGMENTS - \"ORANGE\" SOIL - APOLLO 17 - MSC",
+      "center": "JSC",
+      "date": "1973-01-04",
+      "description": "S73-15171 (4 Jan. 1973) --- These orange glass spheres and fragments are the finest particles ever brought back from the moon. Ranging in size from 20 to 45 microns (about 1/1000 of an inch) the particles are magnified 160 times in this photomicrograph made in the Lunar Receiving Laboratory at the M",
+      "links": [
+        "https://images-assets.nasa.gov/image/S73-15171/S73-15171~medium.jpg",
+        "https://images-assets.nasa.gov/image/S73-15171/S73-15171~small.jpg",
+        "https://images-assets.nasa.gov/image/S73-15171/S73-15171~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S73-15171/S73-15171~large.jpg",
+        "https://images-assets.nasa.gov/image/S73-15171/S73-15171~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_027/aday_1.jpg",
+      "nasa_id": "as17-137-20989",
+      "title": "View of the orange soil which Apollo 17 crewmen found at Station 4 during EVA",
+      "center": "JSC",
+      "date": "1972-12-12",
+      "description": "AS17-137-20989 (12 Dec. 1972) --- A close-up view of the much-publicized orange soil which the Apollo 17 crewmen found at Station 4 (Shorty Crater) during the second Apollo 17 extravehicular activity (EVA) at the Taurus-Littrow landing site. The orange soil was first spotted by scientist-astronaut H",
+      "links": [
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~medium.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~small.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~large.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20989/as17-137-20989~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_027/aday_2.jpg",
+      "nasa_id": "as17-137-20990",
+      "title": "View of the orange soil which Apollo 17 crewmen found at Station 4 during EVA",
+      "center": "JSC",
+      "date": "1972-12-12",
+      "description": "AS17-137-20990 (12 Dec. 1972) --- A view of the area at Station 4 (Shorty Crater) showing the now highly-publicized orange soil which the Apollo 17 crew members found on the moon during the second Apollo 17 extravehicular activity (EVA) at the Taurus-Littrow landing site. The tripod-like object is t",
+      "links": [
+        "https://images-assets.nasa.gov/image/as17-137-20990/as17-137-20990~medium.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20990/as17-137-20990~small.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20990/as17-137-20990~thumb.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20990/as17-137-20990~large.jpg",
+        "https://images-assets.nasa.gov/image/as17-137-20990/as17-137-20990~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_027/aday_3.jpg",
+      "nasa_id": "s72-56362",
+      "title": "Lunar Samples - Apollo 17",
+      "center": "JSC",
+      "date": "1972-12-27",
+      "description": "S72-56362 (27 Dec. 1972) --- Scientist-astronaut Harrison H. \"Jack\" Schmitt (facing camera), Apollo 17 lunar module pilot, was one of the first to look at the sample of \"orange\" soil which was brought back from the Taurus-Littrow landing site by the Apollo 17 crewmen. Schmitt discovered the material",
+      "links": [
+        "https://images-assets.nasa.gov/image/s72-56362/s72-56362~medium.jpg",
+        "https://images-assets.nasa.gov/image/s72-56362/s72-56362~small.jpg",
+        "https://images-assets.nasa.gov/image/s72-56362/s72-56362~thumb.jpg",
+        "https://images-assets.nasa.gov/image/s72-56362/s72-56362~large.jpg",
+        "https://images-assets.nasa.gov/image/s72-56362/s72-56362~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

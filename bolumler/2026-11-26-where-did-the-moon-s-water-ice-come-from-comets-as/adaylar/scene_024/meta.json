@@ -1,0 +1,150 @@
+{
+  "scene_id": 24,
+  "media": "video",
+  "scene_duration_s": 7.0,
+  "narration": "vented in the big eruptions was trapped in shadow, that could account for today's ice.",
+  "visual_brief": "Light and shadow moving across a polar crater, trapping water.",
+  "purpose": "explain",
+  "nasa_query": "LRO south pole illumination",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_0.jpg",
+      "nasa_id": "GSFC_20130306_Moons_m11218_Shadowed",
+      "title": "The Moon's Permanently Shadowed Regions",
+      "center": "GSFC",
+      "date": "2013-03-06",
+      "description": "As you watch the Moon over the course of a month, you'll notice that different features are illuminated by the Sun at different times. However, there are some parts of the Moon that never see sunlight. These areas are called permanently shadowed regions, and they appear dark because unlike on the Ea",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130306_Moons_m11218_Shadowed/GSFC_20130306_Moons_m11218_Shadowed~preview.mp4"
+      ],
+      "duration_s": 117.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_1.jpg",
+      "nasa_id": "MAF_20260303_LunarEclipse-Broll",
+      "title": "Total Lunar Eclipse 2026 – New Orleans",
+      "center": "MAF",
+      "date": "2026-03-03",
+      "description": "A total lunar eclipse rises over New Orleans, home of NASA’s Michoud Assembly Facility, in the early morning hours of Tuesday, March 3. A lunar eclipse occurs when Earth passes directly between the Sun and Moon, casting a huge shadow across the Moon’s surface. The Moon appears dark red or orange as ",
+      "links": [
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~large.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~medium.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~small.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~large.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~medium.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~mobile.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~small.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~preview.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~orig.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse-Broll/MAF_20260303_LunarEclipse-Broll~orig.mp4"
+      ],
+      "duration_s": 93.7,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_2.jpg",
+      "nasa_id": "MAF_20260303_LunarEclipse_02",
+      "title": "MAF_20260303_LunarEclipse_02",
+      "center": "MAF",
+      "date": "2026-03-03",
+      "description": "A total lunar eclipse rises over New Orleans, home of NASA’s Michoud Assembly Facility, in the early morning hours of Tuesday, March 3. A lunar eclipse occurs when Earth passes directly between the Sun and Moon, casting a huge shadow across the Moon’s surface. The Moon appears dark red or orange as ",
+      "links": [
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~large.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~medium.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~small.jpg",
+        "https://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~large.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~medium.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~mobile.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~small.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~preview.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~orig.mp4",
+        "http://images-assets.nasa.gov/video/MAF_20260303_LunarEclipse_02/MAF_20260303_LunarEclipse_02~orig.mp4"
+      ],
+      "duration_s": 11.5,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_3.jpg",
+      "nasa_id": "SVS-5535",
+      "title": "What Apollo Saw in Sunlight While in Orbit",
+      "center": "NASA SVS",
+      "date": "2025-08-15",
+      "description": "A map showing the sunlit parts of the lunar surface that the Apollo astronauts could see from orbit. The darkened parts of the map were either never in sunlight or were beyond the horizon of the spacecraft.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005535/apollo_saw.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005535/Apollo_Visibility_Map_V5_720.mp4",
+      "duration_s": 14.9,
+      "width": 1280,
+      "height": 720,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5535/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_4.jpg",
+      "nasa_id": "SVS-5127",
+      "title": "Lunar South Pole Terrain in Coded Color",
+      "center": "NASA SVS",
+      "date": "2023-07-22",
+      "description": "A visualization of the south pole of the Moon with labeled craters and elevations in coded color. The view begins with a nearly full Moon as viewed from Earth, flies quickly to the south pole, then circles the pole.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005127/lola_sp.0570_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005127/lola_sp_1080p30.mp4",
+      "duration_s": 45.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5127/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_024/aday_5.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000796",
+      "title": "NASA's LRO Discovers Lunar Hydrogen More Abundant on Moon's Pole-Facing Slopes",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Space travel is difficult and expensive – it would cost thousands of dollars to launch a bottle of water to the moon. The recent discovery of hydrogen-bearing molecules, possibly including water, on the moon has explorers excited because these deposits could be mined if they are sufficiently abundan",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000796/GSFC_20171208_Archive_e000796~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000796/GSFC_20171208_Archive_e000796~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

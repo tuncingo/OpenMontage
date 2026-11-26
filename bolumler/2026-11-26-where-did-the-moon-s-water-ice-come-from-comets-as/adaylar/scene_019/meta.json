@@ -1,0 +1,83 @@
+{
+  "scene_id": 19,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "Slower hits by hydrated asteroids and meteoroids can deliver water and hold on to more of it.",
+  "visual_brief": "The carbon-rich asteroid Bennu.",
+  "purpose": "explain",
+  "nasa_query": "Bennu asteroid",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_019/aday_0.jpg",
+      "nasa_id": "jason2",
+      "title": "Vial with Asteroid Bennu Sample",
+      "center": "GSFC",
+      "date": "2025-01-28",
+      "description": "In this video frame, Jason Dworkin holds up a vial that contains part of the sample from asteroid Bennu delivered to Earth by NASA's OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer) mission in 2023. Dworkin is the mission's project scientist at",
+      "links": [
+        "https://images-assets.nasa.gov/image/jason2/jason2~medium.jpg",
+        "https://images-assets.nasa.gov/image/jason2/jason2~small.jpg",
+        "https://images-assets.nasa.gov/image/jason2/jason2~thumb.jpg",
+        "https://images-assets.nasa.gov/image/jason2/jason2~large.jpg",
+        "https://images-assets.nasa.gov/image/jason2/jason2~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_019/aday_1.jpg",
+      "nasa_id": "Bennu_Sample2",
+      "title": "Vial with Sample of Asteroid Bennu",
+      "center": "GSFC",
+      "date": "2024-07-22",
+      "description": "Photographed inside a laboratory at NASA's Goddard Space Flight Center in Greenbetl, Maryland, this vial contains a portion of the asteroid Bennu sample delivered to Earth by the agency's OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer) mission",
+      "links": [
+        "https://images-assets.nasa.gov/image/Bennu_Sample2/Bennu_Sample2~medium.jpg",
+        "https://images-assets.nasa.gov/image/Bennu_Sample2/Bennu_Sample2~small.jpg",
+        "https://images-assets.nasa.gov/image/Bennu_Sample2/Bennu_Sample2~thumb.jpg",
+        "https://images-assets.nasa.gov/image/Bennu_Sample2/Bennu_Sample2~large.jpg",
+        "https://images-assets.nasa.gov/image/Bennu_Sample2/Bennu_Sample2~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_019/aday_2.jpg",
+      "nasa_id": "nasa-goddard-astrobio (2)",
+      "title": "Team Photo of Asteroid Bennu Researchers at NASA Goddard",
+      "center": "GSFC",
+      "date": "2025-01-28",
+      "description": "Researchers at NASA's Goddard Space Flight Center in Greenbelt, Maryland, who had a hand in studying the asteroid Bennu sample delivered to Earth by the agency's OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer) mission.",
+      "links": [
+        "https://images-assets.nasa.gov/image/nasa-goddard-astrobio (2)/nasa-goddard-astrobio (2)~medium.jpg",
+        "https://images-assets.nasa.gov/image/nasa-goddard-astrobio (2)/nasa-goddard-astrobio (2)~small.jpg",
+        "https://images-assets.nasa.gov/image/nasa-goddard-astrobio (2)/nasa-goddard-astrobio (2)~thumb.jpg",
+        "https://images-assets.nasa.gov/image/nasa-goddard-astrobio (2)/nasa-goddard-astrobio (2)~large.jpg",
+        "https://images-assets.nasa.gov/image/nasa-goddard-astrobio (2)/nasa-goddard-astrobio (2)~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_019/aday_3.jpg",
+      "nasa_id": "DSCN0135",
+      "title": "Jason Dworkin Examines Asteroid Bennu Sample",
+      "center": "GSFC",
+      "date": "2023-11-08",
+      "description": "Jason Dworkin, project scientist for NASA's OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer) mission, examines a portion of the asteroid Bennu sample delivered to Earth in a laboratory at the agency's Goddard Space Flight Center in Greenbelt, M",
+      "links": [
+        "https://images-assets.nasa.gov/image/DSCN0135/DSCN0135~medium.jpg",
+        "https://images-assets.nasa.gov/image/DSCN0135/DSCN0135~small.jpg",
+        "https://images-assets.nasa.gov/image/DSCN0135/DSCN0135~thumb.jpg",
+        "https://images-assets.nasa.gov/image/DSCN0135/DSCN0135~large.jpg",
+        "https://images-assets.nasa.gov/image/DSCN0135/DSCN0135~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

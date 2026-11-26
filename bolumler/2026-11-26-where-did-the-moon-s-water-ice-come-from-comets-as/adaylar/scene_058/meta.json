@@ -1,0 +1,83 @@
+{
+  "scene_id": 58,
+  "media": "photo",
+  "scene_duration_s": 8.0,
+  "narration": "Many sit near young craters. You might picture a frozen lake. At least at the surface, there is none.",
+  "visual_brief": "Apollo lunar rover on dusty ground, no lake in sight.",
+  "purpose": "explain",
+  "nasa_query": "Apollo lunar rover",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_058/aday_0.jpg",
+      "nasa_id": "9250827",
+      "title": "Saturn Apollo Program",
+      "center": "MSFC",
+      "date": "1971-07-26",
+      "description": "The fifth marned lunar landing mission, Apollo 15 (SA-510), carrying a crew of three astronauts: Mission commander David R. Scott, Lunar Module pilot James B. Irwin, and Command Module pilot Alfred M. Worden Jr., lifted off on July 26, 1971. Astronauts Scott and Irwin were the first to use a wheeled",
+      "links": [
+        "https://images-assets.nasa.gov/image/9250827/9250827~medium.jpg",
+        "https://images-assets.nasa.gov/image/9250827/9250827~small.jpg",
+        "https://images-assets.nasa.gov/image/9250827/9250827~thumb.jpg",
+        "https://images-assets.nasa.gov/image/9250827/9250827~large.jpg",
+        "https://images-assets.nasa.gov/image/9250827/9250827~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_058/aday_1.jpg",
+      "nasa_id": "MSFC-201900923",
+      "title": "Dancing in the Street Apollo 11 Celebration",
+      "center": "MSFC",
+      "date": "2018-01-02",
+      "description": "The City of Huntsville hosted a celebration of the Apollo 11 Moon landing with a street party on the downtown square with exhibits from the Marshall Space Flight Center and contributing contractors. The event was kicked off with remarks from Huntsville Mayor Tommy Battle, Marshall Space Flight Cente",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-201900923/MSFC-201900923~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900923/MSFC-201900923~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900923/MSFC-201900923~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900923/MSFC-201900923~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900923/MSFC-201900923~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_058/aday_2.jpg",
+      "nasa_id": "MSFC-201900919",
+      "title": "Dancing in the Street Apollo 11 Celebration",
+      "center": "MSFC",
+      "date": "2018-01-02",
+      "description": "The City of Huntsville hosted a celebration of the Apollo 11 Moon landing with a street party on the downtown square with exhibits from the Marshall Space Flight Center and contributing contractors. The event was kicked off with remarks from Huntsville Mayor Tommy Battle, Marshall Space Flight Cente",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-201900919/MSFC-201900919~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900919/MSFC-201900919~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900919/MSFC-201900919~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900919/MSFC-201900919~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900919/MSFC-201900919~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_058/aday_3.jpg",
+      "nasa_id": "MSFC-201900921",
+      "title": "Dancing in the Street Apollo 11 Celebration",
+      "center": "MSFC",
+      "date": "2018-01-02",
+      "description": "The City of Huntsville hosted a celebration of the Apollo 11 Moon landing with a street party on the downtown square with exhibits from the Marshall Space Flight Center and contributing contractors. The event was kicked off with remarks from Huntsville Mayor Tommy Battle, Marshall Space Flight Cente",
+      "links": [
+        "https://images-assets.nasa.gov/image/MSFC-201900921/MSFC-201900921~medium.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900921/MSFC-201900921~small.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900921/MSFC-201900921~thumb.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900921/MSFC-201900921~large.jpg",
+        "https://images-assets.nasa.gov/image/MSFC-201900921/MSFC-201900921~orig.tif"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

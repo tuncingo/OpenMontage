@@ -1,0 +1,83 @@
+{
+  "scene_id": 9,
+  "media": "photo",
+  "scene_duration_s": 7.0,
+  "narration": "That is minus one hundred and sixty three degrees Celsius. They are called cold traps.",
+  "visual_brief": "A lunar temperature map with the coldest polar spots.",
+  "purpose": "explain",
+  "nasa_query": "Diviner lunar temperature",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_009/aday_0.jpg",
+      "nasa_id": "KSC-2009-2985",
+      "title": "KSC-2009-2985",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – At Astrotech Space Operations in Titusville, Fla., technicians are closing out the Lunar Reconnaissance Orbiter, or LRO, before its mating with NASA's Lunar CRater Observation and Sensing Satellite, known as LCROSS, spacecraft. Instruments seen at far left are (from bottom), t",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2985/KSC-2009-2985~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2985/KSC-2009-2985~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2985/KSC-2009-2985~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2985/KSC-2009-2985~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2985/KSC-2009-2985~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_009/aday_1.jpg",
+      "nasa_id": "KSC-2009-2988",
+      "title": "KSC-2009-2988",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – Another view of the Lunar Reconnaissance Orbiter, or LRO, at Astrotech Space Operations in Titusville, Fla., during closeout before its mating with NASA's Lunar CRater Observation and Sensing Satellite, known as LCROSS, spacecraft. Instruments seen, at left, are (from bottom) ",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2988/KSC-2009-2988~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2988/KSC-2009-2988~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2988/KSC-2009-2988~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2988/KSC-2009-2988~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2988/KSC-2009-2988~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_009/aday_2.jpg",
+      "nasa_id": "KSC-2009-2989",
+      "title": "KSC-2009-2989",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – At Astrotech Space Operations in Titusville, Fla., technicians photograph the Lunar Reconnaissance Orbiter, or LRO, during closeout before its mating with NASA's Lunar CRater Observation and Sensing Satellite, known as LCROSS, spacecraft. Instruments on the LRO include the LEN",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2989/KSC-2009-2989~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2989/KSC-2009-2989~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2989/KSC-2009-2989~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2989/KSC-2009-2989~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2989/KSC-2009-2989~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_009/aday_3.jpg",
+      "nasa_id": "KSC-2009-2984",
+      "title": "KSC-2009-2984",
+      "center": "KSC",
+      "date": "2009-05-08",
+      "description": "CAPE CANAVERAL, Fla. – At Astrotech Space Operations in Titusville, Fla., technicians begin closeout on the Lunar Reconnaissance Orbiter, or LRO, before its mating with NASA's Lunar CRater Observation and Sensing Satellite, known as LCROSS, spacecraft. Instruments seen are (from bottom), the LEND th",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-2984/KSC-2009-2984~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2984/KSC-2009-2984~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2984/KSC-2009-2984~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2984/KSC-2009-2984~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-2984/KSC-2009-2984~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

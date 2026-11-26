@@ -1,0 +1,26 @@
+{
+  "scene_id": 65,
+  "media": "photo",
+  "scene_duration_s": 9.0,
+  "narration": "Heavy hydrogen is the fingerprint. The ratio of heavy to normal hydrogen in water would help tell comets, asteroids and the Sun apart.",
+  "visual_brief": "The ROSINA mass spectrometer instrument on Rosetta, which measured this ratio at a comet.",
+  "purpose": "explain",
+  "nasa_query": "ROSINA Rosetta",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_065/aday_0.jpg",
+      "nasa_id": "PIA17665",
+      "title": "Electronics for a Spectrometer",
+      "center": "JPL",
+      "date": "2014-01-24",
+      "description": "NASA has provided part of the electronics package for an instrument called the Double Focusing Mass Spectrometer, which is part of the Swiss-built Rosetta Orbiter Spectrometer for Ion and Neutral Analysis ROSINA instrument.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17665/PIA17665~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17665/PIA17665~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

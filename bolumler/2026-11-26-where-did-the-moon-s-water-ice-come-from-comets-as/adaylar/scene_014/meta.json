@@ -1,0 +1,131 @@
+{
+  "scene_id": 14,
+  "media": "video",
+  "scene_duration_s": 8.0,
+  "narration": "That sounds like a case closed. But it is not. A 2025 review of lunar ice theories sees it differently.",
+  "visual_brief": "A comet-like body racing across a star field, a twist in the story.",
+  "purpose": "cutaway",
+  "nasa_query": "Deep Impact comet",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_0.jpg",
+      "nasa_id": "ksc_121304_di_comet_madeof",
+      "title": "KSC-04-S-00391",
+      "center": "KSC",
+      "date": "2004-12-14",
+      "description": "NASA's Deep Impact spacecraft will blast into space on a precisely navigated collision course for impact on July 4, 2005 with Comet Tempel 1. The two-part spacecraft will launch from Cape Canaveral Air Force Station mated to a Boeing Delta II rocket. One part of the Deep Impact spacecraft is a flyby",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_di_comet_madeof/ksc_121304_di_comet_madeof~orig.mp4"
+      ],
+      "duration_s": 108.3,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_1.jpg",
+      "nasa_id": "ksc_112904_di_arrives",
+      "title": "KSC-04-S-00377",
+      "center": "KSC",
+      "date": "2004-11-11",
+      "description": "The Deep Impact spacecraft took the first step toward its journey to comet Tempel 1 when it arrived in Florida in October. It was shipped by truck from Ball Aerospace and Technologies in Boulder, Colorado, to the Astrotech Space Operations facility near the Kennedy Space Center. After removing it fr",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_112904_di_arrives/ksc_112904_di_arrives~orig.mp4"
+      ],
+      "duration_s": 108.3,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_2.jpg",
+      "nasa_id": "ksc_121304_comet_history",
+      "title": "KSC-04-S-00395",
+      "center": "KSC",
+      "date": "2004-12-15",
+      "description": "Comets. Throughout history they have inspired curiosity and fear -- fascination and dread. While the movement of the moon and stars was predictable, comets appeared in the night sky without warning. Their appearance was generally regarded as a sign from the heavens -- more often than not an ominous ",
+      "links": [
+        "https://images-assets.nasa.gov/video/ksc_121304_comet_history/ksc_121304_comet_history~small.jpg",
+        "https://images-assets.nasa.gov/video/ksc_121304_comet_history/ksc_121304_comet_history~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/ksc_121304_comet_history/ksc_121304_comet_history~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_comet_history/ksc_121304_comet_history~preview.mp4",
+        "http://images-assets.nasa.gov/video/ksc_121304_comet_history/ksc_121304_comet_history~orig.mp4"
+      ],
+      "duration_s": 145.8,
+      "width": 320,
+      "height": 212
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_3.jpg",
+      "nasa_id": "SVS-13332",
+      "title": "How LISA Pathfinder Detected Dozens of 'Comet Crumbs'",
+      "center": "NASA SVS",
+      "date": "2019-11-18",
+      "description": "NASA scientists used data from ESA’s (the European Space Agency’s) LISA Pathfinder mission to detect 54 micrometeoroid impacts on the spacecraft. The research will help scientists learn more about how dust behaves in our planetary system and those around other stars. Credit: NASA’s Goddard Space Fli",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013332/LPF_Impacts_still_print.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013332/13332_LPF_Impacts_2_1080.mp4",
+      "duration_s": 179.9,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/13332/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_4.jpg",
+      "nasa_id": "PIA13374",
+      "title": "Deep Impact Spacecraft First Glimpse of Comet Hartley 2",
+      "center": "JPL",
+      "date": "2010-09-08",
+      "description": "This first image of comet 103P/Hartley 2 was taken from NASA Deep Impact spacecraft 60 days prior to the spacecraft flyby of the comet.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13374/PIA13374~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13374/PIA13374~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_014/aday_5.jpg",
+      "nasa_id": "PIA16748",
+      "title": "NASAS Deep Impact Spacecraft Images Comet ISON",
+      "center": "JPL",
+      "date": "2013-02-05",
+      "description": "This frame from an animation series of images of comet C/2012 S1 ISON was taken by the Medium-Resolution Imager of NASA Deep Impact spacecraft over a 36-hour period on Jan. 17 and 18, 2013.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA16748/PIA16748~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA16748/PIA16748~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA16748/PIA16748~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}

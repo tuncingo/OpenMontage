@@ -1,0 +1,168 @@
+{
+  "scene_id": 69,
+  "media": "video",
+  "scene_duration_s": 9.0,
+  "narration": "In August, a day before launch, China said Chang'e-7 could not fly in this year's window. It is now expected in 2027.",
+  "visual_brief": "The Moon orbiting Earth, a window to the stars.",
+  "purpose": "cutaway",
+  "nasa_query": "Moon orbiting Earth",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_0.jpg",
+      "nasa_id": "GSFC_20190207_LRO_m13144_Impacts",
+      "title": "Moon Sheds Light on Earth's Impact History",
+      "center": "GSFC",
+      "date": "2019-02-07",
+      "description": "By looking at the Moon, the most complete and accessible chronicle of the asteroid collisions that carved our young solar system, a group of scientists is challenging our understanding of a part of Earth’s history. The number of asteroid impacts to the Moon and Earth increased by two to three times ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20190207_LRO_m13144_Impacts/GSFC_20190207_LRO_m13144_Impacts~orig.mp4"
+      ],
+      "duration_s": 116.8,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_1.jpg",
+      "nasa_id": "GSFC_20170614_Eclipse_m12534_Plane",
+      "title": "What determines when we have an eclipse?",
+      "center": "GSFC",
+      "date": "2017-06-14",
+      "description": "Why are eclipses rare? The moon's orbit is tilted. Sometimes the moon's shadow is too high above the Earth. Sometimes it is too low. Other times, it is just right.",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20170614_Eclipse_m12534_Plane/GSFC_20170614_Eclipse_m12534_Plane~orig.mp4"
+      ],
+      "duration_s": 47.4,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_2.jpg",
+      "nasa_id": "GSFC_20160624_SDO_m12292_DoubleEclipse",
+      "title": "Solar Highlights of 2016/2017: Double Eclipse",
+      "center": "GSFC",
+      "date": "2016-06-24",
+      "description": "Early in the morning of Sept. 1, 2016, NASA’s Solar Dynamics Observatory, or SDO, caught both the Earth and moon crossing in front of the sun. SDO keeps a constant eye on the sun, but during SDO’s semiannual eclipse seasons, Earth briefly blocks SDO’s line of sight each day – a consequence of SDO’s ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160624_SDO_m12292_DoubleEclipse/GSFC_20160624_SDO_m12292_DoubleEclipse~orig.mp4"
+      ],
+      "duration_s": 34.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_3.jpg",
+      "nasa_id": "SVS-5692",
+      "title": "Moon Phase and Libration, 2027 South Up",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals. The orientation is south-up.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005692/phases_2027_fancy_s_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5692/"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_4.jpg",
+      "nasa_id": "SVS-5691",
+      "title": "Moon Phase and Libration, 2027",
+      "center": "NASA SVS",
+      "date": "2026-11-20",
+      "description": "The animation archived on this page shows the geocentric phase, libration, position angle of the axis, and apparent diameter of the Moon throughout the year 2027, at hourly intervals.",
+      "links": [
+        "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/preview_fancy.jpg"
+      ],
+      "media": "video",
+      "source": "svs",
+      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005691/phases_2027_fancy_1080p30.mp4",
+      "duration_s": 292.0,
+      "width": 1920,
+      "height": 1080,
+      "credit_line": "NASA's Scientific Visualization Studio",
+      "page": "https://svs.gsfc.nasa.gov/5691/"
+    },
+    {
+      "index": 5,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_5.jpg",
+      "nasa_id": "PIA21260",
+      "title": "Earth and Its Moon, as Seen From Mars",
+      "center": "JPL",
+      "date": "2017-01-06",
+      "description": "This composite image of Earth and its moon, as seen from Mars, combines the best Earth image with the best moon image from four sets of images acquired on Nov. 20, 2016, by the High Resolution Imaging Science Experiment (HiRISE) camera on NASA's Mars Reconnaissance Orbiter. Each was separately proce",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA21260/PIA21260~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA21260/PIA21260~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 6,
+      "file": "bolumler/2026-11-26-where-did-the-moon-s-water-ice-come-from-comets-as/adaylar/scene_069/aday_6.jpg",
+      "nasa_id": "S92-52043",
+      "title": "Galileo view of Moon orbiting the Earth taken from 3.9 million miles",
+      "center": "JSC",
+      "date": "1992-12-16",
+      "description": "Eight days after its encounter with the Earth, the Galileo spacecraft was able to look back and capture this remarkable view of the Moon in orbit about the Earth, taken from a distance of about 6.2 million kilometers (3.9 million miles). The picture was constructed from images taken through the viol",
+      "links": [
+        "https://images-assets.nasa.gov/image/S92-52043/S92-52043~medium.jpg",
+        "https://images-assets.nasa.gov/image/S92-52043/S92-52043~small.jpg",
+        "https://images-assets.nasa.gov/image/S92-52043/S92-52043~thumb.jpg",
+        "https://images-assets.nasa.gov/image/S92-52043/S92-52043~large.jpg",
+        "https://images-assets.nasa.gov/image/S92-52043/S92-52043~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
+}
