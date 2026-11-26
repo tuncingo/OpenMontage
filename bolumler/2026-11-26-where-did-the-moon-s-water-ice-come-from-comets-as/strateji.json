@@ -1,0 +1,72 @@
+{
+  "titles": [
+    "Where Did the Moon's Water Ice Come From?",
+    "Five Suspects for the Moon's Ice, and No Verdict",
+    "Who Put Water in the Moon's Dark Craters?",
+    "The Moon's Polar Ice: Comets, Volcanoes, or Earth?",
+    "The Moon's Ice Has Five Suspects. One Test Is Missing."
+  ],
+  "recommended_title": "The Moon's Ice Has Five Suspects. One Test Is Missing.",
+  "thumbnail": {
+    "headline": "Whose Water?",
+    "concept": "Tek odak: Ay'ın güney kutbundaki gölgeli bir krater, neredeyse siyah zeminde. Kraterin içinde hafif teal ışıldayan ince çizgi ve tek bir muted amber nokta (buz). Sağ üstte büyük, ince 'Whose Water?' yazısı. Beş küçük teal hairline nokta (beş şüpheli) kenarda sıralı, gürültü yok. Telefonda okunur, kırmızı ok/şok yüzü yok.",
+    "image_prompt": "16:9 cinematic scene of a deep, permanently shadowed lunar polar crater seen from low orbit, near-black background (#05070C), the crater floor faintly lit with a thin teal rim light, a tiny muted amber glow at one spot on the floor suggesting hidden ice, sparse drifting stars, large empty dark space on the left for a headline, restrained and scientific, photorealistic, no text, no logos, no people"
+  },
+  "cover_concepts": [
+    {
+      "type": "number",
+      "headline": "Five Suspects",
+      "idea": "Script'teki gerçek rakam: beş şüpheli (kuyruklu yıldızlar, asteroitler, Ay volkanları, güneş rüzgarı, Dünya). Yan yana beş ince teal hairline daire, biri muted amber ile boş bırakılmış (karar yok). Dürüst çünkü video tam olarak beş kaynağı tek tek inceliyor ve hiçbirini 'suçlu' ilan etmiyor."
+    },
+    {
+      "type": "mystery",
+      "headline": "Whose Water Is It?",
+      "idea": "Açık soru: Ay'ın kutup buzu kimin? Gölgeli krater, içinde tek amber nokta, etrafında soru işareti yerine sadece ince bir hairline ok. Sahte tehdit yok; gerçek açık soru (kaynak hâlâ tartışmalı, polar buzda D/H oranı hiç ölçülmedi)."
+    },
+    {
+      "type": "clean",
+      "headline": "Ice in the Dark",
+      "idea": "Tek özne: Cabeus/güney kutup gölgeli kraterinin gerçek NASA görüntüsünü yükle (LCROSS veya LRO; benzer görüntü üretme). Sol tarafta çok boş koyu alan, ince teal çizgi ve küçük '-163 C' ölçek işareti. Başlık küçük, ince, bol boşluk. -163 C script'te (110 K) geçiyor."
+    }
+  ],
+  "pinned_comment": "Five suspects, one unfinished case: comets, asteroids, the Moon's own volcanoes, the solar wind, and Earth itself. Which one would you bet on, and what would change your mind? The sources for every claim in this episode are listed in the description.",
+  "description": "The Moon has ice, but nobody can say for sure whose water it is. We go through five suspects (comets, asteroids, lunar volcanoes, the solar wind and Earth), weigh the evidence for each, and look at the one measurement that could settle it.\n\nWhat the 2025 review, the 2026 Nature Astronomy study and the ShadowCam survey actually say, and where they disagree.\n\nChapters\n0:00 Five suspects\n0:50 The scene of the crime: LCROSS at Cabeus\n2:20 Suspect one: comets\n4:00 Suspect two: asteroids\n4:30 Suspect three: the Moon itself\n5:50 Suspect four: the Sun\n7:30 Suspect five: Earth\n9:10 Two new studies: slow supply and ShadowCam\n11:30 So who did it?\n12:30 The missing measurement: heavy hydrogen\n\nSources\nS1. https://arxiv.org/html/2502.06056v2\nS2. https://phys.org/news/2026-04-moon-narrows.html\nS3. https://www.colorado.edu/today/2026/04/07/water-moon-new-study-narrows-down-most-likely-locations\nS4. https://wis-wander.weizmann.ac.il/node/12358\nS5. https://www.hawaii.edu/news/2026/04/07/moon-less-surface-ice/\nS6. https://earthsky.org/space/ice-in-moons-shadows-shadowcam-moon/\nS8. https://ntrs.nasa.gov/api/citations/20180005682/downloads/20180005682.pdf\nS9. https://link.springer.com/10.1038/s41467-022-28289-6\nS10. https://www.uaf.edu/news/archives/2022/earths-atmosphere-may-be-source-of-some-lunar-water.php\nS11. https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..26T\nS12. https://www.ssl.berkeley.edu/first-evidence-that-water-can-be-created-on-the-lunar-surface-by-earths-magnetosphere\nS13. https://pmc.ncbi.nlm.nih.gov/articles/PMC9907113\nS16. https://connectsci.au/news/news-parent/9149/Finding-water-on-the-Moon-for-astronauts-to-drink\nS17. https://www.techtimes.com/articles/330380/20261110/moons-sub-100-meter-craters-last-under-100-million-years-lunar-water-ice-inside-cannot-be-ancient.htm (secondhand report, provisional)\nS18. https://www.scientificamerican.com/article/china-delays-ambitious-change-7-moon-mission-until-2027\nS20. https://www.airspacemag.com/daily-planet/water-from-the-sun-77291080/\n\nImages and video: NASA, NASA/GSFC, NASA's Scientific Visualization Studio (credits in video).\nMusic: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)",
+  "tags": [
+    "moon water ice",
+    "lunar ice origin",
+    "LCROSS Cabeus",
+    "permanently shadowed regions",
+    "cold traps moon",
+    "comets or asteroids",
+    "solar wind water",
+    "Earth's magnetotail",
+    "ShadowCam",
+    "Chang'e-7",
+    "Nature Astronomy moon",
+    "space science",
+    "Rebel Minds Cosmos"
+  ],
+  "chapters": [
+    {"time_estimate": "0:00", "title": "Five suspects"},
+    {"time_estimate": "0:50", "title": "The scene of the crime: LCROSS at Cabeus"},
+    {"time_estimate": "2:20", "title": "Suspect one: comets"},
+    {"time_estimate": "4:00", "title": "Suspect two: asteroids"},
+    {"time_estimate": "4:30", "title": "Suspect three: the Moon itself"},
+    {"time_estimate": "5:50", "title": "Suspect four: the Sun"},
+    {"time_estimate": "7:30", "title": "Suspect five: Earth"},
+    {"time_estimate": "9:10", "title": "Two new studies: slow supply and ShadowCam"},
+    {"time_estimate": "11:30", "title": "So who did it?"},
+    {"time_estimate": "12:30", "title": "The missing measurement: heavy hydrogen"}
+  ],
+  "originality": {
+    "score": 7,
+    "risk": "low",
+    "similar_to": [
+      "Ep3 - Where did the Moon come from? (ayni gok cismi, farkli soru: Ay'in olusumu vs. kutup buzunun kaynagi)",
+      "Ep4 - Why did NASA pause Gateway for a Moon Base? (politika/program haberi, farkli icerik)",
+      "Genel 'water on the Moon' / 'Artemis south pole ice' videolari"
+    ],
+    "notes": "Onceki bolumlerden ayri: Ep3 Ay'in nasil olustugu, Ep4 Gateway/Ay ussu politikasi; bu bolum kutup buzunun kaynagi ve bilimsel tartisma. Uc Ay bolumu ust uste geldigi icin kanalin 'Ay kanali' gibi gorunme riski var; sonraki bolumde farkli bir konuya gecmek iyi olur. Kitle uretimi uzay videolarindan ayrisan yanlari: bes supheli yapisi, kuyruklu yildiz tartismasinin (kimyasal parmak izi vs. carpma fizigi) acik birakilip sonda geri cagrilmasi, 2026 Nature Astronomy ve ShadowCam sonuclari, ve 'hic olculmemis D/H orani' ana sorusu. Yaygin 'Ay'da su bulundu, hayat kurtarir' sablonundan uzak. Uyari: YouTube'da konunun ne kadar kalabalik oldugunu canli aramayla dogrulamadim; bu degerlendirme senaryo ve genel bilgiye dayali. Yayin oncesi dogrulanmasi gerekenler: S3/S4/S8 tam okunmamis; S17 ikinci elden ve gecici; Chang'e-7 tarihi (S18) teyitsiz."
+  },
+  "posting_notes": "YAYIN ZAMANI (varsayim, olcum degil; kanalin henuz verisi yok):\n- Bugun 26 Kasim 2026 = ABD Sukran Gunu (Thanksgiving). Bugun yayinlama: ABD izleyicisi ailesiyle, trafik ve dikkat dagınık.\n- Oneri: Cumartesi 28 Kasim 2026, 10:00 ET = 07:00 PT = 15:00 UK = 18:00 TR. Kullanilan ofsetler: ET = UTC-5, PT = UTC-8, UK = UTC+0, TR = UTC+3. Gerekce: uzun hafta sonu, ABD'de sabah/oglen izleme, UK'de ogleden sonra; Black Friday (27 Kasim) alisveris ve haber gurultusu yok. 18:00 TR sizin icin de rahat; zamanlamaya gerek yok ama istenirse YouTube Studio'da 'Schedule' ile 18:00 TR'ye kurun.\n- Alternatif: Pazar 29 Kasim, 11:00 ET = 08:00 PT = 16:00 UK = 19:00 TR.\n- Kanal veri biriktirince YouTube Analytics > Audience > 'When your viewers are on YouTube' ve ulke dagilimina gore bu saatleri degistirin.\n\nSABITLENMIS YORUM (English, video yayinlandiktan hemen sonra sabitle):\n\"Five suspects, one unfinished case: comets, asteroids, the Moon's own volcanoes, the solar wind, and Earth itself. Which one would you bet on, and what would change your mind? The sources for every claim in this episode are listed in the description.\"\n\nSHORTS KESIM FIKIRLERI (zaman kodlari tahmini; /shorts sahne planina gore kesinlesir, cumle basi ve sonunda baslayip bitmeli):\n1. ~0:50-1:30 LCROSS: roket kademesi Cabeus'a carpiyor, plume yaklasik yuzde bes su, saf buz kristalleri. Kanca: 'Ice in a crater that never sees the Sun'.\n2. ~2:20-3:20 Kuyruklu yildiz celiskisi: kimyasal parmak izi comets diyor, carpma fizigi tersini. Acik soru.\n3. ~7:30-8:20 Dunya hipotezi: Ay her ay yaklasik bes gun Dunya'nin kuyrugundan geciyor (Kaguya oksijen iyonlari). 'ceiling, not a forecast' notuyla durust.\n(Istege bagli 4. ~9:10-10:00 Shackleton'in sandigimizdan zayif hedef olabilecegi.)\n\nSHORTS TAKVIMI (ET = UTC-5, PT = UTC-8, UK = UTC+0, TR = UTC+3):\n- Short 1: Pazar 29 Kasim, 11:00 ET = 08:00 PT = 16:00 UK = 19:00 TR\n- Short 2: Sali 1 Aralik, 12:00 ET = 09:00 PT = 17:00 UK = 20:00 TR\n- Short 3: Persembe 3 Aralik, 12:00 ET = 09:00 PT = 17:00 UK = 20:00 TR\n- Short 4 (varsa): Cumartesi 5 Aralik, 10:00 ET = 07:00 PT = 15:00 UK = 18:00 TR\nHepsi varsayim; Analytics verisi gelince guncelleyin.\n\nBASLIK NOTU: Onerilen baslikta 'One Test Is Missing' iddiasi senaryodaki 'polar buzda D/H orani hic olculmedi' ifadesine ([S1][S20]) dayaniyor; hype kelimesi yok."
+}

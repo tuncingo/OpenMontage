@@ -1,0 +1,61 @@
+{
+  "score": 7,
+  "verdict": "revise",
+  "summary": "İkinci taslak belirgin biçimde daha dürüst; kuyruklu yıldız çelişkisi, Dünya hipotezi ve güneş rüzgarı yargısı iyi kalibre edilmiş. Ancak bir kaynak/iddia karışıklığı (Chang'e-5 'iç su'), küçük krater bulgusunun yanlış aktarılması, ShadowCam tespit sınırındaki iç çelişki ve açılıştaki 'tek ölçüm davayı çözer' abartısı düzeltilmeden yayınlanmamalı.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "Chang'e-5 samples suggest the interior holds more water than once thought. [S13]",
+      "problem": "S13 (PNAS 2022) güneş rüzgarı kökenli yüzey/tane suyunu anlatıyor; Ay'ın mantosundaki su hakkında değil. Araştırma notundaki 'interior OH' ifadesi tane içini kastediyor, Ay'ın içini değil. Bu, kaynağın söylemediği bir şeyi ona atfetmek ve aynı numunelerin sonraki bölümde güneş rüzgarı kanıtı olarak kullanılmasıyla çelişiyor.",
+      "fix": "Cite an actual lunar-interior water source (e.g. Apollo volcanic glass bead studies, or a Chang'e-5 basalt/apatite mantle-water paper) or rephrase generically: 'Samples from Apollo volcanic glass, and later missions, show the Moon's interior is wetter than once thought.' Do not attach S13 to this claim."
+    },
+    {
+      "severity": "major",
+      "quote": "A recent report says craters under about one hundred metres wide may lose their ice within a hundred million years.",
+      "problem": "Araştırma notu kraterlerin kendisinin ~100 milyon yılda silindiğini (yok olduğunu), dolayısıyla içlerindeki buzun genç olması gerektiğini söylüyor; buzun 'kaybedilmesi' değil. Mekanizma yanlış aktarılmış ve tarihlemeye etkisi (küçük kraterlerdeki buz eski olamaz) açıkça söylenmemiş.",
+      "fix": "Rephrase: 'A recent report says craters smaller than about a hundred metres are erased within roughly a hundred million years. If so, any ice inside them must be young, not ancient. I could only verify this secondhand, so treat it as provisional.' Optionally link it to ShadowCam's patches near young craters."
+    },
+    {
+      "severity": "major",
+      "quote": "One measurement could settle the case, and nobody has made it yet.",
+      "problem": "Abartı ve iç tutarsızlık: senaryo sonda D/H oranının yalnızca 'ayırt etmeye yardım edeceğini' ve karışık kaynağın muhtemel olduğunu söylüyor. Karışık kaynaklarda ve taşınma/süblimleşme sırasında izotop fraksiyonlaşması olduğunda tek bir D/H ölçümü davayı 'çözmez'.",
+      "fix": "Change to: 'One measurement could go a long way toward cracking the case, and nobody has made it yet.' Later, add one clause: 'Even then, a mix of sources and changes during transport could blur the signal.'"
+    },
+    {
+      "severity": "major",
+      "quote": "It found no widespread surface ice above roughly twenty to thirty percent by weight. That is its detection limit.",
+      "problem": "Hemen ardından 'A few showed signatures above ten percent' deniyor. Tespit sınırı %20-30 ise %10 üstü işaretlerin nasıl görüldüğü açıklanmadan izleyici çelişki görüyor. Kanıt gücü (yerel/olası işaretler vs. geniş alan sınırı) netleştirilmeli.",
+      "fix": "Clarify the distinction, e.g.: 'Across wide areas it could rule out ice above roughly twenty to thirty percent. In a few small spots, hints suggest more than ten percent, though these are tentative.' Verify the exact wording in the Hawaii release / Science Advances paper."
+    },
+    {
+      "severity": "minor",
+      "quote": "Neither matched well. Comets did.",
+      "problem": "Mandt 2022 'büyük olasılıkla kuyruklu yıldız' diyor; 'Comets did' kesin bir eşleşme izlenimi veriyor. Ayrıca neden eşleşmediği (kükürt uyuyor, hidrojen ve azot yetersiz) söylenmiyor; bu, izleyicinin kanıtın türünü anlamasına yardım ederdi.",
+      "fix": "Use: 'Volcanic and asteroid-like sources got the sulfur right but came up short on hydrogen and nitrogen. Comets were the best fit.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "But it became a cold trap only about five hundred million years ago.",
+      "problem": "Bu bir model çıktısı ve ikinci elden aktarılmış (S3/S4 okunamadı), ama gözlenmiş gerçek gibi sunuluyor. Aynısı 'The oldest, darkest cold traps hold the most ice' için de geçerli.",
+      "fix": "Add model framing: 'According to their models, it became a cold trap only about five hundred million years ago.' and 'Their models suggest the oldest, darkest cold traps hold the most ice.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "The grains hold roughly eleven hundred to twenty five hundred parts per million hydrogen.",
+      "problem": "Bu değerler tanelerin dış kabuğu için; toplu (bulk) güneş rüzgarı suyu yalnızca ~46 ppm. Sadece yüksek sayıyı vermek etkiyi şişiriyor.",
+      "fix": "Add: 'That is in the thin outer rims of the grains. Averaged over the whole soil, it is only about forty-six parts per million.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "Earth may add a little, or a lot, or nothing.",
+      "problem": "'A lot' ihtimali, yalnızca bilinçli olarak yüksek tutulmuş bir üst sınıra dayanıyor ve ana akım görüş diğer kaynakları tercih ediyor. Bu ifade sahte bir denge yaratıyor.",
+      "fix": "Use: 'Earth may add a little, or nothing; the large numbers are only a ceiling.'"
+    },
+    {
+      "severity": "minor",
+      "quote": "Asteroids and volcanoes may have supplied much of the rest, early on. [S1]",
+      "problem": "Sonuç bölümü, 2026 çalışmasının 3-3.5 milyar yıllık yavaş birikim bulgusunu ve küçük kraterlerdeki genç buz işaretlerini bütünleştirmiyor; ayrıca kutuplara taşınma sorununu (ekzosfer gözlemleri modellerle çelişiyor) hiç anmıyor. Bu, kaynak sorusunun yanında önemli bir alternatif belirsizlik.",
+      "fix": "Add one line: 'And the ice we see may be a mix of ages: some built up slowly over billions of years, some delivered recently. How water even hops to the poles intact is still not well understood. [S1]'"
+    }
+  ]
+}
