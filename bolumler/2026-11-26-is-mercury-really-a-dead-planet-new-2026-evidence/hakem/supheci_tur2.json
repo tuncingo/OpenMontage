@@ -1,0 +1,55 @@
+{
+  "score": 8,
+  "verdict": "pass",
+  "summary": "İkinci taslak kanıt gücünü dürüstçe aktarıyor: dolaylı kanıt, hakemsiz bildiriler, toplam ve hız ayrımı ile BepiColombo'nun henüz veri üretmediği açıkça söyleniyor. Kalan sorunlar küçük: birkaç benzetmede hassasiyet eksik, bir bağlam eksik ve snippet düzeyindeki rakamlar kayıttan önce doğrulanmalı.",
+  "issues": [
+    {
+      "severity": "minor",
+      "quote": "If Mercury's life were one year, the hollows formed in the last few minutes.",
+      "problem": "Hesap: 100.000 / 4,5 milyar yıl x 525.600 dakika, yaklaşık 12 dakika eder. 'Birkaç dakika' bunu biraz küçültüyor. Ayrıca ortalama yaş, tüm oyukların o sürede oluştuğu gibi okunabiliyor.",
+      "fix": "Say: \"If Mercury's life were one year, the average hollow would be about twelve minutes old.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "A 2025 study agrees. It found most hollows are in an early stage, and likely still evolving.",
+      "problem": "'Agrees' bağımsız bir doğrulama varmış izlenimi veriyor. Oysa 2025 çalışması ayrı bir gözleme (erken evre morfolojisi) dayanıyor ve aynı yöne işaret ediyor, 100.000 yıl rakamını doğrulamıyor. Üstelik ortak yazar Bickel çizgi çalışmasının ekibinde de yer alıyor.",
+      "fix": "Replace \"A 2025 study agrees.\" with \"A 2025 study points the same way.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "ESA notes water ice on a world where surface temperatures can reach four hundred and fifty degrees Celsius.",
+      "problem": "Buzun nerede bulunduğu söylenmediği için kontrast paradoks gibi duruyor. Araştırma notları buzun kalıcı gölgedeki kutup kraterlerinde olduğunu belirtiyor. Bağlam verilmezse yanıltıcı bir merak kancasına dönüşüyor.",
+      "fix": "Add: \"...ice that survives in polar craters where sunlight never reaches the floor.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "It arrived at a planet often thought of as a dead, battered rock.",
+      "problem": "'Ölü gezegen' çerçevesi kısmen bir saman adam. Merkür'ün küresel manyetik alanı ve kısmen erimiş çekirdeği bilimsel konsensüs. Yani iç kısım zaten 'ölü' kabul edilmiyor, tartışma yüzey jeolojisi üzerine. Bu bağlam metinde yok.",
+      "fix": "Add one line, e.g. \"Scientists already know its core is partly molten, because it still has a magnetic field. The real question is whether the surface is still changing.\" Flag this as general knowledge or add a NASA/ESA source."
+    },
+    {
+      "severity": "minor",
+      "quote": "That is about two Everests, not removed, but squeezed, as the crust folded over itself.",
+      "problem": "Çap kaybını bir dağ yüksekliğiyle karşılaştırmak boyut olarak tutarsız bir benzetme. 'Folded over itself' ifadesi de bindirme faylanmasını (kabuğun kendi üzerine itilmesi) abartılı anlatıyor.",
+      "fix": "Say: \"That is roughly two Everests' worth of width, lost as slabs of crust were pushed up and over each other along thrust faults.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "The new upper estimate is roughly twenty kilometres, and outlets quote anywhere from nineteen to twenty three.",
+      "problem": "Rakam hâlâ yalnızca snippet düzeyinde. Araştırma 'çap' olduğunu bile 'check the paper' notuyla veriyor. Önceki 4-16 km aralığının çap mı yarıçap mı olduğu da doğrulanmamış. Eski literatür genellikle yarıçap kaybı verir.",
+      "fix": "Before recording, verify in the Nishiyama et al. GRL paper whether both the 4-16 km and 19-23 km figures refer to diameter, then state the paper's own number."
+    },
+    {
+      "severity": "minor",
+      "quote": "trained a machine learning tool on about one hundred and twelve thousand MESSENGER images.",
+      "problem": "Bern çalışmasındaki 112.000 görüntü, 400 çizgi, yüzde 93 ve yüzde 10 rakamları ile NASA'nın 100.000 yıl değeri hâlâ snippet düzeyinde (revizyon notlarında da belirtilmiş). Bunlar kayıttan önce birincil kaynaktan teyit edilmeli.",
+      "fix": "Verify against the Communications Earth & Environment paper (Bickel et al. 2026) and the NASA hollows page before voice recording. Keep the hedge \"about\" if any value cannot be confirmed."
+    },
+    {
+      "severity": "minor",
+      "quote": "So the evidence does not prove Mercury is alive. What it does is put pressure on the word dead. The better word may be quiet. And quiet is not the same as finished. [S4] [S7]",
+      "problem": "Bu cümle yazarın kendi yorumu, ama kaynak atfı onu sanki S4 ve S7 tarafından desteklenen bir sonuç gibi gösteriyor.",
+      "fix": "Remove the [S4] [S7] citation from this interpretive sentence, or frame it explicitly as \"My reading of this evidence is...\""
+    }
+  ]
+}
