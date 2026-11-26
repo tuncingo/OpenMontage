@@ -16,6 +16,7 @@ import { TransitionSeries, linearTiming } from "@remotion/transitions";
 import { loadInterFamily } from "./lib/localFonts";
 import { presentationFor, transitionFrames } from "./lib/episodeTransitions";
 import { ProceduralScene } from "./components/ProceduralScene";
+import type { SchematicSpec } from "./components/Schematic";
 import { SchematicVertical, SchematicVerticalOverlay } from "./components/SchematicVertical";
 import { AMBER, GREY, ICE, NAVY, TEAL } from "./components/Kinetic";
 import { EpisodeOverlay, EpisodeProps, EpisodeScene } from "./RebelEpisode";
@@ -135,7 +136,7 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
   const focus = scene.focus_x ?? 0.5;
   const w = scene.w ?? 1920;
   const h = scene.h ?? 1080;
-  const full = scene.graphic && scene.graphic.kind !== "thermal_inset";
+  const full = scene.graphic && scene.graphic.kind !== "thermal_inset" && scene.graphic.kind !== "diagram";
   const inset = scene.graphic?.kind === "thermal_inset";
   const backdrop = scene.backdrop ? <Backdrop b={scene.backdrop} t={t} id={scene.id} /> : null;
   let body: React.ReactNode = null;
@@ -143,7 +144,7 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
     body = (
       <>
         {backdrop}
-        <SchematicVertical spec={scene.graphic!} />
+        <SchematicVertical spec={scene.graphic as SchematicSpec} />
       </>
     );
   } else if (scene.procedural) {
@@ -192,7 +193,7 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
     <AbsoluteFill style={{ backgroundColor: NAVY, overflow: "hidden" }}>
       {body}
       {scene.dim ? <AbsoluteFill style={{ backgroundColor: `rgba(5,7,12,${scene.dim})` }} /> : null}
-      {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicVerticalOverlay spec={scene.graphic} /> : null}
+      {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicVerticalOverlay spec={scene.graphic as SchematicSpec} /> : null}
       <VStarDust seed={scene.id} count={cosmic ? 90 : 40} opacity={cosmic ? 0.9 : 0.5} />
     </AbsoluteFill>
   );

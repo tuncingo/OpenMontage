@@ -17,6 +17,7 @@ import { loadInterFamily } from "./lib/localFonts";
 import { presentationFor, transitionFrames } from "./lib/episodeTransitions";
 import { ProceduralScene, ProceduralVariant } from "./components/ProceduralScene";
 import { Schematic, SchematicOverlay, SchematicSpec } from "./components/Schematic";
+import { Diagram, DiagramSpec } from "./components/Diagram";
 import {
   CornerLabel,
   Credit,
@@ -69,7 +70,7 @@ export interface EpisodeScene {
   video?: { src: string; clip_s: number } | null;
   procedural?: ProceduralVariant | null;
   /** Schematic line graphic: full-screen (phases, slips, thermal) or an inset over the photo (thermal_inset). */
-  graphic?: SchematicSpec | null;
+  graphic?: SchematicSpec | DiagramSpec | null;
   purpose?: string;
   /** Pixel size of the photo / clip and the point of interest (0-1 across the width) — used by the vertical Shorts. */
   w?: number;
@@ -138,7 +139,9 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
   const cosmic = scene.purpose === "cutaway" || !!scene.procedural || !!scene.graphic || !!scene.video;
   return (
     <AbsoluteFill style={{ backgroundColor: NAVY }}>
-      {scene.graphic && scene.graphic.kind !== "thermal_inset" ? (
+      {scene.graphic && scene.graphic.kind === "diagram" ? (
+        <Diagram spec={scene.graphic} />
+      ) : scene.graphic && scene.graphic.kind !== "thermal_inset" ? (
         <Schematic spec={scene.graphic} />
       ) : scene.video ? (
         <AbsoluteFill style={{ transform: `scale(${1.0 + 0.05 * t})` }}>
@@ -189,7 +192,7 @@ const SceneVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
         </>
       ) : null}
       {scene.dim ? <AbsoluteFill style={{ backgroundColor: `rgba(5,7,12,${scene.dim})` }} /> : null}
-      {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicOverlay spec={scene.graphic} /> : null}
+      {scene.graphic && scene.graphic.kind === "thermal_inset" ? <SchematicOverlay spec={scene.graphic as SchematicSpec} /> : null}
       <StarDust seed={scene.id} count={cosmic ? 120 : 50} opacity={cosmic ? 0.9 : 0.5} />
     </AbsoluteFill>
   );

@@ -75,6 +75,19 @@ PROCEDURAL = {
 }
 
 
+# The tables above (GRAPHICS, GRAPHIC_CREDITS, CREDIT_APPEND, CROP_BLACK, FIT_CONTAIN, TRANSITION_OVERRIDES, DIM,
+# PROCEDURAL) are keyed by SCENE ID and belong to this one episode only. Other episodes must not inherit them;
+# they describe their code-drawn scenes in bolumler/<kod>/diyagramlar.json instead (see Diagram.tsx).
+LEGACY_SLUG = "2026-11-21-nasa-s-moon-base-at-the-lunar-south-pole"
+
+
+def drop_legacy_tables() -> None:
+    for tbl in (GRAPHICS, GRAPHIC_CREDITS, CREDIT_APPEND, TRANSITION_OVERRIDES, DIM, PROCEDURAL):
+        tbl.clear()
+    CROP_BLACK.clear()
+    FIT_CONTAIN.clear()
+
+
 def media_size(path: str) -> tuple[int, int] | None:
     """(width, height) of a photo or clip via ffprobe."""
     try:
@@ -129,7 +142,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("kod")
     ap.add_argument("--max-seconds", type=float, default=None, help="preview: keep only the first N seconds")
-    ap.add_argument("--lufs", type=float, default=-14.0)
+    ap.add_argument("--lufs", type=float, default=float(kurul_audio.ayarlar().get("narration_lufs", -14.0)))
     ap.add_argument("--tp", type=float, default=-1.5, help="true-peak ceiling for loudnorm (headroom for AAC)")
     ap.add_argument("--scenes", default=None, help="only these scene ids, e.g. 1-4,12-14,17-18 (times re-based back to back)")
     ap.add_argument("--from-seconds", type=float, default=0.0, help="start the clip at this time (clip is re-based to 0)")
@@ -143,6 +156,8 @@ def main() -> None:
     ap.add_argument("--music-fade-in", type=float, default=None, help="seconds (default: kanal/ayarlar.json)")
     ap.add_argument("--music-fade-out", type=float, default=None, help="seconds (default: kanal/ayarlar.json)")
     a = ap.parse_args()
+    if a.kod != LEGACY_SLUG:
+        drop_legacy_tables()
 
     ep = os.path.join(ROOT, "bolumler", a.kod)
     pr = os.path.join(ROOT, "projects", a.kod)
@@ -153,10 +168,15 @@ def main() -> None:
 
     prod = json.load(open(os.path.join(ep, "production.json"), encoding="utf-8"))
     scenes_in = prod["scenes"]
+    # per-episode code-drawn diagrams for scenes without an archive visual: {scene_id: {layout, label, ...}}
+    dp = os.path.join(ep, "diyagramlar.json")
+    diagrams = {int(k): v for k, v in json.load(open(dp, encoding="utf-8")).items()} if os.path.exists(dp) else {}
 
     # 1) timeline from real narration lengths
     t = 0.0
     timeline = []
+    # tools/kurul_voice.py writes the sentence/paragraph silence into each scene wav and leaves this marker
+    gaps_embedded = os.path.exists(os.path.join(pr, "assets", "audio", "scenes", "gaps_embedded"))
     for s in scenes_in:
         wav = os.path.join(pr, "assets", "audio", "scenes", f"scene_{s['id']:03d}.wav")
         if a.narration_file:
@@ -166,10 +186,23 @@ def main() -> None:
                 sys.exit(f"HATA: ses dosyası yok: {wav}")
             info = sf.info(wav)
             a_len = info.frames / info.samplerate
-            dur = max(float(s["duration_s"]), a_len + TAIL_PAD_S)
+            dur = max(float(s["duration_s"]), a_len + (0.0 if gaps_embedded else TAIL_PAD_S))
         timeline.append({"scene": s, "start": t, "dur": dur, "wav": wav, "audio_len": a_len})
         t += dur
     total_full = t
+
+    # English SRT for the whole episode (timings from tools/kurul_voice.py); only for a full, untrimmed render
+    if not (a.scenes or a.max_seconds or a.from_seconds or a.narration_file):
+        import kurul_srt
+        items = []
+        for x in timeline:
+            jp = os.path.splitext(x["wav"])[0] + ".json"
+            if os.path.exists(jp):
+                items.append((x["start"], json.load(open(jp, encoding="utf-8"))["segments"]))
+        if items:
+            srt_path = os.path.join(ep, "subtitles_en.srt")
+            open(srt_path, "w", encoding="utf-8").write(kurul_srt.build(items))
+            print(f"SRT: {os.path.relpath(srt_path, ROOT)} ({len(items)} sahne)")
 
     source_start = 0.0
     if a.scenes:
@@ -271,6 +304,10 @@ def main() -> None:
         size = None
         focus = 0.5
         gfx = GRAPHICS.get(sid)
+        if not gfx and sid in diagrams and not (s.get("image") or s.get("video")):
+            gfx = {"kind": "diagram", **{k: v for k, v in diagrams[sid].items() if k != "credit"}}
+            if diagrams[sid].get("credit"):
+                GRAPHIC_CREDITS[sid] = diagrams[sid]["credit"]
         full_gfx = bool(gfx and gfx["kind"] != "thermal_inset")
         if not full_gfx and s.get("image") and s["image"].get("file"):
             f = os.path.join(ep, s["image"]["file"].split(" (")[0])
