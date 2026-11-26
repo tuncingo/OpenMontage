@@ -19,5 +19,11 @@
   "shorts_max": 5,
   "short_min_s": 20,
   "short_max_s": 59,
-  "default_music_credit": "Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)"
+  "default_music_credit": "Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)",
+  "narration_voice": "bm_lewis",
+  "narration_speed": 0.9,
+  "narration_lang": "en-gb",
+  "narration_sentence_gap_s": 0.35,
+  "narration_paragraph_gap_s": 0.7,
+  "narration_lufs": -14
 }

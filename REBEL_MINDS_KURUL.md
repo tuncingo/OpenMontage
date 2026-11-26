@@ -46,6 +46,7 @@ son_kontrol_raporu.md  final check report (generated)
 `stil_rehberi.md` (style law, incl. Moving footage, Music, Shorts), `ayarlar.json` (thresholds, candidate counts, music levels, Shorts limits), `onceki_bolumler.md`, and `muzik/` (the channel's default music: `long_voyage_to_outer_space.mp3`; mp3 files here are committed to git).
 
 ## Render tools
+Narrator voice: Kokoro `bm_lewis`, speed 0.9, en-gb (sentence gap ~0.35 s, paragraph gap ~0.7 s, -14 LUFS); settings in `kanal/ayarlar.json`, details in `kanal/stil_rehberi.md`. Shorts reuse the episode's narration, so they carry the same voice.
 `tools/kurul_render_props.py <kod>` builds the Remotion props for the episode (video clips, narration at -14 LUFS, music ~20 dB under it); `tools/kurul_shorts.py <kod>` renders the Shorts with the `RebelShort` composition. Rendered `*.mp4`, `shorts/` and `renders/` are git-ignored.
 
 ## Helper tool

@@ -3,6 +3,9 @@
 ## Voice
 Curious, slightly rebellious, evidence-driven. We question the consensus but never overclaim. We make the viewer feel smart, not lectured. No hype words ("scientists are shocked", "this changes everything", "proves").
 
+## Narrator voice (TTS)
+The channel's default narrator is **Kokoro `bm_lewis` (British English), speed 0.9** (settings in `kanal/ayarlar.json`: `narration_voice`, `narration_speed`, `narration_lang`). Calm, measured, slightly warm documentary delivery. Each sentence is synthesised on its own with **~0.35 s of silence after a sentence** and **~0.7 s between paragraphs**, then normalised to **-14 LUFS**. Shorts use the same voice automatically: they re-cut the episode's own narration (the per-scene wavs or `final.mp4` audio) and never synthesise a second voice.
+
 ## Script
 - Language: English. Pace: ~140 words per minute. Default length: 10 minutes.
 - First 15 seconds: a hook built on genuine tension or a question — no false promises.

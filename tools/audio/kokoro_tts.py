@@ -87,7 +87,7 @@ class KokoroTTS(BaseTool):
     }
     best_for = [
         "free local documentary narration with a natural, full voice",
-        "consistent channel narrator across episodes (default am_michael)",
+        "consistent channel narrator across episodes (default bm_lewis, speed 0.9, en-gb; see kanal/ayarlar.json)",
     ]
     not_good_for = [
         "voice clone matching",
@@ -99,9 +99,9 @@ class KokoroTTS(BaseTool):
         "required": ["text"],
         "properties": {
             "text": {"type": "string"},
-            "voice": {"type": "string", "default": "am_michael"},
-            "speed": {"type": "number", "default": 0.97},
-            "lang": {"type": "string", "default": "en-us", "description": "en-us for a*/am_* voices, en-gb for b*_ voices"},
+            "voice": {"type": "string", "default": "bm_lewis"},
+            "speed": {"type": "number", "default": 0.9},
+            "lang": {"type": "string", "default": "en-gb", "description": "en-us for a*/am_* voices, en-gb for b*_ voices"},
             "post_treatment": {"type": "string", "enum": ["none", "documentary"], "default": "none"},
             "output_path": {"type": "string"},
         },
@@ -145,8 +145,8 @@ class KokoroTTS(BaseTool):
         import soundfile as sf
         from kokoro_onnx import Kokoro
 
-        voice = inputs.get("voice", "am_michael")
-        speed = float(inputs.get("speed", 0.97))
+        voice = inputs.get("voice", "bm_lewis")
+        speed = float(inputs.get("speed", 0.9))
         lang = inputs.get("lang") or ("en-gb" if voice.startswith("b") else "en-us")
         treatment = inputs.get("post_treatment", "none")
         output_path = Path(inputs.get("output_path", "tts_output.wav"))
