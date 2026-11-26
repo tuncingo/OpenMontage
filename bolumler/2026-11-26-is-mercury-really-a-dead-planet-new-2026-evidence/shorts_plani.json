@@ -1,6 +1,62 @@
-{"shorts": [
-{"n": 1, "scenes": "22-26", "hook": {"text": "23 km", "sub": "Up to, in width"}, "title": "Mercury Shrank Up to 23 km. Nothing Was Removed.", "description": "A 2026 study from the German Aerospace Center argues Mercury lost up to about 23 km of width, up from earlier estimates of about 16 km. The crust was not removed, it was squeezed as it folded over itself.\nThis is about the planet's whole history, not how fast it shrinks today.\nFull episode on the channel.\n#Shorts", "pinned_comment": "Earlier estimates said up to about 16 km, the new study says up to 23 km. Which would you want BepiColombo's laser altimeter to check first?", "tags": ["Mercury", "BepiColombo", "planetary science", "space", "shrinking planet"], "why": "En guclu sayi: 16 km'den 23 km'ye ve 'iki Everest'ten fazla'; 'kaldirilmadi, sikisti' cümlesi paradoks basligi tasiyor. Sahne 24 diyagram ama arkasinda video var, sahne 22/23/25/26 gercek goruntu."},
-{"n": 2, "scenes": "9-15", "hook": {"text": "400", "sub": "bright streaks"}, "title": "400 Bright Streaks on Mercury. None Seen Forming.", "description": "A University of Bern team used machine learning on about 100,000 MESSENGER images and found about 400 bright streaks on sun facing slopes of young craters. Many begin at hollows. One proposed explanation is gas escaping from the rock.\nAbout 93 percent are in the north, which the team ties to imaging coverage. An outside scientist called the link to volatiles plausible, not proven.\nFull episode on the channel.\n#Shorts", "pinned_comment": "Nobody has watched a streak form. If BepiColombo caught one appearing, what would you want to measure first?", "tags": ["Mercury", "MESSENGER", "bright streaks", "volatiles", "space science"], "why": "Bolumun ana gizemi: 400 cizgi + 'plausible, not proven' + 'kimse olusumunu izlemedi'. Gercek planlanan sure 47 sn, gercek ~52.1 sn (yumusak 52 sinirinin 0.1 sn ustunde, 59 sert sinirin altinda)."},
-{"n": 3, "scenes": "1-6", "hook": {"text": "21 NOV", "sub": "Mercury arrival"}, "title": "It Reached Mercury. Then the Software Glitched.", "description": "On 21 November, BepiColombo slipped into orbit around Mercury. A software glitch put it into safe mode and the braking burn ended early.\nIts science phase starts in April 2027, so every clue so far comes from older data, mostly NASA's MESSENGER (2011 to 2015). Is Mercury really dead? New 2026 studies hint it may not be.\nFull episode on the channel.\n#Shorts", "pinned_comment": "Mercury is often called a dead, battered rock. Would you call it dead, quiet, or something else?", "tags": ["BepiColombo", "Mercury", "ESA", "orbit insertion", "space"], "why": "Guncel haber kancasi: varis + yazilim arizasi; 'dead planet' sorusuyla bitiyor ve ana videoya yonlendiriyor. 1,3,6 diyagram ama 2,4,5 gercek foto; her diyagramin arkasinda video var."}
-],
-"notes": "Gercek sureler (render_props.json): Short 1 = sahne 22-26, 160.255-202.274 = 42.0 sn. Short 2 = sahne 9-15, 62.349-114.477 = 52.1 sn. Short 3 = sahne 1-6, 0-44.09 = 44.1 sn. Siralama: guc sirasi (23 km, 400 cizgi, varis). Yayin takvimi (Turkiye saati / ET UTC-5 / PT UTC-8 / UK UTC+0): ana video Cuma 27 Kasim 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Short 1 Cumartesi 28 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Short 2 Pazar 29 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Short 3 Pazartesi 30 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Not: 26 Kasim Sukran Gunu (Thanksgiving), 27 Kasim Black Friday, 28-29 Kasim uzun hafta sonu, 30 Kasim Cyber Monday; izleyici davranisi normalden farkli olabilir. Saatler ölcum degil varsayimdir; kanalin verisi oluşunca YouTube Analytics (Audience > When your viewers are on YouTube) ile guncelleyin."}
+{
+  "shorts": [
+    {
+      "n": 1,
+      "scenes": "22-26",
+      "hook": {
+        "text": "23 km",
+        "sub": "Up to, in width"
+      },
+      "title": "Mercury Shrank Up to 23 km. Nothing Was Removed.",
+      "description": "A 2026 study from the German Aerospace Center argues Mercury lost up to about 23 km of width, up from earlier estimates of about 16 km. The crust was not removed, it was squeezed as it folded over itself.\nThis is about the planet's whole history, not how fast it shrinks today.\nFull episode on the channel.\n#Shorts",
+      "pinned_comment": "Earlier estimates said up to about 16 km, the new study says up to 23 km. Which would you want BepiColombo's laser altimeter to check first?",
+      "tags": [
+        "Mercury",
+        "BepiColombo",
+        "planetary science",
+        "space",
+        "shrinking planet"
+      ],
+      "why": "En guclu sayi: 16 km'den 23 km'ye ve 'iki Everest'ten fazla'; 'kaldirilmadi, sikisti' cümlesi paradoks basligi tasiyor. Sahne 24 diyagram ama arkasinda video var, sahne 22/23/25/26 gercek goruntu."
+    },
+    {
+      "n": 2,
+      "scenes": "9-15",
+      "hook": {
+        "text": "400",
+        "sub": "bright streaks"
+      },
+      "title": "400 Bright Streaks on Mercury. None Seen Forming.",
+      "description": "A University of Bern team used machine learning on about 100,000 MESSENGER images and found about 400 bright streaks on sun facing slopes of young craters. Many begin at hollows. One proposed explanation is gas escaping from the rock.\nAbout 93 percent are in the north, which the team ties to imaging coverage. An outside scientist called the link to volatiles plausible, not proven.\nFull episode on the channel.\n#Shorts",
+      "pinned_comment": "Nobody has watched a streak form. If BepiColombo caught one appearing, what would you want to measure first?",
+      "tags": [
+        "Mercury",
+        "MESSENGER",
+        "bright streaks",
+        "volatiles",
+        "space science"
+      ],
+      "why": "Bolumun ana gizemi: 400 cizgi + 'plausible, not proven' + 'kimse olusumunu izlemedi'. Gercek planlanan sure 47 sn, gercek ~52.1 sn (yumusak 52 sinirinin 0.1 sn ustunde, 59 sert sinirin altinda)."
+    },
+    {
+      "n": 3,
+      "scenes": "1-6",
+      "hook": {
+        "text": "GLITCH",
+        "sub": "safe mode in orbit"
+      },
+      "title": "It Reached Mercury. Then the Software Glitched.",
+      "description": "On 21 November, BepiColombo slipped into orbit around Mercury. A software glitch put it into safe mode and the braking burn ended early.\nIts science phase starts in April 2027, so every clue so far comes from older data, mostly NASA's MESSENGER (2011 to 2015). Is Mercury really dead? New 2026 studies hint it may not be.\nFull episode on the channel.\n#Shorts",
+      "pinned_comment": "Mercury is often called a dead, battered rock. Would you call it dead, quiet, or something else?",
+      "tags": [
+        "BepiColombo",
+        "Mercury",
+        "ESA",
+        "orbit insertion",
+        "space"
+      ],
+      "why": "Guncel haber kancasi: varis + yazilim arizasi; 'dead planet' sorusuyla bitiyor ve ana videoya yonlendiriyor. 1,3,6 diyagram ama 2,4,5 gercek foto; her diyagramin arkasinda video var."
+    }
+  ],
+  "notes": "Gercek sureler (render_props.json): Short 1 = sahne 22-26, 160.255-202.274 = 42.0 sn. Short 2 = sahne 9-15, 62.349-114.477 = 52.1 sn. Short 3 = sahne 1-6, 0-44.09 = 44.1 sn. Siralama: guc sirasi (23 km, 400 cizgi, varis). Yayin takvimi (Turkiye saati / ET UTC-5 / PT UTC-8 / UK UTC+0): ana video Cuma 27 Kasim 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Short 1 Cumartesi 28 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Short 2 Pazar 29 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Short 3 Pazartesi 30 Kasim 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK. Not: 26 Kasim Sukran Gunu (Thanksgiving), 27 Kasim Black Friday, 28-29 Kasim uzun hafta sonu, 30 Kasim Cyber Monday; izleyici davranisi normalden farkli olabilir. Saatler ölcum degil varsayimdir; kanalin verisi oluşunca YouTube Analytics (Audience > When your viewers are on YouTube) ile guncelleyin."
+}

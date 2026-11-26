@@ -1,0 +1,22 @@
+{
+  "covers": [
+    {
+      "n": 1,
+      "headline": "Up to 23 km",
+      "canva_brief": "Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real NASA/MESSENGER global image of Mercury (a real MESSENGER mosaic from the NASA image library, or a code-drawn flat graphic of two concentric circles, a larger hairline circle in teal #62C2CF and a smaller solid disc in muted amber #D9A25B, to show the planet shrinking); never generate or paint a look-alike of a real mission image. Place Mercury as the single focal subject in the central band, roughly 40 to 60 percent down the frame, cropped slightly and darkened at the edges, with a thin teal hairline ring around it. Put the headline 'Up to 23 km' in ice-white #F2F5FF, Inter Medium, large (at least 150 px tall for '23 km'), centred in the upper-middle band, with 'Up to' smaller in amber; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px, where the app UI covers the picture. Mood: quiet, sober, scientific, lots of dark space. No extra text, no logos, no faces.",
+      "accuracy_note": "Kapak 'en fazla yaklasik 23 km' daralma iddiasina dayanir (2026 DLR calismasi, eski tahmin ~16 km); bu gezegenin tum tarihi icindir, bugunku hiz degil."
+    },
+    {
+      "n": 2,
+      "headline": "400 Bright Streaks",
+      "canva_brief": "Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real NASA/MESSENGER close-up of a young Mercury crater slope with bright streaks or hollows from the NASA image library, darkened and cropped to the central band; if no suitable frame is available, use a code-drawn dark background with a few thin teal #62C2CF hairlines fanning down a slope shape instead. Never generate or paint a look-alike of a real mission image. The focal subject is the crater slope with the brightest streak in the middle of the frame; add one small muted amber #D9A25B hairline marker pointing at a streak. Put the headline '400' very large in ice-white #F2F5FF, Inter Medium, in the upper-middle band, with 'Bright Streaks' below it at a smaller size; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px. Mood: curious and open, with a partial reveal and no threat. No extra text, no logos, no faces.",
+      "accuracy_note": "Kapak MESSENGER gorsellerinde yaklasik 400 parlak cizgi bulgusuna dayanir (Bern ekibi, makine ogrenmesi); hicbir cizginin olusumu izlenmedi, aciklama kanitlanmis degil."
+    },
+    {
+      "n": 3,
+      "headline": "Safe Mode at Mercury",
+      "canva_brief": "Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real ESA image of BepiColombo (from the ESA image library) or a real NASA/MESSENGER image of Mercury as the dark backdrop; if neither fits, use a code-drawn graphic of a thin teal #62C2CF orbit arc around a small dark disc, with the arc breaking off early at a small muted amber #D9A25B tick to show the burn that ended early. Never generate or paint a look-alike of a real mission image. The focal subject sits in the central band, with lots of dark space around it. Put the headline 'Safe Mode at Mercury' in ice-white #F2F5FF, Inter Medium, large, in two or three lines in the upper-middle band; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px. Mood: calm and factual, a news moment with no alarm. No extra text, no logos, no faces.",
+      "accuracy_note": "Kapak, BepiColombo'nun 21 Kasim'daki yorunge girisinde yazilim arizasinin sondayi guvenli moda alip fren atesini erken bitirmesine dayanir; bilim evresi Nisan 2027'de baslar."
+    }
+  ]
+}
