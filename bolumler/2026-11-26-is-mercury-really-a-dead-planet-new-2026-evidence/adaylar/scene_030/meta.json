@@ -5,6 +5,71 @@
   "narration": "In 2023, researchers at the Open University mapped hundreds of small trenches in the crust.",
   "visual_brief": "Colourful cutaway (Mercury color terrain); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury scarp color",
-  "candidates": []
+  "nasa_query": "Mercury color",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_0.jpg",
+      "nasa_id": "PIA11406",
+      "title": "Mercury in Color!",
+      "center": "JPL",
+      "date": "2008-10-29",
+      "description": "Mercury in Color!",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11406/PIA11406~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11406/PIA11406~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_1.jpg",
+      "nasa_id": "PIA12371",
+      "title": "Mercury in True and Enhanced Color",
+      "center": "JPL",
+      "date": "2009-11-17",
+      "description": "Mercury in True and Enhanced Color",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_2.jpg",
+      "nasa_id": "PIA17386",
+      "title": "Enhanced Color Mercury Map",
+      "center": "JPL",
+      "date": "2013-07-18",
+      "description": "Enhanced Color Mercury Map",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_3.jpg",
+      "nasa_id": "PIA11416",
+      "title": "A Color Movie of Mercury Surface",
+      "center": "JPL",
+      "date": "2008-10-31",
+      "description": "A Color Movie of Mercury Surface",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11416/PIA11416~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11416/PIA11416~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
 }

@@ -1,80 +1,57 @@
 {
   "scene_id": 52,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 5.0,
   "narration": "That is the kind of camera that could catch one changing.",
   "visual_brief": "Colourful cutaway (Pillars of Creation); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Pillars of Creation",
+  "nasa_query": "Sun active region SDO",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_0.jpg",
-      "nasa_id": "The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022",
-      "title": "The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022",
-      "center": "HQ",
-      "date": "2022-10-21",
-      "description": "A new look at a “star factory,” practicing Moonwalks here on Earth, and an Earthly assist for a NASA spacecraft … a few of the stories to tell you about – This Week at NASA!",
+      "nasa_id": "GSFC_20171208_Archive_e001115",
+      "title": "Spasmodic Active Region",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "An active region that was rotating out of view off the sun's western limb, displayed a dazzling variety of dozens of spurts and eruptions in about 2.5 days (Apr. 19-21, 2014). The frames, taken in extreme ultraviolet light, show ionized Helium not far above the Sun's surface. All of the activity nea",
       "links": [
-        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~large.jpg",
-        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~medium.jpg",
-        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~small.jpg",
-        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~thumb.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001115/GSFC_20171208_Archive_e001115~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001115/GSFC_20171208_Archive_e001115~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001115/GSFC_20171208_Archive_e001115~orig.jpg"
       ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~large.mp4",
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~medium.mp4",
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~mobile.mp4",
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~small.mp4",
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~preview.mp4",
-        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~orig.mp4"
-      ],
-      "duration_s": 100.9,
-      "width": 1920,
-      "height": 1080
+      "media": "photo",
+      "source": "nasa"
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_1.jpg",
-      "nasa_id": "JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe",
-      "title": "NASA Telescopes Reveal an Invisible Infrared Universe",
-      "center": "JPL",
-      "date": "2023-12-22",
-      "description": "For 40 years, NASA has expanded our view of the universe with space telescopes that detect infrared light, which is invisible to the human eye. Observing the infrared realm helps us study the origins of planets, stars, galaxies, and even the universe itself. NASA’s James Webb Space Telescope is the ",
+      "nasa_id": "GSFC_20171208_Archive_e001838",
+      "title": "Tangled up Active Region",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This close-up image of the sun presents an active region in profile as it rotated out of view. We can observe both the bright arching field lines and smaller pieces of darker matter in their midst being pulled back and forth just above the Sun's surface over about 36 hours (July 20-22, 2011). Both o",
       "links": [
-        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~thumb.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001838/GSFC_20171208_Archive_e001838~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001838/GSFC_20171208_Archive_e001838~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001838/GSFC_20171208_Archive_e001838~orig.jpg"
       ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~mobile.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~preview.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4"
-      ],
-      "duration_s": 93.0,
-      "width": 1920,
-      "height": 1080
+      "media": "photo",
+      "source": "nasa"
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000732",
-      "title": "Pillars of Creation Revealed in 3-D",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "This video clip shows a visualisation of the three-dimensional structure of the Pillars of Creation within the star formation region Messier 16 (also called the Eagle Nebula). It is based on new observations of the object using the MUSE instrument on ESO’s Very Large Telescope in Chile. The pillars ",
+      "nasa_id": "PIA22645",
+      "title": "Detailed Loops Above an Active Region",
+      "center": "JPL",
+      "date": "2018-07-24",
+      "description": "NASA's Solar Dynamics Observatory (SDO) zoomed in to watch close-up the dynamics of this single active region on the sun over a two-day period (July 14-16, 2018). The loops SDO observed in extreme ultraviolet light are illuminated by charged particles spinning along the magnetic field lines above an",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000732/GSFC_20171208_Archive_e000732~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000732/GSFC_20171208_Archive_e000732~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA22645/PIA22645~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22645/PIA22645~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22645/PIA22645~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22645/PIA22645~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -82,17 +59,16 @@
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_3.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000842",
-      "title": "Hubble Goes High Def to Revisit the Iconic 'Pillars of Creation'",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "This NASA Hubble Space Telescope image, taken in near-infrared light, transforms the pillars into eerie, wispy silhouettes, which are seen against a background of myriad stars. The near-infrared light can penetrate much of the gas and dust, revealing stars behind the nebula as well as hidden away in",
+      "nasa_id": "PIA22039",
+      "title": "Dynamic Duo",
+      "center": "JPL",
+      "date": "2017-10-09",
+      "description": "This close-up video clip shows a pair of active regions (the brighter areas) move and change as they rotate with the sun over just a 17-hour period (Oct. 4-5, 2017). They were observed in a wavelength of extreme ultraviolet light that reveals plasma heated to over a million degrees. The arches above",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA22039/PIA22039~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22039/PIA22039~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22039/PIA22039~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22039/PIA22039~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

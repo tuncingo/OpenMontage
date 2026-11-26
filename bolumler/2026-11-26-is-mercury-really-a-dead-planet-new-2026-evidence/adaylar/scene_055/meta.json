@@ -1,54 +1,43 @@
 {
   "scene_id": 55,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 5.0,
   "narration": "My guess is that if anything changes, it will be small and slow.",
   "visual_brief": "Colourful cutaway (aurora Earth ISS); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "aurora Earth ISS",
+  "nasa_query": "SOHO ultraviolet Sun",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_0.jpg",
-      "nasa_id": "Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022",
-      "title": "Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022",
-      "center": "HQ",
-      "date": "2022-08-26",
-      "description": "Our Artemis I flight test is “go for launch,” the first deep-space long-duration biology test, and the Webb Space Telescope captures new images of Jupiter … a few of the stories to tell you about – This Week at NASA!",
+      "nasa_id": "PIA03149",
+      "title": "Handle-shaped Prominence",
+      "center": "JPL",
+      "date": "2001-02-17",
+      "description": "NASA Extreme Ultraviolet Imaging Telescope aboard ESA’s SOHO spacecraft took this image of a huge, handle-shaped prominence in 1999. Prominences are huge clouds of relatively cool dense plasma suspended in the Sun hot, thin corona.",
       "links": [
-        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~large.jpg",
-        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~medium.jpg",
-        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~small.jpg",
-        "https://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~thumb.jpg"
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~orig.jpg"
       ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~large.mp4",
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~medium.mp4",
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~mobile.mp4",
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~small.mp4",
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~preview.mp4",
-        "http://images-assets.nasa.gov/video/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022/Our Artemis I Flight Test is “Go for Launch” on This Week @NASA – August 26, 2022~orig.mp4"
-      ],
-      "duration_s": 211.5,
-      "width": 1920,
-      "height": 1080
+      "media": "photo",
+      "source": "nasa"
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_1.jpg",
-      "nasa_id": "iss030e119777",
-      "title": "Earth Observations taken by Expedition 30 crewmember",
-      "center": "JSC",
-      "date": "2012-03-03",
-      "description": "iss030e119777 (3/3/2012) --- A view of the night earth taken aboard the International Space Station (ISS) showing an aurora. An aurora sometimes referred to as polar lights, northern lights (aurora borealis), or southern lights (aurora australis), is a natural light display in the Earth's sky, predo",
+      "nasa_id": "brief-outburst_16760026566_o",
+      "title": "Brief Outburst",
+      "center": "GSFC",
+      "date": "2015-03-11",
+      "description": "The Sun blew out a coronal mass ejection along with part of a solar filament over a three-hour period (Feb. 24, 2015). While some of the strands fell back into the Sun, a substantial part raced into space in a bright cloud of particles (as observed by the SOHO spacecraft). The activity was captured ",
       "links": [
-        "https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~medium.jpg",
-        "https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~small.jpg",
-        "https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~thumb.jpg",
-        "https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~large.jpg",
-        "https://images-assets.nasa.gov/image/iss030e119777/iss030e119777~orig.jpg"
+        "https://images-assets.nasa.gov/image/brief-outburst_16760026566_o/brief-outburst_16760026566_o~medium.jpg",
+        "https://images-assets.nasa.gov/image/brief-outburst_16760026566_o/brief-outburst_16760026566_o~small.jpg",
+        "https://images-assets.nasa.gov/image/brief-outburst_16760026566_o/brief-outburst_16760026566_o~thumb.jpg",
+        "https://images-assets.nasa.gov/image/brief-outburst_16760026566_o/brief-outburst_16760026566_o~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -56,17 +45,32 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_2.jpg",
-      "nasa_id": "iss040e124583",
-      "title": "Earth Observation",
-      "center": "JSC",
-      "date": "2014-09-01",
-      "description": "Earth Observation taken during a night pass by the Expedition 40 crew aboard the International Space Station (ISS). Folder lists this as: New Zealand Aurora night pass. On crewmember's Flickr page - Look straight down into an aurora.",
+      "nasa_id": "PIA22050",
+      "title": "Quick Solar Outburst",
+      "center": "JPL",
+      "date": "2017-10-23",
+      "description": "A small eruption blew a bright, disjointed stream of plasma into space (Oct. 18, 2017). The source of the blast was just out of sight beyond the edge of the sun. Images from SOHO's coronagraph instruments show a bright loop of material heading away from the sun near this same area. The video, taken ",
       "links": [
-        "https://images-assets.nasa.gov/image/iss040e124583/iss040e124583~medium.jpg",
-        "https://images-assets.nasa.gov/image/iss040e124583/iss040e124583~small.jpg",
-        "https://images-assets.nasa.gov/image/iss040e124583/iss040e124583~thumb.jpg",
-        "https://images-assets.nasa.gov/image/iss040e124583/iss040e124583~large.jpg",
-        "https://images-assets.nasa.gov/image/iss040e124583/iss040e124583~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA22050/PIA22050~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22050/PIA22050~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22050/PIA22050~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22050/PIA22050~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_055/aday_3.jpg",
+      "nasa_id": "cme-blow-out_18529951894_o",
+      "title": "CME Blow Out",
+      "center": "GSFC",
+      "date": "2015-06-25",
+      "description": "A substantial coronal mass ejection, or CME, blew out from side of the Sun, giving us a great view of the event in profile (June 17-18, 2015). NASA's Solar Dynamics Observatory caught the action in the 304 Angstrom wavelength of extreme ultraviolet light. The video clip covers about four hours of th",
+      "links": [
+        "https://images-assets.nasa.gov/image/cme-blow-out_18529951894_o/cme-blow-out_18529951894_o~small.jpg",
+        "https://images-assets.nasa.gov/image/cme-blow-out_18529951894_o/cme-blow-out_18529951894_o~thumb.jpg",
+        "https://images-assets.nasa.gov/image/cme-blow-out_18529951894_o/cme-blow-out_18529951894_o~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

@@ -1,129 +1,62 @@
 {
   "scene_id": 45,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 9.0,
   "narration": "So how do we settle it? BepiColombo is a European and Japanese mission, and only the second ever to orbit Mercury.",
   "visual_brief": "Colourful cutaway (Earth from space); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Earth from space",
+  "nasa_query": "Mercury MESSENGER enhanced color",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_0.jpg",
-      "nasa_id": "Earth Views from the International Space Station",
-      "title": "Earth Views from the International Space Station",
-      "center": "HQ",
-      "date": "2019-04-30",
-      "description": "The International Space Station’s High Definition Earth Viewing (HDEV) experiment is an external camera platform located on the Columbus module of the space station. In addition to providing beautiful views of Earth, one of the goals of HDEV is to monitor the longevity and quality of its image senso",
-      "links": [
-        "https://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~large.jpg",
-        "https://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~medium.jpg",
-        "https://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~small.jpg",
-        "https://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~large.mp4",
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~medium.mp4",
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~mobile.mp4",
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~small.mp4",
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~preview.mp4",
-        "http://images-assets.nasa.gov/video/Earth Views from the International Space Station/Earth Views from the International Space Station~orig.mp4"
-      ],
-      "duration_s": 200.8,
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_1.jpg",
-      "nasa_id": "JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space",
-      "title": "NISAR: Tracking Earth’s Changes From Space (Mission Overview)",
+      "nasa_id": "PIA18147",
+      "title": "MESSENGER Near Hokusai Crater Artist Concept",
       "center": "JPL",
-      "date": "2024-01-09",
-      "description": "NASA and ISRO (Indian Space Research Organisation) have teamed up to create a powerful new space mission that will track our changing Earth in fine detail. The satellite, called NISAR, will use an advanced radar system to deepen our understanding of deforestation, shrinking glaciers and sea ice loss",
+      "date": "2008-10-29",
+      "description": "An artist rendering of the MESSENGER spacecraft is shown passing near the crater Hokusai and its extensive system of rays. Both the monochrome and enhanced color views of Mercury were obtained during MESSENGER second Mercury flyby.",
       "links": [
-        "https://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~large.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~medium.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~small.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~large.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~medium.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~mobile.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~small.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~preview.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~orig.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space/JPL-20240109-NISARf-0001-Tracking Earth's Changes from Space~orig.mp4"
-      ],
-      "duration_s": 182.0,
-      "width": 3840,
-      "height": 2160
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_2.jpg",
-      "nasa_id": "Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021",
-      "title": "Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021",
-      "center": "HQ",
-      "date": "2021-04-17",
-      "description": "A safe return to Earth from the space station, greeting the astronauts of the next Commercial Crew flight, and an update on the development of a human lunar landing system … a few of the stories to tell you about – This Week at NASA!",
-      "links": [
-        "https://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~large.jpg",
-        "https://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~medium.jpg",
-        "https://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~small.jpg",
-        "https://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~large.mp4",
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~medium.mp4",
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~mobile.mp4",
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~small.mp4",
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~preview.mp4",
-        "http://images-assets.nasa.gov/video/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021/Safe Return to Earth from the Space Station on This Week @NASA – April 17, 2021~orig.mp4"
-      ],
-      "duration_s": 246.2,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_3.jpg",
-      "nasa_id": "sl4-143-4707",
-      "title": "View of Skylab space station cluster in Earth orbit from CSM",
-      "center": "JSC",
-      "date": "1974-02-08",
-      "description": "SL4-143-4707 (8 Feb. 1974) --- An overhead view of the Skylab space station cluster in Earth orbit as photographed from the Skylab 4 Command and Service Modules (CSM) during the final fly-around by the CSM before returning home. The space station is contrasted against a cloud-covered Earth. Note the",
-      "links": [
-        "https://images-assets.nasa.gov/image/sl4-143-4707/sl4-143-4707~medium.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4707/sl4-143-4707~small.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4707/sl4-143-4707~thumb.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4707/sl4-143-4707~large.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4707/sl4-143-4707~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_4.jpg",
-      "nasa_id": "sl4-143-4706",
-      "title": "View of Skylab space station cluster in Earth orbit from CSM",
-      "center": "JSC",
-      "date": "2008-08-18",
-      "description": "SL4-143-4706 (8 Feb. 1974) --- An overhead view of the Skylab space station cluster in Earth orbit as photographed from the Skylab 4 Command and Service Modules (CSM) during the final fly-around by the CSM before returning home. The space station is contrasted against a cloud-covered Earth. Note the",
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_1.jpg",
+      "nasa_id": "PIA19412",
+      "title": "Dramatic Darks of Derain",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "In this enhanced color view from NASA MESSENGER spacecraft of the peak-ring basin Derain, the different colors accentuate the different rocks associated with the basin. The smooth, interior volcanic fill of the basin, in addition to the large pits on the floor of Derain, are brighter and redder. Thi",
       "links": [
-        "https://images-assets.nasa.gov/image/sl4-143-4706/sl4-143-4706~medium.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4706/sl4-143-4706~small.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4706/sl4-143-4706~thumb.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4706/sl4-143-4706~large.jpg",
-        "https://images-assets.nasa.gov/image/sl4-143-4706/sl4-143-4706~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_045/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001425",
+      "title": "Enhanced Color Mercury Map",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This colorful view of Mercury was produced by using images from the color base map imaging campaign during MESSENGER's primary mission. These colors are not what Mercury would look like to the human eye, but rather the colors enhance the chemical, mineralogical, and physical differences between the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

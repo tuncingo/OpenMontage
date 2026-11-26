@@ -1,7 +1,7 @@
 # Görsel Kurulu Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Sahne:** 65 · **Tahmini süre:** 7 dk 10 sn
-**Görsel kaynağı:** 49 NASA/SVS arşivi (5 video klibi, 44 fotoğraf) · 16 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
+**Görsel kaynağı:** 51 NASA/SVS arşivi (4 video klibi, 47 fotoğraf) · 14 sahne şematik grafikle çizilecek · 0 sahne AI promptlu (eski) · 0 sahne BOŞ
 **Müzik:** kanal/muzik/long_voyage_to_outer_space.mp3
 
 ## Yönetmen notu
@@ -16,21 +16,19 @@ Overlay sayisi bilerek az (12): yalnizca anahtar rakam ve temkin cumleleri. Heps
 Arka plan promptu: Real-image-based composition, no AI generation: take a real NASA/JHUAPL/MESSENGER global Mercury image (NASA Image Library, search 'Mercury MESSENGER global'), place it large on the left third over a near-black #05070C ground with a faint code-drawn star-dust layer; add one code-drawn thin muted amber #D9A25B hairline tracing a streak on the planet and one hairline teal #62C2CF orbit arc; keep the right two thirds empty and dark for the headline; no text in the base image, no logos, no spacecraft, no faces.
 
 ## Şematik grafikle çizilecek sahneler (arşivde uygun görsel yok; AI görsel YOK)
-- Sahne 1: Teal circle (Mercury) with a thin amber curved approach path ending in a closed elliptical orbit; small 'Illustration' label; label ORBIT ARRIVAL, 21 NOV. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 3: ESA-only subject, so draw a trajectory diagram: teal planet circle, teal approach arc, an amber segment marking the burn that stops short, label SAFE MODE and BRAKING BURN ENDED EARLY; 'Illustration' label. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 9: Cross-section line drawing of a crater: teal profile, sun arrow in grey from the left, amber streaks on the sunlit slope; numeral 400 STREAKS. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 14: Pie or bar in grey with a 10 percent amber wedge labelled NOT IN CRATERS. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 18: Two panels: surrounding ground with many teal crater dots, hollow with almost none, amber outline around the hollow; labels MANY CRATERS and ALMOST NONE; source NASA. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 20: Three-step growth strip in teal: small pit to larger pit, amber marker on the first stage; label EARLY STAGE; 2025 STUDY. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 27: Two-column table: STREAKS (amber, recent, possibly ongoing gas loss) and SHRINKING (teal); first column highlighted. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 28: Long grey timeline arrow, teal shaded span covering the entire length labelled WHOLE HISTORY, 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
-- Sahne 30: Top-down grey surface with several parallel thin teal trench lines; label HUNDREDS OF SMALL TRENCHES; 2023. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 36: Layered cross-section: teal surface, buried amber ash layer, small plume above bright patch; label BURIED ASH; source EPSC 2026 abstracts. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 37: Big teal ring labelled CALORIS BASIN with a dashed amber cone shape inside labelled TENTATIVE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 46: Timeline 2018 to 2026 in grey, teal spiral path, amber end marker; label ABOUT EIGHT YEARS; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 47: Timeline with amber range bracket around APRIL 2027 labelled DATES MAY CHANGE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 54: Two overlaid crater outlines, teal older and amber newer, tiny offset; label COMPARE. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 62: ESA-only: two orbiter icons moving apart, teal and amber, with dates 9 TO 10 DECEMBER; 'Illustration'. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
+- Sahne 63: Teal planet outline with a small amber question mark. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 - Sahne 65: Three labels DEAD, QUIET, UNNAMED with the last in amber. Style: #05070C ground, teal #62C2CF subject, amber #D9A25B highlight, grey axes, Inter labels 36px+, drifting dust.
 
 ## Zayıf eşleşmeler (uyum < 6)
@@ -39,14 +37,17 @@ Arka plan promptu: Real-image-based composition, no AI generation: take a real N
 - Sahne 11 (5/10): Chandra X-isini goruntusu (Antennae) sicak gaz akislari ve parlak bir cekirdek iceriyor; Merkur'den kacan gaz anlatimi icin soyut bir kozmik kesit olarak uygun ve uzerinde baslik veya yazi yok.
 - Sahne 15 (5/10): Tek bir krater merkezde sakin bir kompozisyon sunuyor; tek bir çizgi (streak) yok ama dingin ve Mercury'ye ait bir MESSENGER görüntüsü.
 - Sahne 19 (5/10): Uygun Merkur video adayi yok: SVS-4954 metinli veri diyagrami, SVS-30710 birden fazla gezegeni iceren genel bir sistem animasyonu, KSC MRO klibi ise baska bir gorev oldugu icin reddedildi; renkli Merkur haritasi (PIA17386) korundu.
+- Sahne 20 (5/10): PIA18808 Hemingway kraterinin renkli MESSENGER gorunumu; gercek bir Merkur renk karesi, yazi veya etiket icermiyor ancak hollow dokusunu net gostermiyor.
 - Sahne 22 (5/10): SVS-11544 klibi sahne 14'e atandigi icin tekrar kullanilamadi; lobat sirt (scarp) konusunu dogrudan gosteren PIA13477 fotografi korundu.
 - Sahne 23 (5/10): Discovery Rupes sırtı Mariner 10 görüntüsünde net, sahnenin 'uzun sırt' konusuna doğrudan uygun.
 - Sahne 25 (5/10): Bu sahnenin adaylarindaki klipler baska misyon (Gemini/Apollo, Solar Orbiter, GJ 357) oldugu icin kabul edilmedi; Merkur'un guney kutbu kuresi (PIA15164) korundu.
 - Sahne 29 (4/10): SVS-11232 'Departure' klibi onizlemede Dunya'nin hilal gorunumunu gosteriyor, Merkur yuzeyi yok; bu nedenle MESSENGER'in en yuksek cozunurluklu Merkur flyby karesi (PIA11372) korundu.
+- Sahne 30 (5/10): PIA11406 renkli Merkur kuresini gosteriyor; sol yari gri olsa da 9:16 kirpma renkli yarinin uzerinde tutularak yalnizca renkli Merkur gorunur, metin yok.
 - Sahne 31 (5/10): Mercury'nin kuzey kutbu yakınındaki kraterli arazi görüntüsü, yüzey yaşı anlatımı için makul bir arka plan sağlıyor.
 - Sahne 35 (5/10): Mercury'nin düz ovaları ve kraterli arazisini gösteren JPL görüntüsü, volkanizma anlatımı için kabul edilebilir bir arka plan sağlıyor.
 - Sahne 39 (5/10): Gunes atmosferinin renkli aktif bolge detayi koronal sahneye yakin, ancak uygun bir video klip bulunamadi.
 - Sahne 50 (4/10): MESSENGER'in Merkür'ü yakından gördüğü NAC karesi yüzey bağlamı verir, ancak görüntü çok düşük çözünürlüklüdür.
+- Sahne 52 (5/10): GSFC_20171208_Archive_e001115, SDO'nun kirmizi-turuncu renkli Gunes aktif bolgesi; metinsiz ve 'degisimi yakalayan kamera' anlatimi icin uygun bir Gunes kesiti.
 - Sahne 53 (4/10): Bölünmüş zaman çizgisi için uygun bir video yok; MESSENGER dönemini temsil eden Merkür yüzeyi fotoğrafı yedek olarak kullanılabilir.
 - Sahne 56 (5/10): Gercek Merkur'un kuzey kutup bolgesinin sicaklik renklendirmeli karesi metin icermiyor ve Merkur icin dolayli ama dogru bir renkli gorsel.
 - Sahne 58 (5/10): Uygun Merkur klibi yok (KSC klipleri 320x212, SVS-14261 'Leaders in Lidar' baslik kartli, GSFC tutulma klibi Merkur degil); PIA10174 yaklasik 400 m'ye kadar kraterleri gosteren Merkur yuzeyi fotografi oldugu icin yedek olarak secildi.

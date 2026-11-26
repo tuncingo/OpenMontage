@@ -5,20 +5,20 @@
   "narration": "On 21 November, a spacecraft slipped into orbit around Mercury.",
   "visual_brief": "Colourful cutaway (Solar System planets); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury Sun transit",
+  "nasa_query": "Mercury enhanced color globe",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_0.jpg",
-      "nasa_id": "NHQ201911110005",
-      "title": "Mercury Solar Transit",
-      "center": "HQ",
-      "date": "2019-11-11",
-      "description": "The planet Mercury is seen in silhouette as it nearly completes transiting across the face of the Sun, Monday, Nov. 11, 2019, in Arlington, Virginia. Mercury’s last transit was in 2016. the next won't happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
+      "nasa_id": "GSFC_20171208_Archive_e001544",
+      "title": "False Color View of Mercury",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This colorful view of Mercury was produced by using images from the color base map imaging campaign during MESSENGER's primary mission. These colors are not what Mercury would look like to the human eye, but rather the colors enhance the chemical, mineralogical, and physical differences between the ",
       "links": [
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~orig.tif"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001544/GSFC_20171208_Archive_e001544~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001544/GSFC_20171208_Archive_e001544~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001544/GSFC_20171208_Archive_e001544~orig.png"
       ],
       "media": "photo",
       "source": "nasa"
@@ -26,51 +26,15 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_1.jpg",
-      "nasa_id": "NHQ201911110006",
-      "title": "Mercury Solar Transit",
-      "center": "HQ",
-      "date": "2019-11-11",
-      "description": "The planet Mercury is seen in silhouette, center, as it transits across the face of the Sun Monday, Nov. 11, 2019, from Washington. Mercury’s last transit was in 2016. The next won’t happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
+      "nasa_id": "PIA23791",
+      "title": "Venus from Mariner 10",
+      "center": "JPL",
+      "date": "2020-06-08",
+      "description": "As it sped away from Venus, NASA's Mariner 10 spacecraft captured this seemingly peaceful view of a planet the size of Earth, wrapped in a dense, global cloud layer. But, contrary to its serene appearance, the clouded globe of Venus is a world of intense heat, crushing atmospheric pressure and cloud",
       "links": [
-        "https://images-assets.nasa.gov/image/NHQ201911110006/NHQ201911110006~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110006/NHQ201911110006~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110006/NHQ201911110006~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110006/NHQ201911110006~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110006/NHQ201911110006~orig.tif"
-      ],
-      "media": "photo",
-      "source": "nasa"
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_2.jpg",
-      "nasa_id": "NHQ201911110001",
-      "title": "Mercury Solar Transit",
-      "center": "HQ",
-      "date": "2019-11-11",
-      "description": "The planet Mercury is seen in silhouette, low center, as it transits across the face of the Sun Monday, Nov. 11, 2019, from Washington. Mercury’s last transit was in 2016. The next won’t happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
-      "links": [
-        "https://images-assets.nasa.gov/image/NHQ201911110001/NHQ201911110001~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110001/NHQ201911110001~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110001/NHQ201911110001~orig.tif"
-      ],
-      "media": "photo",
-      "source": "nasa"
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_3.jpg",
-      "nasa_id": "NHQ201911110004",
-      "title": "Mercury Solar Transit",
-      "center": "HQ",
-      "date": "2019-11-11",
-      "description": "The planet Mercury is seen in silhouette as it nearly completes transiting across the face of the Sun, Monday, Nov. 11, 2019, in Arlington, Virginia. Mercury’s last transit was in 2016. the next won't happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
-      "links": [
-        "https://images-assets.nasa.gov/image/NHQ201911110004/NHQ201911110004~medium.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110004/NHQ201911110004~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110004/NHQ201911110004~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110004/NHQ201911110004~large.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110004/NHQ201911110004~orig.tif"
+        "https://images-assets.nasa.gov/image/PIA23791/PIA23791~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA23791/PIA23791~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA23791/PIA23791~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

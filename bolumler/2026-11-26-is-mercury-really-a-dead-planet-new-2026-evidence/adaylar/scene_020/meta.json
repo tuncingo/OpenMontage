@@ -5,20 +5,20 @@
   "narration": "A 2025 study agrees. It found most hollows are in an early stage, and likely still evolving.",
   "visual_brief": "Colourful cutaway (Mercury hollows color); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury hollows",
+  "nasa_query": "Mercury colorful crater floor",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_0.jpg",
-      "nasa_id": "PIA15062",
-      "title": "Mercury and the Deathly Hollows",
+      "nasa_id": "PIA18808",
+      "title": "Hemingway Color",
       "center": "JPL",
-      "date": "2011-10-27",
-      "description": "Mercury and the Deathly Hollows",
+      "date": "2014-09-12",
+      "description": "Hemingway crater is seen in this color view of Mercury surface as seen by NASA MESSENGER spacecraft. Hemingway is the 130-km 81-mile diameter crater with a relatively brown floor and small patch of dark blue in its center.",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -26,15 +26,15 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_1.jpg",
-      "nasa_id": "PIA15064",
-      "title": "The Sleepy Hollows of Mercury",
+      "nasa_id": "PIA19423",
+      "title": "Awesome Abedin",
       "center": "JPL",
-      "date": "2011-10-31",
-      "description": "The Sleepy Hollows of Mercury",
+      "date": "2015-04-16",
+      "description": "This mosaic of oblique images from NASA MESSENGER spacecraft highlights the spectacular interior of Abedin crater. The crater floor is covered with once-molten rock melted by the impact event that formed Abedin. Cracks that formed as this melt cooled are visible. Particularly intriguing is the shall",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19423/PIA19423~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19423/PIA19423~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19423/PIA19423~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -42,15 +42,15 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_2.jpg",
-      "nasa_id": "PIA19267",
-      "title": "A Field of Hollows",
+      "nasa_id": "PIA19444",
+      "title": "Overview of the Impact Region",
       "center": "JPL",
-      "date": "2015-04-01",
-      "description": "Mercury's hollows are among its most distinctive -- and unusual -- surface features. In this stunning view, we see a field of hollows in the western portion of the floor of Zeami impact basin. Hollows populate much of the rest of the basin's interior, with large concentrations several kilometers acr",
+      "date": "2015-04-29",
+      "description": "On April 30th, this region of Mercury's surface will have a new crater! Traveling at 3.91 kilometers per second (over 8,700 miles per hour), the MESSENGER spacecraft will collide with Mercury's surface, creating a crater estimated to be 16 meters (52 feet) in diameter. The large, 400-kilometer-diame",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19444/PIA19444~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19444/PIA19444~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19444/PIA19444~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -58,16 +58,15 @@
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_3.jpg",
-      "nasa_id": "PIA19246",
-      "title": "The Young Ones",
+      "nasa_id": "PIA19443",
+      "title": "Details of MESSENGER Impact Location",
       "center": "JPL",
-      "date": "2015-03-16",
-      "description": "This high-resolution view shows hollows on the southwestern peak ring of the Scarlatti basin. The hollows are the irregularly shaped, flat-floored depressions. The image is striking because it shows that there are abundant small impact craters on the surface surrounding the hollows. But there are fe",
+      "date": "2015-04-29",
+      "description": "These graphics show the current best prediction of the location and time of NASA MESSENGER impact on Mercury surface. These current best estimates are: Date: 30 April 2015 Time: 3:26:02 pm EDT 19:26:02 UTC Latitude: 54.4° N Longitude: 210.1° E. Traveling at 3.91 kilometers per second (over 8,700 mil",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19443/PIA19443~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19443/PIA19443~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19443/PIA19443~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

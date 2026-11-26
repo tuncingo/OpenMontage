@@ -5,19 +5,22 @@
   "narration": "But the team also said that this reading may be refuted by BepiColombo imagery.",
   "visual_brief": "Colourful cutaway (Carina Nebula Webb); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Rosette Nebula",
+  "nasa_query": "solar flare SDO",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_0.jpg",
-      "nasa_id": "PIA09268",
-      "title": "Infrared Rose",
-      "center": "JPL",
-      "date": "2007-04-18",
-      "description": "This image from NASA Spitzer Space Telescope is of the Rosette nebula, a turbulent star-forming region located 5,000 light-years away in the constellation Monoceros. ",
+      "nasa_id": "GSFC_20171208_Archive_e001208",
+      "title": "NASA's SDO Shows Images of Significant Solar Flare",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Caption: These SDO images from 7:25 p.m. EST on Feb. 24, 2014, show the first moments of an X-class flare in different wavelengths of light -- seen as the bright spot that appears on the left limb of the sun. Hot solar material can be seen hovering above the active region in the sun's atmosphere, th",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA09268/PIA09268~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA09268/PIA09268~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001208/GSFC_20171208_Archive_e001208~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001208/GSFC_20171208_Archive_e001208~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001208/GSFC_20171208_Archive_e001208~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001208/GSFC_20171208_Archive_e001208~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001208/GSFC_20171208_Archive_e001208~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -25,17 +28,17 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_1.jpg",
-      "nasa_id": "PIA09266",
-      "title": "Highway to the Danger Zone  Artist Concept",
-      "center": "JPL",
-      "date": "2007-04-18",
-      "description": "NASA Spitzer Space Telescope surveyed the danger zones around five O-stars in the Rosette nebula. This artist animation illustrates how this process works. ",
+      "nasa_id": "GSFC_20171208_Archive_e001210",
+      "title": "NASA's SDO Shows Images of Significant Solar Flare",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Caption: These SDO images from 7:25 p.m. EST on Feb. 24, 2014, show the first moments of an X-class flare in different wavelengths of light -- seen as the bright spot that appears on the left limb of the sun. Hot solar material can be seen hovering above the active region in the sun's atmosphere, th",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA09266/PIA09266~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA09266/PIA09266~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA09266/PIA09266~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA09266/PIA09266~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA09266/PIA09266~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001210/GSFC_20171208_Archive_e001210~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001210/GSFC_20171208_Archive_e001210~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001210/GSFC_20171208_Archive_e001210~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001210/GSFC_20171208_Archive_e001210~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001210/GSFC_20171208_Archive_e001210~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -43,14 +46,16 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_2.jpg",
-      "nasa_id": "PIA13028",
-      "title": "Big Babies in the Rosette Nebula",
-      "center": "JPL",
-      "date": "2010-04-12",
-      "description": "This image from ESA Herschel Space Observatory shows of a portion of the Rosette nebula, a stellar nursery about 5,000 light-years from Earth in the Monoceros, or Unicorn, constellation.",
+      "nasa_id": "GSFC_20171208_Archive_e001057",
+      "title": "NASA's SDO Sees Solar Flares",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "A solar flare bursts off the left limb of the sun in this image captured by NASA's Solar Dynamics Observatory on June 10, 2014, at 7:41 a.m. EDT. This is classified as an X2.2 flare, shown in a blend of two wavelengths of light: 171 and 131 angstroms, colorized in gold and red, respectively. Credit:",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA13028/PIA13028~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA13028/PIA13028~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001057/GSFC_20171208_Archive_e001057~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001057/GSFC_20171208_Archive_e001057~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001057/GSFC_20171208_Archive_e001057~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001057/GSFC_20171208_Archive_e001057~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -58,16 +63,17 @@
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_3.jpg",
-      "nasa_id": "PIA09267",
-      "title": "Every Rose has a Thorn",
-      "center": "JPL",
-      "date": "2007-04-18",
-      "description": "This infrared image from NASA Spitzer Space Telescope shows the Rosette nebula, a pretty star-forming region more than 5,000 light-years away in the constellation Monoceros. ",
+      "nasa_id": "GSFC_20171208_Archive_e001058",
+      "title": "NASA's SDO Sees Solar Flares",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "A second X-class flare of June 10, 2014, appears as a bright flash on the left side of this image from NASA’s Solar Dynamics Observatory. This image shows light in the 193-angstrom wavelength, which is typically colorized in yellow. It was captured at 8:55 a.m EDT, just after the flare peaked. Credi",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA09267/PIA09267~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA09267/PIA09267~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA09267/PIA09267~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA09267/PIA09267~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001058/GSFC_20171208_Archive_e001058~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001058/GSFC_20171208_Archive_e001058~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001058/GSFC_20171208_Archive_e001058~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001058/GSFC_20171208_Archive_e001058~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001058/GSFC_20171208_Archive_e001058~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

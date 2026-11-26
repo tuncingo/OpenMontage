@@ -1,126 +1,78 @@
 {
   "scene_id": 60,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 7.0,
   "narration": "Not a theory about the past, but a change we could point to, between two sets of pictures.",
   "visual_brief": "Colourful cutaway (Hubble galaxy flythrough); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "galaxy Hubble",
+  "nasa_query": "Sun ultraviolet SDO",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_0.jpg",
-      "nasa_id": "GSFC_20100722_Hubble_m10619_Galaxies",
-      "title": "20 Years of Hubble Science: Galaxies",
-      "center": "GSFC",
-      "date": "2010-07-22",
-      "description": "Three astronomers explain how Hubble acts like a time machine by detecting which galaxies are moving toward and away from us.",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Galaxies/GSFC_20100722_Hubble_m10619_Galaxies~orig.mp4"
-      ],
-      "duration_s": 218.9,
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_1.jpg",
-      "nasa_id": "GSFC_20100722_Hubble_m10619_Exoplanets",
-      "title": "20 Years of Hubble Science: Exoplanets",
-      "center": "GSFC",
-      "date": "2010-07-22",
-      "description": "This video series focuses on two areas of science that the Hubble Space Telescope has helped advance: thee formation and evolution of galaxies and detection of extrasolar planets.",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20100722_Hubble_m10619_Exoplanets/GSFC_20100722_Hubble_m10619_Exoplanets~orig.mp4"
-      ],
-      "duration_s": 193.9,
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_2.jpg",
-      "nasa_id": "GSFC_20080822_HST_m10233_WFC2_Fixture",
-      "title": "HST SM4 WFC3 Installation EVA Fixture",
-      "center": "GSFC",
-      "date": "2008-08-22",
-      "description": "Wide Field Camera 3 (WFC3) will have a broad range of inquiry, from early and distant galaxies beyond Hubble's current reach, to more nearby galaxies with \"stories to tell\" about their star formation histories, to the planets in our solar system. Along the way, \"dark energy\" will be seriously probed",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20080822_HST_m10233_WFC2_Fixture/GSFC_20080822_HST_m10233_WFC2_Fixture~orig.mp4"
-      ],
-      "duration_s": 8.0,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_3.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001569",
-      "title": "Hubble Views a Dwarf Galaxy",
+      "nasa_id": "GSFC_20171208_Archive_e000009",
+      "title": "SDO Sees Solar Eclipse",
       "center": "GSFC",
       "date": "2017-12-08",
-      "description": "The constellation of Ursa Major (The Great Bear) is home to Messier 101, the Pinwheel Galaxy. Messier 101 is one of the biggest and brightest spiral galaxies in the night sky. Like the Milky Way, Messier 101 is not alone, with smaller dwarf galaxies in its neighborhood. NGC 5477, one of these dwarf ",
+      "description": "Image of the Moon transiting across the Sun, taken by SDO in 304 angstrom extreme ultraviolet light on August 21, 2017. Credit: NASA/SDO",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000009/GSFC_20171208_Archive_e000009~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_4.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e000017",
-      "title": "Hubble’s Hunting Dog Galaxy",
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000010",
+      "title": "SDO Sees Solar Eclipse",
       "center": "GSFC",
       "date": "2017-12-08",
-      "description": "Tucked away in the small northern constellation of Canes Venatici (The Hunting Dogs) is the galaxy NGC 4242, shown here as seen by the NASA/ESA Hubble Space Telescope. The galaxy lies some 30 million light-years from us. At this distance from Earth, actually not all that far on a cosmic scale, NGC 4",
+      "description": "Image of the Moon transiting across the Sun, taken by SDO in 171 angstrom extreme ultraviolet light on August 21, 2017. Credit: NASA/SDO",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000017/GSFC_20171208_Archive_e000017~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000010/GSFC_20171208_Archive_e000010~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000264",
+      "title": "NASA’s SDO Watches Bursts of Solar Material",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Solar material repeatedly bursts from the sun in this close-up captured on July 9-10, 2016, by NASA’s Solar Dynamics Observatory, or SDO. The sun is composed of plasma, a gas in which the negative electrons move freely around the positive ions, forming a powerful mix of charged particles. Each burst",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000264/GSFC_20171208_Archive_e000264~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_060/aday_3.jpg",
+      "nasa_id": "PIA25628",
+      "title": "Three-Telescope View of the Sun",
+      "center": "JPL",
+      "date": "2023-02-09",
+      "description": "This composite image of the Sun includes high-energy X-ray data from NASA's Nuclear Spectroscopic Telescope Array (NuSTAR) shown in blue; lower energy X-ray data from the X-ray Telescope (XRT) on the Japanese Aerospace Exploration Agency's Hinode mission shown in green; and ultraviolet light detecte",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA25628/PIA25628~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

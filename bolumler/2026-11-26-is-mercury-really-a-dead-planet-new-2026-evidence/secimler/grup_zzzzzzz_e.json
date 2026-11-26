@@ -1,0 +1,13 @@
+{
+  "selections": [
+    {
+      "scene_id": 63,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör: PIA13823 sahne 59'da kullanıldı; diğer adaylarda etiket/ok var.",
+      "issues": []
+    }
+  ]
+}
