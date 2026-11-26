@@ -1,0 +1,91 @@
+{
+  "score": 7,
+  "verdict": "revise",
+  "summary": "Metin genel olarak dürüst ve temkinli; çelişkili hipotezleri adil sunuyor. Ancak Chang'e-7 durumunun doğrulanmadan iddia edilmesi, 'ruled out' gibi aşırı kesin ifadeler, güneş rüzgarı hesabındaki yanıltıcı akıl yürütme ve tek bir çarpma bulgusunun ağırlığının belirtilmemesi düzeltilmeli.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "And we will see why a mission that was meant to launch this August is still on the ground.",
+      "problem": "Araştırma notları Chang'e-7 için yeni bir tarih doğrulanamadığını ve CNSA'dan kontrol edilmesi gerektiğini söylüyor. Bugün (26 Kasım 2026) aracın hâlâ yerde olduğu doğrulanmamış; ayrıca metin 'neden' ertelendiğini hiç açıklamıyor, yani giriş vaadi karşılanmıyor (Tayfun bağlantısı da doğrulanmamış).",
+      "fix": "Verify Chang'e-7 status on CNSA before recording. If unverified, change the hook to: 'And we will look at a mission built to test this, whose August launch was postponed.' Drop the promise to explain 'why' unless a confirmed reason is found."
+    },
+    {
+      "severity": "major",
+      "quote": "Its launch was postponed in August, and some outlets say 2027. Check the space agency for the current status.",
+      "problem": "'Check the space agency for the current status' bir prodüksiyon notu; anlatıma sızmış. İzleyiciye doğrulama yükünü atıyor ve kanalın güvenilirliğini zedeliyor.",
+      "fix": "Verify the status before publishing and state it plainly with a date, e.g. 'Its August launch was postponed; as of late November 2026, no new date has been officially confirmed.' Remove the 'check the space agency' line from narration."
+    },
+    {
+      "severity": "major",
+      "quote": "It was not one giant event. A single huge comet is ruled out.",
+      "problem": "Model tabanlı, ikincil kaynaklardan aktarılan tek bir çalışma için 'ruled out' fazla kesin. Araştırma notlarının yanlış kanılar bölümü bile 'argues against' diyor.",
+      "fix": "Replace with: 'Their models argue against a single giant event, such as one huge comet.' Optionally add that this is one modelling study reported in April 2026."
+    },
+    {
+      "severity": "major",
+      "quote": "So even if every proton became water, it would take roughly eight months of solar wind to build one layer.",
+      "problem": "'Sayılar zayıf' argümanı yanıltıcı: tek katman için sekiz ay, milyarlarca yıllık ölçekte milyarlarca katman demek. Akı kendi başına sınırlayıcı değil; asıl sınırlayıcılar oluşum verimi, kutuplara taşınma ve korunma. İzleyici bu hesapla sonucun ters yönde olduğunu kolayca fark edebilir.",
+      "fix": "Either remove the 'numbers are thin' framing or reframe it: 'Eight months per layer sounds slow, but over billions of years that adds up. The real problem is efficiency: most hydrogen does not become water that survives the trip to the poles.' Make sure this matches what S1 actually argues."
+    },
+    {
+      "severity": "major",
+      "quote": "Two serious readings of the same data.",
+      "problem": "Doğru değil: Mandt 2022 LCROSS bulutunun element analizine dayanıyor, 2025 derlemesi ise çarpma fiziği ve tedarik modellerine. Aynı veri değil, farklı kanıt türleri. Ayrıca Mandt sonucunun tek bir kraterdeki tek bir çarpmaya dayandığı söylenmiyor.",
+      "fix": "Change to: 'Two serious lines of evidence that point different ways: one chemical fingerprint from a single impact at a single crater, and impact physics applied to the whole Moon.' Add that Cabeus may not represent all cold traps."
+    },
+    {
+      "severity": "major",
+      "quote": "Five suspects are on the table. Comets. Asteroids. The solar wind. The Moon's own volcanoes. And, strangest of all, our own planet.",
+      "problem": "Beş şüpheli duyuruluyor ama metin yalnızca dört bölüm numaralandırıyor; asteroitler kendi bölümünü hiç almıyor. Oysa derleme hidratlı asteroitleri ana kaynaklardan biri sayıyor ve Mandt de 'chondritic' (asteroit) kaynakları dışlıyor. Bu çatışma izleyiciye açık edilmiyor.",
+      "fix": "Either give asteroids their own short section (review: slower impacts retain more water; Mandt: chondritic sources lack enough H and N) or say 'four suspects, with comets and asteroids sharing a cell'. Explain that 'chondritic' means asteroid-like material."
+    },
+    {
+      "severity": "minor",
+      "quote": "About one and a half protons land on each square nanometre in a lunar day.",
+      "problem": "Kaynak yaklaşık 1,3 proton/nm2/lunasyon diyor; 1,3 'bir buçuk' değil. Ayrıca 'lunar day' ile 'lunation' aynı şey değil. Üstelik önceki 2x10^12 /m2/s değerinden bir lunasyonda ~5/nm2 çıkıyor; farkın (kutup geliş açısı, manyetokuyruk gölgesi vb.) açıklanmaması dikkatli izleyiciyi şaşırtır.",
+      "fix": "Say 'about one and a third protons per square nanometre per lunar month' and add a short clause on why it is lower than the raw flux (e.g. 'once you account for the Moon's curvature and time in Earth's magnetic tail'), if S1 supports this."
+    },
+    {
+      "severity": "minor",
+      "quote": "Still, a separate team at Berkeley reported evidence that Earth's magnetosphere can create water on the lunar surface.",
+      "problem": "'Still' bunun kutup buzu hipotezini desteklediği izlenimini veriyor; oysa bulgu yüzey hidrasyonu ile ilgili, kutuplardaki buz ile değil. Kanıt türü ve kaynağın (kurum basın sayfası) gücü belirtilmiyor.",
+      "fix": "Add: 'That is about a thin hydrated surface layer, not the polar ice itself.' Cite the underlying peer-reviewed paper rather than only the press page."
+    },
+    {
+      "severity": "minor",
+      "quote": "The ratio of heavy to normal hydrogen in water differs between comets, asteroids and the Sun.",
+      "problem": "Aşırı basitleştirme: kuyruklu yıldızların D/H değerleri geniş bir aralıkta ve bazıları kondritlerle örtüşüyor. Yani izotoplar tek başına kesin ayrım yapamayabilir. Kaynak da zayıf (airspacemag blog).",
+      "fix": "Add: 'Comets vary a lot, and some overlap with asteroids, so isotopes would narrow the field rather than settle it alone. Solar-wind hydrogen, though, is very low in deuterium and stands out.' Cite a peer-reviewed source."
+    },
+    {
+      "severity": "minor",
+      "quote": "That takes a lander, or a rover, that can dig and test the ice. China's Chang'e-7 was built to head for the south pole to look for water ice.",
+      "problem": "Chang'e-7'nin buzun D/H oranını ölçebileceği ima ediliyor, ama araştırma notları bunu doğrulamıyor (yalnızca 'could test this' diyor).",
+      "fix": "Say 'Chang'e-7 is designed to look for water ice at the south pole and may help' unless its isotope-measuring capability is confirmed from CNSA or instrument papers."
+    },
+    {
+      "severity": "minor",
+      "quote": "One more caution. The ice is not simply waiting to be scooped up.",
+      "problem": "Mantıksal kopukluk: ardından gelen küçük kraterlerin ömrü iddiası buzun yaşı/kökeni ile ilgili, erişilebilirlikle değil.",
+      "fix": "Replace the lead-in with: 'One more complication for dating the ice.' and keep the provisional-source caveat."
+    },
+    {
+      "severity": "minor",
+      "quote": "So forget the frozen lake. The ice is probably mixed into the dust, in low amounts.",
+      "problem": "ShadowCam yalnızca yüzeyi görüyor; yüzey altındaki buz hakkında doğrudan bir şey söyleyemez. Ayrıca 'some signatures above 10 percent' bulgusu atlanmış ve Nature Astronomy'nin 'yüzeyin %10'undan fazlası' ifadesiyle 'ağırlıkça %' birimleri karışabilir.",
+      "fix": "Say 'At least at the surface, there is no frozen lake' and note that ShadowCam sees only the top layer. Mention the few signatures above 10 percent, and clarify the difference between 'area covered' and 'percent by weight'."
+    },
+    {
+      "severity": "minor",
+      "quote": "Three and a half billion years is about three quarters of the age of the Earth-Moon system. [S1]",
+      "problem": "Bu karşılaştırma yazarın kendi hesabı; S1'e atfedilmesi yanlış atıf.",
+      "fix": "Remove the [S1] tag or replace it with a source for the ~4.5 Gyr age."
+    },
+    {
+      "severity": "minor",
+      "quote": "Volcanism on the Moon peaked roughly four to two billion years ago.",
+      "problem": "İki milyar yıllık bir aralık için 'peaked' belirsiz; mare volkanizmasının zirvesi genelde ~3,8–3,2 milyar yıl önce, 2 milyar yıla kadar azalarak sürüyor.",
+      "fix": "Say 'Volcanism was most active between about four and three billion years ago, and tapered off later.' Check against S1."
+    }
+  ]
+}
