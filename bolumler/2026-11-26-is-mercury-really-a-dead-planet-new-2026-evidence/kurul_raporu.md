@@ -128,7 +128,7 @@ KONU TEKRARI KONTROLU (kanal/onceki_bolumler.md): yayinlanmis bolumler 29 Eki in
 
 Benzediği: Haber/popular-science basliklari: 'Mercury is not a dead planet' (Bern basin bulteni, EarthSky, Discover, IFLScience, Universe Today), Kanalin onceki bolumleri ile konu cakismasi yok
 
-**Yayın notları:** BOLUM SURESI: Senaryo ~1.010 kelime, 140 kelime/dk ile ~7,2 dk. Chapter zamanlari bolum basina kelime sayarak hesaplandi (ana video ~7:14 civari); gercek sure ses, duraklamalar ve gorsellerle +-%10 kayabilir. Render bitince gercek zamanlari kontrol edip chapter'lari ayarlayin (acik varsayim).
+**Yayın notları:** BOLUM SURESI: final.mp4 = 7:51 (471,5 sn). Chapter zamanlari gercek sahne baslangiclarindan hesaplandi (render sonrasi); +-1-2 sn gecis payi olabilir, YouTube'a yuklemeden once oynatarak dogrulayin.
 
 YAYIN ZAMANI (editor karari; saat secimi varsayimdir, olcum degil; kanalin henuz verisi yok)
 - ANA VIDEO: Cuma 27 Kasim 2026, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Kullanilan ofsetler: TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0 (ABD yaz saati 1 Kasim'da, UK ise Ekim sonunda bitti; Kasim sonu ayni ofsetler gecerli).
@@ -172,13 +172,13 @@ Orbit details: BepiColombo entered orbit on 21 November 2026 (from 18:24 UTC). A
 
 Chapters
 00:00 A spacecraft arrives at Mercury
-00:47 Bright streaks and the Bern study
-01:43 The hollows: young, maybe still forming
-02:28 A shrinking planet: how much, and how fast
-03:57 Volcanism hints: abstracts, not eruptions
-04:34 So, dead or quiet?
-05:03 What BepiColombo can test
-06:48 The honest answer
+00:51 Bright streaks and the Bern study
+01:54 The hollows: young, maybe still forming
+02:40 A shrinking planet: how much, and how fast
+04:14 Volcanism hints: abstracts, not eruptions
+05:03 So, dead or quiet?
+05:34 What BepiColombo can test
+07:32 The honest answer
 
 Sources
 S1. ESA, BepiColombo arrival latest updates: https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury

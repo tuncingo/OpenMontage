@@ -27,13 +27,13 @@ Orbit details: BepiColombo entered orbit on 21 November 2026 (from 18:24 UTC). A
 
 Chapters
 00:00 A spacecraft arrives at Mercury
-00:47 Bright streaks and the Bern study
-01:43 The hollows: young, maybe still forming
-02:28 A shrinking planet: how much, and how fast
-03:57 Volcanism hints: abstracts, not eruptions
-04:34 So, dead or quiet?
-05:03 What BepiColombo can test
-06:48 The honest answer
+00:51 Bright streaks and the Bern study
+01:54 The hollows: young, maybe still forming
+02:40 A shrinking planet: how much, and how fast
+04:14 Volcanism hints: abstracts, not eruptions
+05:03 So, dead or quiet?
+05:34 What BepiColombo can test
+07:32 The honest answer
 
 Sources
 S1. ESA, BepiColombo arrival latest updates: https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury
@@ -58,12 +58,8 @@ This video separates what is measured from what is proposed. Nobody has watched 
 
 Image & video credits:
 NASA's Scientific Visualization Studio — SVS-11197
-NASA's Scientific Visualization Studio — SVS-11544
 NASA's Scientific Visualization Studio — SVS-14110
-NASA's Scientific Visualization Studio — SVS-15041
 NASA/GSFC — GSFC_20080520_HST_m10223_COS
-NASA/GSFC — GSFC_20141017_MAVEN_m11714_Comet_SidingSpring
-NASA/GSFC — GSFC_20160509_Mercury_m12235_Transit2016
 NASA/GSFC — GSFC_20171208_Archive_e000191
 NASA/GSFC — GSFC_20171208_Archive_e001625
 NASA/GSFC — GSFC_20171208_Archive_e001832
@@ -71,13 +67,9 @@ NASA/GSFC — GSFC_20171208_Archive_e001834
 NASA/GSFC — GSFC_20171208_Archive_e001870
 NASA/GSFC — GSFC_20171208_Archive_e001918
 NASA/GSFC — GSFC_20171208_Archive_e001922
-NASA/HQ — 298_MU69
-NASA/JPL — 20190530-SPITZRf-0001-Stars of Cephus
 NASA/JPL — PIA02417
 NASA/JPL — PIA10174
-NASA/JPL — PIA10177
 NASA/JPL — PIA10197
-NASA/JPL — PIA10383
 NASA/JPL — PIA10942
 NASA/JPL — PIA11246
 NASA/JPL — PIA11372
@@ -93,12 +85,11 @@ NASA/JPL — PIA15190
 NASA/JPL — PIA17386
 NASA/JPL — PIA18145
 NASA/JPL — PIA19246
-NASA/JPL — PIA19254
 NASA/JPL — PIA19409
 NASA/JPL — PIA19420
 NASA/JPL — PIA22089
+NASA/MSFC — 0301103
 NASA/MSFC — 0301627
-NASA/NASA — None
 NASA/STScI (Webb) — carina_nebula
 
 Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)
@@ -153,7 +144,117 @@ _Bilimsel doğruluk notu:_ Video MESSENGER'in eski verisini BepiColombo'nun yeni
 
 ## 2. Shorts
 
-## Eksikler ve uyarılar
+### Short 1
+Dosya: `bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/shorts/short_1.mp4` · sahneler 22-26 · bölümde yaklaşık 02:25–03:02
 
-- ⚠️ EKSİK: shorts_plani.json yok (/shorts çalıştırılmadı)
+Kanca (ilk 2 sn): **23 km**
+
+_Neden bu kesim:_ En guclu sayi: 16 km'den 23 km'ye ve 'iki Everest'ten fazla'; 'kaldirilmadi, sikisti' cümlesi paradoks basligi tasiyor. Sahne 24 diyagram ama arkasinda video var, sahne 22/23/25/26 gercek goruntu.
+
+**Başlık:**
+```
+Mercury Shrank Up to 23 km. Nothing Was Removed.
+```
+**Açıklama (kredilerle):**
+```
+A 2026 study from the German Aerospace Center argues Mercury lost up to about 23 km of width, up from earlier estimates of about 16 km. The crust was not removed, it was squeezed as it folded over itself.
+This is about the planet's whole history, not how fast it shrinks today.
+Full episode on the channel.
+#Shorts
+
+Credits: NASA/JPL; NASA's Scientific Visualization Studio
+Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)
+```
+**Sabitlenmiş yorum:**
+```
+Earlier estimates said up to about 16 km, the new study says up to 23 km. Which would you want BepiColombo's laser altimeter to check first?
+```
+**Etiketler:**
+```
+Mercury, BepiColombo, planetary science, space, shrinking planet
+```
+**Dikey kapak (1080×1920) başlığı:**
+```
+Up to 23 km
+```
+**Canva görsel tarifi:**
+```
+Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real NASA/MESSENGER global image of Mercury (a real MESSENGER mosaic from the NASA image library, or a code-drawn flat graphic of two concentric circles, a larger hairline circle in teal #62C2CF and a smaller solid disc in muted amber #D9A25B, to show the planet shrinking); never generate or paint a look-alike of a real mission image. Place Mercury as the single focal subject in the central band, roughly 40 to 60 percent down the frame, cropped slightly and darkened at the edges, with a thin teal hairline ring around it. Put the headline 'Up to 23 km' in ice-white #F2F5FF, Inter Medium, large (at least 150 px tall for '23 km'), centred in the upper-middle band, with 'Up to' smaller in amber; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px, where the app UI covers the picture. Mood: quiet, sober, scientific, lots of dark space. No extra text, no logos, no faces.
+```
+
+### Short 2
+Dosya: `bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/shorts/short_2.mp4` · sahneler 9-15 · bölümde yaklaşık 00:54–01:41
+
+Kanca (ilk 2 sn): **400**
+
+_Neden bu kesim:_ Bolumun ana gizemi: 400 cizgi + 'plausible, not proven' + 'kimse olusumunu izlemedi'. Gercek planlanan sure 47 sn, gercek ~52.1 sn (yumusak 52 sinirinin 0.1 sn ustunde, 59 sert sinirin altinda).
+
+**Başlık:**
+```
+400 Bright Streaks on Mercury. None Seen Forming.
+```
+**Açıklama (kredilerle):**
+```
+A University of Bern team used machine learning on about 100,000 MESSENGER images and found about 400 bright streaks on sun facing slopes of young craters. Many begin at hollows. One proposed explanation is gas escaping from the rock.
+About 93 percent are in the north, which the team ties to imaging coverage. An outside scientist called the link to volatiles plausible, not proven.
+Full episode on the channel.
+#Shorts
+
+Credits: NASA/JPL; NASA/MSFC; NASA/GSFC
+Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)
+```
+**Sabitlenmiş yorum:**
+```
+Nobody has watched a streak form. If BepiColombo caught one appearing, what would you want to measure first?
+```
+**Etiketler:**
+```
+Mercury, MESSENGER, bright streaks, volatiles, space science
+```
+**Dikey kapak (1080×1920) başlığı:**
+```
+400 Bright Streaks
+```
+**Canva görsel tarifi:**
+```
+Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real NASA/MESSENGER close-up of a young Mercury crater slope with bright streaks or hollows from the NASA image library, darkened and cropped to the central band; if no suitable frame is available, use a code-drawn dark background with a few thin teal #62C2CF hairlines fanning down a slope shape instead. Never generate or paint a look-alike of a real mission image. The focal subject is the crater slope with the brightest streak in the middle of the frame; add one small muted amber #D9A25B hairline marker pointing at a streak. Put the headline '400' very large in ice-white #F2F5FF, Inter Medium, in the upper-middle band, with 'Bright Streaks' below it at a smaller size; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px. Mood: curious and open, with a partial reveal and no threat. No extra text, no logos, no faces.
+```
+
+### Short 3
+Dosya: `bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/shorts/short_3.mp4` · sahneler 1-6 · bölümde yaklaşık 00:00–00:39
+
+Kanca (ilk 2 sn): **GLITCH**
+
+_Neden bu kesim:_ Guncel haber kancasi: varis + yazilim arizasi; 'dead planet' sorusuyla bitiyor ve ana videoya yonlendiriyor. 1,3,6 diyagram ama 2,4,5 gercek foto; her diyagramin arkasinda video var.
+
+**Başlık:**
+```
+It Reached Mercury. Then the Software Glitched.
+```
+**Açıklama (kredilerle):**
+```
+On 21 November, BepiColombo slipped into orbit around Mercury. A software glitch put it into safe mode and the braking burn ended early.
+Its science phase starts in April 2027, so every clue so far comes from older data, mostly NASA's MESSENGER (2011 to 2015). Is Mercury really dead? New 2026 studies hint it may not be.
+Full episode on the channel.
+#Shorts
+
+Credits: NASA/GSFC; NASA/JPL
+Music: Sir Cubworth - The Long Voyage to Outer Space (YouTube Audio Library)
+```
+**Sabitlenmiş yorum:**
+```
+Mercury is often called a dead, battered rock. Would you call it dead, quiet, or something else?
+```
+**Etiketler:**
+```
+BepiColombo, Mercury, ESA, orbit insertion, space
+```
+**Dikey kapak (1080×1920) başlığı:**
+```
+Safe Mode at Mercury
+```
+**Canva görsel tarifi:**
+```
+Create a 1080x1920 portrait cover. Ground colour near-black #05070C. Base image: upload a real ESA image of BepiColombo (from the ESA image library) or a real NASA/MESSENGER image of Mercury as the dark backdrop; if neither fits, use a code-drawn graphic of a thin teal #62C2CF orbit arc around a small dark disc, with the arc breaking off early at a small muted amber #D9A25B tick to show the burn that ended early. Never generate or paint a look-alike of a real mission image. The focal subject sits in the central band, with lots of dark space around it. Put the headline 'Safe Mode at Mercury' in ice-white #F2F5FF, Inter Medium, large, in two or three lines in the upper-middle band; it must stay readable at phone size. Keep all key content away from the bottom 600 px and the right 180 px. Mood: calm and factual, a news moment with no alarm. No extra text, no logos, no faces.
+```
 
