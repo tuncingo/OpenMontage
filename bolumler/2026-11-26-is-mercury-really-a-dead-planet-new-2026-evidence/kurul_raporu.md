@@ -1,107 +1,113 @@
 # Kurul Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
-**Durum:** ✅ ONAYLANDI — kurul yayına hazır buldu
+**Durum:** ⚠️ SENİN KARARIN GEREKİYOR — 2 turda eşik aşılamadı
 **Bölüm kodu:** `2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence`
-**Taslak turu:** 2 · **Son ortalama:** 7.5/10
+**Taslak turu:** 3 · **Son ortalama:** 7.0/10
 
 ## Tur geçmişi
 | Tur | Ortalama | En düşük | Kritik sorun | Karar |
 |---|---|---|---|---|
 | 1 | 6.83 | 6.0 | 1 | revise |
 | 2 | 7.5 | 6.5 | 0 | approved |
+| 3 | 7.0 | 7.0 | 0 | needs_human |
 
 ## Son tur hakem notları
-### Doğrulayıcı — 8.0/10
-Taslak araştırma notlarıyla büyük ölçüde tutarlı; kritik hata yok, zamansal ifadeler (beş gün önce, 21 Kasım) doğru. Kalan sorunlar küçük atıf ve kesinlik meseleleri ile snippet düzeyindeki rakamların birincil kaynaktan teyit edilmemesi.
+### Doğrulayıcı — 7.0/10
+Senaryo genel olarak temkinli ve doğru; ancak NASA sayfasında geçmeyen 'küçük krater yok' iddiası, kaynaksız araç kabiliyeti cümleleri ve 9 Aralık tarihi netleştirilmeli. AGU bülteni bu oturumda erişilemedi (news.agu.org ağ izninde yok), 16/23 km rakamları editör notu ve research.md ile tutarlı ama doğrudan doğrulanamadı.
 
 İddialar: 24 doğrulandı · 1 tartışmalı · 4 kaynaksız
-- **minor** — "If Mercury's life were one year, the hollows formed in the last few minutes."
-  - Sorun: 100 bin yıl / 4,5 milyar yıl yaklaşık %0,002 eder; bir yılda bu yaklaşık 10-12 dakikadır. 'Son birkaç dakika' hafife alıyor.
-  - Öneri: Say 'in the last ten minutes or so' or 'in the last few minutes of the year's final day'.
-- **minor** — "MESSENGER found them back in 2011. What is newer is the question of how old they are. [S10] [S11]"
-  - Sorun: 2011 tarihi araştırma notlarında yalnızca genel bilgi olarak var, S10/S11 bunu desteklediği doğrulanmadı.
-  - Öneri: Verify the 2011 discovery date and cite the MESSENGER page (S12) or drop the year.
-- **minor** — "The new upper estimate is roughly twenty kilometres, and outlets quote anywhere from nineteen to twenty three. [S6]"
-  - Sorun: Rakam snippet düzeyinde, kaynaklar arası tutarsız; yaklaşık 20 km ifadesi ihtiyatlı ama hâlâ birincil makaleyle teyit edilmedi. Ayrıca çap/yarıçap ayrımı notlarda 'kontrol et' olarak duruyor.
-  - Öneri: Check the GRL paper for the exact figure and confirm it refers to diameter, then state it precisely.
-- **minor** — "And this is the instrument that could catch one changing. [S11]"
-  - Sorun: S11 yalnızca BepiColombo'nun değişimi arayabileceğini söylüyor; belirli bir kameranın bunu yapacağını desteklemiyor.
-  - Öneri: Say 'BepiColombo could catch one changing' or cite an instrument source (SIMBIO-SYS) instead of S11.
+- **major** — "NASA says there are almost no small craters inside the hollows. That means they are much younger than the ground around them."
+  - Sorun: S10 (NASA hollows sayfası) küçük krater azlığından söz etmiyor; sayfa yalnızca oyukların içinde bulundukları kraterlerden genç göründüğünü ve 'bugün hâlâ evrilmiş olabileceğini' söylüyor. Alıntı NASA'ya yanlış atfediliyor.
+  - Öneri: Replace with: 'NASA says the hollows appear younger than the craters they sit in, and may still be evolving today.' Drop the small-crater claim unless a source is found.
+- **major** — "NASA asks a bold question: may they still be forming?"
+  - Sorun: NASA metni 'forming' değil 'may still be evolving today' diyor; ayrıca 'asks a question' çerçevesi sayfada yok.
+  - Öneri: Use 'NASA says they may still be evolving today.'
+- **major** — "It cannot watch a fault slip, because over a few years that motion would be far too small. But it can map fault cliffs in far more detail, sharpening how much Mercury has really shrunk. [S3]"
+  - Sorun: Altimetre kabiliyeti yorumu ve 'fay kayması çok küçük olur' savı research.md'de ve S3'te (Wikipedia) yok; kaynaksız muhakeme kaynakla destekliymiş gibi görünüyor.
+  - Öneri: Soften and attribute: 'BELA is designed to map Mercury's topography; that could help measure its faults more precisely.' Remove the claim about slip being too small or flag as own reasoning.
+- **major** — "It also carries a high resolution camera system. That one can look for fresh features that cut across young terrain. [S3]"
+  - Sorun: S3 yalnızca SIMBIO-SYS'i listeliyor; 'taze özellikleri arayabilir' ve 'genç araziyi kesen' ifadesi kaynakta yok. Ayrıca 'This is the instrument that could catch one changing' (S11) oyuk değişimini yakalayacak aletin hangisi olduğunu S11'in söylediğine dair kanıt yok (S11 yalnızca BepiColombo'nun değişimi arayabileceğini söylüyor).
+  - Öneri: Say 'SIMBIO-SYS, its imaging system, will return much sharper images than MESSENGER's' only if sourced; and rephrase callback to 'BepiColombo is the mission that could catch one changing.'
+- **minor** — "The next step is close. On 9 December, the two orbiters are due to separate. [S1]"
+  - Sorun: ESA (S1) ayrılmayı 9-10 Aralık olarak veriyor; editör notu 9 Aralık diyor. Yayın 5 Aralık, tarih ESA'nın 'değişebilir' uyarısına tabi.
+  - Öneri: Write 'around 9 December' or 'on 9 or 10 December, ESA says'.
+- **minor** — "That is more than two Everests, not removed, but squeezed, as the crust folded over itself."
+  - Sorun: Cümle, '16 km'den 23 km'ye fark'ı mı yoksa 23 km'nin kendisini mi kastettiğini belirsiz bırakıyor (23 km ≈ 2,6 Everest; fark yalnızca 7 km). Everest karşılaştırması da research.md'de genel bilgi olarak geçiyor, kaynaksız. 'Width' yerine çap kaybı olduğu da AGU'dan doğrulanamadı.
+  - Öneri: Say 'Up to twenty three kilometres of diameter in total, more than two Mount Everests stacked, though as squeezed crust, not removed material.' Confirm diameter vs radius in the AGU release.
 - **minor** — "And nobody has watched a streak form. [S4]"
-  - Sorun: Bu cümle notlarda 'hiçbir yeni çizgi gözlenmedi' olarak var ama Bern basın bülteninin bunu açıkça söylediği doğrulanmadı.
-  - Öneri: Cite as the research note's own inference or verify in the Bern release.
-- **minor** — "A world that cooled, contracted, and may still be losing its gas and its heat, and slowly tightening its crust."
-  - Sorun: 'Heat' kaybı araştırma notlarında veya kaynaklarda desteklenmiyor.
-  - Öneri: Remove 'and its heat' or replace with 'may still be losing gas and slowly tightening its crust'.
-- **minor** — "And they described a tentative, very large cone of volcanic debris inside the Caloris basin. [S9]"
-  - Sorun: Üç ayrı özet (Glinka, Agwo/Abeeso, Caloris) tek bir URL (EPSC2026-486) ile atfedilmiş; notlarda 've ilgili özetler' deniyor.
-  - Öneri: Cite each abstract by its own URL or phrase as 'EPSC2026 abstracts' with the specific links added to S9.
+  - Sorun: Bern basın bülteni bu olumsuz iddiayı açıkça söylemiyor; research.md bunu 'gözlenmedi' diye çıkarım olarak yazıyor.
+  - Öneri: Cite as 'no streak has been observed forming so far' without attributing to S4, or remove the S4 tag.
+- **minor** — "MESSENGER found them back in 2011."
+  - Sorun: Doğru olduğu bilinen bir bilgi ama research.md'de ve S10/S11'de teyit edilmedi.
+  - Öneri: Add a source (e.g. Blewett et al. 2011, Science) or soften to 'MESSENGER-era discovery'.
+- **minor** — "the braking burn ended early. [S1] [S3]"
+  - Sorun: Doğru (S1); ancak S3 (Wikipedia) güncelliği ESA'dan geri olabilir. Sorun yok, yalnızca S1 yeterli.
+  - Öneri: Keep [S1] only.
 
-### Şüpheci Hakem — 8.0/10
-İkinci taslak kanıt gücünü dürüstçe aktarıyor: dolaylı kanıt, hakemsiz bildiriler, toplam ve hız ayrımı ile BepiColombo'nun henüz veri üretmediği açıkça söyleniyor. Kalan sorunlar küçük: birkaç benzetmede hassasiyet eksik, bir bağlam eksik ve snippet düzeyindeki rakamlar kayıttan önce doğrulanmalı.
-- **minor** — "If Mercury's life were one year, the hollows formed in the last few minutes."
-  - Sorun: Hesap: 100.000 / 4,5 milyar yıl x 525.600 dakika, yaklaşık 12 dakika eder. 'Birkaç dakika' bunu biraz küçültüyor. Ayrıca ortalama yaş, tüm oyukların o sürede oluştuğu gibi okunabiliyor.
-  - Öneri: Say: "If Mercury's life were one year, the average hollow would be about twelve minutes old."
-- **minor** — "A 2025 study agrees. It found most hollows are in an early stage, and likely still evolving."
-  - Sorun: 'Agrees' bağımsız bir doğrulama varmış izlenimi veriyor. Oysa 2025 çalışması ayrı bir gözleme (erken evre morfolojisi) dayanıyor ve aynı yöne işaret ediyor, 100.000 yıl rakamını doğrulamıyor. Üstelik ortak yazar Bickel çizgi çalışmasının ekibinde de yer alıyor.
-  - Öneri: Replace "A 2025 study agrees." with "A 2025 study points the same way."
-- **minor** — "ESA notes water ice on a world where surface temperatures can reach four hundred and fifty degrees Celsius."
-  - Sorun: Buzun nerede bulunduğu söylenmediği için kontrast paradoks gibi duruyor. Araştırma notları buzun kalıcı gölgedeki kutup kraterlerinde olduğunu belirtiyor. Bağlam verilmezse yanıltıcı bir merak kancasına dönüşüyor.
-  - Öneri: Add: "...ice that survives in polar craters where sunlight never reaches the floor."
-- **minor** — "It arrived at a planet often thought of as a dead, battered rock."
-  - Sorun: 'Ölü gezegen' çerçevesi kısmen bir saman adam. Merkür'ün küresel manyetik alanı ve kısmen erimiş çekirdeği bilimsel konsensüs. Yani iç kısım zaten 'ölü' kabul edilmiyor, tartışma yüzey jeolojisi üzerine. Bu bağlam metinde yok.
-  - Öneri: Add one line, e.g. "Scientists already know its core is partly molten, because it still has a magnetic field. The real question is whether the surface is still changing." Flag this as general knowledge or add a NASA/ESA source.
-- **minor** — "That is about two Everests, not removed, but squeezed, as the crust folded over itself."
-  - Sorun: Çap kaybını bir dağ yüksekliğiyle karşılaştırmak boyut olarak tutarsız bir benzetme. 'Folded over itself' ifadesi de bindirme faylanmasını (kabuğun kendi üzerine itilmesi) abartılı anlatıyor.
-  - Öneri: Say: "That is roughly two Everests' worth of width, lost as slabs of crust were pushed up and over each other along thrust faults."
-- **minor** — "The new upper estimate is roughly twenty kilometres, and outlets quote anywhere from nineteen to twenty three."
-  - Sorun: Rakam hâlâ yalnızca snippet düzeyinde. Araştırma 'çap' olduğunu bile 'check the paper' notuyla veriyor. Önceki 4-16 km aralığının çap mı yarıçap mı olduğu da doğrulanmamış. Eski literatür genellikle yarıçap kaybı verir.
-  - Öneri: Before recording, verify in the Nishiyama et al. GRL paper whether both the 4-16 km and 19-23 km figures refer to diameter, then state the paper's own number.
-- **minor** — "trained a machine learning tool on about one hundred and twelve thousand MESSENGER images."
-  - Sorun: Bern çalışmasındaki 112.000 görüntü, 400 çizgi, yüzde 93 ve yüzde 10 rakamları ile NASA'nın 100.000 yıl değeri hâlâ snippet düzeyinde (revizyon notlarında da belirtilmiş). Bunlar kayıttan önce birincil kaynaktan teyit edilmeli.
-  - Öneri: Verify against the Communications Earth & Environment paper (Bickel et al. 2026) and the NASA hollows page before voice recording. Keep the hedge "about" if any value cannot be confirmed.
-- **minor** — "So the evidence does not prove Mercury is alive. What it does is put pressure on the word dead. The better word may be quiet. And quiet is not the same as finished. [S4] [S7]"
-  - Sorun: Bu cümle yazarın kendi yorumu, ama kaynak atfı onu sanki S4 ve S7 tarafından desteklenen bir sonuç gibi gösteriyor.
-  - Öneri: Remove the [S4] [S7] citation from this interpretive sentence, or frame it explicitly as "My reading of this evidence is..."
+### Şüpheci Hakem — 7.0/10
+Taslak 3 genel olarak dürüst ve temkinli; kanıtın dolaylı olduğu, verinin MESSENGER'dan geldiği ve konferans özetlerinin hakemsiz olduğu açıkça söyleniyor. Ancak birkaç yerde kanıt gücü hâlâ abartılıyor ya da eksik veriliyor: 'bugün' vurgusu, 727 yapının yalnızca 190'ının kesin olması, volkanizma bulgularının eski olaylara ait olması ve 'değişim görmemek de bir cevap' mantığı.
+- **major** — "The streaks hint at gas loss today."
+  - Sorun: Bern ekibi ve research.md 'yakın geçmişte ya da süregelen' (recent or ongoing) gaz kaybından söz ediyor. 'Today' bunu bugün olan bir sürece çeviriyor ve videonun ana iddiasını kaynağın söylediğinden daha güçlü kılıyor. Jeolojik ölçekte 'yakın geçmiş' binlerce ya da milyonlarca yıl önce demek olabilir.
+  - Öneri: Change to: "The streaks hint at gas loss in the recent past, and possibly still today."
+- **major** — "counted seven hundred and twenty seven small trenches in the crust."
+  - Sorun: Research.md'ye göre 727 aday yapının yalnızca 190'ı 'kesin' olarak sınıflandırılmış. Yalnızca büyük sayıyı vermek kanıtı olduğundan daha sağlam gösteriyor, bu da kanıt gücünü eksik aktarmak demek.
+  - Öneri: Add the qualifier: "counted seven hundred and twenty seven possible small trenches in the crust, about one hundred and ninety of them classed as certain."
+- **major** — "In September 2026, conference abstracts suggested hints of buried volcanic ash, and of explosive eruptions at bright patches on the surface."
+  - Sorun: Hemen önce 'açık soru bugün aktif bir şey olup olmadığı' deniyor, ardından bu özetler sıralanıyor. Oysa research.md bu çökeltileri 'eski, gömülü' (ancient buried) ve 'birden çok patlama evresi' olarak tanımlıyor, yani bunlar geçmiş volkanizmanın ayrıntıları ve bugünkü aktiviteye kanıt değil. Seçilen çerçeve izleyiciye, bunların 'hâlâ aktif' tezini desteklediği izlenimini veriyor.
+  - Öneri: State explicitly that these deposits are ancient: "...hints of old, buried volcanic ash, and of several past explosive episodes at bright patches... These add detail to Mercury's volcanic past; they do not show that anything is active now."
+- **major** — "But it is entirely possible we will see no change at all. And that would also be an answer."
+  - Sorun: Mantık hatası var: değişim görülmemesi ancak değişim kameranın algılama sınırının üzerindeyse bir cevaptır. Oyuk kenarı gerilemesi gibi süreçler on yılda metre altında kalabilir, bu da SIMBIO-SYS çözünürlüğünün altında olabilir. 'Değişim yok' sonucu Merkür'ün ölü olduğunu göstermez, yalnızca hıza bir üst sınır koyar. Bu ayrım yapılmazsa izleyici yanlış bir çıkarım yapabilir.
+  - Öneri: Rephrase: "But it is entirely possible we will see no change at all. That would not prove Mercury is dead; it would tell us that any change is slower than the cameras can detect."
+- **minor** — "The capture did not go perfectly. A software glitch put BepiColombo into safe mode, and the braking burn ended early."
+  - Sorun: Research.md hem 'kusursuzdu' demekten hem de aşırı dramatize etmekten kaçınılmasını istiyor. Senaryo ESA'nın görevin 'güvende ve planda' olduğu açıklamasını hiç vermiyor, bu yüzden izleyicide görevin tehlikede olduğu izlenimi kalabilir.
+  - Öneri: Append: "ESA says the mission is safe and on track." [S1]
+- **minor** — "Its science phase starts in April 2027,"
+  - Sorun: Burada tarih kesin gibi veriliyor, sonra 'dates may change' deniyor. Tutarlı olmalı.
+  - Öneri: Use "is planned to start in April 2027" here as well.
+- **minor** — "It cannot watch a fault slip, because over a few years that motion would be far too small. But it can map fault cliffs in far more detail, sharpening how much Mercury has really shrunk. [S3]"
+  - Sorun: Fay kaymasının birkaç yılda ölçülemeyecek kadar küçük olduğu iddiası makul ama kaynaksız. [S3] (Wikipedia) bunu desteklemiyor olabilir, yani atıf doğrulanmamış.
+  - Öneri: Either drop the citation for that clause and mark it as reasoning ("Over a few years, any slip would likely be far too small to see"), or cite a source that discusses BELA's precision.
+- **minor** — "That is more than two Everests, not removed, but squeezed, as the crust folded over itself."
+  - Sorun: Bindirme faylarında kabuk 'katlanmaz', bloklar birbirinin üzerine itilir. Ayrıca 23 km bir üst tahmin (tek çalışma, yöntem bağımlı), ama benzetme bunu kesin bir değer gibi sunuyor.
+  - Öneri: "At the upper end, that is more than two Everests, not removed, but squeezed, as slabs of crust were pushed over one another." Optionally add: "It is one study, and the number depends on the mapping method."
+- **minor** — "Those hollows are a clue in their own right, and they are not new. MESSENGER found them back in 2011."
+  - Sorun: 2011 tarihi ve 'oyuklarda neredeyse hiç küçük krater yok' ifadesi research.md'de doğrulanmamış (yazar da revizyon notunda bunu belirtiyor). Atıflar [S10] [S11] bu ayrıntıları desteklemeyebilir.
+  - Öneri: Verify against the NASA hollows page or Blewett et al. 2011 (Science) before recording; if unverified, say "MESSENGER discovered them" without the year.
 
-### Hikâye Editörü — 6.5/10
-Açılış cümlesi güçlü ve dürüst bir gerilim kuruyor, kanca-geri çağrı (hollows) iyi ödeniyor; ancak ana soru ilk 60 saniyede bir yol haritası ve varış trivyası altında kayboluyor, orta bölüm rakam ve özel isim yığını, kapanış ise ara sonucu tekrar ediyor.
-- **major** — "Let's see what each one tells us, and what it does not."
-  - Sorun: İlk 30 saniyede kanca 'But is it?' ile kuruluyor, hemen ardından bir yol haritası ve ön uyarı geliyor; gerilim düşüyor ve izleyiciye merak edilecek somut bir şey (en güçlü ipucu hangisi?) vaat edilmiyor.
-  - Öneri: Cut the roadmap paragraph to two sentences and end on a concrete tease, e.g. 'One of these clues is a set of bright streaks that nobody can fully explain yet. Let's start there.' Keep the hedge about 'only one speaks to recent activity' for after the streaks.
-- **major** — "First, the arrival. It matters, and it did not go perfectly."
-  - Sorun: En olası ilk kopuş noktası: izleyici Merkür'ün ölü olup olmadığını merak ederek geldi, ama 45-60 saniye boyunca yazılım arızası ve yörünge süresi dinliyor. Sonra da bu bilginin bulgularla ilgisi olmadığı söyleniyor.
-  - Öneri: Move the arrival to a short two-sentence bridge ('BepiColombo is now in orbit, but its science starts in 2027, so these clues come from older data') and go straight to the streaks. Put the glitch detail in the description.
-- **minor** — "So the orbit is longer than planned, about seventy five hours instead of fifty eight."
-  - Sorun: Konuyla ilgisiz sayısal detay; izleyici için anlamı yok ve TTS'te sayı yığını yaratıyor.
-  - Öneri: Replace with 'So the orbit is longer than planned, and the science phase waits.' Drop both hour figures.
-- **major** — "That question belongs to an older study. In 2023, researchers at the Open University counted seven hundred and twenty seven small trenches in the crust, called grabens."
-  - Sorun: Netlik sorunu: girişte 'yalnızca biri yakın zamanlı aktiviteyi ele alıyor' denmişti, streak çalışması 'en doğrudan' diye sunuldu, şimdi 'bu soru eski bir çalışmaya ait' deniyor. Hangi çalışmanın ne dediği karışıyor; ayrıca 2023 çalışması '2026 kanıtı' çerçevesinin dışında kalıyor ve 'grabens' jargon.
-  - Öneri: State plainly once: 'Streaks hint at gas loss now. The shrinking study is about the past. An older 2023 study is the one that points to contraction that may still be going on.' Say 'small trenches' and drop the word grabens.
-- **major** — "Earlier estimates put the total loss in Mercury's diameter at four to sixteen kilometres. The new upper estimate is roughly twenty kilometres, and outlets quote anywhere from nineteen to twenty three."
-  - Sorun: Üst üste dört-beş rakam (4, 16, 20, 19, 23); uzman olmayan izleyici için ikinci en yüksek kopuş riski. Aralık ve basın farkı anlatıyı yavaşlatıyor.
-  - Öneri: Keep one contrast: 'Earlier estimates said Mercury lost up to about sixteen kilometres of width. The new estimate is about twenty.' Move the 19-23 spread to the on-screen source line or description.
-- **major** — "They suggested several explosive episodes at two bright patches called Agwo and Abeeso."
-  - Sorun: Glinka, Agwo, Abeeso, Caloris üst üste: yabancı özel isimler hem TTS telaffuzunu zorluyor hem izleyiciyi bunaltıyor; bulgu da zaten zayıf (konferans özeti). Bu bölüm videonun en yavaş ve en az anlaşılır yeri.
-  - Öneri: Name only one place (Caloris basin) and describe the rest generically: 'hints of buried volcanic ash, and of explosive eruptions at bright patches on the surface.' Keep the 'not peer reviewed' warning.
-- **minor** — "Landforms. Spectra. Counts of small features. All of it is indirect. No eruption has been observed on Mercury. No new fault scarp. No new streak."
-  - Sorun: 'Spectra' ve 'fault scarp' videoda hiç tanıtılmadı; güçlü bir toparlama cümlesi jargonla zayıflıyor.
-  - Öneri: Rewrite: 'Landforms. Chemistry. Counts of small features. All of it is indirect. Nobody has seen an eruption, a new cliff, or a new streak form.'
-- **minor** — "If Mercury's life were one year, the hollows formed in the last few minutes."
-  - Sorun: 100 bin yıl / 4,5 milyar yıl yaklaşık 12 dakikaya denk gelir; 'birkaç dakika' hafif yanıltıcı. Benzetme güzel ama rakamı tutmalı.
-  - Öneri: Say 'in the last dozen minutes or so of that year' (or 'the last quarter of an hour').
-- **major** — "The better word may be quiet. And quiet is not the same as finished."
-  - Sorun: Sonuç iki kez ve neredeyse aynı biçimde veriliyor (burada ve kapanışta 'more likely a quiet one'). Ardından buz/450 derece parçası ve yol haritası geliyor; ilk 'bitiş' hissinden sonra tempo düşüyor, kapanışta yeni bir şey öğrenilmiyor.
-  - Öneri: Keep this line as the mid-video turn, then cut 'It is a planet of extremes...' paragraph or move it to the opening bridge. In the closing, replace the restatement with one new thought (what a single changed hollow would mean).
-- **minor** — "A world that cooled, contracted, and may still be losing its gas and its heat, and slowly tightening its crust."
-  - Sorun: Uzun, üç ayrı fikri tek cümlede topluyor, TTS'te nefes yok; 'heat' kaybı hiçbir bölümde kanıtlanmadı, yeni bir iddia gibi duruyor.
-  - Öneri: Split: 'A world that cooled and contracted. One that may still be leaking gas, and may still be tightening its crust.' Remove 'heat'.
-- **minor** — "If you want to follow the story as the first science images arrive in 2027, subscribe to Rebel Minds Cosmos. And tell me in the comments."
-  - Sorun: Stil rehberi tek doğal çağrı istiyor; burada abone ol ve yorum yap birlikte. Ayrıca son söz çağrıda bitiyor, düşünsel kapanış zayıflıyor.
-  - Öneri: Keep only the comment question and end on it, or put the subscribe line before a final reflective sentence: 'Dead, quiet, or something we have not named yet? Tell me in the comments.'
-- **minor** — "Five days ago, a spacecraft slipped into orbit around Mercury."
-  - Sorun: Güçlü, tarihli bir kanca ama videonun yayın gününe bağlı; gecikme olursa yanlış olur. Ayrıca kancada gerilim sadece 'But is it?' ile kuruluyor, somut bir görsel/imge yok.
-  - Öneri: Publish on 26 November or change to 'On 21 November, a spacecraft slipped into orbit around Mercury.' Add one vivid image to the hook, e.g. a planet 'hot enough to melt lead on one side' only if sourced.
+### Hikâye Editörü — 7.0/10
+Kanca ve üç kanıt yapısı sağlam, hollows geri çağrısı ve 'quiet, not finished' çerçevesi güçlü. Ancak ilk dakikada prosedürel bir yavaşlama, orta bölümde geçmişle ilgili büzülme sapması ve zayıf bir kapanış sırası izleyiciyi kaybettirebilir.
+- **major** — "The capture did not go perfectly. A software glitch put BepiColombo into safe mode, and the braking burn ended early. [S1] [S3] Its science phase starts in April 2027, so every clue in this video comes from older data, mostly from NASA's MESSENGER, which orbited Mercury from 2011 to 2015."
+  - Sorun: Hook'tan hemen sonra gelen yazılım arızası, safe mode, 2027 ve MESSENGER bilgisi 20-40. saniyede gerilimi düşürüyor ve soruyu cevaplayan yeni bir şey vermiyor; terk riski burada.
+  - Öneri: Cut the glitch and safe-mode sentence from the opening. Keep one line: 'Its science work starts in 2027, so every clue here comes from older data, mostly NASA's MESSENGER.' Move the glitch detail to the BepiColombo roadmap section or drop it.
+- **major** — "Let me be plain about who says what. The streaks hint at gas loss today. This shrinking study is about the past."
+  - Sorun: Büzülme bölümü 'ölü mü' sorusuna doğrudan cevap vermiyor ve rakam (16, 23 km, 727 hendek, 300 milyon yıl) yığılıyor; izleyici en çok burada düşer. Anlatıcı kendi bölümünü 'geçmiş' diye küçültüyor.
+  - Öneri: Open the section with the payoff question: 'Is Mercury still shrinking today?' Then give 23 versus 16 in one sentence and go straight to the 727 trenches and the 'may be refuted by BepiColombo' line. Drop the 'who says what' meta sentence or fold it into one short clause.
+- **major** — "That is more than two Everests, not removed, but squeezed, as the crust folded over itself."
+  - Sorun: Everest yükseklik, 23 km ise genişlik/yarıçap kaybı; karşılaştırma uzman olmayan için kafa karıştırıcı ve cümle ritmi TTS için dağınık. Ayrıca 'width' kullanımı bilimsel olarak belirsiz.
+  - Öneri: Say: 'The new study says up to twenty three. Earlier estimates said sixteen. The planet's radius shrank by about that much, more than two Everests stacked.' Verify the radius versus width wording against S6 before keeping the Everest comparison.
+- **major** — "The next step is close. On 9 December, the two orbiters are due to separate. [S1]
+
+The honest answer today is that we do not know yet."
+  - Sorun: Güçlü 'tek oyuk kenarı değişirse' düşüncesinden sonra teknik bir ayrılma tarihiyle devam etmek duygusal doruğu söndürüyor; 9 Aralık tarihi ayrıca research.md'de doğrulanmamış. Kapanış CTA ve yorum sorusuyla bitiyor, yansıtıcı bir son cümle yok.
+  - Öneri: Move the 9 December line before the 'My guess is' paragraph (or into the roadmap section), only if verified. End with the reflective beat: 'One small shift in one hollow would turn a clue into a measurement.' Then the one-line subscribe and the comment question.
+- **minor** — "One of these clues is a set of bright streaks nobody can fully explain yet."
+  - Sorun: Merak boşluğu hemen ardından 'volatile loss' açıklamasıyla kısmen kapanıyor; vaat edilen gizem küçülüyor.
+  - Öneri: Reframe the gap: 'bright streaks that appear to point to gas escaping from the rock, and nobody has ever watched one form.' Or keep the line and make the 'nobody has watched a streak form' beat land harder.
+- **minor** — "Think about what it would mean if the edge of a single hollow had moved. Not a theory about the past, but a change we could point to, between two sets of pictures. That one small shift would turn a clue into a measurement."
+  - Sorun: Hemen üstteki 'A hollow edge that moved' ile tekrar ediyor; tempo yavaşlıyor.
+  - Öneri: Merge the two: delete 'A hollow edge that moved. A streak that was not there before.' from the guess paragraph, or cut the first sentence of this paragraph and keep 'That one small shift would turn a clue into a measurement.'
+- **minor** — "Now the caution. About ninety three percent of the streaks are in the north, and the team ties that to how well MESSENGER imaged each region. About ten percent are not in craters at all, so other mechanisms may be at work."
+  - Sorun: İki oran art arda, uzun ve cümle içinde bağlaç yüklü; TTS'de nefessiz okunur ve izleyici için rakam fazlası.
+  - Öneri: Split: 'Now the caution. Ninety three percent of the streaks are in the north. The team says that likely reflects where MESSENGER imaged best.' Drop the ten percent figure or give it its own short sentence.
+- **minor** — "In 2026, new studies added to a decade of hints that Mercury may not be fully dead."
+  - Sorun: Bölüm 'üç alan' (streaks, shrinking, volcanism) olarak önceden sayılmıyor; izleyici yol haritasını bilmiyor, orta kısımda nerede olduğunu kaybediyor.
+  - Öneri: Add a signpost: 'Three areas of evidence: streaks, shrinking, and volcanism.' Then use 'the second' and 'the third' as already done.
+- **minor** — "Be careful here. These are conference abstracts. They are not peer reviewed papers."
+  - Sorun: Üçüncü kez art arda temkin vurgusu (Now the caution / Plausible, not proven / Be careful here) ritmi kalıplaştırıyor.
+  - Öneri: Vary the third caveat: 'A warning on the source: these are conference abstracts, not peer reviewed papers, and they describe deposits, not eruptions.' One sentence, no 'Be careful here'.
+- **minor** — "[EVIDENCE: Hollows are young]"
+  - Sorun: Süre: metin yaklaşık 1050 kelime, yani 140 wpm ile yaklaşık 7,5 dakika; kanal varsayılanı 10 dakika. Kısa olması bir kusur değil ama gereksiz bölümler budanırken uzunluk sorun olmaz.
+  - Öneri: Do not pad. Keep the length near 7 to 8 minutes after trimming and state the target length in the production notes.
 
 ## Stratejist
 **Önerilen başlık:** Is Mercury Really a Dead Planet? What 2026 Shows
@@ -120,9 +126,10 @@ Ep1-Ep4 (yildizlararasi nesneler, Mars biyoimza, Ay'in kokeni, Gateway) ile konu
 
 Benzediği: Haber/popular-science basliklari: 'Mercury is not a dead planet' (Bern basin bulteni, EarthSky, Discover, IFLScience, Universe Today), Kanalin onceki bolumleri (Ep1-Ep4) ile konu cakismasi yok
 
-**Yayın notları:** YAYIN ZAMANI (varsayim, olcum degil; kanalin henuz verisi yok)
+**Yayın notları:** NOT: Yayin tarihi 5 Aralik'a kaydi; asagidaki Shorts takvimi ve bolum zamanlari eski tarihe gore, yeniden hesaplanmali. Bolum kisaldi (~1.060 kelime), bolum zaman damgalari (chapters) senaryo kesinlesince guncellenmeli.
+YAYIN ZAMANI (varsayim, olcum degil; kanalin henuz verisi yok)
 - Bugun 26 Kasim 2026 = ABD Sukran Gunu (Thanksgiving). Bugun yayinlama: aile gunu, izleme dusuk, haber akisi kalabalik. Ertesi gun Black Friday; ABD izleyicisi evde ve sosyal medyada, hafta sonu boyunca YouTube kullanimi genelde yuksek.
-- ONERI: Cuma 27 Kasim 2026, 12:00 ET. Bu = 09:00 PT = 17:00 UK = 20:00 TR. Kullanilan ofsetler: ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3 (Kasim sonu; ABD ve UK saat degisimleri farkli tarihlerde oldugu icin bu tarihe ozel). 20:00 TR sizin icin de rahat, YouTube Studio'da zamanlamaya gerek yok ama zamanlamak yine de guvenli olur (yayindan 10-15 dk once Public olacak sekilde 'Schedule').
+- EDITOR KARARI: Cumartesi 5 Aralik 2026, 13:00 ET = 10:00 PT = 18:00 UK = 21:00 TR (ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3). Onceki oneri (27 Kasim) gecersiz. Kullanilan ofsetler: ET UTC-5, PT UTC-8, UK UTC+0, TR UTC+3 (Kasim sonu; ABD ve UK saat degisimleri farkli tarihlerde oldugu icin bu tarihe ozel). 21:00 TR sizin icin de rahat, YouTube Studio'da zamanlamaya gerek yok ama zamanlamak yine de guvenli olur (yayindan 10-15 dk once Public olacak sekilde 'Schedule').
 - Gerekce: ABD Dogu kiyisi ogle arasi, Bati kiyisi sabah; UK aksam. Hafta sonu oncesi ilk 24-48 saat sinyalini toplamak icin uygun. Sali/Persembe 14:00-16:00 ET gibi alternatifler de ayni derecede olasi; bu da bir tahmin.
 - BepiColombo varis haberi 21 Kasim'dan taze; geciktirmek konuyu eskitir, bu yuzden Cuma onerildi.
 - Kanalda veri olusunca: YouTube Analytics > Audience > 'When your viewers are on YouTube' ve ulke dagilimini (ABD payi) kontrol edip saati bu verilerle degistirin; bu varsayimlari silin.
@@ -152,6 +159,8 @@ Bu da varsayim; ilk veriler gelince Analytics'e gore ayarlayin.
 
 In 2026, new studies added to a decade of hints that Mercury may not be fully dead. Only one speaks directly to recent activity. Here is what each one shows, and what it does not.
 BepiColombo entered orbit around Mercury on 21 November 2026. We go through bright streaks, young hollows, a shrinking crust and volcanism hints, and ask what the spacecraft can actually test.
+
+Orbit details: BepiColombo entered orbit on 21 November 2026 (from 18:24 UTC). A software glitch put the spacecraft into safe mode and cut the braking burn short, so the orbit is about 75 hours instead of the planned 58. ESA says no extra thruster burns are needed. Source (ESA): https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury
 
 Chapters
 00:00 A new spacecraft at a quiet planet
