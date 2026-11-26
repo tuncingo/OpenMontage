@@ -1,0 +1,62 @@
+{
+"overlays": [
+{"scene_id":2,"text":"FIVE SUSPECTS","position":"center","style":"headline","in_s":3.5,"out_s":8},
+{"scene_id":6,"text":"About 5% water by mass","position":"center","style":"number","in_s":3,"out_s":8.5},
+{"scene_id":9,"text":"-163 °C","position":"center","style":"number","in_s":1.5,"out_s":6.5},
+{"scene_id":10,"text":"About 40,000 km²","position":"center","style":"number","in_s":2.5,"out_s":6.5},
+{"scene_id":11,"text":"SUSPECT ONE: COMETS","position":"lower-third","style":"headline","in_s":2.5,"out_s":6.5},
+{"scene_id":18,"text":"SUSPECT TWO: ASTEROIDS","position":"lower-third","style":"headline","in_s":2.5,"out_s":4.8},
+{"scene_id":21,"text":"SUSPECT THREE: THE MOON","position":"lower-third","style":"headline","in_s":0.3,"out_s":2.8},
+{"scene_id":21,"text":"4 to 2 billion years ago","position":"center","style":"number","in_s":3.8,"out_s":6.8},
+{"scene_id":23,"text":"0.1 percent","position":"center","style":"number","in_s":3,"out_s":8.5},
+{"scene_id":28,"text":"SUSPECT FOUR: THE SUN","position":"lower-third","style":"headline","in_s":3.5,"out_s":6.8},
+{"scene_id":29,"text":"2 trillion per m² per second","position":"center","style":"number","in_s":3.5,"out_s":8.5},
+{"scene_id":31,"text":"1,100 to 2,500 ppm hydrogen","position":"center","style":"number","in_s":4.5,"out_s":8.8},
+{"scene_id":34,"text":"8 months per molecular layer","position":"center","style":"number","in_s":3.5,"out_s":8.5},
+{"scene_id":36,"text":"400 K needed, about 110 K here","position":"center","style":"number","in_s":2.5,"out_s":5.8},
+{"scene_id":39,"text":"SUSPECT FIVE: EARTH","position":"lower-third","style":"headline","in_s":0.5,"out_s":3.5},
+{"scene_id":44,"text":"3,500 km³ or more","position":"center","style":"number","in_s":3,"out_s":7.5},
+{"scene_id":51,"text":"More than 10% covered","position":"center","style":"number","in_s":4,"out_s":8.5},
+{"scene_id":53,"text":"Cold trap: about 500 million years","position":"lower-third","style":"label","in_s":4.5,"out_s":8.8},
+{"scene_id":56,"text":"Below 20 to 30% by weight","position":"center","style":"number","in_s":4,"out_s":9.5},
+{"scene_id":59,"text":"Below 1 percent","position":"center","style":"number","in_s":4.5,"out_s":8.8},
+{"scene_id":69,"text":"Now expected: 2027","position":"center","style":"number","in_s":5,"out_s":8.8}
+],
+"evidence_tracker": [
+{"scene_id":6,"count":1,"label":"LCROSS plume water"},
+{"scene_id":13,"count":2,"label":"Comet chemical match"},
+{"scene_id":23,"count":3,"label":"Outgassing estimate"},
+{"scene_id":31,"count":4,"label":"Chang'e-5 hydrogen"},
+{"scene_id":41,"count":5,"label":"Kaguya oxygen ions"},
+{"scene_id":48,"count":6,"label":"Slow ice supply model"},
+{"scene_id":55,"count":7,"label":"ShadowCam surface survey"}
+],
+"thumbnail": {
+"headline": "Whose Water?",
+"layout": "Tek odak: Ay'in guney kutbundaki golgeli bir krater, neredeyse siyah zeminde, sag/alt yarida. Kraterin icinde ince teal kenar isigi ve tek bir muted amber nokta (buz). Sol ust yarida buyuk, ince, buz beyazi 'Whose Water?' yazisi; telefonda okunur. Bol bos koyu alan, ok, yuz ya da ek yazi yok.",
+"image_prompt": "Deep permanently shadowed lunar polar crater seen from low orbit, near-black background (#05070C), crater floor faintly lit by a thin teal rim light, a tiny muted amber glow at one spot suggesting hidden ice, sparse drifting stars, large empty dark space on the left for a headline, restrained and scientific, photorealistic, no text, no logos, no people",
+"text_color": "#F2F5FF",
+"accent_color": "#D9A25B"
+},
+"cover_concepts": [
+{
+"type": "number",
+"headline": "Five Suspects",
+"canva_brief": "1280x720 landscape, ground near-black #05070C. Focal subject: a row of five thin hairline circles in teal #62C2CF, evenly spaced across the middle band, each about 110 px wide; leave one circle empty and outlined in muted amber #D9A25B to signal that no verdict has been reached. Upload a real NASA image of the Moon's south polar region (for example an LRO view of a shadowed crater; the scene plan gives no nasa_id, so search the NASA Image Library for 'Lunar Reconnaissance Orbiter south pole') and place it darkened to about 25 percent brightness behind the circles; never generate a look-alike of a real mission. Put the headline 'Five Suspects' top-left in ice-white #F2F5FF, Inter Medium, very large (at least 130 px) so it stays readable at phone size. Mood: quiet, precise, an open case file, not a poster. Keep a wide margin of dark space around the circles. No extra text, no logos, no faces.",
+"accuracy_note": "Dayanak: Senaryoda bes kaynak (kuyruklu yildizlar, asteroitler, Ay volkanlari, gunes ruzgari, Dunya) tek tek incelenir ve hicbiri kesin suclu ilan edilmez."
+},
+{
+"type": "mystery",
+"headline": "Whose Water Is It?",
+"canva_brief": "1280x720 landscape, ground near-black #05070C. Focal subject: a deep, shadowed lunar polar crater in the lower right third, with one small muted amber #D9A25B dot inside it marking hidden ice, and a thin teal #62C2CF hairline leading from the dot toward the empty dark space at left. Use a real NASA image of Cabeus or another south polar crater as the base (search the NASA Image Library for 'LCROSS Cabeus' or 'LRO south pole'; no nasa_id is given in the scene plan), darkened and cropped so the crater floor stays almost black. Place the headline 'Whose Water Is It?' in ice-white #F2F5FF, Inter Medium, on two lines at the left, at least 110 px tall so it reads on a phone. Mood: an unresolved question, calm and curious, no threat, no question-mark graphics. No extra text, no logos, no faces.",
+"accuracy_note": "Dayanak: Ay'in kutup buzunun kaynagi hala tartismali; senaryoya gore polar buzda agir hidrojen orani hic olculmedi."
+},
+{
+"type": "clean",
+"headline": "Ice in the Dark",
+"canva_brief": "1280x720 landscape, ground near-black #05070C with a very faint drifting star field. Focal subject: a single real NASA image of a permanently shadowed south polar crater (LCROSS/Cabeus or LRO; the scene plan lists no nasa_id, so search the NASA Image Library and use the real image, never a generated look-alike), small and placed in the right third, with at least 60 percent of the frame left as empty dark space. Add one hairline teal #62C2CF line running from the crater toward the left, ending in a small muted amber #D9A25B tick labelled '-163 °C' in Inter Medium. Put the headline 'Ice in the Dark' in ice-white #F2F5FF, Inter Medium, left-aligned in the dark space, large enough to read at phone size. Mood: restrained, quiet, like a scientific figure. No extra text, no logos, no faces.",
+"accuracy_note": "Dayanak: Kalici golgeli kraterlerde yaklasik 110 kelvin (-163 C) veya daha soguk sicaklikla buz tutulur; senaryoda bu rakam gecer."
+}
+],
+"design_notes": "Kaplama az tutuldu: 21 overlay, yalnizca rakamlar (yuzde 5 su, -163 C, 40.000 km2, 0.1 yuzde, ppm araligi, 3.500 km3, 2027) ve bes 'SUSPECT' alt basligi icin. Hepsi en fazla 6 kelime, en az 64 px, guvenli kenar icinde; fotograf uzerinde yumusak koyu perde. Kanit sayaci sadece evidence_update true olan 7 sahnede (6, 13, 23, 31, 41, 48, 55), sayac 1'den 7'ye. Tahmin ve tavan degerleri ('About', 'or more', 'Below') ifadeyle belirtildi, yuvarlama yok. Gercek gorev gorselleri icin nasa_id sahne planinda yok; kapak brief'leri gercek NASA/LRO/LCROSS gorselini aramayi soyler, benzeri uretmeyi yasaklar. Bolum dosyasinda belirsiz sahnelerde 'Illustration' etiketi isleyiciye birakildi."
+}
