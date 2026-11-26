@@ -15,7 +15,7 @@
   "music_fade_in_s": 2.0,
   "music_fade_out_s": 3.0,
   "music_loop_xfade_s": 4.0,
-  "shorts_min": 4,
+  "shorts_min": 3,
   "shorts_max": 5,
   "short_min_s": 20,
   "short_max_s": 59,

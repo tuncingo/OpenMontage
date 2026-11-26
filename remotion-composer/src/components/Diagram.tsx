@@ -52,7 +52,7 @@ const Frame: React.FC<{ spec: DiagramSpec; children: React.ReactNode; transparen
         ) : null}
         {children}
         {spec.illustration ? (
-          <Txt x={X0} y={960} fill={GREY} tracking={6} size={36} opacity={prog(frame, 30, 20)}>
+          <Txt x={X0} y={960} fill="#C3CADB" tracking={6} size={36} opacity={prog(frame, 22, 14)}>
             ILLUSTRATION
           </Txt>
         ) : null}
@@ -89,15 +89,20 @@ const Orbiter: React.FC<{ x: number; y: number; color: string; s?: number; opaci
 const Arrival: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   const f = useCurrentFrame();
   const burn = spec.burn === true;
-  const cx = 1300, cy = 600, R = 120;
-  const approach = "M 200 430 C 560 430 760 530 1000 560 C 1140 585 1190 640 1270 700";
-  const orbit = `M ${cx - 360} ${cy + 20} a 360 200 -12 1 0 720 -40 a 360 200 -12 1 0 -720 40`;
+  const cx = burn ? 1300 : 1440, cy = burn ? 600 : 700, R = burn ? 120 : 90;
+  const approach = burn
+    ? "M 200 430 C 560 430 760 530 1000 560 C 1140 585 1190 640 1270 700"
+    : "M 200 880 C 700 880 1000 830 1340 740";
+  const orbit = burn
+    ? `M ${cx - 360} ${cy + 20} a 360 200 -12 1 0 720 -40 a 360 200 -12 1 0 -720 40`
+    : `M ${cx - 270} ${cy + 10} a 270 150 -12 1 0 540 -20 a 270 150 -12 1 0 -540 20`;
   const a = prog(f, 14, 50);
   const o = prog(f, 56, 50);
   const t = (f / 150) % 1;
   const ang = 2 * Math.PI * t - Math.PI / 2;
-  const ex = cx + 360 * Math.cos(ang) * Math.cos(-0.21) - 200 * Math.sin(ang) * Math.sin(-0.21);
-  const ey = cy + 20 + 360 * Math.cos(ang) * Math.sin(-0.21) + 200 * Math.sin(ang) * Math.cos(-0.21);
+  const rx = burn ? 360 : 270, ry = burn ? 200 : 150;
+  const ex = cx + rx * Math.cos(ang) * Math.cos(-0.21) - ry * Math.sin(ang) * Math.sin(-0.21);
+  const ey = cy + 20 + rx * Math.cos(ang) * Math.sin(-0.21) + ry * Math.sin(ang) * Math.cos(-0.21);
   return (
     <>
       <Planet cx={cx} cy={cy} r={R} p={prog(f, 6, 30)} />
@@ -123,7 +128,7 @@ const Arrival: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
 const Sphere: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   const f = useCurrentFrame();
   const cx = 960, cy = 600, R = 230;
-  const rot = (f / 360) * Math.PI * 2 * 0.6;
+  const rot = (f / 360) * Math.PI * 2 * 1.4;
   const meridians = [0, 1, 2, 3, 4, 5].map((k) => Math.abs(Math.cos(rot + (k * Math.PI) / 6)));
   const gx = cx + R * 0.78 * Math.sin(rot * 1.0 + 0.8);
   const vis = Math.cos(rot * 1.0 + 0.8) > 0;
@@ -177,8 +182,12 @@ const CraterSection: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
         <line key={i} x1={1010 + i * 42} y1={690 + i * 22} x2={1036 + i * 42} y2={716 + i * 22} stroke={AMBER} strokeWidth={5} strokeLinecap="round"
           opacity={prog(f, 50 + i * 6, 14)} />
       ))}
-      <Txt x={X0} y={860} fill={WHITE} weight={200} size={120} tracking={0} opacity={prog(f, 40, 24)}>about 400</Txt>
-      <Txt x={X0} y={920} fill={AMBER} tracking={9} opacity={prog(f, 54, 20)}>BRIGHT STREAKS</Txt>
+      {spec.numeral === false ? null : (
+        <>
+          <Txt x={X0} y={860} fill={WHITE} weight={200} size={120} tracking={0} opacity={prog(f, 40, 24)}>about 400</Txt>
+          <Txt x={X0} y={920} fill={AMBER} tracking={9} opacity={prog(f, 54, 20)}>BRIGHT STREAKS</Txt>
+        </>
+      )}
     </>
   );
 };
@@ -268,7 +277,7 @@ const OrbiterCamera: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   return (
     <>
       <PathDraw d={`M ${cx - R} ${cy} A ${R} ${R} 0 0 1 ${cx + R} ${cy}`} p={prog(f, 4, 40)} width={3} />
-      <Orbiter x={cx - 260} y={420} color={TEAL} s={1.1} opacity={prog(f, 14, 20)} />
+      <Orbiter x={cx - 260} y={420} color={TEAL} s={1.7} opacity={prog(f, 14, 20)} />
       <polygon points={`${cx - 260},440 ${tx - 70},${ty - 4} ${tx + 70},${ty - 4}`} fill={AMBER} opacity={0.18 * prog(f, 40, 24)} stroke={AMBER} strokeWidth={2} />
       {target === "trenches"
         ? [0, 1, 2, 3, 4].map((i) => <line key={i} x1={tx - 60 + i * 26} y1={ty + 6} x2={tx - 40 + i * 26} y2={ty + 30} stroke={TEAL} strokeWidth={3} opacity={prog(f, 56 + i * 4, 10)} />)
@@ -298,9 +307,9 @@ const OrbitersBeside: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   return (
     <>
       <Planet cx={1380} cy={620} r={150} p={prog(f, 4, 30)} />
-      <Orbiter x={760} y={500} color={TEAL} opacity={prog(f, 20, 18)} />
+      <Orbiter x={760} y={500} color={TEAL} s={1.6} opacity={prog(f, 20, 18)} />
       <Txt x={760} y={600} anchor="middle" fill={TEAL} tracking={5} opacity={prog(f, 30, 16)}>EUROPEAN</Txt>
-      <Orbiter x={760} y={780} color={AMBER} s={0.8} opacity={prog(f, 36, 18)} />
+      <Orbiter x={760} y={780} color={AMBER} s={1.3} opacity={prog(f, 36, 18)} />
       <Txt x={760} y={860} anchor="middle" fill={AMBER} tracking={5} opacity={prog(f, 46, 16)}>JAPANESE</Txt>
       <Txt x={1380} y={870} anchor="middle" fill={WHITE} weight={400} tracking={5} opacity={prog(f, 70, 16)}>SECOND TO ORBIT</Txt>
     </>
@@ -315,7 +324,7 @@ const Laser: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   return (
     <>
       <PathDraw d={surf} p={prog(f, 4, 40)} width={3} />
-      <Orbiter x={sx} y={420} color={TEAL} opacity={prog(f, 10, 16)} />
+      <Orbiter x={sx} y={420} color={TEAL} s={1.6} opacity={prog(f, 10, 16)} />
       <line x1={sx} y1={440} x2={sx} y2={790} stroke={AMBER} strokeWidth={3} opacity={prog(f, 40, 12)} />
       <Txt x={X0} y={880} fill={AMBER} tracking={9} opacity={prog(f, 50, 16)}>LASER ALTIMETER</Txt>
     </>
@@ -330,7 +339,8 @@ const OutlineCompare: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
     <>
       <PathDraw d={blob(0, 0)} p={prog(f, 4, 40)} width={4} />
       <PathDraw d={blob(14, 8)} p={prog(f, 40, 40)} width={4} color={AMBER} />
-      <Txt x={960} y={940} anchor="middle" fill={WHITE} weight={400} tracking={7} opacity={prog(f, 80, 16)}>COMPARE</Txt>
+      <Txt x={640} y={900} anchor="middle" fill={TEAL} tracking={6} opacity={prog(f, 50, 16)}>MESSENGER</Txt>
+      <Txt x={1280} y={900} anchor="middle" fill={AMBER} tracking={6} opacity={prog(f, 70, 16)}>SECOND LOOK</Txt>
     </>
   );
 };
@@ -368,11 +378,11 @@ const HollowShift: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
 // 16) orbiters moving apart --------------------------------------------------------
 const OrbitersApart: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   const f = useCurrentFrame();
-  const d = prog(f, 30, 70) * 360;
+  const d = prog(f, 30, 70) * 250;
   return (
     <>
-      <Orbiter x={960 - 90 - d} y={560} color={TEAL} opacity={prog(f, 6, 16)} />
-      <Orbiter x={960 + 90 + d} y={560} color={AMBER} s={0.8} opacity={prog(f, 6, 16)} />
+      <Orbiter x={960 - 160 - d} y={560} color={TEAL} s={2} opacity={prog(f, 6, 16)} />
+      <Orbiter x={960 + 160 + d} y={560} color={AMBER} s={1.6} opacity={prog(f, 6, 16)} />
       <Txt x={960} y={860} anchor="middle" fill={WHITE} weight={300} size={64} tracking={6} opacity={prog(f, 60, 20)}>9 TO 10 DECEMBER</Txt>
     </>
   );

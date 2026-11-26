@@ -88,6 +88,15 @@ def drop_legacy_tables() -> None:
     FIT_CONTAIN.clear()
 
 
+def tidy_credit(text: str) -> str:
+    """'NASA/NASA' -> 'NASA' (source lines sometimes repeat the agency)."""
+    out = []
+    for part in text.split("/"):
+        if not out or out[-1].strip().lower() != part.strip().lower():
+            out.append(part)
+    return "/".join(out)
+
+
 def media_size(path: str) -> tuple[int, int] | None:
     """(width, height) of a photo or clip via ffprobe."""
     try:
@@ -332,9 +341,9 @@ def main() -> None:
         proc = PROCEDURAL.get(sid) if (not src and not video and not full_gfx) else None
         credit = ""
         if src and s["image"].get("credit"):
-            credit = "Image: " + s["image"]["credit"].split(" \u2014 ")[0].strip()
+            credit = "Image: " + tidy_credit(s["image"]["credit"].split(" \u2014 ")[0].strip())
         elif video and v.get("credit"):
-            credit = "Video: " + v["credit"].split(" \u2014 ")[0].strip()
+            credit = "Video: " + tidy_credit(v["credit"].split(" \u2014 ")[0].strip())
         if sid in GRAPHIC_CREDITS:
             credit = GRAPHIC_CREDITS[sid]
         if sid in CREDIT_APPEND:

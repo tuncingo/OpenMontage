@@ -600,6 +600,15 @@ def cmd_indir(kod):
         if c:
             is_listesi.append((sid, c, s))
 
+    # scenes that are no longer chosen (e.g. after a de-duplication pass) must not keep an old file in assets/:
+    # paketle would pick it up again
+    gecerli = {sid for sid, _, _ in is_listesi}
+    for eski in glob.glob(os.path.join(d, "assets", "scene_*.*")):
+        m = re.match(r"scene_(\d+)\.", os.path.basename(eski))
+        if m and int(m.group(1)) not in gecerli:
+            os.remove(eski)
+            print(f"TEMİZLİK: eski dosya silindi {os.path.relpath(eski, d)}")
+
     def isle(t):
         sid, c, s = t
         for eski in glob.glob(os.path.join(d, "assets", f"scene_{sid:03d}.*")):
