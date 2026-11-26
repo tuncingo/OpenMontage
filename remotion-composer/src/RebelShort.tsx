@@ -17,6 +17,7 @@ import { loadInterFamily } from "./lib/localFonts";
 import { presentationFor, transitionFrames } from "./lib/episodeTransitions";
 import { ProceduralScene } from "./components/ProceduralScene";
 import type { SchematicSpec } from "./components/Schematic";
+import { DiagramVertical, DiagramSpec } from "./components/Diagram";
 import { SchematicVertical, SchematicVerticalOverlay } from "./components/SchematicVertical";
 import { AMBER, GREY, ICE, NAVY, TEAL } from "./components/Kinetic";
 import { EpisodeOverlay, EpisodeProps, EpisodeScene } from "./RebelEpisode";
@@ -145,6 +146,13 @@ const ShortVisual: React.FC<{ scene: EpisodeScene; durationInFrames: number }> =
       <>
         {backdrop}
         <SchematicVertical spec={scene.graphic as SchematicSpec} />
+      </>
+    );
+  } else if (scene.graphic?.kind === "diagram") {
+    body = (
+      <>
+        {backdrop}
+        <DiagramVertical spec={scene.graphic as DiagramSpec} />
       </>
     );
   } else if (scene.procedural) {
@@ -402,7 +410,8 @@ export const RebelShort: React.FC<ShortProps> = ({ fps, scenes, narration, hook,
 
       {captions.map((c, i) => {
         const a = Math.round(c.from_s * fps);
-        const b = Math.round(c.to_s * fps);
+        // no captions under the "Full episode" end card: cut every caption at the card's start
+        const b = Math.min(Math.round(c.to_s * fps), durationInFrames - endF);
         if (b - a < 6) return null;
         return (
           <Sequence key={`k${i}`} from={a} durationInFrames={b - a} layout="none">

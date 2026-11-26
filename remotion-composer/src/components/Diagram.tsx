@@ -1,6 +1,10 @@
 import React from "react";
 import { AbsoluteFill, useCurrentFrame, useVideoConfig } from "remotion";
-import { AMBER, GREY, INK, TEAL, WHITE, Txt, font, prog } from "./Schematic";
+import { AMBER, GREY, INK, TEAL, WHITE, Txt as BaseTxt, prog } from "./Schematic";
+
+/** When true (vertical Shorts) the small in-diagram labels are not drawn: the headline is set big by DiagramVertical. */
+const QuietCtx = React.createContext(false);
+const Txt: React.FC<React.ComponentProps<typeof BaseTxt>> = (p) => (React.useContext(QuietCtx) ? null : <BaseTxt {...p} />);
 
 /**
  * Generic, data-driven line diagrams for episodes without a hand-built schematic (see
@@ -30,11 +34,11 @@ const X0 = 192;
 const W = 1536;
 const sp = (spec: DiagramSpec, k: string, d: string) => (typeof spec[k] === "string" ? (spec[k] as string) : d);
 
-const Frame: React.FC<{ spec: DiagramSpec; children: React.ReactNode }> = ({ spec, children }) => {
+const Frame: React.FC<{ spec: DiagramSpec; children: React.ReactNode; transparent?: boolean }> = ({ spec, children, transparent }) => {
   const frame = useCurrentFrame();
   const o = prog(frame, 4, 18);
   return (
-    <AbsoluteFill style={{ backgroundColor: INK }}>
+    <AbsoluteFill style={{ backgroundColor: transparent ? "transparent" : INK }}>
       <svg viewBox="0 0 1920 1080" width="100%" height="100%">
         {spec.label ? (
           <Txt x={X0} y={300} fill={AMBER} tracking={9} opacity={o}>
@@ -388,11 +392,11 @@ const Labels3: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   );
 };
 
-export const Diagram: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+export const Diagram: React.FC<{ spec: DiagramSpec; transparent?: boolean }> = ({ spec, transparent }) => {
   useVideoConfig();
   const L = spec.layout;
   return (
-    <Frame spec={spec}>
+    <Frame spec={spec} transparent={transparent}>
       {L === "arrival" ? <Arrival spec={spec} /> : null}
       {L === "sphere" ? <Sphere spec={spec} /> : null}
       {L === "crater_streaks" ? <CraterStreaks spec={spec} /> : null}
@@ -411,5 +415,70 @@ export const Diagram: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
       {L === "orbiters_apart" ? <OrbitersApart spec={spec} /> : null}
       {L === "labels3" ? <Labels3 spec={spec} /> : null}
     </Frame>
+  );
+};
+
+
+const LEFT = 60;
+const BIG = 64;
+
+/**
+ * Vertical (1080x1920) version for the Shorts: transparent, drawn over the darkened backdrop the Short supplies.
+ * Headline at 64 px, the line drawing scaled into the safe zone without its tiny labels; the text-only layouts
+ * (table, three labels) are set directly in large type.
+ */
+export const DiagramVertical: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  const L = spec.layout;
+  const head = (spec.label as string | undefined) ?? "";
+  const o = prog(f, 4, 18);
+  const shadow: React.CSSProperties = { filter: "drop-shadow(0 0 14px rgba(5,7,12,0.85))" };
+  if (L === "table") {
+    const cols = (spec.columns as { head: string; lines: string[]; color?: string }[]) ?? [];
+    return (
+      <AbsoluteFill style={shadow}>
+        <svg width={1080} height={1920} viewBox="0 0 1080 1920">
+          <BaseTxt x={LEFT} y={300} size={BIG} fill={AMBER} tracking={5} opacity={o}>{head}</BaseTxt>
+          {cols.map((c, i) => {
+            const y = 480 + i * 330;
+            const color = c.color === "amber" ? AMBER : TEAL;
+            return (
+              <g key={i} opacity={prog(f, 10 + i * 18, 20)}>
+                <line x1={LEFT} y1={y + 20} x2={840} y2={y + 20} stroke={color} strokeWidth={4} />
+                <BaseTxt x={LEFT} y={y} size={BIG} fill={color} tracking={5}>{c.head}</BaseTxt>
+                {c.lines.map((ln, j) => <BaseTxt key={j} x={LEFT} y={y + 100 + j * 64} size={52} weight={400} tracking={1} fill={WHITE}>{ln}</BaseTxt>)}
+              </g>
+            );
+          })}
+        </svg>
+      </AbsoluteFill>
+    );
+  }
+  if (L === "labels3") {
+    const items = (spec.items as string[]) ?? [];
+    return (
+      <AbsoluteFill style={shadow}>
+        <svg width={1080} height={1920} viewBox="0 0 1080 1920">
+          {items.map((t, i) => {
+            const last = i === items.length - 1;
+            return <BaseTxt key={i} x={LEFT} y={560 + i * 190} size={150} weight={last ? 300 : 200} tracking={4} fill={last ? AMBER : WHITE} opacity={prog(f, 8 + i * 22, 20)}>{t}</BaseTxt>;
+          })}
+        </svg>
+      </AbsoluteFill>
+    );
+  }
+  const S = 0.5; // 1920 x 1080 → 960 x 540 band
+  return (
+    <AbsoluteFill style={shadow}>
+      <svg width={1080} height={1920} viewBox="0 0 1080 1920">
+        <BaseTxt x={LEFT} y={300} size={BIG} fill={AMBER} tracking={5} opacity={o}>{head}</BaseTxt>
+        {spec.illustration ? <BaseTxt x={LEFT} y={1130} size={48} fill={GREY} tracking={5} opacity={prog(f, 30, 20)}>ILLUSTRATION</BaseTxt> : null}
+      </svg>
+      <div style={{ position: "absolute", left: LEFT, top: 460, width: 1920, height: 1080, transformOrigin: "0 0", transform: `scale(${S})` }}>
+        <QuietCtx.Provider value={true}>
+          <Diagram spec={{ ...spec, label: undefined, sub: undefined, illustration: false }} transparent />
+        </QuietCtx.Provider>
+      </div>
+    </AbsoluteFill>
   );
 };
