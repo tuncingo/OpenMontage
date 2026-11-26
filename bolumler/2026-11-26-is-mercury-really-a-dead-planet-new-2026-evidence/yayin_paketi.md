@@ -4,6 +4,13 @@ Bölüm kodu: `2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence`. Ko
 
 ## 1. Ana video
 
+### Yayın takvimi
+- **Ana video:** Cuma 27 Kasım 2026 — 21:00 TR · 13:00 ET · 10:00 PT · 18:00 UK
+- Short 1: Cumartesi 28 Kasım 2026 — 20:00 TR · 12:00 ET · 09:00 PT · 17:00 UK
+- Short 2: Pazar 29 Kasım 2026 — 20:00 TR · 12:00 ET · 09:00 PT · 17:00 UK
+- Short 3: Pazartesi 30 Kasım 2026 — 20:00 TR · 12:00 ET · 09:00 PT · 17:00 UK
+_Ofsetler: TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0. Saat seçimi varsayımdır, ölçüm değil; 27 Kasım Black Friday, 30 Kasım Cyber Monday._
+
 ### Başlık
 ```
 Is Mercury Really a Dead Planet? What 2026 Shows

@@ -923,6 +923,13 @@ def cmd_yayin(kod):
     if not st:
         eksik.append("strateji.json yok (/yeni-bolum çalıştırılmadı)")
     else:
+        ps = st.get("publish_schedule")
+        if ps:
+            md += ["### Yayın takvimi", f"- **Ana video:** {ps.get('main', '')}"]
+            md += [f"- {x}" for x in ps.get("shorts", [])]
+            if ps.get("note"):
+                md.append(f"_{ps['note']}_")
+            md.append("")
         md += ["### Başlık", blok(st.get("recommended_title")), ""]
         if st.get("titles"):
             md += ["Alternatifler: " + " · ".join(f"`{t}`" for t in st["titles"] if t != st.get("recommended_title")), ""]

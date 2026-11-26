@@ -1,6 +1,6 @@
-> **EDİTÖR KARARI: ONAYLANDI** (kurul kararı `needs_human` idi). Tur 3 sonrası editör küçük düzeltmeleri verdi, başyazar uyguladı, yeni hakem turu açılmadı. Yayın: Salı 1 Aralık 2026 21:00 TR.
+> **EDİTÖR KARARI: ONAYLANDI** (kurul kararı `needs_human` idi). Tur 3 sonrası editör küçük düzeltmeleri verdi, başyazar uyguladı, yeni hakem turu açılmadı. Yayın: Cuma 27 Kasım 2026 21:00 TR / 13:00 ET / 10:00 PT.
 
-# Kurul Raporu — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
+# Kurul Raporu — Is Mercury really a dead planet? New 2026 evidence (bright streaks, shrinking, volcanism) and BepiColombo's arrival in orbit on 21 November 2026
 
 **Durum:** ⚠️ SENİN KARARIN GEREKİYOR — 2 turda eşik aşılamadı
 **Bölüm kodu:** `2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence`
@@ -130,11 +130,11 @@ Benzediği: Haber/popular-science basliklari: 'Mercury is not a dead planet' (Be
 
 **Yayın notları:** BOLUM SURESI: Senaryo ~1.010 kelime, 140 kelime/dk ile ~7,2 dk. Chapter zamanlari bolum basina kelime sayarak hesaplandi (ana video ~7:14 civari); gercek sure ses, duraklamalar ve gorsellerle +-%10 kayabilir. Render bitince gercek zamanlari kontrol edip chapter'lari ayarlayin (acik varsayim).
 
-YAYIN ZAMANI (varsayim, olcum degil; kanalin henuz verisi yok)
-- ANA VIDEO: Sali 1 Aralik 2026, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Kullanilan ofsetler: TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0 (ABD yaz saati 1 Kasim'da, UK ise Ekim sonunda bitti; Aralik boyunca ayni ofsetler gecerli).
-- Thanksgiving (26 Kas) ve Black Friday/Cyber Monday (27 ve 30 Kas) gecti; 1 Aralik bu yogun haber ve reklam haftasinin disinda, normal is gunu. ABD'de Dogu kiyisi ogle arasi, Bati kiyisi sabah, UK aksam: iyi bir pencere. Sali/Persembe 14:00-16:00 ET gibi alternatifler de benzer derecede olasi; bu da tahmin.
+YAYIN ZAMANI (editor karari; saat secimi varsayimdir, olcum degil; kanalin henuz verisi yok)
+- ANA VIDEO: Cuma 27 Kasim 2026, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK. Kullanilan ofsetler: TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0 (ABD yaz saati 1 Kasim'da, UK ise Ekim sonunda bitti; Kasim sonu ayni ofsetler gecerli).
+- 27 Kasim = Black Friday (Thanksgiving'in ertesi gunu): ABD izleyicisi evde, ama haber ve reklam akisi yogun. Bu bir risk; YouTube'da Cuma ogle saati yine de makul. Alternatif karsilastirma icin veri yok.
 - 21:00 TR sizin icin de rahat; yine de YouTube Studio'da 'Schedule' ile zamanlayin (kapak ve baslik hazirken 12:45 ET civari Public olacak sekilde ayarlayin; planlanan saat 13:00 ET).
-- BepiColombo varis haberi 21 Kasim'dan; 10 gun gecti ama iki orbiter'in ayrilmasi (9-10 Aralik) haberi yaklasiyor: video bu haberi onden yakalar.
+- BepiColombo yorunge girisi 21 Kasim'da oldu (6 gun once); iki orbiter'in ayrilmasi (9-10 Aralik) haberi yaklasiyor: video bu haberi onden yakalar.
 - Kanalda veri olusunca: YouTube Analytics > Audience > 'When your viewers are on YouTube' ve ulke dagilimini (ABD payi) kontrol edip saati bu verilerle degistirin; bu varsayimlari silin.
 
 PAKETLEME ve KAPAK SIRASI
@@ -153,15 +153,15 @@ SHORTS KESIM FIKIRLERI (zamanlar kelime sayimina gore yaklasik; kesin sahne no'l
 3) ~04:34-05:03: 'So where does that leave the label, dead planet?' ... 'quiet is not the same as finished'. Kanca: 'Dead? Or quiet?'. (~30 sn)
 4) ~02:39-03:24: 'Earlier estimates said up to about sixteen kilometres ... twenty three ... squeezed, not removed' ve 'about the past, not how fast it shrinks now'. Kanca: 'Up to 23 km'.
 
-SHORTS TAKVIMI (VARSAYIM, olcum degil; hepsi TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0)
-- Ana video: Sali 1 Ara, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK
-- Short 1 (hollows): Carsamba 2 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (ana videodan ~1 gun sonra; ayni gun yayinlayip ana videoyu bolmeyin)
-- Short 2 (streaks): Cuma 4 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK
-- Short 3 (dead or quiet): Pazar 6 Ara, 19:00 TR = 11:00 ET = 08:00 PT = 16:00 UK (hafta sonu ABD ogle oncesi)
-- Short 4 (shrinking): Sali 8 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (BepiColombo ayrilma haberi 9-10 Aralik'tan hemen once; bu Short'a ya da ana videoya ayrilma haberini baglayan bir pin ekleyebilirsiniz)
-- Opsiyonel 5. Short: Persembe 10 Ara, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (orbiter ayrilma gunu; yalniz yeni bir kesit varsa).
-- Cakisma: kanalin bu tarihler icin bildigim baska bir yuklemesi yok. Sonraki uzun video bu araliga duserse o gunku Short'u bir gun kaydirin ve Short'u uzun videodan en az birkac saat once ya da sonra koyun.
+SHORTS TAKVIMI (editor karari: 3 Short; saat varsayimdir, olcum degil; hepsi TR UTC+3, ET UTC-5, PT UTC-8, UK UTC+0)
+- Ana video: Cuma 27 Kas, 21:00 TR = 13:00 ET = 10:00 PT = 18:00 UK
+- Short 1: Cumartesi 28 Kas, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK
+- Short 2: Pazar 29 Kas, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK
+- Short 3: Pazartesi 30 Kas, 20:00 TR = 12:00 ET = 09:00 PT = 17:00 UK (Cyber Monday: ABD'de haber ve reklam akisi yogun olabilir)
+- Hangi Short'un hangi gun cikacagi /shorts asamasinda secilen 3 kesite gore eslestirilir; sirayi ana videoda en cok tutan kesitten baslatin.
+- Cakisma: kanalin bu tarihler icin bildigim baska bir yuklemesi yok. Baska bir uzun video bu araliga duserse o gunku Short'u bir gun kaydirin.
 - Bu takvim varsayimdir; ilk veriler gelince Analytics'e gore ayarlayin.
+
 
 ### Açıklama
 
