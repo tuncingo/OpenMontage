@@ -3,8 +3,74 @@
   "media": "photo",
   "scene_duration_s": 6.0,
   "narration": "Think about what it would mean if the edge of a single hollow had moved.",
-  "visual_brief": "Single hollow in tight close-up.",
-  "purpose": "explain",
-  "nasa_query": "Mercury hollow close",
-  "candidates": []
+  "visual_brief": "Colourful cutaway (Mercury Rachmaninoff basin); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury MESSENGER color",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_059/aday_0.jpg",
+      "nasa_id": "PIA13823",
+      "title": "MESSENGER Explores Mercury - In Color",
+      "center": "JPL",
+      "date": "2011-01-25",
+      "description": "MESSENGER Explores Mercury - In Color",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA13823/PIA13823~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA13823/PIA13823~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA13823/PIA13823~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA13823/PIA13823~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_059/aday_1.jpg",
+      "nasa_id": "PIA11219",
+      "title": "Exploring Mercury Surface with MESSENGER Color Images",
+      "center": "JPL",
+      "date": "2008-09-16",
+      "description": "Exploring Mercury Surface with MESSENGER Color Images",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11219/PIA11219~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_059/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001870",
+      "title": "Color Image of Mercury from NASA's MESSENGER Satellite",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA image acquired September 3, 2011 Dominici crater, the very bright crater to the top of this image, exhibits bright rays and contains hollows. This crater lies upon the peak ring of Homer Basin, a very degraded peak ring basin that has been filled by volcanism. This image contains several exampl",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_059/aday_3.jpg",
+      "nasa_id": "PIA11411",
+      "title": "A Close-Up View of Mercury Colors",
+      "center": "JPL",
+      "date": "2008-10-30",
+      "description": "This color context image shows equatorial regions on the side of Mercury seen during NASA MESSENGER’s departure from Mercury on October 6, 2008. Mercury’s true colors are very subtle.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA11411/PIA11411~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA11411/PIA11411~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
 }

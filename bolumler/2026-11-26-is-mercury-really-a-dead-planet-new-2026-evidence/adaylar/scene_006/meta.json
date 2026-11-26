@@ -1,112 +1,78 @@
 {
   "scene_id": 6,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 7.0,
   "narration": "In 2026, new studies added to a decade of hints that Mercury may not be fully dead.",
-  "visual_brief": "Colourful rotating Mercury, enhanced colour surface slowly turning.",
+  "visual_brief": "Colourful cutaway (MESSENGER color mosaic); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury rotation",
+  "nasa_query": "MESSENGER color mosaic",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_0.jpg",
-      "nasa_id": "GSFC_20231116_NSL_Retrograde_Ep51",
-      "title": "NASA Science Live: The Science Behind Your Favorite Planet Being in Retrograde [Episode 51]",
-      "center": "GSFC",
-      "date": "2023-11-16",
-      "description": "Do you groan when you hear of a certain planet going into retrograde? Have you ever wondered what planets in retrograde actually means? Join planetary experts Thursday, Nov. 16, to learn about this fascinating phenomenon and other interesting facts about the orbits of planets. Submit your questions ",
+      "nasa_id": "PIA12842",
+      "title": "Spectacular Color . . . with Better Yet to Come",
+      "center": "JPL",
+      "date": "2010-02-17",
+      "description": "This spectacular color mosaic shows the eastern limb of Mercury as seen by NASA MESSENGER as the spacecraft departed the planet following the mission first Mercury flyby in January 2008.",
       "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20231116_NSL_Retrograde_Ep51/GSFC_20231116_NSL_Retrograde_Ep51~orig.mp4"
-      ],
-      "duration_s": 3280.1,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_1.jpg",
-      "nasa_id": "SVS-13664",
-      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
-      "center": "NASA SVS",
-      "date": "2020-07-16",
-      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
-      "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
-      "duration_s": 4396.7,
-      "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/13664/"
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_2.jpg",
-      "nasa_id": "SVS-3504",
-      "title": "Halloween 2003 Solar Storms: SOHO/EIT and SOHO/LASCO",
-      "center": "NASA SVS",
-      "date": "2008-04-02",
-      "description": "Here is a view of the solar disk in 195 Å ultraviolet light (colored green in this movie) and the Sun's extended atmosphere, or corona, (blue and white in this movie). The corona is visible to the SOHO/LASCO coronagraph instruments, which block the bright disk of the Sun so the significantly fainter",
-      "links": [
-        "https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003504/coronagraphs_stand.HD1080i.01000.jpg"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003504/Halloween2003_corona_1080.mp4",
-      "duration_s": 31.2,
-      "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/3504/"
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_3.jpg",
-      "nasa_id": "KSC-04pd0667",
-      "title": "KSC-04pd0667",
-      "center": "KSC",
-      "date": "2004-03-26",
-      "description": "KENNEDY SPACE CENTER, FLA. -- At Astrotech Space Operations facilities near KSC, the Mercury Surface, Space Environment, Geochemistry and Ranging (MESSENGER) spacecraft is ready for lifting. It is being moved to a turnover fixture that will rotate it for prelaunch testing. Launch is scheduled for Ma",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0667/KSC-04pd0667~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_4.jpg",
-      "nasa_id": "KSC-04pd0666",
-      "title": "KSC-04pd0666",
-      "center": "KSC",
-      "date": "2004-03-26",
-      "description": "KENNEDY SPACE CENTER, FLA. -- Workers at Astrotech Space Operations facilities near KSC get ready to attach an overhead crane to the Mercury Surface, Space Environment, Geochemistry and Ranging (MESSENGER) spacecraft before lifting. They are moving it to a turnover fixture that will rotate it for pr",
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_1.jpg",
+      "nasa_id": "PIA19216",
+      "title": "All About That Basin",
+      "center": "JPL",
+      "date": "2015-02-25",
+      "description": "This mosaic of Caloris basin is an enhanced-color composite overlain on a monochrome mosaic featured in a previous post. The color mosaic is made up of WAC images obtained when both the spacecraft and the Sun were overhead, conditions best for discerning variations in albedo, or brightness. The mono",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-04pd0666/KSC-04pd0666~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19216/PIA19216~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19216/PIA19216~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19216/PIA19216~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19216/PIA19216~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19216/PIA19216~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_2.jpg",
+      "nasa_id": "PIA19285",
+      "title": "Gravity Anomalies",
+      "center": "JPL",
+      "date": "2015-04-15",
+      "description": "Analysis of radio tracking data have enabled maps of the gravity field of Mercury to be derived. In this image, overlain on a mosaic obtained by MESSENGER's Mercury Dual Imaging System and illuminated with a shape model determined from stereo-photoclinometry, Mercury's gravity anomalies are depicted",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_006/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000764",
+      "title": "It's All About That Basin",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This mosaic of Caloris basin is an enhanced-color composite overlain on a monochrome mosaic featured in a previous post. The color mosaic is made up of WAC images obtained when both the spacecraft and the Sun were overhead, conditions best for discerning variations in albedo, or brightness. The mono",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000764/GSFC_20171208_Archive_e000764~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000764/GSFC_20171208_Archive_e000764~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000764/GSFC_20171208_Archive_e000764~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000764/GSFC_20171208_Archive_e000764~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000764/GSFC_20171208_Archive_e000764~orig.png"
       ],
       "media": "photo",
       "source": "nasa"

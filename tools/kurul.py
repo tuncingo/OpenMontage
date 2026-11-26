@@ -426,6 +426,13 @@ def cmd_adaylar(kod):
     a = ayarlar()
     plan = oku_json(os.path.join(d, "sahne_plani.json"))
     sahneler = plan["scenes"]
+    # KURUL_SAHNELER="1,2,6-9": search candidates only for these scenes (other scenes' candidates stay untouched)
+    if os.environ.get("KURUL_SAHNELER"):
+        want = set()
+        for part in os.environ["KURUL_SAHNELER"].split(","):
+            lo, _, hi = part.partition("-")
+            want.update(range(int(lo), int(hi or lo) + 1))
+        sahneler = [x for x in sahneler if int(x["id"]) in want]
     min_s = float(a.get("video_min_s", 2))
 
     def isle(s):

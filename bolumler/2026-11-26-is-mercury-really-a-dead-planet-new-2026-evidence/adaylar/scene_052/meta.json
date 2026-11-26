@@ -3,104 +3,96 @@
   "media": "video",
   "scene_duration_s": 5.0,
   "narration": "That is the kind of camera that could catch one changing.",
-  "visual_brief": "BepiColombo orbiting Mercury, observing.",
+  "visual_brief": "Colourful cutaway (Pillars of Creation); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury orbiter animation",
+  "nasa_query": "Pillars of Creation",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_0.jpg",
-      "nasa_id": "JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological",
-      "title": "NASA’s Psyche Mission Media Reel",
-      "center": "JPL",
-      "date": "2023-08-09",
-      "description": "B-roll for media. NASA's Psyche mission, scheduled to launch in October 2023, is the first to a metal-rich asteroid (also named Psyche). This reel includes animations of the Psyche spacecraft and asteroid, and footage of engineers in clean rooms at NASA’s Jet Propulsion Laboratory in Southern Califo",
+      "nasa_id": "The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022",
+      "title": "The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022",
+      "center": "HQ",
+      "date": "2022-10-21",
+      "description": "A new look at a “star factory,” practicing Moonwalks here on Earth, and an Earthly assist for a NASA spacecraft … a few of the stories to tell you about – This Week at NASA!",
       "links": [
-        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~large.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~medium.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~small.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~thumb.jpg"
+        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~large.jpg",
+        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~medium.jpg",
+        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~small.jpg",
+        "https://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~large.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~medium.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~mobile.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~small.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~preview.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological/JPL-20230809-PSYCHEf-0001-Psyche Media Reel Chronological~orig.mp4"
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~large.mp4",
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~medium.mp4",
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~mobile.mp4",
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~small.mp4",
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~preview.mp4",
+        "http://images-assets.nasa.gov/video/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022/The Webb Space Telescope’s New Look at a “Star Factory” on This Week @NASA – October 21, 2022~orig.mp4"
       ],
-      "duration_s": 1266.8,
-      "width": 3840,
-      "height": 2160
+      "duration_s": 100.9,
+      "width": 1920,
+      "height": 1080
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_1.jpg",
-      "nasa_id": "SVS-13664",
-      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
-      "center": "NASA SVS",
-      "date": "2020-07-16",
-      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
+      "nasa_id": "JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe",
+      "title": "NASA Telescopes Reveal an Invisible Infrared Universe",
+      "center": "JPL",
+      "date": "2023-12-22",
+      "description": "For 40 years, NASA has expanded our view of the universe with space telescopes that detect infrared light, which is invisible to the human eye. Observing the infrared realm helps us study the origins of planets, stars, galaxies, and even the universe itself. NASA’s James Webb Space Telescope is the ",
       "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~thumb.jpg"
       ],
       "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
-      "duration_s": 4396.7,
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4"
+      ],
+      "duration_s": 93.0,
       "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/13664/"
+      "height": 1080
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_2.jpg",
-      "nasa_id": "SVS-20306",
-      "title": "Solar Orbiter - NASA Animations",
-      "center": "NASA SVS",
-      "date": "2020-01-27",
-      "description": "Solar Orbiter is an international cooperative mission between the European Space Agency and NASA that addresses a central question of heliophysics: How does the Sun create and control the constantly changing space environment throughout the solar system? The Sun creates what’s known as the heliosphe",
+      "nasa_id": "GSFC_20171208_Archive_e000732",
+      "title": "Pillars of Creation Revealed in 3-D",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This video clip shows a visualisation of the three-dimensional structure of the Pillars of Creation within the star formation region Messier 16 (also called the Eagle Nebula). It is based on new observations of the object using the MUSE instrument on ESO’s Very Large Telescope in Chile. The pillars ",
       "links": [
-        "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020306/sOLo_sHOT2_4K_60fps_ProRes_nFieldLine.00667_print.jpg"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020306/SolO_Shot1_4k_60fps_h264_nFieldLines.mp4",
-      "duration_s": 20.0,
-      "width": 3840,
-      "height": 2160,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/20306/"
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_3.jpg",
-      "nasa_id": "PIA18146",
-      "title": "Mercury Orbit Insertion Artist Concept",
-      "center": "JPL",
-      "date": "2007-06-06",
-      "description": "NASA MESSENGER prepares to perform the Mercury orbit insertion burn in this animated artist concept.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000732/GSFC_20171208_Archive_e000732~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000732/GSFC_20171208_Archive_e000732~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_4.jpg",
-      "nasa_id": "PIA16529",
-      "title": "How MLA Works",
-      "center": "JPL",
-      "date": "2012-12-03",
-      "description": "NASA Mercury Laser Altimeter MLA is shown ranging to Mercury surface from orbit. In this animation, yellow flashes represent near-infrared laser pulses that can reflect off terrain in shadow as well as in sunlight.",
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_052/aday_3.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000842",
+      "title": "Hubble Goes High Def to Revisit the Iconic 'Pillars of Creation'",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This NASA Hubble Space Telescope image, taken in near-infrared light, transforms the pillars into eerie, wispy silhouettes, which are seen against a background of myriad stars. The near-infrared light can penetrate much of the gas and dust, revealing stars behind the nebula as well as hidden away in",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA16529/PIA16529~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA16529/PIA16529~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000842/GSFC_20171208_Archive_e000842~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

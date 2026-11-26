@@ -3,21 +3,118 @@
   "media": "video",
   "scene_duration_s": 5.0,
   "narration": "On 21 November, a spacecraft slipped into orbit around Mercury.",
-  "visual_brief": "Mercury hanging in black space, slow approach, a small craft path curving in.",
-  "purpose": "hook",
-  "nasa_query": "Mercury orbit insertion",
+  "visual_brief": "Colourful cutaway (Solar System planets); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Solar System planets",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_0.jpg",
-      "nasa_id": "PIA18146",
-      "title": "Mercury Orbit Insertion Artist Concept",
-      "center": "JPL",
-      "date": "2007-06-06",
-      "description": "NASA MESSENGER prepares to perform the Mercury orbit insertion burn in this animated artist concept.",
+      "nasa_id": "GSFC_20140923_Bennu_m11661_Teaser",
+      "title": "Bennu's Journey Teaser",
+      "center": "GSFC",
+      "date": "2014-09-23",
+      "description": "The solar system today is an orderly place, much quieter than it was in its turbulent youth. How did our Sun, the Earth and the planets evolve from a whirlpool of gas, dust, and fiery droplets of molten rock? To answer this question, scientists are planning to visit asteroid Bennu (1999 RQ-36), whic",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18146/PIA18146~orig.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140923_Bennu_m11661_Teaser/GSFC_20140923_Bennu_m11661_Teaser~preview.mp4"
+      ],
+      "duration_s": 33.0,
+      "width": 2880,
+      "height": 1080
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_1.jpg",
+      "nasa_id": "GSFC_20150713_Dennis_Reuter_m11950_Horizons",
+      "title": "New Horizons Interview with Dennis Reuter",
+      "center": "GSFC",
+      "date": "2015-07-13",
+      "description": "NASA's New Horizons spacecraft is speeding towards Pluto for the first-ever flyby on July 14, 2015. Scientists are eager to collect data on the dwarf planet's chemical and atmospheric makeup, and the Ralph spectrometer will do just that. Instrument scientist Dennis Reuter discusses Ralph, Pluto, and",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150713_Dennis_Reuter_m11950_Horizons/GSFC_20150713_Dennis_Reuter_m11950_Horizons~preview.mp4"
+      ],
+      "duration_s": 104.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_2.jpg",
+      "nasa_id": "GSFC_20130207_NEO_m11098_OSIRIS_REx",
+      "title": "OSIRIS-REx Targets Near-Earth Asteroid",
+      "center": "GSFC",
+      "date": "2013-02-07",
+      "description": "On February 15, 2013, a 45-meter asteroid called Duende (formerly 2012 DA14) passed within 28,000 kilometers of Earth - the closest approach on record for an object of this size. Although such Near-Earth Objects, or NEO's, cross our planet's orbit on a regular basis, only a handful are large enough ",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20130207_NEO_m11098_OSIRIS_REx/GSFC_20130207_NEO_m11098_OSIRIS_REx~preview.mp4"
+      ],
+      "duration_s": 146.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_3.jpg",
+      "nasa_id": "PIA12365",
+      "title": "A Color View of the Solar System Innermost Planet",
+      "center": "JPL",
+      "date": "2009-11-03",
+      "description": "A Color View of the Solar System Innermost Planet",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA12365/PIA12365~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12365/PIA12365~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12365/PIA12365~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_001/aday_4.jpg",
+      "nasa_id": "PIA10969",
+      "title": "Solar System Montage with Eight Planets Artist Concept",
+      "center": "JPL",
+      "date": "2008-07-21",
+      "description": "This is an artist conception of a solar-system montage of the eight planets, a comet and an asteroid.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10969/PIA10969~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA10969/PIA10969~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10969/PIA10969~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10969/PIA10969~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

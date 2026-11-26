@@ -3,8 +3,77 @@
   "media": "photo",
   "scene_duration_s": 9.0,
   "narration": "In September 2026, researchers at the German Aerospace Center argued that rough, rubble covered terrain hides many of these faults from view.",
-  "visual_brief": "Rough rubble-covered terrain on Mercury, textured boulder-like ground.",
-  "purpose": "explain",
-  "nasa_query": "Mercury rough terrain",
-  "candidates": []
+  "visual_brief": "Colourful cutaway (Mercury Caloris color); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury Caloris color",
+  "candidates": [
+    {
+      "index": 0,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_024/aday_0.jpg",
+      "nasa_id": "PIA10359",
+      "title": "Caloris Basin - in Color!",
+      "center": "JPL",
+      "date": "2008-07-15",
+      "description": "This false-color image of Mercury captured by NASA MESSENGER spacecraft shows the great Caloris impact basin, visible here as a large, circular, orange feature in the center of the picture.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA10359/PIA10359~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA10359/PIA10359~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA10359/PIA10359~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_024/aday_1.jpg",
+      "nasa_id": "PIA19213",
+      "title": "The Mighty Caloris",
+      "center": "JPL",
+      "date": "2015-02-23",
+      "description": "This is an MDIS mosaic of the mighty Caloris basin, Mercury's youngest large impact basin. Caloris has been filled by volcanic plains that are distinctive in color from the surrounding terrain. Subsequent craters have excavated low-reflectance material from beneath these volcanic plains, possibly gi",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_024/aday_2.jpg",
+      "nasa_id": "PIA19285",
+      "title": "Gravity Anomalies",
+      "center": "JPL",
+      "date": "2015-04-15",
+      "description": "Analysis of radio tracking data have enabled maps of the gravity field of Mercury to be derived. In this image, overlain on a mosaic obtained by MESSENGER's Mercury Dual Imaging System and illuminated with a shape model determined from stereo-photoclinometry, Mercury's gravity anomalies are depicted",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19285/PIA19285~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_024/aday_3.jpg",
+      "nasa_id": "PIA19421",
+      "title": "Orange Is the New Blue",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "Measurements from NASA MESSENGER MLA instrument during the spacecraft greater than four-year orbital mission have mapped the topography of Mercury northern hemisphere in great detail. This enhanced color mosaic shows (from left to right) Munch (61 km/38 mi.), Sander (52 km/32 mi.), and Poe (81 km/50",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    }
+  ]
 }

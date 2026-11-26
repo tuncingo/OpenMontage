@@ -3,21 +3,24 @@
   "media": "photo",
   "scene_duration_s": 7.0,
   "narration": "In 2023, researchers at the Open University mapped hundreds of small trenches in the crust.",
-  "visual_brief": "Small graben trenches in Mercury crust.",
-  "purpose": "explain",
-  "nasa_query": "Mercury graben",
+  "visual_brief": "Colourful cutaway (Mercury color terrain); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury color terrain",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_0.jpg",
-      "nasa_id": "PIA19254",
-      "title": "Small and Young",
+      "nasa_id": "PIA19213",
+      "title": "The Mighty Caloris",
       "center": "JPL",
-      "date": "2015-03-20",
-      "description": "Small graben, narrow linear troughs, have been found associated with small scarps (bottom left, white arrows) on Mercury and the Moon. These graben (bottom right, white arrows) likely resulted from the bending and extension of the upper crust in response to scarp formation (bottom illustration) and ",
+      "date": "2015-02-23",
+      "description": "This is an MDIS mosaic of the mighty Caloris basin, Mercury's youngest large impact basin. Caloris has been filled by volcanic plains that are distinctive in color from the surrounding terrain. Subsequent craters have excavated low-reflectance material from beneath these volcanic plains, possibly gi",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19254/PIA19254~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19254/PIA19254~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19213/PIA19213~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -25,17 +28,49 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001762",
-      "title": "Highs and Lows of Goethe",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "Scale: The width of this image is about 250 kilometers (150 miles) Topographic information from the Mercury Laser Altimeter (MLA) is used to colorize a image mosaic of Goethe basin, located in Mercury's northern region. The purple colors are low and white is the highest; the total range of heights s",
+      "nasa_id": "PIA19422",
+      "title": "A Striking Perspective",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "This image from NASA MESSENGER spacecraft provides a perspective view of the center portion of Carnegie Rupes, a large tectonic landform, which cuts through Duccio crater. The image shows the terrain (variations in topography) as measured by the MLA instrument and surface mapped by the MDIS instrume",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001762/GSFC_20171208_Archive_e001762~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001762/GSFC_20171208_Archive_e001762~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001762/GSFC_20171208_Archive_e001762~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001762/GSFC_20171208_Archive_e001762~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001762/GSFC_20171208_Archive_e001762~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_2.jpg",
+      "nasa_id": "PIA19419",
+      "title": "Unmasking the Secrets of Mercury",
+      "center": "JPL",
+      "date": "2015-04-16",
+      "description": "The MASCS instrument onboard NASA MESSENGER spacecraft was designed to study both the exosphere and surface of Mercury. To learn more about the minerals and surface processes on Mercury, the Visual and Infrared Spectrometer (VIRS) portion of MASCS has been diligently collecting single tracks of spec",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19419/PIA19419~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_030/aday_3.jpg",
+      "nasa_id": "PIA00457",
+      "title": "Callisto False Color",
+      "center": "JPL",
+      "date": "1996-09-26",
+      "description": "This false color picture of Callisto was taken by NASA's Voyager 2 on July 7, 1979 at a range of 1,094,666 kilometers (677,000 miles) and is centered on 11 degrees N and 171 degrees W. This rendition uses an ultraviolet image for the blue component. Because the surface displays regional contrast in ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA00457/PIA00457~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA00457/PIA00457~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA00457/PIA00457~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

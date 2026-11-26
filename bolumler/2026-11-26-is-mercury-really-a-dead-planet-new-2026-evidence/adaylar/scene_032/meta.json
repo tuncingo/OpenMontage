@@ -3,162 +3,123 @@
   "media": "video",
   "scene_duration_s": 5.0,
   "narration": "and read them as a sign of contraction that is still going on.",
-  "visual_brief": "Colourful moving cosmic cutaway, slow rotating planet with sun glow.",
+  "visual_brief": "Colourful cutaway (Sun corona SDO); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury Sun",
+  "nasa_query": "Sun corona SDO",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_0.jpg",
-      "nasa_id": "GSFC_20160509_Mercury_m12235_Transit2016",
-      "title": "2016 Mercury Transit Timelapse",
+      "nasa_id": "GSFC_20150211_SDO_m11742_Year5",
+      "title": "SDO: Year 5",
       "center": "GSFC",
-      "date": "2016-05-09",
-      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "date": "2015-02-11",
+      "description": "February 11, 2015 marks five years in space for NASA's Solar Dynamics Observatory, which provides incredibly detailed images of the whole sun 24 hours a day. Capturing an image more than once per second, SDO has provided an unprecedentedly clear picture of how massive explosions on the sun grow and ",
       "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~thumb.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160509_Mercury_m12235_Transit2016/GSFC_20160509_Mercury_m12235_Transit2016~orig.mp4"
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11742_Year5/GSFC_20150211_SDO_m11742_Year5~orig.mp4"
       ],
-      "duration_s": 124.6,
+      "duration_s": 276.3,
       "width": 1920,
       "height": 1080
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_1.jpg",
-      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit",
-      "title": "2016 Mercury Transit",
+      "nasa_id": "GSFC_20160212_SDO_m12144_Year6",
+      "title": "SDO: Year 6",
       "center": "GSFC",
-      "date": "2016-06-01",
-      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "date": "2016-02-12",
+      "description": "The sun is always changing and NASA's Solar Dynamics Observatory is always watching. Launched on Feb. 11, 2010, SDO keeps a 24-hour eye on the entire disk of the sun, with a prime view of the graceful dance of solar material coursing through the sun's atmosphere, the corona. SDO's sixth year in orbi",
       "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~thumb.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~orig.mp4"
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20160212_SDO_m12144_Year6/GSFC_20160212_SDO_m12144_Year6~orig.mp4"
       ],
-      "duration_s": 84.7,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_2.jpg",
-      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit_4K",
-      "title": "2016 Mercury Transit in 4K",
-      "center": "GSFC",
-      "date": "2016-06-01",
-      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit_4K/GSFC_20160601_Mercury_m12268_Transit_4K~orig.mp4"
-      ],
-      "duration_s": 84.7,
+      "duration_s": 391.5,
       "width": 3840,
       "height": 2160
     },
     {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_2.jpg",
+      "nasa_id": "GSFC_20140211_SDO_m11460_Year4",
+      "title": "SDO: Year 4",
+      "center": "GSFC",
+      "date": "2014-02-11",
+      "description": "The sun is always changing and NASA's Solar Dynamics Observatory is always watching. Launched on Feb. 11, 2010, SDO keeps a 24-hour eye on the entire disk of the sun, with a prime view of the graceful dance of solar material coursing through the sun's atmosphere, the corona. SDO's fourth year in orb",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20140211_SDO_m11460_Year4/GSFC_20140211_SDO_m11460_Year4~orig.mp4"
+      ],
+      "duration_s": 223.6,
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_3.jpg",
-      "nasa_id": "SVS-13664",
-      "title": "ESA and NASA Release First Images From Solar Orbiter Mission",
-      "center": "NASA SVS",
-      "date": "2020-07-16",
-      "description": "Scientists from ESA (European Space Agency) and NASA will present the first images captured by Solar Orbiter, the joint ESA/NASA mission to study the Sun, during an online news briefing at 8 a.m. EDT Thursday, July 16. Launched on Feb. 9, 2020, Solar Orbiter turned on all 10 of its instruments toget",
-      "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/Solar_Orbiter_EUI-fullsun01.png"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013664/2020_07_16_Press_Briefing_first_SOLO_images.mp4",
-      "duration_s": 4396.7,
-      "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/13664/"
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_4.jpg",
-      "nasa_id": "SVS-13266",
-      "title": "TESS Discovery Leads to Surprising Find of Promising World",
-      "center": "NASA SVS",
-      "date": "2019-07-31",
-      "description": "Tour the GJ 357 system, located 31 light-years away in the constellation Hydra. Astronomers confirming a planet candidate identified by NASA’s Transiting Exoplanet Survey Satellite subsequently found two additional worlds orbiting the star. The outermost planet, GJ 357 d, is especially intriguing to",
-      "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/tess_gj357_english_thm.jpg"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013266/GJ357_whole_system_english_HQ.mp4",
-      "duration_s": 21.6,
-      "width": 3840,
-      "height": 2160,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/13266/"
-    },
-    {
-      "index": 5,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_5.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001259",
-      "title": "Strong Proton Storm on the Sun with a Mercury Fly-by",
+      "nasa_id": "GSFC_20171208_Archive_e001831",
+      "title": "SDO Spots Extra Energy in the Sun's Corona",
       "center": "GSFC",
       "date": "2017-12-08",
-      "description": "A solar magnetic active region containing the largest sunspot group of the last 10 years unleashed a large (X1.2) flare when it was facing right towards Earth. The flare was associated with a bright coronal mass ejection that emerges from the lower right (Jan. 7-8, 2014). A fast moving cloud of high",
+      "description": "NASA release July 27, 2011 These jets, known as spicules, were captured in an SDO image on April 25, 2010. Combined with the energy from ripples in the magnetic field, they may contain enough energy to power the solar wind that streams from the sun toward Earth at 1.5 million miles per hour. Credit:",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001259/GSFC_20171208_Archive_e001259~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001831/GSFC_20171208_Archive_e001831~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 6,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_6.jpg",
-      "nasa_id": "NHQ201911110005",
-      "title": "Mercury Solar Transit",
-      "center": "HQ",
-      "date": "2019-11-11",
-      "description": "The planet Mercury is seen in silhouette as it nearly completes transiting across the face of the Sun, Monday, Nov. 11, 2019, in Arlington, Virginia. Mercury’s last transit was in 2016. the next won't happen again until 2032. Photo Credit: (NASA/Bill Ingalls)",
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_032/aday_4.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e001832",
+      "title": "SDO Spots Extra Energy in the Sun's Corona [detail]",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA release July 27, 2011 These jets, known as spicules, were captured in an SDO image on April 25, 2010. Combined with the energy from ripples in the magnetic field, they may contain enough energy to power the solar wind that streams from the sun toward Earth at 1.5 million miles per hour. Credit:",
       "links": [
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~small.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~thumb.jpg",
-        "https://images-assets.nasa.gov/image/NHQ201911110005/NHQ201911110005~orig.tif"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001832/GSFC_20171208_Archive_e001832~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001832/GSFC_20171208_Archive_e001832~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

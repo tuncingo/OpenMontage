@@ -3,139 +3,126 @@
   "media": "video",
   "scene_duration_s": 5.0,
   "narration": "The honest answer today is that we do not know yet.",
-  "visual_brief": "Mercury in the dark, quiet.",
+  "visual_brief": "Colourful cutaway (Milky Way); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "outro",
-  "nasa_query": "Mercury planet",
+  "nasa_query": "Milky Way",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_0.jpg",
-      "nasa_id": "GSFC_20160601_Mercury_m12268_Transit",
-      "title": "2016 Mercury Transit",
-      "center": "GSFC",
-      "date": "2016-06-01",
-      "description": "Around 13 times per century, Mercury passes between Earth and the sun in a rare astronomical event known as a planetary transit. Mercury orbits in a plane that is tilted from Earth’s orbit, moving above or below our line of sight to the sun. The 2016 Mercury transit occurred on May 9th, between abou",
+      "nasa_id": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
+      "title": "SOFIA Reveals New View of Milky Way’s Center",
+      "center": "ARC",
+      "date": "2020-01-03",
+      "description": "NASA’s flying telescope SOFIA captured a crisp infrared image of the center of our Milky Way galaxy. Spanning more than 600 light-years, the panorama reveals details within the dense swirls of gas and dust, opening the door to future research into how massive stars are forming and what’s feeding the",
       "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~thumb.jpg"
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.jpg",
+        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20160601_Mercury_m12268_Transit/GSFC_20160601_Mercury_m12268_Transit~orig.mp4"
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~mobile.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~preview.mp4",
+        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~orig.mp4"
       ],
-      "duration_s": 84.7,
-      "width": 1920,
-      "height": 1080
+      "duration_s": 85.1,
+      "width": 1280,
+      "height": 720
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_1.jpg",
-      "nasa_id": "ksc_072004_mes",
-      "title": "KSC-04-S-00254",
-      "center": "KSC",
-      "date": "2004-07-22",
-      "description": "When the Messenger spacecraft arrives on-orbit around Mercury in 2011, it will be the planet's first Earthly visitor in over 36 years. Our last trip to the planet was in 1975 with the flight of the Mariner 10 spacecraft. Launched in November of 1973, the craft completed a trio of flybys past Mercury",
+      "nasa_id": "sonify_galactic_all",
+      "title": "Sounds from Around the Milky Way",
+      "center": "MSFC",
+      "date": "2020-09-22",
+      "description": "A new project using sonification turns astronomical images from NASA's Chandra X-Ray Observatory and other telescopes into sound. This allows users to \"listen\" to the center of the Milky Way as observed in X-ray, optical, and infrared light. As the cursor moves across the image, sounds represent the",
       "links": [
-        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~small.jpg",
-        "https://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~thumb.jpg"
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.jpg",
+        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~mobile.mp4",
-        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~preview.mp4",
-        "http://images-assets.nasa.gov/video/ksc_072004_mes/ksc_072004_mes~orig.mp4"
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~mobile.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~preview.mp4",
+        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4"
       ],
-      "duration_s": 83.4,
-      "width": 320,
-      "height": 212
+      "duration_s": 64.0,
+      "width": 2269,
+      "height": 1080
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_2.jpg",
-      "nasa_id": "JPL-20210101-WHATSUf-0001-Whats-Up-January-2021",
-      "title": "What's Up: January 2021 Skywatching Tips from NASA ",
+      "nasa_id": "JPL-20210701-WHATSUf-0001-Whats-Up-July-2021",
+      "title": "What's Up: July 2021 Skywatching Tips from NASA ",
       "center": "JPL",
-      "date": "2021-01-01",
-      "description": "What are some skywatching highlights in January 2021? Mark Earth's closest approach to the Sun for the year, called perihelion, at the start of the month, then spot a couple of elusive planets: Uranus on Jan. 20th and Mercury throughout the second half of the month.",
+      "date": "2021-07-01",
+      "description": "What are some skywatching highlights in July 2021? Venus blazes as the \"Evening Star\" following sunset, with a much fainter planet Mars nearby. Catch their super close pairing on July 12. Plus, if you can find your way to dark skies, this is the best time of year to enjoy the magic of the Milky Way.",
       "links": [
-        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~large.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~medium.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~small.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~thumb.jpg"
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~thumb.jpg"
       ],
       "media": "video",
       "source": "nasa-video",
       "mp4": [
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~large.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~medium.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~mobile.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~small.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~preview.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021/JPL-20210101-WHATSUf-0001-Whats-Up-January-2021~orig.mp4"
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~orig.mp4"
       ],
-      "duration_s": 197.9,
+      "duration_s": 202.0,
       "width": 1920,
       "height": 1080
     },
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_3.jpg",
-      "nasa_id": "SVS-14110",
-      "title": "Global View of Mercury – Animation",
-      "center": "NASA SVS",
-      "date": "2022-02-24",
-      "description": "Global view of Mercury from NASA’s MESSENGER spacecraft. || MercuryGlobeMESSENGER.gif (1200x675) [12.7 MB] || MercuryGlobePreview_print.jpg (1024x576) [51.6 KB] || MercuryGlobePreview.jpg (3840x2160) [664.3 KB] || MercuryGlobePreview_searchweb.png (320x180) [18.5 KB] || MercuryGlobePreview_thm.png (",
-      "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/MercuryGlobePreview_print.jpg"
-      ],
-      "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014110/Mercury_Globe_MESSENGER_Large.mp4",
-      "duration_s": 60.0,
-      "width": 3840,
-      "height": 2160,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/14110/"
-    },
-    {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_4.jpg",
-      "nasa_id": "PIA13477",
-      "title": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "nasa_id": "PIA18913",
+      "title": "Milky Way Untangled",
       "center": "JPL",
-      "date": "2010-09-28",
-      "description": "Long Scarps on Mercury Tell of the Planet Unique History",
+      "date": "2015-02-05",
+      "description": "A new, dynamic portrait of our Milky Way galaxy shows a frenzy of gas, charged particles and dust as seen by the European Space Agency Planck mission.",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA13477/PIA13477~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 5,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_5.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001918",
-      "title": "From Orbit, Looking toward Mercury's Horizon",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "NASA image acquired: March 29, 2011 MESSENGER acquired this image of Mercury's horizon as the spacecraft was moving northward along the first orbit during which MDIS was turned on. Bright rays from Hokusai can be seen running north to south in the image. MDIS frequently acquired images that containe",
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_4.jpg",
+      "nasa_id": "PIA24576",
+      "title": "A Break in the Milky Way's Sagittarius Arm",
+      "center": "JPL",
+      "date": "2021-08-17",
+      "description": "A contingent of young stars and star-forming gas clouds is sticking out of one of the Milky Way's spiral arms like a splinter protruding from a plank of wood. Stretching some 3,000 light-years, this is the first major structure identified with such a dramatically different orientation relative to th",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001918/GSFC_20171208_Archive_e001918~orig.png"
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

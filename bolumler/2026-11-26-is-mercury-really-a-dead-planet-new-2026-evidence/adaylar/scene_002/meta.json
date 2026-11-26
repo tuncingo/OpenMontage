@@ -3,22 +3,22 @@
   "media": "photo",
   "scene_duration_s": 7.0,
   "narration": "It arrived at a planet often thought of as a dead, battered rock. But is it?",
-  "visual_brief": "Cratered, grey Mercury surface close up, heavily battered terrain.",
+  "visual_brief": "Colourful cutaway (Mercury enhanced color); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "hook",
-  "nasa_query": "Mercury MESSENGER mosaic",
+  "nasa_query": "Mercury enhanced color",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_0.jpg",
-      "nasa_id": "PIA12842",
-      "title": "Spectacular Color . . . with Better Yet to Come",
+      "nasa_id": "PIA12371",
+      "title": "Mercury in True and Enhanced Color",
       "center": "JPL",
-      "date": "2010-02-17",
-      "description": "This spectacular color mosaic shows the eastern limb of Mercury as seen by NASA MESSENGER as the spacecraft departed the planet following the mission first Mercury flyby in January 2008.",
+      "date": "2009-11-17",
+      "description": "Mercury in True and Enhanced Color",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA12842/PIA12842~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA12371/PIA12371~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -26,15 +26,17 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_1.jpg",
-      "nasa_id": "PIA12047",
-      "title": "MESSENGER Team Presents Latest Science Results",
+      "nasa_id": "PIA17386",
+      "title": "Enhanced Color Mercury Map",
       "center": "JPL",
-      "date": "2009-04-30",
-      "description": "This mosaic was assembled using NAC images acquired as the MESSENGER spacecraft approached the planet during the mission second Mercury flyby The Rembrandt impact basin is seen at the center of the mosaic.",
+      "date": "2013-07-18",
+      "description": "Enhanced Color Mercury Map",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA12047/PIA12047~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA17386/PIA17386~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -42,15 +44,17 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_2.jpg",
-      "nasa_id": "PIA10176",
-      "title": "MESSENGER Views Mercury Horizon",
-      "center": "JPL",
-      "date": "2008-01-17",
-      "description": "As NASA MESSENGER spacecraft drew closer to Mercury for its historic first flyby, the spacecraft Narrow Angle Camera NAC on the Mercury Dual Imaging System MDIS acquired an image mosaic of the sunlit portion of the planet. ",
+      "nasa_id": "GSFC_20171208_Archive_e001425",
+      "title": "Enhanced Color Mercury Map",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This colorful view of Mercury was produced by using images from the color base map imaging campaign during MESSENGER's primary mission. These colors are not what Mercury would look like to the human eye, but rather the colors enhance the chemical, mineralogical, and physical differences between the ",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10176/PIA10176~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001425/GSFC_20171208_Archive_e001425~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -58,15 +62,17 @@
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_002/aday_3.jpg",
-      "nasa_id": "PIA10177",
-      "title": "MESSENGER Reveals Mercury Geological History",
+      "nasa_id": "PIA18147",
+      "title": "MESSENGER Near Hokusai Crater Artist Concept",
       "center": "JPL",
-      "date": "2008-01-17",
-      "description": "Shortly following NASA MESSENGER spacecraft closest approach to Mercury on January 14, 2008, the spacecraft Narrow Angle Camera NAC instrument acquired this image as part of a mosaic that covers much of the sunlit portion of the hemisphere.",
+      "date": "2008-10-29",
+      "description": "An artist rendering of the MESSENGER spacecraft is shown passing near the crater Hokusai and its extensive system of rays. Both the monochrome and enhanced color views of Mercury were obtained during MESSENGER second Mercury flyby.",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

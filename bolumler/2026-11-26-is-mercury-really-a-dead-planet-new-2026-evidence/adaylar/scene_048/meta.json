@@ -3,79 +3,125 @@
   "media": "video",
   "scene_duration_s": 6.0,
   "narration": "Now think about what its tools can add. The European orbiter carries a laser altimeter,",
-  "visual_brief": "Laser altimetry, MESSENGER laser altimeter topography.",
-  "purpose": "explain",
-  "nasa_query": "MESSENGER laser altimeter",
+  "visual_brief": "Colourful cutaway (Parker Solar Probe); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Parker Solar Probe",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_0.jpg",
-      "nasa_id": "SVS-14261",
-      "title": "Leaders in Lidar",
-      "center": "NASA SVS",
-      "date": "2023-01-19",
-      "description": "In this series, we dive into the legacy of Goddard's lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter ",
+      "nasa_id": "GSFC_20180720_Parker_m12911_trailer.en_US",
+      "title": "Parker Solar Probe Trailer",
+      "center": "GSFC",
+      "date": "2018-07-20",
+      "description": "Parker Solar Probe is NASA's mission to the Sun. The spacecraft will launch summer 2018.",
       "links": [
-        "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/seriestease_thumb_print.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~thumb.jpg"
       ],
       "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014261/Series_Teaser_16-9.mp4",
-      "duration_s": 77.1,
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~orig.mp4"
+      ],
+      "duration_s": 65.0,
       "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/14261/"
+      "height": 1080
     },
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_1.jpg",
-      "nasa_id": "SVS-4054",
-      "title": "LAMP Observes GRAIL Impact",
-      "center": "NASA SVS",
-      "date": "2013-03-19",
-      "description": "The Gravity Recovery and Interior Laboratory (GRAIL) mission comprised a pair of satellites that together measured the gravity field of the Moon. GRAIL ended its mission with a planned impact into the side of a lunar mountain on December 17, 2012. Lunar Reconnaissance Orbiter (LRO) maneuvered into a",
+      "nasa_id": "GSFC_20171206_Parker_m12795_LaserTestingSolarPanels",
+      "title": "Parker Solar Probe: Environmental Testing",
+      "center": "GSFC",
+      "date": "2017-12-06",
+      "description": "NASA’s Parker Solar Probe passed laser illumination testing the week of Nov. 27, 2017. During this test, each segment of the spacecraft’s solar panels was illuminated with lasers to check that they were still electrically connected after the vigorous vibration and acoustic testing completed earlier ",
       "links": [
-        "https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004054/grail.0519.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~thumb.jpg"
       ],
       "media": "video",
-      "source": "svs",
-      "video_url": "https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004054/lamp_grail_1080p30.mp4",
-      "duration_s": 30.0,
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~orig.mp4"
+      ],
+      "duration_s": 55.0,
       "width": 1920,
-      "height": 1080,
-      "credit_line": "NASA's Scientific Visualization Studio",
-      "page": "https://svs.gsfc.nasa.gov/4054/"
+      "height": 1080
     },
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_2.jpg",
-      "nasa_id": "PIA10183",
-      "title": "First Results from the Mercury Laser Altimeter",
-      "center": "JPL",
-      "date": "2008-01-19",
-      "description": "On January 14, 2008, NASA MESSENGER spacecraft Mercury Laser Altimeter MLA became the first instrument to measure the distance between a spacecraft and the surface of Mercury.",
+      "nasa_id": "GSFC_20180822_Parker_m13046_Sunset_Show",
+      "title": "Sunset Show for Parker Solar Probe",
+      "center": "GSFC",
+      "date": "2018-08-22",
+      "description": "Early in the morning of Aug. 12, NASA launched Parker Solar Probe, humanity’s first mission to the Sun. This spacecraft will fly closer to the Sun than any before it, in a daring journey facing brutal heat and radiation. Parker Solar Probe sets its sights on the Sun’s scorching outer atmosphere, cal",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA10183/PIA10183~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10183/PIA10183~orig.jpg"
+        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~orig.mp4"
+      ],
+      "duration_s": 1953.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_3.jpg",
+      "nasa_id": "KSC-20180419-PH_KLS01_0054",
+      "title": "Parker Solar Probe Antenna Deployment",
+      "center": "KSC",
+      "date": "2018-04-19",
+      "description": "Antenna's on NASA's Parker Solar Probe are deployed for testing at the Astrotech processing facility in Titusville, Florida, near NASA's Kennedy Space Center on Thursday, April 19, 2018. The Parker Solar Probe will launch on a United Launch Alliance Delta IV Heavy rocket from Space Launch Complex 37",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_3.jpg",
-      "nasa_id": "PIA10381",
-      "title": "Topographic Close-up",
-      "center": "JPL",
-      "date": "2008-01-30",
-      "description": "A close-up of the Mercury Laser Altimeter MLA profile of Mercury acquired during NASA MESSENGER spacecraft first Mercury flyby on January 14, 2008.",
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_4.jpg",
+      "nasa_id": "KSC-20180419-PH_KLS01_0047",
+      "title": "Parker Solar Probe Antenna Deployment",
+      "center": "KSC",
+      "date": "2018-04-19",
+      "description": "Antenna's on NASA's Parker Solar Probe are deployed for testing at the Astrotech processing facility in Titusville, Florida, near NASA's Kennedy Space Center on Thursday, April 19, 2018. The Parker Solar Probe will launch on a United Launch Alliance Delta IV Heavy rocket from Space Launch Complex 37",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA10381/PIA10381~orig.jpg"
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

@@ -3,25 +3,37 @@
   "media": "video",
   "scene_duration_s": 8.0,
   "narration": "The authors say BepiColombo can look for change. Keep the hollows in mind. We will come back to them.",
-  "visual_brief": "BepiColombo trajectory around Mercury, looking ahead.",
-  "purpose": "transition",
-  "nasa_query": "BepiColombo",
+  "visual_brief": "Colourful cutaway (Orion Nebula Hubble); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "nebula flythrough",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_021/aday_0.jpg",
-      "nasa_id": "PIA19497",
-      "title": "Best Determination of MESSENGER Impact Location",
+      "nasa_id": "20190530-SPITZRf-0001-Stars of Cephus",
+      "title": "Stars of Cepheus as Seen by NASA's Spitzer Space Telescope",
       "center": "JPL",
-      "date": "2015-06-03",
-      "description": "The day before the MESSENGER spacecraft impacted the surface of Mercury, the best prediction for the location and time of the impact was 54.4° N, 210.1° E, on 30 April 2015 at 19.26:02 UTC, as shown in the featured image of that day. In the last month since impact, MESSENGER engineers have completed",
+      "date": "2019-05-30",
+      "description": "Soar through this cosmic landscape filled with bright nebulas, as well as runaway, massive and young stars. The image comes from NASA's Spitzer Space Telescope, which sees the universe in infrared light. For more about Spitzer, visit https://www.nasa.gov/spitzer or http://www.spitzer.caltech.edu/ . ",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~orig.jpg"
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.jpg",
+        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~thumb.jpg"
       ],
-      "media": "photo",
-      "source": "nasa"
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~mobile.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~preview.mp4",
+        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~orig.mp4"
+      ],
+      "duration_s": 118.5,
+      "width": 1920,
+      "height": 1080
     }
   ]
 }

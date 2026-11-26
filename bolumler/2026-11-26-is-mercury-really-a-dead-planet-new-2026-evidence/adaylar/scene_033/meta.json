@@ -3,22 +3,127 @@
   "media": "video",
   "scene_duration_s": 6.0,
   "narration": "But the team also said that this reading may be refuted by BepiColombo imagery.",
-  "visual_brief": "BepiColombo cruise toward Mercury.",
-  "purpose": "explain",
-  "nasa_query": "BepiColombo Mercury",
+  "visual_brief": "Colourful cutaway (Carina Nebula Webb); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Carina Nebula Webb",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_0.jpg",
-      "nasa_id": "PIA19497",
-      "title": "Best Determination of MESSENGER Impact Location",
-      "center": "JPL",
-      "date": "2015-06-03",
-      "description": "The day before the MESSENGER spacecraft impacted the surface of Mercury, the best prediction for the location and time of the impact was 54.4° N, 210.1° E, on 30 April 2015 at 19.26:02 UTC, as shown in the featured image of that day. In the last month since impact, MESSENGER engineers have completed",
+      "nasa_id": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "title": "First Images from the James Webb Space Telescope (Official NASA Highlights)",
+      "center": "HQ",
+      "date": "2022-07-13",
+      "description": "Description: NASA revealed the first five full-color images and spectrographic data from the world's most powerful space telescope, the James Webb Space Telescope, a partnership with ESA (European Space Agency), and CSA (Canadian Space Agency). The world got its first look at the full capabilities o",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19497/PIA19497~orig.jpg"
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.jpg",
+        "https://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~large.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~medium.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~mobile.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~small.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~preview.mp4",
+        "http://images-assets.nasa.gov/video/First Images from the James Webb Space Telescope (Official NASA Highlights)/First Images from the James Webb Space Telescope (Official NASA Highlights)~orig.mp4"
+      ],
+      "duration_s": 190.2,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_1.jpg",
+      "nasa_id": "GSFC_NSL_Webb_Images_Ep44",
+      "title": "NASA Science Live: Webb’s First Full-Color Images Explained [Episode 44]",
+      "center": "GSFC",
+      "date": "2022-07-13",
+      "description": "NASA released the first full-color images and data from the James Webb Space Telescope on July 12. These images demonstrate Webb’s capability to #UnfoldTheUniverse and provide views of the cosmos that humanity has never seen before. Join Webb experts for a conversation to learn how Webb is revealing",
+      "links": [
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.jpg",
+        "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~large.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~mobile.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~small.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~preview.mp4",
+        "http://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~orig.mp4"
+      ],
+      "duration_s": 3540.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_2.jpg",
+      "nasa_id": "JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe",
+      "title": "NASA Telescopes Reveal an Invisible Infrared Universe",
+      "center": "JPL",
+      "date": "2023-12-22",
+      "description": "For 40 years, NASA has expanded our view of the universe with space telescopes that detect infrared light, which is invisible to the human eye. Observing the infrared realm helps us study the origins of planets, stars, galaxies, and even the universe itself. NASA’s James Webb Space Telescope is the ",
+      "links": [
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.jpg",
+        "https://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~thumb.jpg"
+      ],
+      "media": "video",
+      "source": "nasa-video",
+      "mp4": [
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~large.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~medium.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~mobile.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~small.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~preview.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4",
+        "http://images-assets.nasa.gov/video/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe/JPL-20231222-SOLSYSf-0001-NASA Telescopes Reveal Hidden Universe~orig.mp4"
+      ],
+      "duration_s": 93.0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_3.jpg",
+      "nasa_id": "carina_nebula",
+      "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+      "center": "STScI (Webb)",
+      "date": "2022-07-12",
+      "description": "What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, this image reveals previously obscured areas of",
+      "links": [
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~medium.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~thumb.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~large.jpg",
+        "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~orig.png"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 4,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_033/aday_4.jpg",
+      "nasa_id": "NHQ202207120010",
+      "title": "JWST’s First Full-Color Images",
+      "center": "HQ",
+      "date": "2022-07-12",
+      "description": "The image captured by NASA’s James Webb Space Telescope of the star-forming region called NGC 3324 in the Carina Nebula is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Space Telescope, Tuesday, July 12, 2022, at ",
+      "links": [
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~medium.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~small.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~thumb.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~large.jpg",
+        "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

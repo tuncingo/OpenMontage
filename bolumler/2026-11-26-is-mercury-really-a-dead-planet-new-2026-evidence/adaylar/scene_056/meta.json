@@ -3,22 +3,23 @@
   "media": "photo",
   "scene_duration_s": 5.0,
   "narration": "A hollow edge that moved. A streak that was not there before.",
-  "visual_brief": "Hollow edge and a streak, evidence candidates.",
-  "purpose": "explain",
-  "nasa_query": "Mercury hollows edge",
+  "visual_brief": "Colourful cutaway (Mercury north polar color); real NASA/ESA imagery, never presented as another mission.",
+  "purpose": "cutaway",
+  "nasa_query": "Mercury north polar color",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_0.jpg",
-      "nasa_id": "PIA22212",
-      "title": "Stereo View of Martian Rock Target 'Funzie'",
+      "nasa_id": "PIA19247",
+      "title": "Hot and Cold",
       "center": "JPL",
-      "date": "2018-02-08",
-      "description": "The surface of the Martian rock target in this stereo image includes small hollows with a \"swallowtail\" shape characteristic of some gypsum crystals, most evident in the lower left quadrant. These hollows may have resulted from the original crystallizing mineral subsequently dissolving away. The vie",
+      "date": "2015-03-16",
+      "description": "This view shows Mercury's north polar region, colored by the maximum biannual surface temperature, which ranges from >400 K (red) to 50 K (purple). As expected for the Solar System's innermost planet, areas of Mercury's surface that are sunlit reach high temperatures, and hence most of this image is",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA22212/PIA22212~orig.tif"
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19247/PIA19247~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -26,53 +27,14 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e002165",
-      "title": "Open-cell and closed-cell clouds off Peru",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "2010/107 - 04/17 at 21 :05 UTC. Open-cell and closed-cell clouds off Peru, Pacific Ocean Resembling a frosted window on a cold winter's day, this lacy pattern of marine clouds was captured off the coast of Peru in the Pacific Ocean by the MODIS on the Aqua satellite on April 19, 2010. The image reve",
+      "nasa_id": "PIA01400",
+      "title": "The Galilean Satellites",
+      "center": "JPL",
+      "date": "1998-05-08",
+      "description": "In this \"family portrait,\" the four Galilean Satellites are shown to scale. These four largest moons of Jupiter shown in increasing distance from Jupiter are (left to right) Io, Europa, Ganymede, and Callisto. These global views show the side of volcanically active Io which always faces away from Ju",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002165/GSFC_20171208_Archive_e002165~orig.jpg"
-      ],
-      "media": "photo",
-      "source": "nasa"
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e002150",
-      "title": "Open-cell and closed-cell clouds off Peru [detail]",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "2010/107 - 04/17 at 21 :05 UTC. Open-cell and closed-cell clouds off Peru, Pacific Ocean. To view the full fame of this image to go: <a href=\"http://www.flickr.com/photos/gsfc/4557497219/\">www.flickr.com/photos/gsfc/4557497219/</a> Resembling a frosted window on a cold winter's day, this lacy patter",
-      "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~medium.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~large.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002150/GSFC_20171208_Archive_e002150~orig.jpg"
-      ],
-      "media": "photo",
-      "source": "nasa"
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_056/aday_3.jpg",
-      "nasa_id": "0203048",
-      "title": "Space Science",
-      "center": "MSFC",
-      "date": "2002-08-01",
-      "description": "This sturning image, taken by the newly installed Advanced Camera for Surveys (ACS) aboard the Hubble Space Telescope (HST), is an image of the center of the Omega Nebula. It is a hotbed of newly born stars wrapped in colorful blankets of glowing gas and cradled in an enormous cold, dark hydrogen cl",
-      "links": [
-        "https://images-assets.nasa.gov/image/0203048/0203048~medium.jpg",
-        "https://images-assets.nasa.gov/image/0203048/0203048~small.jpg",
-        "https://images-assets.nasa.gov/image/0203048/0203048~thumb.jpg",
-        "https://images-assets.nasa.gov/image/0203048/0203048~large.jpg",
-        "https://images-assets.nasa.gov/image/0203048/0203048~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA01400/PIA01400~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA01400/PIA01400~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
