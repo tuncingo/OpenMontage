@@ -326,6 +326,29 @@ def https(u):
     return re.sub(r"^http://", "https://", u or "")
 
 
+def svs_video(d):
+    """SVS kaydının KENDİ mp4'ünü döndürür. API bazı kayıtlarda main_video olarak başka bir sayfanın ortak klibini
+    (örn. 4559_Kepler_Neptune_Twitter_720.mp4) verir; bu yüzden URL, kaydın kendi dizininde (/aNNNNNN/) değilse reddedilir.
+    main_video geçersizse media_groups içindeki geçerli mp4'lerin en büyüğü seçilir; yoksa None (kayıt atlanır)."""
+    kayit = d.get("id")
+    parca = f"/a{int(kayit):06d}/" if str(kayit).isdigit() else None
+
+    def gecerli(v):
+        u = str((v or {}).get("url", ""))
+        return u.lower().endswith(".mp4") and (parca is None or parca in u)
+
+    mv = d.get("main_video") or {}
+    if gecerli(mv):
+        return mv
+    adaylar = []
+    for g in d.get("media_groups") or []:
+        for it in g.get("items") or []:
+            inst = it.get("instance") or {}
+            if gecerli(inst):
+                adaylar.append(inst)
+    return max(adaylar, key=lambda v: v.get("pixels") or 0) if adaylar else None
+
+
 def svs_ara(sorgu, n, min_s):
     """NASA Scientific Visualization Studio animasyonları (svs.gsfc.nasa.gov/api) — her sonuç için ana video + ana görsel."""
     try:
@@ -340,8 +363,8 @@ def svs_ara(sorgu, n, min_s):
             d = http_json(f"{SVS}/api/{r['id']}/")
         except Exception:
             continue
-        mv = d.get("main_video") or {}
-        if not str(mv.get("url", "")).lower().endswith(".mp4"):
+        mv = svs_video(d)
+        if not mv:
             continue
         sure, w, h = ffprobe_url(https(mv["url"]))
         if not sure or sure < min_s:

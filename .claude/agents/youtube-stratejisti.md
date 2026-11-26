@@ -48,3 +48,6 @@ You then get the approved script, `sahne_plani.json` (scene ids, narration, plan
  "notes": "<Turkish: posting order and spacing, with times in TR + ET/PT/UK as in the target-audience rules>"}
 ```
 Reply with one line: how many Shorts and their scene ranges.
+
+## Topic-repeat check (permanent rule)
+Before you start, read `kanal/onceki_bolumler.md`. If the assigned topic substantially repeats a published episode (same core question or the same story), do NOT proceed silently: put a first line `DUPLICATE-TOPIC WARNING: <which episode and why>` at the top of your output file and say it first in your hand-back report so the managing editor can stop or re-angle the episode.

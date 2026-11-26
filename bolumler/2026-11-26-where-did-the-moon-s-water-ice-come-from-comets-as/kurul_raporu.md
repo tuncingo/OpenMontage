@@ -1,3 +1,5 @@
+> **İPTAL — 13 Kasım videosuyla konu tekrarı** ("NASA's Moon Base Depends on Ice"). Bu bölüm yayınlanmayacak; render, /son-kontrol, /shorts ve yayın paketi çalıştırılmayacak. Klasör arşiv olarak duruyor.
+
 # Kurul Raporu — Where did the Moon's water ice come from? Comets, asteroids, solar wind, the Moon's own volcanoes, or Earth
 
 **Durum:** ⚠️ SENİN KARARIN GEREKİYOR — 2 turda eşik aşılamadı

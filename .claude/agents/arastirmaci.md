@@ -25,3 +25,6 @@ Write the result to the output path in English markdown, with exactly these sect
 ## Source list
 
 Reply with one line: how many sources you used and the single most surprising finding.
+
+## Topic-repeat check (permanent rule)
+Before you start, read `kanal/onceki_bolumler.md`. If the assigned topic substantially repeats a published episode (same core question or the same story), do NOT proceed silently: put a first line `DUPLICATE-TOPIC WARNING: <which episode and why>` at the top of your output file and say it first in your hand-back report so the managing editor can stop or re-angle the episode.
