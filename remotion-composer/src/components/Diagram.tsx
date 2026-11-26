@@ -17,7 +17,8 @@ const Txt: React.FC<React.ComponentProps<typeof BaseTxt>> = (p) => (React.useCon
 export type DiagramLayout =
   | "arrival" | "sphere" | "crater_streaks" | "crater_section" | "panels" | "orbits_pair" | "fault_rubble"
   | "table" | "orbiter_camera" | "layers" | "orbiters_beside" | "laser" | "outline_compare" | "tick"
-  | "hollow_shift" | "orbiters_apart" | "labels3";
+  | "hollow_shift" | "orbiters_apart" | "labels3"
+  | "pie" | "growth3" | "timeline" | "trenches" | "contract" | "two_frames" | "planet_question";
 
 export interface DiagramSpec {
   kind: "diagram";
@@ -52,7 +53,7 @@ const Frame: React.FC<{ spec: DiagramSpec; children: React.ReactNode; transparen
         ) : null}
         {children}
         {spec.illustration ? (
-          <Txt x={X0} y={960} fill="#C3CADB" tracking={6} size={36} opacity={prog(frame, 22, 14)}>
+          <Txt x={spec.illustrationSide === "right" ? 1728 : X0} y={960} anchor={spec.illustrationSide === "right" ? "end" : "start"} fill="#C3CADB" tracking={6} size={36} opacity={prog(frame, 22, 14)}>
             ILLUSTRATION
           </Txt>
         ) : null}
@@ -402,6 +403,126 @@ const Labels3: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
   );
 };
 
+
+// 18) pie: one wedge highlighted ----------------------------------------------------
+const Pie: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  const share = (spec.share as number) ?? 0.1;
+  const cx = 960, cy = 640, R = 230;
+  const a0 = -Math.PI / 2, a1 = a0 + 2 * Math.PI * share * prog(f, 24, 40);
+  const pt = (a: number) => `${cx + R * Math.cos(a)} ${cy + R * Math.sin(a)}`;
+  return (
+    <>
+      <Planet cx={cx} cy={cy} r={R} p={prog(f, 4, 30)} color={GREY} />
+      <path d={`M ${cx} ${cy} L ${pt(a0)} A ${R} ${R} 0 ${a1 - a0 > Math.PI ? 1 : 0} 1 ${pt(a1)} Z`} fill={AMBER} opacity={0.85} />
+      <Txt x={cx + R + 50} y={cy - 30} fill={WHITE} weight={200} size={120} tracking={0} opacity={prog(f, 40, 20)}>{String(spec.big ?? "about 10%")}</Txt>
+      <Txt x={cx + R + 50} y={cy + 40} fill={AMBER} tracking={7} opacity={prog(f, 54, 18)}>{String(spec.caption ?? "")}</Txt>
+    </>
+  );
+};
+
+// 19) three growth stages -----------------------------------------------------------
+const Growth3: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  const stages = [{ x: 480, r: 40 }, { x: 960, r: 90 }, { x: 1440, r: 150 }];
+  return (
+    <>
+      {stages.map((st, i) => (
+        <g key={i} opacity={prog(f, 10 + i * 20, 18)}>
+          <circle cx={st.x} cy={640} r={st.r} fill="none" stroke={i === 0 ? AMBER : TEAL} strokeWidth={i === 0 ? 5 : 3} />
+          {i < 2 ? <line x1={st.x + st.r + 40} y1={640} x2={stages[i + 1].x - stages[i + 1].r - 40} y2={640} stroke={GREY} strokeWidth={2} /> : null}
+        </g>
+      ))}
+      <Txt x={480} y={860} anchor="middle" fill={AMBER} tracking={6} opacity={prog(f, 40, 16)}>EARLY STAGE</Txt>
+    </>
+  );
+};
+
+// 20) timeline: ticks, a span, a marker ----------------------------------------------
+const Timeline: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  const ticks = (spec.ticks as { label: string; at: number }[]) ?? [];
+  const span = spec.span as { from: number; to: number; label?: string; color?: string } | undefined;
+  const x = (u: number) => X0 + u * W;
+  const y = 640;
+  const sc = span?.color === "teal" ? TEAL : AMBER;
+  return (
+    <>
+      <line x1={X0} y1={y} x2={X0 + W} y2={y} stroke={GREY} strokeWidth={3} strokeDasharray={W} strokeDashoffset={W * (1 - prog(f, 4, 36))} />
+      {ticks.map((t, i) => (
+        <g key={i} opacity={prog(f, 16 + i * 8, 16)}>
+          <line x1={x(t.at)} y1={y - 24} x2={x(t.at)} y2={y + 24} stroke={GREY} strokeWidth={3} />
+          <Txt x={x(t.at)} y={y + 90} anchor="middle" fill={WHITE} weight={400} tracking={3} size={44}>{t.label}</Txt>
+        </g>
+      ))}
+      {span ? (
+        <g opacity={prog(f, 36, 24)}>
+          <rect x={x(span.from)} y={y - 22} width={(x(span.to) - x(span.from)) * prog(f, 36, 36)} height={44} fill={sc} opacity={0.3} stroke={sc} strokeWidth={4} />
+          {span.label ? <Txt x={(x(span.from) + x(span.to)) / 2} y={y - 70} anchor="middle" fill={sc} tracking={7} opacity={prog(f, 60, 16)}>{span.label}</Txt> : null}
+        </g>
+      ) : null}
+      {spec.end ? <circle cx={x(spec.end as number)} cy={y} r={16} fill={AMBER} opacity={prog(f, 70, 12)} /> : null}
+    </>
+  );
+};
+
+// 21) parallel trenches (top-down) ----------------------------------------------------
+const Trenches: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  return (
+    <>
+      <rect x={X0 + 120} y={420} width={W - 240} height={420} fill="none" stroke={GREY} strokeWidth={2} opacity={0.6 * prog(f, 4, 16)} />
+      {Array.from({ length: 11 }).map((_, i) => {
+        const x = X0 + 220 + i * 120;
+        const y0 = 470 + ((i * 53) % 90);
+        return <line key={i} x1={x} y1={y0} x2={x + 30} y2={y0 + 250} stroke={TEAL} strokeWidth={4} strokeLinecap="round" strokeDasharray={260} strokeDashoffset={260 * (1 - prog(f, 10 + i * 5, 20))} />;
+      })}
+      <Txt x={X0 + 120} y={910} fill={TEAL} tracking={6} opacity={prog(f, 70, 16)}>HUNDREDS OF SMALL TRENCHES</Txt>
+    </>
+  );
+};
+
+// 22) circle with inward arrows ---------------------------------------------------------
+const Contract: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  const pulse = 1 - 0.07 * (0.5 + 0.5 * Math.sin(f / 14));
+  return (
+    <>
+      <Planet cx={960} cy={640} r={190 * pulse} p={prog(f, 4, 28)} />
+      {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => {
+        const a = (i * Math.PI) / 4;
+        const r1 = 330 - 20 * Math.sin(f / 14), r2 = 235;
+        return <line key={i} x1={960 + r1 * Math.cos(a)} y1={640 + r1 * Math.sin(a)} x2={960 + r2 * Math.cos(a)} y2={640 + r2 * Math.sin(a)} stroke={AMBER} strokeWidth={4} strokeLinecap="round" opacity={prog(f, 20 + i * 3, 14)} />;
+      })}
+      <Txt x={960} y={940} anchor="middle" fill={WHITE} weight={400} tracking={7} opacity={prog(f, 60, 16)}>STILL CONTRACTING?</Txt>
+    </>
+  );
+};
+
+// 23) two overlapping frames ------------------------------------------------------------
+const TwoFrames: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  return (
+    <>
+      <rect x={560} y={440} width={560} height={360} fill="none" stroke={TEAL} strokeWidth={4} opacity={prog(f, 6, 20)} />
+      <rect x={800} y={500} width={560} height={360} fill="none" stroke={AMBER} strokeWidth={4} opacity={prog(f, 30, 20)} />
+      <line x1={1250} y1={420} x2={1200} y2={500} stroke={AMBER} strokeWidth={4} opacity={prog(f, 54, 14)} />
+      <Txt x={960} y={950} anchor="middle" fill={WHITE} weight={400} tracking={6} opacity={prog(f, 62, 16)}>TWO SETS OF PICTURES</Txt>
+    </>
+  );
+};
+
+// 24) planet + question mark ------------------------------------------------------------
+const PlanetQuestion: React.FC<{ spec: DiagramSpec }> = ({ spec }) => {
+  const f = useCurrentFrame();
+  return (
+    <>
+      <Planet cx={960} cy={620} r={210} p={prog(f, 4, 34)} />
+      <Txt x={960} y={700} anchor="middle" fill={AMBER} weight={200} size={240} tracking={0} opacity={prog(f, 40, 24)}>?</Txt>
+    </>
+  );
+};
+
 export const Diagram: React.FC<{ spec: DiagramSpec; transparent?: boolean }> = ({ spec, transparent }) => {
   useVideoConfig();
   const L = spec.layout;
@@ -424,6 +545,13 @@ export const Diagram: React.FC<{ spec: DiagramSpec; transparent?: boolean }> = (
       {L === "hollow_shift" ? <HollowShift spec={spec} /> : null}
       {L === "orbiters_apart" ? <OrbitersApart spec={spec} /> : null}
       {L === "labels3" ? <Labels3 spec={spec} /> : null}
+      {L === "pie" ? <Pie spec={spec} /> : null}
+      {L === "growth3" ? <Growth3 spec={spec} /> : null}
+      {L === "timeline" ? <Timeline spec={spec} /> : null}
+      {L === "trenches" ? <Trenches spec={spec} /> : null}
+      {L === "contract" ? <Contract spec={spec} /> : null}
+      {L === "two_frames" ? <TwoFrames spec={spec} /> : null}
+      {L === "planet_question" ? <PlanetQuestion spec={spec} /> : null}
     </Frame>
   );
 };

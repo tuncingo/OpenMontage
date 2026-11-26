@@ -1,0 +1,117 @@
+{
+  "selections": [
+    {
+      "scene_id": 11,
+      "chosen": 3,
+      "focus_x": 0.5,
+      "fit_score": 5,
+      "reason": "Chandra X-isini goruntusu (Antennae) sicak gaz akislari ve parlak bir cekirdek iceriyor; Merkur'den kacan gaz anlatimi icin soyut bir kozmik kesit olarak uygun ve uzerinde baslik veya yazi yok.",
+      "issues": [
+        "Gorsel Merkur'a degil bir galaksi carpismasina ait, Chandra X-isini sahte renklendirilmis.",
+        "Onizleme yaklasik 1280 px, tam ekran icin kabul edilebilir."
+      ]
+    },
+    {
+      "scene_id": 14,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 1,
+      "reason": "Merkur'e ait temiz bir fotograf kalmadi: PIA20828 Ceres'e, iss042e049059 ise Dunya'ya ait; video adaylari bu pass'te kabul edilmediginden sahne kod semasi olarak cizilecek.",
+      "issues": [
+        "SVS-11544 ve SVS-11197 klipleri bu pass'te video oldugu icin secilemedi.",
+        "Dawn/Ceres ve ISS gorselleri baska gok cisimleri veya Dunya."
+      ]
+    },
+    {
+      "scene_id": 20,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 2,
+      "reason": "Hollow'lu kraterleri gosteren uygun fotograflar baska sahnelerde kullaniliyor (PIA19246 sahne 10, GSFC_20171208_Archive_e001834 sahne 16 grup dosyalarina gore); PIA19421 ise hollow tabani gostermeyen, 640x360 cozunurluklu renkli bir krater mozaigi.",
+      "issues": [
+        "PIA19246 ve GSFC_20171208_Archive_e001834 tekrar kullanilamaz.",
+        "PIA19421 hollow icermiyor ve dusuk cozunurluklu."
+      ]
+    },
+    {
+      "scene_id": 28,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 1,
+      "reason": "Merkur'un olusum ve kuculme donemini temsil eden uygun bir foto yok; PIA16078 Mars'in ic yapisini gosteren bir sanat konsepti, PIA13115 ise bir kuyrukluyildiz.",
+      "issues": [
+        "PIA16078 baska bir gezegen (Mars) ve bir misyon sanat konsepti.",
+        "PIA13115 kuyrukluyildiz, Merkur ile ilgisi yok.",
+        "Bu pass'te video adaylari kabul edilmedi."
+      ]
+    },
+    {
+      "scene_id": 30,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 2,
+      "reason": "PIA19254 graben gosterir ama gomulu 'Small Scarps and Graben' slayt basligi nedeniyle kullanilamaz; GSFC_20171208_Archive_e001762 Goethe havzasinin renkli topografya haritasi olup graben veya hendek icermiyor.",
+      "issues": [
+        "PIA19254 gomulu slayt basligi iceriyor.",
+        "GSFC_20171208_Archive_e001762 anlatilan kucuk hendeklerle eslesmiyor."
+      ]
+    },
+    {
+      "scene_id": 32,
+      "chosen": -1,
+      "focus_x": 0.84,
+      "fit_score": 4,
+      "reason": "Editör: Merkür birkaç piksel, önizleme ~640 px; kod diyagramına çevrildi.",
+      "issues": [
+        "Merkur yalnizca birkac piksel bir nokta, 'donen gezegen' brief'i tam karsilanmiyor.",
+        "Onizleme yaklasik 640 px; tam ekran buyutmede yumusak gorunebilir.",
+        "Gorselin 'kuculme' anlatimi ile bagi dolayli."
+      ]
+    },
+    {
+      "scene_id": 46,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 1,
+      "reason": "Gunes sistemi icinde uzun gezegen yolculugunu anlatacak uygun bir foto yok; PIA22125 Mars kutbu buz tabakasi, PIA20152 ise Pluto uydulari gosteriyor.",
+      "issues": [
+        "Mars ve Pluto gorselleri anlatilan MESSENGER/BepiColombo yolculuguyla eslesmiyor.",
+        "Bu pass'te video adaylari kabul edilmedi."
+      ]
+    },
+    {
+      "scene_id": 47,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 2,
+      "reason": "Takvim hissi veren temiz bir Merkur fotografi yok: PIA11221 uzerinde 'Flyby 2 outbound' etiketleri var ve MESSENGER'a ait; PIA11219 etiketli bir panel; GSFC_20171208_Archive_e001870 ve PIA11372 baska sahnelerde kullaniliyor.",
+      "issues": [
+        "PIA11221 ve PIA11219 gomulu etiket ve yazi iceriyor.",
+        "GSFC_20171208_Archive_e001870 (sahne 8) ve PIA11372 (sahne 29) tekrar kullanilamaz.",
+        "MESSENGER gorseli BepiColombo anlatimi icin uygun degil."
+      ]
+    },
+    {
+      "scene_id": 60,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 1,
+      "reason": "Renkli bulutsu veya gezegen kareleri icin kullanilabilir foto kalmadi: carina_nebula sahne 34'te kullaniliyor, NHQ202207120012 ise izleyici kalabaligi ve ekran iceriyor.",
+      "issues": [
+        "carina_nebula tekrar kullanilamaz (sahne 34).",
+        "NHQ202207120012 insan kalabaligi iceriyor, brief'e uymuyor."
+      ]
+    },
+    {
+      "scene_id": 63,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "fit_score": 2,
+      "reason": "Iki uygun Merkur fotografi de baska sahnelerde kullaniliyor: PIA13477 sahne 22, GSFC_20171208_Archive_e001918 sahne 40; tekrar secilmedi ve sahne kod semasi olarak cizilecek.",
+      "issues": [
+        "PIA13477 sahne 22'de kullaniliyor.",
+        "GSFC_20171208_Archive_e001918 sahne 40'ta kullaniliyor."
+      ]
+    }
+  ]
+}

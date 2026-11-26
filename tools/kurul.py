@@ -611,8 +611,13 @@ def cmd_indir(kod):
 
     def isle(t):
         sid, c, s = t
+        yedek = None
         for eski in glob.glob(os.path.join(d, "assets", f"scene_{sid:03d}.*")):
-            os.remove(eski)  # yeniden indirmede eski fotoğraf/klip kalmasın
+            if eski.lower().endswith(".mp4"):  # a good clip is kept if the new cut fails (e.g. the server answers 403)
+                yedek = eski + ".bak"
+                os.replace(eski, yedek)
+            else:
+                os.remove(eski)  # yeniden indirmede eski fotoğraf kalmasın
         if c.get("media") == "video":
             toplam = float(c.get("duration_s") or 0)
             ihtiyac = min(25.0, sure_of.get(sid, 6) * 1.6 + 1.5)  # render sahneyi anlatıya göre uzatabilir
@@ -622,11 +627,19 @@ def cmd_indir(kod):
                 ihtiyac = min(ihtiyac, toplam - bas)
             hedef = os.path.join(d, "assets", f"scene_{sid:03d}.mp4")
             if video_kes(c, hedef, bas, ihtiyac):
+                if yedek:
+                    os.remove(yedek)
+                return sid, os.path.relpath(hedef, d)
+            if yedek:
+                os.replace(yedek, hedef)
+                print(f"UYARI: sahne {sid} klibi indirilemedi; önceki klip korundu")
                 return sid, os.path.relpath(hedef, d)
             print(f"UYARI: sahne {sid} klibi kesilemedi; önizleme karesi kullanılacak")
             hedef = os.path.join(d, "assets", f"scene_{sid:03d}.jpg")
             shutil.copy(os.path.join(ROOT, c["file"]), hedef)
             return sid, os.path.relpath(hedef, d) + " (önizleme boyutu)"
+        if yedek:  # the selection changed from a clip to a photo: the old clip is obsolete
+            os.remove(yedek)
         for url in buyuk_surum(c):
             ext = os.path.splitext(url)[1].lower()
             hedef = os.path.join(d, "assets", f"scene_{sid:03d}{'.png' if ext == '.png' else '.jpg'}")

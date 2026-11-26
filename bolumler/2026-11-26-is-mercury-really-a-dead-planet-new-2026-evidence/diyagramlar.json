@@ -1,8 +1,8 @@
 {
   "1": {
     "layout": "arrival",
-    "label": "ORBIT ARRIVAL",
-    "illustration": true
+    "illustration": true,
+    "illustrationSide": "right"
   },
   "3": {
     "layout": "arrival",
@@ -114,5 +114,96 @@
       "QUIET",
       "UNNAMED"
     ]
+  },
+  "14": {
+    "layout": "pie",
+    "label": "STREAKS OUTSIDE CRATERS",
+    "share": 0.1,
+    "big": "about 10%",
+    "caption": "NOT IN CRATERS",
+    "credit": "Source: University of Bern"
+  },
+  "20": {
+    "layout": "growth3",
+    "label": "2025 STUDY"
+  },
+  "28": {
+    "layout": "timeline",
+    "label": "THE PAST",
+    "ticks": [
+      {
+        "label": "THEN",
+        "at": 0.04
+      },
+      {
+        "label": "NOW",
+        "at": 0.96
+      }
+    ],
+    "span": {
+      "from": 0.04,
+      "to": 0.96,
+      "label": "WHOLE HISTORY",
+      "color": "teal"
+    },
+    "illustration": true
+  },
+  "30": {
+    "layout": "trenches",
+    "label": "2023"
+  },
+  "32": {
+    "layout": "contract",
+    "label": "CONTRACTION"
+  },
+  "46": {
+    "layout": "timeline",
+    "label": "ABOUT EIGHT YEARS",
+    "ticks": [
+      {
+        "label": "2018",
+        "at": 0.06
+      },
+      {
+        "label": "2026",
+        "at": 0.94
+      }
+    ],
+    "span": {
+      "from": 0.06,
+      "to": 0.94,
+      "color": "teal"
+    },
+    "end": 0.94,
+    "illustration": true
+  },
+  "47": {
+    "layout": "timeline",
+    "label": "SCIENCE PHASE",
+    "ticks": [
+      {
+        "label": "2026",
+        "at": 0.12
+      },
+      {
+        "label": "2027",
+        "at": 0.88
+      }
+    ],
+    "span": {
+      "from": 0.68,
+      "to": 0.76,
+      "label": "APRIL 2027 · DATES MAY CHANGE",
+      "color": "amber"
+    },
+    "credit": "Source: ESA"
+  },
+  "60": {
+    "layout": "two_frames",
+    "label": "A CHANGE TO POINT TO"
+  },
+  "63": {
+    "layout": "planet_question",
+    "label": "THE HONEST ANSWER"
   }
 }
