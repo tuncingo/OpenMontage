@@ -1,11 +1,117 @@
-{"selections": [
-{"scene_id": 33, "chosen": -1, "fit_score": 1, "reason": "Renkli ve temiz bir arsiv gorseli kalmadi: iki Webb klibi sahne metni ve yazi tasiyor, Carina fotografi ise sahne 34'te kullaniliyor.", "issues": ["Webb klipleri (aday 0 ve 2) baslik ve altyazi iceriyor", "carina_nebula sahne 34'te kullaniliyor, tekrar edilemedi", "Aday 4 ekranda izleyen insanlar iceriyor"]},
-{"scene_id": 45, "chosen": 0, "focus_x": 0.45, "start_s": 0, "fit_score": 6, "reason": "ISS'ten cekilmis Dunya limb'i gercek ham goruntu olup metin icermiyor; BepiColombo'nun Avrupa-Japon misyonu anlatimi icin Dunya kesiti olarak uygun.", "issues": ["Renk agirlikla mavi-gri, canli degil", "Klip 200 sn, sahne 9 sn; kesit yeterli"]},
-{"scene_id": 48, "chosen": 1, "focus_x": 0.6, "start_s": 0, "fit_score": 4, "reason": "Parker Solar Probe'un lazer testi kaydi gercek ham goruntu ve mor isikli renkli bir kare sunuyor; brief'in Parker istegine uyuyor ama kozmik degil.", "issues": ["Kare temiz oda ve teknisyenler iceriyor, kozmik gorunum degil", "Lazer altimetri ile dogrudan ilgisi yok; Parker goruntusu olarak etiketlenmeli", "Trailer ve Sunset Show klipleri tanitim/etkinlik oldugu icin reddedildi"]},
-{"scene_id": 52, "chosen": 3, "focus_x": 0.55, "fit_score": 6, "reason": "Uygun video yok (haber programi ve baslikli klip reddedildi); Hubble'in renkli Pillars of Creation arsiv karesi yedek olarak secildi.", "issues": ["Video yerine fotograf kullanildi", "aday 2 onizlemesi siyah kare, reddedildi", "Gorsel 3B gorsellestirme degil, duragan Hubble karesi"]},
-{"scene_id": 55, "chosen": 1, "focus_x": 0.5, "start_s": 0, "fit_score": 7, "reason": "ISS'ten cekilmis yesil ve kirmizi kutup isiklari renkli ve sakin; gece sahnesi icin metinsiz bir fotograf olarak uygun.", "issues": ["Uygun video yok: Artemis haber programi (This Week @NASA) reddedildi", "Duragan fotograf, hafif Ken Burns hareketi gerekebilir", "Ust kisimda ISS modulu gorunuyor"]},
-{"scene_id": 56, "chosen": 0, "focus_x": 0.4, "start_s": 0, "fit_score": 5, "reason": "Gercek Merkur'un kuzey kutup bolgesinin sicaklik renklendirmeli karesi metin icermiyor ve Merkur icin dolayli ama dogru bir renkli gorsel.", "issues": ["Sicaklik haritasi yanlis renk, dogal renk degil", "Kenar degisimi veya yeni cizgi gosterilmiyor", "Galilean uydular Merkur degil, reddedildi"]},
-{"scene_id": 59, "chosen": 0, "focus_x": 0.5, "start_s": 0, "fit_score": 6, "reason": "MESSENGER'in renkli Merkur mozaigi gercek Merkur yuzeyini canli mavi-turuncu renklerle gosteriyor ve metin veya etiket icermiyor.", "issues": ["Mozaik kenarlarinda siyah bosluklar var", "Hollow kenar degisimi gosterilmiyor, genel yuzey karesi", "PIA11219 ok ve kutu etiketli, reddedildi"]},
-{"scene_id": 60, "chosen": 4, "focus_x": 0.48, "start_s": 0, "fit_score": 6, "reason": "Hubble'in renkli NGC 4242 (Hunting Dogs) galaksi karesi kozmik kesit brief'ine uygun; video adaylari konusma veya donanim klibi oldugu icin fotograf kullanildi.", "issues": ["Uygun video yok: Hubble 20 yil klipleri konusmaci iceriyor, WFC3 klibi 8 sn ve donanim gosteriyor", "NGC 5477 karesi yaklasik 640 px, dusuk cozunurluk nedeniyle reddedildi", "Duragan fotograf, hafif hareket gerekebilir"]},
-{"scene_id": 63, "chosen": 0, "focus_x": 0.55, "start_s": 0, "fit_score": 7, "reason": "SOFIA'nin Samanyolu merkezinin kizilotesi panoramasi renkli, kozmik ve 85 sn sureli 1280x720 bir klip; outro icin uygun.", "issues": ["Muhabir paketi (RptrPkg) oldugu icin klip icinde seslendirme veya alt yazi olup olmadigi tam kontrol edilmeli", "Onizleme karesinde yazi gorunmuyor", "Planck Samanyolu haritasi (PIA18913) yedek foto olarak degerlendirildi"]}
-]}
+{
+  "selections": [
+    {
+      "scene_id": 33,
+      "chosen": -1,
+      "fit_score": 1,
+      "reason": "Renkli ve temiz bir arsiv gorseli kalmadi: iki Webb klibi sahne metni ve yazi tasiyor, Carina fotografi ise sahne 34'te kullaniliyor.",
+      "issues": [
+        "Webb klipleri (aday 0 ve 2) baslik ve altyazi iceriyor",
+        "carina_nebula sahne 34'te kullaniliyor, tekrar edilemedi",
+        "Aday 4 ekranda izleyen insanlar iceriyor"
+      ]
+    },
+    {
+      "scene_id": 45,
+      "chosen": 0,
+      "focus_x": 0.45,
+      "start_s": 20,
+      "fit_score": 6,
+      "reason": "ISS'ten cekilmis Dunya limb'i gercek ham goruntu olup metin icermiyor; BepiColombo'nun Avrupa-Japon misyonu anlatimi icin Dunya kesiti olarak uygun.",
+      "issues": [
+        "Renk agirlikla mavi-gri, canli degil",
+        "Klip 200 sn, sahne 9 sn; kesit yeterli"
+      ]
+    },
+    {
+      "scene_id": 48,
+      "chosen": 1,
+      "focus_x": 0.6,
+      "start_s": 0,
+      "fit_score": 4,
+      "reason": "Parker Solar Probe'un lazer testi kaydi gercek ham goruntu ve mor isikli renkli bir kare sunuyor; brief'in Parker istegine uyuyor ama kozmik degil.",
+      "issues": [
+        "Kare temiz oda ve teknisyenler iceriyor, kozmik gorunum degil",
+        "Lazer altimetri ile dogrudan ilgisi yok; Parker goruntusu olarak etiketlenmeli",
+        "Trailer ve Sunset Show klipleri tanitim/etkinlik oldugu icin reddedildi"
+      ]
+    },
+    {
+      "scene_id": 52,
+      "chosen": 3,
+      "focus_x": 0.55,
+      "fit_score": 6,
+      "reason": "Uygun video yok (haber programi ve baslikli klip reddedildi); Hubble'in renkli Pillars of Creation arsiv karesi yedek olarak secildi.",
+      "issues": [
+        "Video yerine fotograf kullanildi",
+        "aday 2 onizlemesi siyah kare, reddedildi",
+        "Gorsel 3B gorsellestirme degil, duragan Hubble karesi"
+      ]
+    },
+    {
+      "scene_id": 55,
+      "chosen": 1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 7,
+      "reason": "ISS'ten cekilmis yesil ve kirmizi kutup isiklari renkli ve sakin; gece sahnesi icin metinsiz bir fotograf olarak uygun.",
+      "issues": [
+        "Uygun video yok: Artemis haber programi (This Week @NASA) reddedildi",
+        "Duragan fotograf, hafif Ken Burns hareketi gerekebilir",
+        "Ust kisimda ISS modulu gorunuyor"
+      ]
+    },
+    {
+      "scene_id": 56,
+      "chosen": 0,
+      "focus_x": 0.4,
+      "start_s": 0,
+      "fit_score": 5,
+      "reason": "Gercek Merkur'un kuzey kutup bolgesinin sicaklik renklendirmeli karesi metin icermiyor ve Merkur icin dolayli ama dogru bir renkli gorsel.",
+      "issues": [
+        "Sicaklik haritasi yanlis renk, dogal renk degil",
+        "Kenar degisimi veya yeni cizgi gosterilmiyor",
+        "Galilean uydular Merkur degil, reddedildi"
+      ]
+    },
+    {
+      "scene_id": 59,
+      "chosen": 0,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 6,
+      "reason": "MESSENGER'in renkli Merkur mozaigi gercek Merkur yuzeyini canli mavi-turuncu renklerle gosteriyor ve metin veya etiket icermiyor.",
+      "issues": [
+        "Mozaik kenarlarinda siyah bosluklar var",
+        "Hollow kenar degisimi gosterilmiyor, genel yuzey karesi",
+        "PIA11219 ok ve kutu etiketli, reddedildi"
+      ]
+    },
+    {
+      "scene_id": 60,
+      "chosen": 4,
+      "focus_x": 0.48,
+      "start_s": 0,
+      "fit_score": 6,
+      "reason": "Hubble'in renkli NGC 4242 (Hunting Dogs) galaksi karesi kozmik kesit brief'ine uygun; video adaylari konusma veya donanim klibi oldugu icin fotograf kullanildi.",
+      "issues": [
+        "Uygun video yok: Hubble 20 yil klipleri konusmaci iceriyor, WFC3 klibi 8 sn ve donanim gosteriyor",
+        "NGC 5477 karesi yaklasik 640 px, dusuk cozunurluk nedeniyle reddedildi",
+        "Duragan fotograf, hafif hareket gerekebilir"
+      ]
+    },
+    {
+      "scene_id": 63,
+      "chosen": 0,
+      "focus_x": 0.55,
+      "start_s": 0,
+      "fit_score": 7,
+      "reason": "SOFIA'nin Samanyolu merkezinin kizilotesi panoramasi renkli, kozmik ve 85 sn sureli 1280x720 bir klip; outro icin uygun.",
+      "issues": [
+        "Muhabir paketi (RptrPkg) oldugu icin klip icinde seslendirme veya alt yazi olup olmadigi tam kontrol edilmeli",
+        "Onizleme karesinde yazi gorunmuyor",
+        "Planck Samanyolu haritasi (PIA18913) yedek foto olarak degerlendirildi"
+      ]
+    }
+  ]
+}

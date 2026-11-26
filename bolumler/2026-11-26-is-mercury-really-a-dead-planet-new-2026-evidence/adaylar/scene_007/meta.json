@@ -5,22 +5,22 @@
   "narration": "One of these clues is a set of bright streaks nobody can fully explain yet. Let's start there.",
   "visual_brief": "Colourful cutaway (Mercury colorful crater); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury colorful crater",
+  "nasa_query": "Mercury MDIS color",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_0.jpg",
-      "nasa_id": "PIA18147",
-      "title": "MESSENGER Near Hokusai Crater Artist Concept",
+      "nasa_id": "PIA19412",
+      "title": "Dramatic Darks of Derain",
       "center": "JPL",
-      "date": "2008-10-29",
-      "description": "An artist rendering of the MESSENGER spacecraft is shown passing near the crater Hokusai and its extensive system of rays. Both the monochrome and enhanced color views of Mercury were obtained during MESSENGER second Mercury flyby.",
+      "date": "2015-04-16",
+      "description": "In this enhanced color view from NASA MESSENGER spacecraft of the peak-ring basin Derain, the different colors accentuate the different rocks associated with the basin. The smooth, interior volcanic fill of the basin, in addition to the large pits on the floor of Derain, are brighter and redder. Thi",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA18147/PIA18147~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA19412/PIA19412~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -28,15 +28,15 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_1.jpg",
-      "nasa_id": "PIA18808",
-      "title": "Hemingway Color",
+      "nasa_id": "PIA19416",
+      "title": "Shadows in the South",
       "center": "JPL",
-      "date": "2014-09-12",
-      "description": "Hemingway crater is seen in this color view of Mercury surface as seen by NASA MESSENGER spacecraft. Hemingway is the 130-km 81-mile diameter crater with a relatively brown floor and small patch of dark blue in its center.",
+      "date": "2015-04-16",
+      "description": "This view from NASA MESSENGER spacecraft is an orthographic projection of Mercury south polar region, colored by an illumination map. The illumination map, created from repeated MDIS imaging, is colored on the basis of the percentage of time that a given area is sunlit. Areas appearing black in the ",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18808/PIA18808~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19416/PIA19416~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19416/PIA19416~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19416/PIA19416~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -44,15 +44,15 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_2.jpg",
-      "nasa_id": "PIA12068",
-      "title": "Fading Away",
+      "nasa_id": "PIA19422",
+      "title": "A Striking Perspective",
       "center": "JPL",
-      "date": "2009-06-09",
-      "description": "This NAC image from MESSENGER’s second Mercury flyby shows a crater with a set of light-colored rays radiating outward from it. Such rays are formed when an impact excavates material from below the surface and throws it outward from the crater.",
+      "date": "2015-04-16",
+      "description": "This image from NASA MESSENGER spacecraft provides a perspective view of the center portion of Carnegie Rupes, a large tectonic landform, which cuts through Duccio crater. The image shows the terrain (variations in topography) as measured by the MLA instrument and surface mapped by the MDIS instrume",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA12068/PIA12068~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA12068/PIA12068~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA12068/PIA12068~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19422/PIA19422~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -60,14 +60,15 @@
     {
       "index": 3,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_007/aday_3.jpg",
-      "nasa_id": "PIA19204",
-      "title": "The Color Out of Space",
-      "center": "JPL",
-      "date": "2015-02-16",
-      "description": "Today's image features a color view of the southern pole of Mercury. About midway down the image, the edge of the large Chao Meng-Fu crater, which lies almost directly on the south pole, can be seen poking out from the shadows. Surrounding Chao Meng-Fu are Roerich, Lovecraft, Hurley and L'Engle crat",
+      "nasa_id": "GSFC_20171208_Archive_e001868",
+      "title": "The Terminator is Here",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA release date June 21, 2011 The terminator of Mercury, shown here in color, is the line between light and dark, or day and night. On Mercury, three days are equivalent to two years, or in other words, the planet spins around its axis three times for every two orbits around the Sun. The first Mer",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19204/PIA19204~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19204/PIA19204~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001868/GSFC_20171208_Archive_e001868~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001868/GSFC_20171208_Archive_e001868~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001868/GSFC_20171208_Archive_e001868~orig.png"
       ],
       "media": "photo",
       "source": "nasa"

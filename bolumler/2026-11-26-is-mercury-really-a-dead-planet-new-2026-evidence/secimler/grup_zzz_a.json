@@ -1,0 +1,115 @@
+{
+  "selections": [
+    {
+      "scene_id": 1,
+      "chosen": 0,
+      "focus_x": 0.55,
+      "start_s": 3,
+      "fit_score": 6,
+      "reason": "Bennu teaser klibi, gezegen ve asteroitlerin renkli ve hareketli oldugu bir gunes sistemi animasyonu oldugu icin kozmik kesit olarak uygun.",
+      "issues": [
+        "Klip Merkur yorungesini degil genel bir gezegen animasyonunu gosteriyor",
+        "Tanitim kliplerinde basta baslik olabilecegi icin 3. saniyeden baslatildi"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "chosen": 0,
+      "focus_x": 0.7,
+      "start_s": 0,
+      "fit_score": 8,
+      "reason": "Merkur'un gri ve renkli yuzeyini yan yana gosteren gercek MESSENGER goruntusu, 'olu ve dovulmus kaya' hook'u icin renk kontrastini dogrudan verir.",
+      "issues": [
+        "Onizleme 628 px; orijinal boyutun 1000 px uzeri oldugu dogrulanmali",
+        "Sol yari gri, renkli bolge sag tarafta; kirpma renkli yarida tutuldu"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "chosen": 1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 7,
+      "reason": "Caloris havzasinin renkli MESSENGER mozaigi, Merkur'un yuzeyinde yeni calismalarin anlatildigi sahne icin temiz ve yuksek cozunurluklu bir renkli gorunum.",
+      "issues": [
+        "Ayni gorsel PIA19216 ile GSFC_20171208_Archive_e000764 olarak iki kez var; yalnizca PIA19216 kullanildi",
+        "Yazi, ok veya etiket yok"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "chosen": 3,
+      "focus_x": 0.6,
+      "start_s": 0,
+      "fit_score": 4,
+      "reason": "PIA19204 gercek bir MESSENGER renk urunu ve Merkur'un guney kutbu kraterlerini gosteriyor; renk soluk olsa da grimsi karelerden daha renkli.",
+      "issues": [
+        "Renk soluk, belirgin renkli krater degil",
+        "Anlatilan parlak cizgiler (streak) gorunmuyor",
+        "Onizleme 508 px; orijinal boyut dogrulanmali"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "chosen": 0,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 4,
+      "reason": "Merkur'un renkli kraterli mozaigi renkli bir Merkur gorunumu saglar, ancak hollow dokusunu acikca gostermedigi icin en iyi degil.",
+      "issues": [
+        "Munch, Sander ve Poe kraterleri gosteriliyor; hollow dokusu net degil",
+        "Onizleme 640x360; 9:16 kirpmada bulanik gorunebilir",
+        "Diger hollow fotograflari (GSFC_20171208_Archive_e001834, GSFC_20171208_Archive_e001870) baska sahnelerde kullaniliyor"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "chosen": 0,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 6,
+      "reason": "Spitzer'in Cepheus takimyildiz alani, yildizlar ve gaz bulutlariyla hareketli, renkli ve metinsiz bir kozmik kesit sunuyor.",
+      "issues": [
+        "Brief Orion Bulutsusu istiyordu; bu klip Cepheus bolgesi, Orion olarak sunulmamali",
+        "Klip 1920x1080 ve 118 sn, sahne 8 sn icin yeterli; baslik kartı gorunmuyor"
+      ]
+    },
+    {
+      "scene_id": 24,
+      "chosen": 0,
+      "focus_x": 0.45,
+      "start_s": 0,
+      "fit_score": 7,
+      "reason": "PIA10359 Caloris havzasini renkli olarak gosteren gercek MESSENGER goruntusu; sahnenin Caloris renk brief'ine dogrudan uyuyor.",
+      "issues": [
+        "Onizleme 628 px; orijinal boyutun 1000 px uzeri oldugu dogrulanmali",
+        "Gorsel fay yapisini degil havzanin genel renk farkini gosteriyor"
+      ]
+    },
+    {
+      "scene_id": 30,
+      "chosen": 1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 5,
+      "reason": "Carnegie Rupes sirtinin renkli perspektif gorunumu, Merkur'un kabuk deformasyonunu gosteren renkli bir gercek MESSENGER goruntusu.",
+      "issues": [
+        "Kucuk hendekler yerine buyuk bir sirt (scarp) gosteriliyor",
+        "Onizleme 640x463; 9:16 kirpmada bulanik gorunebilir",
+        "Renkler yukseklik kodlu, dogal renk degil"
+      ]
+    },
+    {
+      "scene_id": 32,
+      "chosen": 1,
+      "focus_x": 0.5,
+      "start_s": 24,
+      "fit_score": 8,
+      "reason": "SDO Year 6 klibi 4K cozunurlukte, Gunes'in korona dokusunu renkli ve hareketli gosteriyor; kozmik kesit olarak cok uygun.",
+      "issues": [
+        "Klip 391 sn, sahne 5 sn; ilk saniyelerde baslik karti olabilecegi icin 4. saniyeden baslatildi",
+        "Merkur gosterilmiyor; bu bir Gunes kesiti"
+      ]
+    }
+  ]
+}

@@ -5,20 +5,20 @@
   "narration": "A 2025 study agrees. It found most hollows are in an early stage, and likely still evolving.",
   "visual_brief": "Colourful cutaway (Mercury hollows color); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Mercury hollows color",
+  "nasa_query": "Mercury hollows",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_0.jpg",
-      "nasa_id": "PIA19421",
-      "title": "Orange Is the New Blue",
+      "nasa_id": "PIA15062",
+      "title": "Mercury and the Deathly Hollows",
       "center": "JPL",
-      "date": "2015-04-16",
-      "description": "Measurements from NASA MESSENGER MLA instrument during the spacecraft greater than four-year orbital mission have mapped the topography of Mercury northern hemisphere in great detail. This enhanced color mosaic shows (from left to right) Munch (61 km/38 mi.), Sander (52 km/32 mi.), and Poe (81 km/50",
+      "date": "2011-10-27",
+      "description": "Mercury and the Deathly Hollows",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA19421/PIA19421~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15062/PIA15062~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -26,15 +26,15 @@
     {
       "index": 1,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_1.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001834",
-      "title": "MESSENGER View of Mercury's Caloris Basin",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "NASA image acquired October 28, 2011 This stunning, and as of yet unnamed, crater lies within the Caloris basin. Its floor provides another example of the beautiful &quot;hollows&quot; found on Mercury and has an etched appearance similar to that found in the crater Tyagaraja. This image was acquire",
+      "nasa_id": "PIA15064",
+      "title": "The Sleepy Hollows of Mercury",
+      "center": "JPL",
+      "date": "2011-10-31",
+      "description": "The Sleepy Hollows of Mercury",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001834/GSFC_20171208_Archive_e001834~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15064/PIA15064~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
@@ -42,15 +42,32 @@
     {
       "index": 2,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_2.jpg",
-      "nasa_id": "GSFC_20171208_Archive_e001870",
-      "title": "Color Image of Mercury from NASA's MESSENGER Satellite",
-      "center": "GSFC",
-      "date": "2017-12-08",
-      "description": "NASA image acquired September 3, 2011 Dominici crater, the very bright crater to the top of this image, exhibits bright rays and contains hollows. This crater lies upon the peak ring of Homer Basin, a very degraded peak ring basin that has been filled by volcanism. This image contains several exampl",
+      "nasa_id": "PIA19267",
+      "title": "A Field of Hollows",
+      "center": "JPL",
+      "date": "2015-04-01",
+      "description": "Mercury's hollows are among its most distinctive -- and unusual -- surface features. In this stunning view, we see a field of hollows in the western portion of the floor of Zeami impact basin. Hollows populate much of the rest of the basin's interior, with large concentrations several kilometers acr",
       "links": [
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~small.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~thumb.jpg",
-        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001870/GSFC_20171208_Archive_e001870~orig.png"
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19267/PIA19267~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_020/aday_3.jpg",
+      "nasa_id": "PIA19246",
+      "title": "The Young Ones",
+      "center": "JPL",
+      "date": "2015-03-16",
+      "description": "This high-resolution view shows hollows on the southwestern peak ring of the Scarlatti basin. The hollows are the irregularly shaped, flat-floored depressions. The image is striking because it shows that there are abundant small impact craters on the surface surrounding the hollows. But there are fe",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA19246/PIA19246~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

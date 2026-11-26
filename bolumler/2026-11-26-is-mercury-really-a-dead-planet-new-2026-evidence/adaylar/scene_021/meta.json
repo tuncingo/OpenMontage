@@ -1,39 +1,82 @@
 {
   "scene_id": 21,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 8.0,
   "narration": "The authors say BepiColombo can look for change. Keep the hollows in mind. We will come back to them.",
   "visual_brief": "Colourful cutaway (Orion Nebula Hubble); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "nebula flythrough",
+  "nasa_query": "Eagle Nebula",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_021/aday_0.jpg",
-      "nasa_id": "20190530-SPITZRf-0001-Stars of Cephus",
-      "title": "Stars of Cepheus as Seen by NASA's Spitzer Space Telescope",
+      "nasa_id": "PIA25433",
+      "title": "The Eagle Nebula Observed by WISE",
       "center": "JPL",
-      "date": "2019-05-30",
-      "description": "Soar through this cosmic landscape filled with bright nebulas, as well as runaway, massive and young stars. The image comes from NASA's Spitzer Space Telescope, which sees the universe in infrared light. For more about Spitzer, visit https://www.nasa.gov/spitzer or http://www.spitzer.caltech.edu/ . ",
+      "date": "2022-11-11",
+      "description": "The dusty face of the Eagle Nebula and its surroundings are revealed in this image based on data from NASA's Wide Field Survey Explorer (WISE). WISE detects infrared light, or a range of wavelengths longer than what the human eye can see. This large star forming region is about 5,700 light years awa",
       "links": [
-        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.jpg",
-        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.jpg",
-        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.jpg",
-        "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~thumb.jpg"
+        "https://images-assets.nasa.gov/image/PIA25433/PIA25433~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA25433/PIA25433~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA25433/PIA25433~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA25433/PIA25433~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA25433/PIA25433~orig.jpg"
       ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~large.mp4",
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~medium.mp4",
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~mobile.mp4",
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~small.mp4",
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~preview.mp4",
-        "http://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~orig.mp4"
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_021/aday_1.jpg",
+      "nasa_id": "PIA09108",
+      "title": "Eagle Nebula Flaunts its Infrared Feathers",
+      "center": "JPL",
+      "date": "2007-01-09",
+      "description": "This set of images from NASA Spitzer Space Telescope shows the Eagle nebula in different hues of infrared light. Each view tells a different tale. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09108/PIA09108~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA09108/PIA09108~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09108/PIA09108~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09108/PIA09108~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA09108/PIA09108~orig.jpg"
       ],
-      "duration_s": 118.5,
-      "width": 1920,
-      "height": 1080
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_021/aday_2.jpg",
+      "nasa_id": "PIA15260",
+      "title": "Herschel Sees Through Ghostly Pillars",
+      "center": "JPL",
+      "date": "2012-01-18",
+      "description": "This image of the Eagle nebula shows the self-emission of the intensely cold nebula gas and dust as never seen before; the nebula intricate tendril nature, with vast cavities forms an almost cave-like surrounding to the famous pillars.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15260/PIA15260~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15260/PIA15260~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15260/PIA15260~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15260/PIA15260~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_021/aday_3.jpg",
+      "nasa_id": "PIA09107",
+      "title": "Cosmic Epic Unfolds in Infrared",
+      "center": "JPL",
+      "date": "2007-01-09",
+      "description": "This majestic view taken by NASA Spitzer Space Telescope tells an untold story of life and death in the Eagle nebula, an industrious star-making factory located 7,000 light-years away in the Serpens constellation. ",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA09107/PIA09107~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA09107/PIA09107~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA09107/PIA09107~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA09107/PIA09107~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA09107/PIA09107~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
     }
   ]
 }

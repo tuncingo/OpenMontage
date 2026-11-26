@@ -1,128 +1,78 @@
 {
   "scene_id": 63,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 5.0,
   "narration": "The honest answer today is that we do not know yet.",
   "visual_brief": "Colourful cutaway (Milky Way); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "outro",
-  "nasa_query": "Milky Way",
+  "nasa_query": "Milky Way galaxy",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_0.jpg",
-      "nasa_id": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb",
-      "title": "SOFIA Reveals New View of Milky Way’s Center",
-      "center": "ARC",
-      "date": "2020-01-03",
-      "description": "NASA’s flying telescope SOFIA captured a crisp infrared image of the center of our Milky Way galaxy. Spanning more than 600 light-years, the panorama reveals details within the dense swirls of gas and dust, opening the door to future research into how massive stars are forming and what’s feeding the",
+      "nasa_id": "GSFC_20171208_Archive_e001326",
+      "title": "Tracing the growth of Milky Way-like galaxies",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "This composite image shows examples of galaxies similar to our Milky Way at various stages of construction over a time span of 11 billion years. The galaxies are arranged according to time. Those on the left reside nearby; those at far right existed when the cosmos was about 2 billion years old. The",
       "links": [
-        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.jpg",
-        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.jpg",
-        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.jpg",
-        "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~large.mp4",
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.mp4",
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~mobile.mp4",
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~small.mp4",
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~preview.mp4",
-        "http://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~orig.mp4"
-      ],
-      "duration_s": 85.1,
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_1.jpg",
-      "nasa_id": "sonify_galactic_all",
-      "title": "Sounds from Around the Milky Way",
-      "center": "MSFC",
-      "date": "2020-09-22",
-      "description": "A new project using sonification turns astronomical images from NASA's Chandra X-Ray Observatory and other telescopes into sound. This allows users to \"listen\" to the center of the Milky Way as observed in X-ray, optical, and infrared light. As the cursor moves across the image, sounds represent the",
-      "links": [
-        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.jpg",
-        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.jpg",
-        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.jpg",
-        "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.mp4",
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.mp4",
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~mobile.mp4",
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.mp4",
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~preview.mp4",
-        "http://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4"
-      ],
-      "duration_s": 64.0,
-      "width": 2269,
-      "height": 1080
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_2.jpg",
-      "nasa_id": "JPL-20210701-WHATSUf-0001-Whats-Up-July-2021",
-      "title": "What's Up: July 2021 Skywatching Tips from NASA ",
-      "center": "JPL",
-      "date": "2021-07-01",
-      "description": "What are some skywatching highlights in July 2021? Venus blazes as the \"Evening Star\" following sunset, with a much fainter planet Mars nearby. Catch their super close pairing on July 12. Plus, if you can find your way to dark skies, this is the best time of year to enjoy the magic of the Milky Way.",
-      "links": [
-        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.jpg",
-        "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~large.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~medium.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~mobile.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~small.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~preview.mp4",
-        "http://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021~orig.mp4"
-      ],
-      "duration_s": 202.0,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_3.jpg",
-      "nasa_id": "PIA18913",
-      "title": "Milky Way Untangled",
-      "center": "JPL",
-      "date": "2015-02-05",
-      "description": "A new, dynamic portrait of our Milky Way galaxy shows a frenzy of gas, charged particles and dust as seen by the European Space Agency Planck mission.",
-      "links": [
-        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA18913/PIA18913~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001326/GSFC_20171208_Archive_e001326~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001326/GSFC_20171208_Archive_e001326~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001326/GSFC_20171208_Archive_e001326~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001326/GSFC_20171208_Archive_e001326~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001326/GSFC_20171208_Archive_e001326~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_4.jpg",
-      "nasa_id": "PIA24576",
-      "title": "A Break in the Milky Way's Sagittarius Arm",
-      "center": "JPL",
-      "date": "2021-08-17",
-      "description": "A contingent of young stars and star-forming gas clouds is sticking out of one of the Milky Way's spiral arms like a splinter protruding from a plank of wood. Stretching some 3,000 light-years, this is the first major structure identified with such a dramatically different orientation relative to th",
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_1.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000148",
+      "title": "Festive Nebulas Light Up Milky Way Galaxy Satellite",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "NASA’s Hubble Space Telescope captured two festive-looking nebulas, situated so as to appear as one. They reside in the Small Magellanic Cloud, a dwarf galaxy that is a satellite of our Milky Way galaxy. Intense radiation from the brilliant central stars is heating hydrogen in each of the nebulas, c",
       "links": [
-        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~medium.jpg",
-        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~small.jpg",
-        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~thumb.jpg",
-        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~large.jpg",
-        "https://images-assets.nasa.gov/image/PIA24576/PIA24576~orig.jpg"
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000148/GSFC_20171208_Archive_e000148~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000148/GSFC_20171208_Archive_e000148~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000148/GSFC_20171208_Archive_e000148~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_2.jpg",
+      "nasa_id": "GSFC_20171208_Archive_e000261",
+      "title": "Astronomers Discover Dizzying Spin of the Milky Way Galaxy’s “Halo”",
+      "center": "GSFC",
+      "date": "2017-12-08",
+      "description": "Our Milky Way galaxy and its small companions are surrounded by a giant halo of million-degree gas (seen in blue in this artists' rendition) that is only visible to X-ray telescopes in space. University of Michigan astronomers discovered that this massive hot halo spins in the same direction as the ",
+      "links": [
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000261/GSFC_20171208_Archive_e000261~medium.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000261/GSFC_20171208_Archive_e000261~small.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000261/GSFC_20171208_Archive_e000261~thumb.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000261/GSFC_20171208_Archive_e000261~large.jpg",
+        "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000261/GSFC_20171208_Archive_e000261~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_063/aday_3.jpg",
+      "nasa_id": "KSC-2009-1127",
+      "title": "KSC-2009-1127",
+      "center": "KSC",
+      "date": "2009-01-13",
+      "description": "CAPE CANAVERAL, Fla. -- A Ball Aerospace and Technology worker conducts a light sensor test on NASA's Kepler spacecraft. A NASA Discovery mission, Kepler is specifically designed to survey our region of the Milky Way galaxy to discover hundreds of Earth-size and smaller planets in or near the habita",
+      "links": [
+        "https://images-assets.nasa.gov/image/KSC-2009-1127/KSC-2009-1127~medium.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-1127/KSC-2009-1127~small.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-1127/KSC-2009-1127~thumb.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-1127/KSC-2009-1127~large.jpg",
+        "https://images-assets.nasa.gov/image/KSC-2009-1127/KSC-2009-1127~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"

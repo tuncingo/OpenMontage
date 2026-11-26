@@ -1,0 +1,67 @@
+{
+  "selections": [
+    {
+      "scene_id": 1,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: Bennu teaser başka bir görev.",
+      "issues": []
+    },
+    {
+      "scene_id": 21,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: Spitzer Cepheus klibinde gömülü başlık var (daha önce yakalandı).",
+      "issues": []
+    },
+    {
+      "scene_id": 48,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: temiz oda lazer testi, lazer altimetreyle ilgisiz.",
+      "issues": []
+    },
+    {
+      "scene_id": 63,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: SOFIA reporter package konuşma/altyazı içerebilir.",
+      "issues": []
+    },
+    {
+      "scene_id": 20,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: anlatılan çukurlar görüntüde yok.",
+      "issues": []
+    },
+    {
+      "scene_id": 30,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: anlatılan hendekler yerine tek bir şev gösteriyor.",
+      "issues": []
+    },
+    {
+      "scene_id": 7,
+      "chosen": -1,
+      "focus_x": 0.5,
+      "start_s": 0,
+      "fit_score": 0,
+      "reason": "Editör vetosu: gri ve 508 px düşük çözünürlük.",
+      "issues": []
+    }
+  ]
+}

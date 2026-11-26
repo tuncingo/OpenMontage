@@ -1,127 +1,76 @@
 {
   "scene_id": 48,
-  "media": "video",
+  "media": "photo",
   "scene_duration_s": 6.0,
   "narration": "Now think about what its tools can add. The European orbiter carries a laser altimeter,",
   "visual_brief": "Colourful cutaway (Parker Solar Probe); real NASA/ESA imagery, never presented as another mission.",
   "purpose": "cutaway",
-  "nasa_query": "Parker Solar Probe",
+  "nasa_query": "Sun ultraviolet",
   "candidates": [
     {
       "index": 0,
       "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_0.jpg",
-      "nasa_id": "GSFC_20180720_Parker_m12911_trailer.en_US",
-      "title": "Parker Solar Probe Trailer",
-      "center": "GSFC",
-      "date": "2018-07-20",
-      "description": "Parker Solar Probe is NASA's mission to the Sun. The spacecraft will launch summer 2018.",
+      "nasa_id": "PIA22662",
+      "title": "Magnetic Field Portrayed",
+      "center": "JPL",
+      "date": "2018-08-14",
+      "description": "NASA's Solar Dynamics Observatory (SDO) scientists use their computer models to generate a view of the sun's magnetic field (Aug. 10, 2018). We took the opportunity to compare an extreme ultraviolet view of the sun with the same image showing the superimposed field lines. The bright active region ri",
       "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~orig.mp4"
-      ],
-      "duration_s": 65.0,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 1,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_1.jpg",
-      "nasa_id": "GSFC_20171206_Parker_m12795_LaserTestingSolarPanels",
-      "title": "Parker Solar Probe: Environmental Testing",
-      "center": "GSFC",
-      "date": "2017-12-06",
-      "description": "NASA’s Parker Solar Probe passed laser illumination testing the week of Nov. 27, 2017. During this test, each segment of the spacecraft’s solar panels was illuminated with lasers to check that they were still electrically connected after the vigorous vibration and acoustic testing completed earlier ",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~large.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~orig.mp4"
-      ],
-      "duration_s": 55.0,
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "index": 2,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_2.jpg",
-      "nasa_id": "GSFC_20180822_Parker_m13046_Sunset_Show",
-      "title": "Sunset Show for Parker Solar Probe",
-      "center": "GSFC",
-      "date": "2018-08-22",
-      "description": "Early in the morning of Aug. 12, NASA launched Parker Solar Probe, humanity’s first mission to the Sun. This spacecraft will fly closer to the Sun than any before it, in a daring journey facing brutal heat and radiation. Parker Solar Probe sets its sights on the Sun’s scorching outer atmosphere, cal",
-      "links": [
-        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~large.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~medium.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~small.jpg",
-        "https://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~thumb.jpg"
-      ],
-      "media": "video",
-      "source": "nasa-video",
-      "mp4": [
-        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~medium.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~mobile.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~small.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~preview.mp4",
-        "http://images-assets.nasa.gov/video/GSFC_20180822_Parker_m13046_Sunset_Show/GSFC_20180822_Parker_m13046_Sunset_Show~orig.mp4"
-      ],
-      "duration_s": 1953.0,
-      "width": 1280,
-      "height": 720
-    },
-    {
-      "index": 3,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_3.jpg",
-      "nasa_id": "KSC-20180419-PH_KLS01_0054",
-      "title": "Parker Solar Probe Antenna Deployment",
-      "center": "KSC",
-      "date": "2018-04-19",
-      "description": "Antenna's on NASA's Parker Solar Probe are deployed for testing at the Astrotech processing facility in Titusville, Florida, near NASA's Kennedy Space Center on Thursday, April 19, 2018. The Parker Solar Probe will launch on a United Launch Alliance Delta IV Heavy rocket from Space Launch Complex 37",
-      "links": [
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0054/KSC-20180419-PH_KLS01_0054~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA22662/PIA22662~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
     },
     {
-      "index": 4,
-      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_4.jpg",
-      "nasa_id": "KSC-20180419-PH_KLS01_0047",
-      "title": "Parker Solar Probe Antenna Deployment",
-      "center": "KSC",
-      "date": "2018-04-19",
-      "description": "Antenna's on NASA's Parker Solar Probe are deployed for testing at the Astrotech processing facility in Titusville, Florida, near NASA's Kennedy Space Center on Thursday, April 19, 2018. The Parker Solar Probe will launch on a United Launch Alliance Delta IV Heavy rocket from Space Launch Complex 37",
+      "index": 1,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_1.jpg",
+      "nasa_id": "PIA03149",
+      "title": "Handle-shaped Prominence",
+      "center": "JPL",
+      "date": "2001-02-17",
+      "description": "NASA Extreme Ultraviolet Imaging Telescope aboard ESA’s SOHO spacecraft took this image of a huge, handle-shaped prominence in 1999. Prominences are huge clouds of relatively cool dense plasma suspended in the Sun hot, thin corona.",
       "links": [
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~medium.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~small.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~thumb.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~large.jpg",
-        "https://images-assets.nasa.gov/image/KSC-20180419-PH_KLS01_0047/KSC-20180419-PH_KLS01_0047~orig.jpg"
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA03149/PIA03149~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 2,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_2.jpg",
+      "nasa_id": "PIA20214",
+      "title": "Comparing Wavelengths",
+      "center": "JPL",
+      "date": "2015-12-12",
+      "description": "This side-by-side rendering of the Sun at the same time in two different wavelengths of extreme ultraviolet light helps to visualize the differing features visible in each wavelength (Dec. 10-11, 2015). Most prominently, we can see much finer strands of plasma looping above the surface in the 171 An",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA20214/PIA20214~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA20214/PIA20214~orig.jpg"
+      ],
+      "media": "photo",
+      "source": "nasa"
+    },
+    {
+      "index": 3,
+      "file": "bolumler/2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence/adaylar/scene_048/aday_3.jpg",
+      "nasa_id": "PIA15658",
+      "title": "NGC 7293, the Helix Nebula",
+      "center": "JPL",
+      "date": "2012-05-16",
+      "description": "NGC 7293, better known as the Helix nebula, displays its ultraviolet glow courtesy of NASA GALEX. The Helix is the nearest example of a planetary nebula, which is the eventual fate of a star, like our own Sun, as it approaches the end of its life.",
+      "links": [
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~medium.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~small.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~thumb.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~large.jpg",
+        "https://images-assets.nasa.gov/image/PIA15658/PIA15658~orig.jpg"
       ],
       "media": "photo",
       "source": "nasa"
