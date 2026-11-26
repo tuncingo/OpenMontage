@@ -1,0 +1,67 @@
+{
+  "score": 7,
+  "verdict": "revise",
+  "summary": "Metin genel olarak dürüst ve dikkatli; kanıtın dolaylı olduğu, BepiColombo'nun henüz veri üretmediği ve konferans özetlerinin hakemsiz olduğu açıkça söyleniyor. Ancak açılıştaki 'üç kanıt hattı aksini gösteriyor' çerçevesi, 'daha hızlı küçülme' ifadesi ve BepiColombo'nun neleri tespit edebileceğine dair iyimser iddialar kanıtın gücünü abartıyor.",
+  "issues": [
+    {
+      "severity": "major",
+      "quote": "A planet that may be shrinking faster than we thought.",
+      "problem": "Nishiyama ve ark. (GRL 2026) çalışması toplam büzülme miktarının (çap kaybı) olduğundan düşük tahmin edildiğini savunuyor; bugünkü büzülme HIZI hakkında bir ölçüm sunmuyor. 'Daha hızlı' ifadesi, Scientific American başlığından devralınmış ve bulguyu yanlış temsil ediyor. Ayrıca toplam tarihsel büzülme, Merkür'ün bugün aktif olduğuna doğrudan kanıt değil.",
+      "fix": "Replace with: \"A planet that may have shrunk more, over its history, than we thought.\" Keep the rate question separate and tie it only to the 2023 graben study."
+    },
+    {
+      "severity": "major",
+      "quote": "In 2026, three separate lines of evidence have pointed the other way.",
+      "problem": "Üç hattın üçü de 'canlı gezegen' yönünü göstermiyor: büzülme çalışması geçmişteki toplam miktarla ilgili, EPSC özetleri ise açıkça 'eski' (ancient) gömülü piroklastik çökeltilerden söz ediyor. Ayrıca bu çerçeve, 'ölü gezegen' etiketinin 2026'da ilk kez sorgulandığı izlenimini veriyor; oysa oyuklar (hollows) 2011'den, genç küçük faylar ve 2023 graben çalışması da yıllardır bu etiketi aşındırıyor. Bu, kanıtın yeniliğini abartan bir seçicilik.",
+      "fix": "Reframe as: \"In 2026, new studies added to a decade of hints from MESSENGER that Mercury may not be fully dead. Only one of them, the streaks, speaks directly to recent activity; the others refine its past.\" Briefly note that hollows have been known since MESSENGER (2011) and young small fault scarps were reported before 2026."
+    },
+    {
+      "severity": "major",
+      "quote": "A laser altimeter can measure whether a fault scarp has moved.",
+      "problem": "Tektonik kayma, birkaç yıllık görev süresince en fazla milimetre-santimetre ölçeğinde olur; BELA'nın dikey ve yatay çözünürlüğü bunu tespit etmeye yetmez. Bu, aracın yeteneğini abartıyor ve izleyiciye gerçekçi olmayan bir beklenti veriyor. BELA'nın gerçek katkısı fay topografyasını ve büzülme miktarını daha iyi haritalamak.",
+      "fix": "Replace with: \"A laser altimeter can map fault scarps in far more detail, sharpening how much Mercury has shrunk. A high-resolution camera can look for fresh features that cut across young terrain.\" Do not claim direct detection of fault motion unless a source supports it."
+    },
+    {
+      "severity": "major",
+      "quote": "And it is a fair bet that the first answer will be less dramatic than a headline. Probably small changes. Slow ones. A hollow that grew slightly. A streak that appears over months.",
+      "problem": "'Fair bet' ve 'probably' ifadeleri, BepiColombo'nun değişim GÖRECEĞİNİ ima eden kaynaksız bir tahmin. Ortalama yaşı ~100.000 yıl olan oyukların büyüme hızı, MESSENGER (2011-2015) ile BepiColombo arasındaki ~12 yıllık sürede kamera çözünürlüğünün altında kalabilir; hiçbir değişim görülmemesi de gerçekçi ve eşit olasılıklı bir sonuç. Metnin geri kalanındaki dikkatli tonla çelişiyor.",
+      "fix": "Rewrite as a conditional: \"If anything changes, it will probably be small and slow: a hollow edge that moved, a new streak. And it is entirely possible we will see no change at all, which would also be an answer.\" Mention that the key comparison is MESSENGER (2011-2015) versus BepiColombo, about a 12+ year baseline."
+    },
+    {
+      "severity": "minor",
+      "quote": "Twenty three kilometres is about two and a half times the height of Mount Everest, shaved off the planet.",
+      "problem": "'Shaved off' (traşlanmış) benzetmesi yanıltıcı: büzülmede malzeme kaybolmuyor, gezegen soğuyup daralıyor ve kabuk bindirme faylarıyla katlanıyor. Ayrıca rakam yalnızca arama özeti düzeyinde doğrulanmış ve kaynaklar 19 ile 23 km arasında çelişiyor; araştırma notundaki '%10-30 daha fazla' ifadesi de 16 km'den 23 km'ye geçişle (~%44) tutarsız. Uyarı rakamdan SONRA geliyor.",
+      "fix": "Say: \"Up to twenty three kilometres narrower, about two and a half Everests, not removed but squeezed, as the crust folded over itself.\" Put the 19-vs-23 caveat in the same sentence, and verify the figure against the GRL paper before recording."
+    },
+    {
+      "severity": "minor",
+      "quote": "may still be letting go of its gas, its heat and its crust.",
+      "problem": "Merkür kabuğunu 'bırakmıyor'; kabuk daralıp bindirme yapıyor. Şiirsel ama bilimsel olarak yanlış bir imge, kapanış cümlesinde kalıcı yanlış izlenim bırakabilir.",
+      "fix": "Replace with: \"may still be losing its gas and its heat, and slowly tightening its crust.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "Ancient volcanism on Mercury is well established, both lava flows and explosive eruptions. [S10]",
+      "problem": "Bilimsel uzlaşı niteliğindeki bir iddia, tek bir hakemsiz EPSC konferans özetine dayandırılmış. Kaynak gücü ile iddia gücü uyuşmuyor.",
+      "fix": "Cite a review or MESSENGER-era peer-reviewed source (e.g. NASA/MESSENGER science summaries on smooth plains and pyroclastic deposits) for the established-consensus claim; keep S10 only for the 2026 abstracts."
+    },
+    {
+      "severity": "minor",
+      "quote": "NASA says they are about one hundred thousand years old on average. [S11]",
+      "problem": "Bu yaş değeri araştırmada yalnızca arama özeti düzeyinde; hollows için yaş tahminleri büyük belirsizlik taşıyor ve model bağımlı. Kesin bir 'ortalama' gibi sunulması belirsizliği gizliyor.",
+      "fix": "Verify on the NASA page and add uncertainty: \"Some estimates put them at roughly a hundred thousand years, which is very young by geological standards, though the dating is uncertain.\""
+    },
+    {
+      "severity": "minor",
+      "quote": "It found about four hundred bright streaks. The team calls them slope lineae. [S4]",
+      "problem": "Bern çalışmasının tüm sayıları (112.000 görüntü, ~400 çizgi, %93, %10) birincil makale ya da basın bülteni okunmadan yalnızca arama özetlerinden alınmış. Ayrıca kaynak listesindeki S6 (EGU özeti) metinde hiç kullanılmıyor.",
+      "fix": "Check the numbers against the Communications Earth & Environment paper (add its DOI as a source) before recording; remove S6 from the list or cite it where used."
+    },
+    {
+      "severity": "minor",
+      "quote": "BepiColombo is built to compare. To look at the same place again, and again, and see whether anything has changed. [S12]",
+      "problem": "Kaynak (S12) yalnızca BepiColombo'nun değişim 'arayabileceğini' söylüyor; görevin değişim tespiti için 'tasarlandığı' iddiası abartılı. Görevin temel hedefleri haritalama, kompozisyon, iç yapı ve manyetosfer.",
+      "fix": "Soften to: \"BepiColombo gives us a second, sharper look, more than a decade after MESSENGER. Comparing the two is how we can look for change.\""
+    }
+  ]
+}
