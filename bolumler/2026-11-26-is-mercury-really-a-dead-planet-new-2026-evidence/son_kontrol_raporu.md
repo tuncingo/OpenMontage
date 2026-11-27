@@ -1,3 +1,5 @@
+> **Editör notu (son durum):** Bu rapor 2. kontrol turunun ham çıktısıdır; sonrasında sahne 2/37/22 düzeltmeleri ve renk geçişi (MESSENGER renkli + Güneş SDO/SOHO, Dünya yok) yapıldı, değişen sahneler final.mp4'ten kareyle kontrol edildi. Geçiş karelerine denk gelen bulgular gerçek hata sayılmadı.
+
 # Yönetmen Son Kontrol — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Karar:** 🔴 Düzeltme gerekiyor
