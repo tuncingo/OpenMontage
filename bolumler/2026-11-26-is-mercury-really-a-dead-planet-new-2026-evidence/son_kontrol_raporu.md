@@ -1,5 +1,3 @@
-> **Editör notu (son durum):** Bu rapor 2. kontrol turunun ham çıktısıdır. Sonrasında düzeltilip yeniden render edilenler: sahne 2 (neredeyse siyah fotoğraf → diyagram), sahne 37 (gömülü Caloris çizimi/ölçek çubuğu → diyagram), sahne 22 (düşük çözünürlük, yumuşatılmış yakınlaştırma), "trenches" diyagramının kutudan taşan çizgisi. Geçiş karelerine denk gelen bulgular (00:10, 00:50, 00:55) gerçek hata sayılmadı. Kalan küçük kozmetik: sahne 37'de TENTATIVE etiketi halka çizgisine değiyor; sahne 2'de DEAD? yazısı krater çemberleriyle yan yana.
-
 # Yönetmen Son Kontrol — 2026-11-26-is-mercury-really-a-dead-planet-new-2026-evidence
 
 **Karar:** 🔴 Düzeltme gerekiyor
